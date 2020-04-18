@@ -1,0 +1,46 @@
+name: update lists
+
+on:
+  schedule:
+    - cron:  '5 */4 * * *'
+  push:
+    branches:
+      - 'master'
+    paths:
+      - '.github/workflows/go.yml'
+      - 'go.mod'
+      - 'update.go'
+
+jobs:
+  build:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Set up Go 1.14
+      uses: actions/setup-go@v1
+      with:
+        go-version: 1.14
+      id: go
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+
+    - name: Build and update
+      run: |
+        env CGO_ENABLED=0 go build -o update .
+        ./update
+
+    - name: Set up Git
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}        
+      run: |
+        git config user.name "auto-update-lists[bot]"
+        git config user.email "auto-update-lists[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+
+    - name: Commit and push changes
+      run: |
+        git commit -m "auto update lists at $(date)" *.lst
+        git push
+

@@ -9,7 +9,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"regexp"
 	"sort"
 	"strings"
 	"sync"
@@ -18,7 +17,7 @@ import (
 
 var (
 	sourceURLValidatorMap = map[string]lineValidator{
-		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`:         hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`: hostLine("0.0.0.0"),
 		`https://adaway.org/hosts.txt`:                                                               hostLine("127.0.0.1"),
 		`http://sysctl.org/cameleon/hosts`:                                                           hostLine("127.0.0.1"),
 		`http://www.hostsfile.org/Downloads/hosts.txt`:                                               hostLine("127.0.0.1"),
@@ -42,31 +41,6 @@ var (
 		`goo.gl`,
 		`www.goo.gl`,
 	}
-	whitelist = []whitelistChecker{
-		contains(`google-analytics`),
-		suffix(`msedge.net`),
-		equal(`amazonaws.com`),
-		equal(`mp.weixin.qq.com`),
-		equal(`url.cn`),
-		regex(`^s3[\d\w\-]*.amazonaws.com`),
-		suffix(`internetdownloadmanager.com`),
-		suffix(`.alcohol-soft.com`),
-		equal(`scootersoftware.com`),
-		regex(`[^ad]\.mail\.ru`),
-		regex(`[^ad]\.daum\.net`),
-		regex(`^\w{1,10}\.yandex\.`),
-		suffix(`.googlevideo.com`),
-		regex(`^[^\.]+\.elb\.amazonaws\.com`),
-		suffix(`.in-addr.arpa`),
-		suffix(`.url.cn`),
-		equal(`qq.com`),
-		equal(`www.qq.com`),
-		equal(`analytics.163.com`),
-		equal(`163.com`),
-		equal(`behance.net`),
-		suffix(`.verisign.com`),
-		contains(`mozilla`),
-	}
 	tlds               = make(map[string]struct{})
 	tldsMutex          sync.Mutex
 	effectiveTLDsNames []string
@@ -85,87 +59,6 @@ const (
 	tldsURL                           = `http://data.iana.org/TLD/tlds-alpha-by-domain.txt`
 	effectiveTLDsNamesURL             = `https://publicsuffix.org/list/effective_tld_names.dat`
 )
-
-type semaphore struct {
-	c chan int
-}
-
-func newSemaphore(n int) *semaphore {
-	s := &semaphore{
-		c: make(chan int, n),
-	}
-	return s
-}
-
-func (s *semaphore) Acquire() {
-	s.c <- 0
-}
-
-func (s *semaphore) Release() {
-	<-s.c
-}
-
-type lineValidator func(s string) string
-
-func hostLine(addr string) lineValidator {
-	regexPattern := fmt.Sprintf(`^(%s)\s+([\w\d\-\._]+)`, strings.Replace(addr, `.`, `\.`, -1))
-	validDomain := regexp.MustCompile(`^((xn--)?[\w\d]+([\w\d\-_]+)*\.)+\w{2,}$`)
-	validLine := regexp.MustCompile(regexPattern)
-	return func(s string) string {
-		ss := validLine.FindStringSubmatch(s)
-		if len(ss) > 1 {
-			if validDomain.MatchString(ss[2]) {
-				return ss[2]
-			}
-		}
-		log.Println("invalid line:", s)
-		return ""
-	}
-}
-
-func domainListLine() lineValidator {
-	validDomain := regexp.MustCompile(`^((xn--)?[\w\d]+([\w\d\-_]+)*\.)+\w{2,}$`)
-	return func(s string) string {
-		if validDomain.MatchString(s) {
-			return s
-		}
-		log.Println("invalid domain:", s)
-		return ""
-	}
-}
-
-type whitelistChecker func(s string) bool
-
-func contains(pattern string) whitelistChecker {
-	return func(s string) bool {
-		return strings.Contains(s, pattern)
-	}
-}
-
-func suffix(pattern string) whitelistChecker {
-	return func(s string) bool {
-		return strings.HasSuffix(s, pattern)
-	}
-}
-
-func prefix(pattern string) whitelistChecker {
-	return func(s string) bool {
-		return strings.HasPrefix(s, pattern)
-	}
-}
-
-func equal(pattern string) whitelistChecker {
-	return func(s string) bool {
-		return pattern == s
-	}
-}
-
-func regex(pattern string) whitelistChecker {
-	r := regexp.MustCompile(pattern)
-	return func(s string) bool {
-		return r.MatchString(s)
-	}
-}
 
 func downloadRemoteContent(remoteLink string) (io.ReadCloser, error) {
 	response, err := http.Get(remoteLink)
@@ -190,15 +83,6 @@ func matchTLDs(domain string) bool {
 		}
 	}
 
-	return false
-}
-
-func inWhitelist(domain string) bool {
-	for _, wl := range whitelist {
-		if wl(domain) {
-			return true
-		}
-	}
 	return false
 }
 

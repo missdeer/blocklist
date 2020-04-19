@@ -43,7 +43,7 @@ var (
 		`goo.gl`,
 		`www.goo.gl`,
 	}
-	tlds         = &TLDs{}
+	tlds         = NewTLDs()
 	mutex        sync.Mutex
 	sema         = semaphore.New(50)
 	finalDomains = make(map[string]struct{})

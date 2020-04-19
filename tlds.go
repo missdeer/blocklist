@@ -20,6 +20,11 @@ type TLDs struct {
 	tlds map[string]struct{}
 }
 
+// NewTLDs returns a TLDs object
+func NewTLDs() *TLDs {
+	return &TLDs{tlds: make(map[string]struct{})}
+}
+
 func (tlds *TLDs) match(domain string) bool {
 	dd := strings.Split(domain, ".")
 	lastSection := dd[len(dd)-1]

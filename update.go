@@ -13,6 +13,8 @@ import (
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/missdeer/golib/semaphore"
 )
 
 var (
@@ -45,7 +47,7 @@ var (
 	tldsMutex          sync.Mutex
 	effectiveTLDsNames []string
 	mutex              sync.Mutex
-	sema               = newSemaphore(50)
+	sema               = semaphore.New(50)
 	finalDomains       = make(map[string]struct{})
 	blockDomain        = make(chan string, 20)
 	quit               = make(chan bool)

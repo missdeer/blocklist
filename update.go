@@ -43,14 +43,12 @@ var (
 		`goo.gl`,
 		`www.goo.gl`,
 	}
-	tlds               = make(map[string]struct{})
-	tldsMutex          sync.Mutex
-	effectiveTLDsNames []string
-	mutex              sync.Mutex
-	sema               = semaphore.New(50)
-	finalDomains       = make(map[string]struct{})
-	blockDomain        = make(chan string, 20)
-	quit               = make(chan bool)
+	tlds         = &TLDs{}
+	mutex        sync.Mutex
+	sema         = semaphore.New(50)
+	finalDomains = make(map[string]struct{})
+	blockDomain  = make(chan string, 20)
+	quit         = make(chan bool)
 )
 
 const (
@@ -58,8 +56,6 @@ const (
 	blocklistWithoutShortURL          = `toblock-without-shorturl.lst`
 	blocklistOptimized                = `toblock-optimized.lst`
 	blocklistWithoutShortURLOptimized = `toblock-without-shorturl-optimized.lst`
-	tldsURL                           = `http://data.iana.org/TLD/tlds-alpha-by-domain.txt`
-	effectiveTLDsNamesURL             = `https://publicsuffix.org/list/effective_tld_names.dat`
 )
 
 func downloadRemoteContent(remoteLink string) (io.ReadCloser, error) {
@@ -70,22 +66,6 @@ func downloadRemoteContent(remoteLink string) (io.ReadCloser, error) {
 	}
 
 	return response.Body, nil
-}
-
-func matchTLDs(domain string) bool {
-	dd := strings.Split(domain, ".")
-	lastSection := dd[len(dd)-1]
-	if _, ok := tlds[lastSection]; ok {
-		return true
-	}
-
-	for _, v := range effectiveTLDsNames {
-		if strings.HasSuffix(domain, v) {
-			return true
-		}
-	}
-
-	return false
 }
 
 func existent(domain string) (bool, error) {
@@ -133,6 +113,53 @@ func existent(domain string) (bool, error) {
 	return true, nil
 }
 
+func generateTLDs(wg *sync.WaitGroup) {
+	err := os.ErrNotExist
+	var r io.ReadCloser
+	for i := 0; i < 10 && err != nil; time.Sleep(5 * time.Second) {
+		r, err = downloadRemoteContent(tldsURL)
+		i++
+	}
+	if err == nil {
+		scanner := bufio.NewScanner(r)
+		scanner.Split(bufio.ScanLines)
+		for scanner.Scan() {
+			tlds.insert(strings.ToLower(scanner.Text()))
+		}
+		r.Close()
+	}
+	wg.Done()
+}
+
+func generateEffectiveTLDsNames(wg *sync.WaitGroup) {
+	err := os.ErrNotExist
+	var r io.ReadCloser
+	for i := 0; i < 10 && err != nil; time.Sleep(5 * time.Second) {
+		r, err = downloadRemoteContent(effectiveTLDsNamesURL)
+		i++
+	}
+	if err == nil {
+		scanner := bufio.NewScanner(r)
+		scanner.Split(bufio.ScanLines)
+		for scanner.Scan() {
+			line := strings.ToLower(scanner.Text())
+			if len(line) == 0 {
+				continue
+			}
+			c := line[0]
+			if c >= byte('a') && c <= byte('z') || c >= byte('0') && c <= byte('9') {
+				if strings.IndexByte(line, byte('.')) < 0 {
+					tlds.insert(line)
+				} else {
+					effectiveTLDsNames = append(effectiveTLDsNames, "."+line)
+				}
+			}
+		}
+		r.Close()
+	}
+	wg.Done()
+}
+
 func process(r io.ReadCloser, validator lineValidator) (domains []string, err error) {
 	scanner := bufio.NewScanner(r)
 	scanner.Split(bufio.ScanLines)
@@ -144,7 +171,7 @@ func process(r io.ReadCloser, validator lineValidator) (domains []string, err er
 		}
 
 		// remove items that don't match TLDs
-		if !matchTLDs(domain) {
+		if !tlds.match(domain) {
 			log.Println("don't match TLDs:", domain)
 			continue
 		}
@@ -170,57 +197,6 @@ func saveToFile(content string, path string) error {
 
 	log.Println(err)
 	return err
-}
-
-func generateTLDs(wg *sync.WaitGroup) {
-	err := os.ErrNotExist
-	var r io.ReadCloser
-	for i := 0; i < 10 && err != nil; time.Sleep(5 * time.Second) {
-		r, err = downloadRemoteContent(tldsURL)
-		i++
-	}
-	if err == nil {
-		scanner := bufio.NewScanner(r)
-		scanner.Split(bufio.ScanLines)
-		for scanner.Scan() {
-			tldsMutex.Lock()
-			tlds[strings.ToLower(scanner.Text())] = struct{}{}
-			tldsMutex.Unlock()
-		}
-		r.Close()
-	}
-	wg.Done()
-}
-
-func generateEffectiveTLDsNames(wg *sync.WaitGroup) {
-	err := os.ErrNotExist
-	var r io.ReadCloser
-	for i := 0; i < 10 && err != nil; time.Sleep(5 * time.Second) {
-		r, err = downloadRemoteContent(effectiveTLDsNamesURL)
-		i++
-	}
-	if err == nil {
-		scanner := bufio.NewScanner(r)
-		scanner.Split(bufio.ScanLines)
-		for scanner.Scan() {
-			line := strings.ToLower(scanner.Text())
-			if len(line) == 0 {
-				continue
-			}
-			c := line[0]
-			if c >= byte('a') && c <= byte('z') || c >= byte('0') && c <= byte('9') {
-				if strings.IndexByte(line, byte('.')) < 0 {
-					tldsMutex.Lock()
-					tlds[line] = struct{}{}
-					tldsMutex.Unlock()
-				} else {
-					effectiveTLDsNames = append(effectiveTLDsNames, "."+line)
-				}
-			}
-		}
-		r.Close()
-	}
-	wg.Done()
 }
 
 func getDomains(u string, v lineValidator, domains map[string]struct{}, wg *sync.WaitGroup) {

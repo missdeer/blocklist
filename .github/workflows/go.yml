@@ -2,7 +2,7 @@ name: update lists
 
 on:
   schedule:
-    - cron:  '5 */4 * * *'
+    - cron:  '5 4 * * *'
   push:
     branches:
       - 'master'

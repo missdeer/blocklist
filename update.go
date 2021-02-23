@@ -19,18 +19,18 @@ import (
 
 var (
 	sourceURLValidatorMap = map[string]lineValidator{
-		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`: hostLine("0.0.0.0"),
-		`https://adaway.org/hosts.txt`:                                                               hostLine("127.0.0.1"),
-		`http://sysctl.org/cameleon/hosts`:                                                           hostLine("127.0.0.1"),
-		`http://www.hostsfile.org/Downloads/hosts.txt`:                                               hostLine("127.0.0.1"),
-		`https://raw.githubusercontent.com/yous/YousList/master/hosts.txt`:                           hostLine("0.0.0.0"),
-		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                               domainListLine(),
-		`https://raw.githubusercontent.com/koala0529/adhost/master/adhosts`:                          hostLine("127.0.0.1"),
-		`http://mirror1.malwaredomains.com/files/justdomains`:                                        domainListLine(),
-		`https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt`:                      hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/lack006/Android-Hosts-L/master/hosts_files/2016_hosts/AD`: hostLine("127.0.0.1"),
-		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                              hostLine("0.0.0.0"),
-		`https://github.com/privacy-protection-tools/anti-AD/raw/master/anti-ad-domains.txt`:         domainListLine(),
+		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`:            hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/yous/YousList/master/hosts.txt`:                              hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/koala0529/adhost/master/adhosts`:                             hostLine("127.0.0.1"),
+		`https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt`:                         hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/lack006/Android-Hosts-L/master/hosts_files/2016_hosts/AD`:    hostLine("127.0.0.1"),
+		`https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt`: domainListLine(),
+		`https://adaway.org/hosts.txt`:                                                                  hostLine("127.0.0.1"),
+		`http://sysctl.org/cameleon/hosts`:                                                              hostLine("127.0.0.1"),
+		`http://www.hostsfile.org/Downloads/hosts.txt`:                                                  hostLine("127.0.0.1"),
+		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                                  domainListLine(),
+		`http://mirror1.malwaredomains.com/files/justdomains`:                                           domainListLine(),
+		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                                 hostLine("0.0.0.0"),
 	}
 	shortURLs = []string{
 		`db.tt`,

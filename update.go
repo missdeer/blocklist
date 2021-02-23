@@ -27,9 +27,7 @@ var (
 		`https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt`: domainListLine(),
 		`https://adaway.org/hosts.txt`:                                                                  hostLine("127.0.0.1"),
 		`http://sysctl.org/cameleon/hosts`:                                                              hostLine("127.0.0.1"),
-		`http://www.hostsfile.org/Downloads/hosts.txt`:                                                  hostLine("127.0.0.1"),
 		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                                  domainListLine(),
-		`http://mirror1.malwaredomains.com/files/justdomains`:                                           domainListLine(),
 		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                                 hostLine("0.0.0.0"),
 	}
 	shortURLs = []string{

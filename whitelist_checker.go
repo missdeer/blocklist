@@ -7,6 +7,7 @@ import (
 
 var (
 	whitelist = []whitelistChecker{
+		equal(`img.particlenews.com`),
 		contains(`google-analytics`),
 		suffix(`msedge.net`),
 		equal(`amazonaws.com`),

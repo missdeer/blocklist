@@ -8,11 +8,8 @@ on:
       - 'master'
     paths:
       - '.github/workflows/go.yml'
-      - 'go.mod'
-      - 'update.go'
-      - 'whitelist_checker.go'
-      - 'line_validator.go'
-      - 'semaphore.go'
+      - 'go.*'
+      - '*.go'
 
 jobs:
   build:

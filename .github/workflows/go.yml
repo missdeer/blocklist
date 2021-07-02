@@ -30,6 +30,10 @@ jobs:
       run: |
         env CGO_ENABLED=0 go build -o update .
         ./update
+	line=`cat toblock.lst | wc -l` && echo "toblock.lst contains $line lines"
+	line=`cat toblock-optimized.lst | wc -l` && echo "toblock-optimized.lst contains $line lines"
+	line=`cat toblock-without-shorturl.lst | wc -l` && echo "toblock-without-shorturl.lst contains $line lines"
+	line=`cat toblock-without-shorturl-optimized.lst | wc -l` && echo "toblock-without-shorturl-optimized.lst contains $line lines"
 
     - name: Set up Git
       env:

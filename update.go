@@ -263,9 +263,14 @@ func main() {
 	}
 	wg.Wait()
 
+	// remove non-exist domain names
+	go receiveDomains()
+	wg.Add(len(domains))
 	for domain := range domains {
-		finalDomains[domain] = struct{}{}
+		sema.Acquire()
+		go checkExistent(domain, &wg)
 	}
+	wg.Wait()
 	quit <- true
 
 	// handle domain names of short URL services

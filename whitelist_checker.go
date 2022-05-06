@@ -31,6 +31,7 @@ var (
 		equal(`behance.net`),
 		suffix(`.verisign.com`),
 		contains(`mozilla`),
+		suffix(`bitcanna.io`),
 	}
 )
 

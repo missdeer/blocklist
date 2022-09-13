@@ -40,6 +40,8 @@ var (
 		`pix.bit.ly`,
 		`goo.gl`,
 		`www.goo.gl`,
+		`t.co`,
+		`git.io`,
 	}
 	tlds         = NewTLDs()
 	mutex        sync.Mutex

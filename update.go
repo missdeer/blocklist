@@ -28,6 +28,76 @@ var (
 		`https://adaway.org/hosts.txt`:                                                                  hostLine("127.0.0.1"),
 		`http://sysctl.org/cameleon/hosts`:                                                              hostLine("127.0.0.1"),
 		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                                  domainListLine(),
+   package main
+
+
+import (
+	"bufio"
+	"encoding/json"
+	"fmt"
+	"io"
+	"io/ioutil"
+	"log"
+	"net/http"
+	"os"
+	"sort"
+	"strings"
+	"sync"
+	"time"
+
+
+	"github.com/missdeer/golib/semaphore"
+)
+
+
+var (
+	sourceURLValidatorMap = map[string]lineValidator{
+		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`:            hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/yous/YousList/master/hosts.txt`:                              hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/koala0529/adhost/master/adhosts`:                             hostLine("127.0.0.1"),
+		`https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt`:                         hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/lack006/Android-Hosts-L/master/hosts_files/2016_hosts/AD`:    hostLine("127.0.0.1"),
+		`https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt`: domainListLine(),
+		`https://adaway.org/hosts.txt`:                                                                  hostLine("127.0.0.1"),
+		`http://sysctl.org/cameleon/hosts`:                                                              hostLine("127.0.0.1"),
+		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                                  domainListLine(),
+		`https://anti-ad.net/domains.txt`:    domainListLine(),
+		`https:gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                                 hostLine("0.0.0.0"),
+	}
+	shortURLs = []string{
+		`db.tt`,
+		`www.db.tt`,
+		`j.mp`,
+		`www.j.mp`,
+		`bit.ly`,
+		`www.bit.ly`,
+		`pix.bit.ly`,
+		`goo.gl`,
+		`www.goo.gl`,
+		`t.co`,
+		`git.io`,
+	}
+	tlds         = NewTLDs()
+	mutex        sync.Mutex
+	sema         = semaphore.New(50)
+	finalDomains = make(map[string]struct{})
+	blockDomain  = make(chan string, 20)
+	quit         = make(chan bool)
+)
+
+
+const (
+	blocklist                         = `toblock.lst`
+	blocklistWithoutShortURL          = `toblock-without-shorturl.lst`
+	blocklistOptimized                = `toblock-optimized.lst`
+	blocklistWithoutShortURLOptimized = `toblock-without-shorturl-optimized.lst`
+)
+
+
+func downloadRemoteContent(remoteLink string) (io.ReadCloser, error) {
+	response, err := http.Get(remoteLink)
+	if err != nil {
+		log.Println(err
 		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                                 hostLine("0.0.0.0"),
 	}
 	shortURLs = []string{

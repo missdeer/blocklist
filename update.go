@@ -28,6 +28,7 @@ var (
 		`https://adaway.org/hosts.txt`:                                                                  hostLine("127.0.0.1"),
 		`http://sysctl.org/cameleon/hosts`:                                                              hostLine("127.0.0.1"),
 		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                                  domainListLine(),
+		`https://anti-ad.net/domains.txt`:                                  domainListLine(),
 		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                                 hostLine("0.0.0.0"),
 	}
 	shortURLs = []string{

@@ -32,6 +32,7 @@ var (
 		suffix(`.verisign.com`),
 		contains(`mozilla`),
 		suffix(`bitcanna.io`),
+		suffix(`jsdelivr.net`),
 	}
 )
 

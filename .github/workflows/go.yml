@@ -10,8 +10,6 @@ on:
       - '.github/workflows/go.yml'
       - convert/*.go
       - convert/go.*
-      - 'go.*'
-      - '*.go'
 
 jobs:
   build:
@@ -22,7 +20,7 @@ jobs:
     - name: Set up Go 
       uses: actions/setup-go@v3
       with:
-        go-version: 1.19
+        go-version: 1.20.6
       id: go
 
     - name: Check out code into the Go module directory
@@ -33,11 +31,6 @@ jobs:
         cd convert
         env CGO_ENABLED=0 go build -o convert .
         ./convert
-
-    - name: Build and update
-      run: |
-        env CGO_ENABLED=0 go build -o update .
-        ./update
 
     - name: Set up Git
       env:
@@ -50,6 +43,6 @@ jobs:
     - name: Commit and push changes
       run: |
         git pull origin master
-        git commit -m "auto update lists at $(date)" *.lst convert/*.txt
+        git commit -m "auto update lists at $(date)" convert/*.txt
         git push -f origin master
 

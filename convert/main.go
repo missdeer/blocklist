@@ -12,32 +12,36 @@ import (
 
 // 定义一个映射存储列表名称和链接
 var lists = map[string]string{
-	"AdguardMobileAds":           "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt",
-	"AdguardMobileSpyware":       "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
-	"AdguardDNS":                 "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-	"AdguardCNAMEAds":            "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt",
-	"AdguardCNAMEClickthroughs":  "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt",
-	"AdguardCNAMEMicrosites":     "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt",
-	"AdguardCNAME":               "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt",
-	"AdguardTracking":            "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt",
-	"EasyPrivacySpecific":        "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt",
-	"EasyPrivacy3rdParty":        "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
-	"EasyPrivacyCNAME":           "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt",
+	"AdguardMobileAds":           "https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt",
+	"AdguardMobileSpyware":       "https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt",
+	"AdguardDNS":                 "https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt",
+	"AdguardCNAMEAds":            "https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_ads.txt",
+	"AdguardCNAMEClickthroughs":  "https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_clickthroughs.txt",
+	"AdguardCNAMEMicrosites":     "https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_microsites.txt",
+	"AdguardCNAME":               "https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_trackers.txt",
+	"AdguardTracking":            "https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt",
+	"EasyPrivacySpecific":        "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt",
+	"EasyPrivacy3rdParty":        "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt",
+	"EasyPrivacyCNAME":           "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific_cname.txt",
 }
 
 // 定义需要被替换的列表项
 var replacements = []string{"||", "^third-party", "^", "$third-party", ",third-party", "$all", ",all", "$image", ",image", ",important", "$script", ",script", "$object", ",object", "$popup", ",popup", "$empty", "$object-subrequest", "$document", "$subdocument", ",subdocument", "$ping", "$important", "$badfilter", ",badfilter", "$websocket", "$cookie", "$other"}
 
 func main() {
+	client := &http.Client{
+		Timeout: time.Second * 60,
+	}
 	for name, list := range lists {
 		fmt.Println("Converting", name)
-		resp, err := http.Get(list)
+
+		resp, err := client.Get(list)
 		if err != nil {
 			fmt.Println("error", err)
 			continue
 		}
 		defer resp.Body.Close()
-
+		fmt.Println("Got", name)
 		body, _ := ioutil.ReadAll(resp.Body)
 		lines := strings.Split(string(body), "\n")
 

@@ -28,6 +28,12 @@ jobs:
 
     - name: Build and update
       run: |
+        cd convert
+        env CGO_ENABLED=0 go build -o convert .
+        ./convert
+
+    - name: Build and update
+      run: |
         env CGO_ENABLED=0 go build -o update .
         ./update
 
@@ -42,6 +48,6 @@ jobs:
     - name: Commit and push changes
       run: |
         git pull origin master
-        git commit -m "auto update lists at $(date)" *.lst
+        git commit -m "auto update lists at $(date)" *.lst convert/*.txt
         git push -f origin master
 

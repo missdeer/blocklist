@@ -43,8 +43,9 @@ func main() {
 		defer resp.Body.Close()
 		fmt.Println("Got", name)
 		body, _ := ioutil.ReadAll(resp.Body)
+		fmt.Println("Got", len(body), "bytes")
 		lines := strings.Split(string(body), "\n")
-
+		fmt.Println("Splitted to", len(lines), "lines")
 		// HOSTS header
 		var hosts strings.Builder
 		hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from - %s\n# Last converted - %s\n#\n\n", name, list, time.Now().Format(time.RFC1123)))
@@ -99,11 +100,9 @@ func main() {
 			domains["0.0.0.0 "+filter] = true
 		}
 
-		if len(domains) != 0 {
-			for domain := range domains {
-				if _, ok := exceptions[domain]; !ok {
-					hosts.WriteString(domain + "\n")
-				}
+		for domain := range domains {
+			if _, ok := exceptions[domain]; !ok {
+				hosts.WriteString(domain + "\n")
 			}
 		}
 

@@ -53,7 +53,8 @@ func main() {
 		domains := map[string]bool{}
 		exceptions := map[string]bool{}
 
-		for _, filter := range lines {
+		for index, filter := range lines {
+			fmt.Printf("Process %d/%d lines\r",index, len(lines))
 			if !strings.Contains(filter, ".") ||
 				strings.Contains(filter, "*") ||
 				strings.Contains(filter, "/") ||
@@ -99,7 +100,8 @@ func main() {
 
 			domains["0.0.0.0 "+filter] = true
 		}
-
+		fmt.Printf("\n")
+		fmt.Println("Got", len(domains), "domains, except", len(exceptions), "ones")
 		for domain := range domains {
 			if _, ok := exceptions[domain]; !ok {
 				hosts.WriteString(domain + "\n")

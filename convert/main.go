@@ -6,7 +6,6 @@ import (
 	"net/http"
 	"strings"
 	"time"
-	"net"
 	"golang.org/x/net/idna"
 )
 
@@ -27,6 +26,15 @@ var lists = map[string]string{
 
 // 定义需要被替换的列表项
 var replacements = []string{"||", "^third-party", "^", "$third-party", ",third-party", "$all", ",all", "$image", ",image", ",important", "$script", ",script", "$object", ",object", "$popup", ",popup", "$empty", "$object-subrequest", "$document", "$subdocument", ",subdocument", "$ping", "$important", "$badfilter", ",badfilter", "$websocket", "$cookie", "$other"}
+
+func isASCII(s string) bool {
+    for _, c := range s {
+        if c > 127 { // ASCII字符的编码范围是0-127
+            return false
+        }
+    }
+    return true
+}
 
 func main() {
 	client := &http.Client{
@@ -86,8 +94,8 @@ func main() {
 			if strings.Contains(filter, ":") {
 				filter = filter[:strings.Index(filter, ":")]
 			}
-
-			if _, err := net.LookupIP(filter); err != nil {
+			
+			if !isASCII(filter) {
 				if ascii, err := idna.ToASCII(filter); err == nil {
 					filter = ascii
 				}

@@ -1,14 +1,20 @@
 # blocklist
 domain block list
 
-[![Build Status](https://travis-ci.org/missdeer/blocklist.svg?branch=master)](https://travis-ci.org/missdeer/blocklist)
+## Go edition of https://github.com/r-a-y/mobile-hosts
 
-## Download
+In [convert](https://github.com/missdeer/blocklist/tree/master/convert) directory.
 
-| File Name                                | Short URL             | Comment                                  |
-| ---------------------------------------- | --------------------- | ---------------------------------------- |
-| [toblock.lst](https://github.com/missdeer/blocklist/blob/master/toblock.lst) | https://git.io/dnbl   | domains of short url services are blocked |
-| [toblock-without-shorturl.lst](https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl.lst) | https://git.io/dnbls  | domains of short url services are not blocked |
-| [toblock-optimized.lst](https://github.com/missdeer/blocklist/blob/master/toblock-optimized.lst) | https://git.io/dnblo  | domains of short url services are blocked that optimized for bind9/dnsmasq/unbound/dnescrypt etc |
-| [toblock-without-shorturl-optimized.lst](https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl-optimized.lst) | https://git.io/dnblso | domains of short url services are not blocked that optimized for bind9/dnsmasq/unbound/dnescrypt etc |
+Currently includes:
 
+- [AdGuard Mobile Ads](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardMobileAds.txt) (from [AdGuard](https://github.com/AdguardTeam/FiltersRegistry/blob/master/filters/filter_11_Mobile/filter.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardMobileAds.txt)
+- [AdGuard Mobile Tracking and Spyware](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardMobileSpyware.txt) (from [AdGuard](https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardMobileSpyware.txt)
+- [AdGuard Tracking Protection](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardTracking.txt) (from [AdGuard](https://github.com/AdguardTeam/FiltersRegistry/blob/master/filters/filter_3_Spyware/filter.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardTracking.txt)
+- [AdGuard CNAME-cloaked Ads](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardCNAMEAds.txt) (from [AdGuard](https://github.com/AdguardTeam/cname-trackers/blob/master/data/combined_disguised_ads.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardCNAMEAds.txt)
+- [AdGuard CNAME-cloaked Clickthroughs](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardCNAMEClickthroughs.txt) (from [AdGuard](https://github.com/AdguardTeam/cname-trackers/blob/master/data/combined_disguised_clickthroughs.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardCNAMEClickthroughs.txt)
+- [AdGuard CNAME-cloaked Microsites](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardCNAMEMicrosites.txt) (from [AdGuard](https://github.com/AdguardTeam/cname-trackers/blob/master/data/combined_disguised_microsites.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardCNAMEMicrosites.txt)
+- [AdGuard CNAME-cloaked Trackers](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardCNAME.txt) (from [AdGuard](https://github.com/AdguardTeam/cname-trackers/blob/master/data/combined_disguised_trackers.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardCNAME.txt)
+- [EasyPrivacy 3rd-Party](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/EasyPrivacy3rdParty.txt) (from [EasyList](https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_thirdparty.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/EasyPrivacy3rdParty.txt)
+- [EasyPrivacy Specific](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/EasyPrivacySpecific.txt) (from [EasyList](https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_specific.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/EasyPrivacySpecific.txt)
+- [EasyPrivacy CNAME-cloaked Trackers](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/EasyPrivacyCNAME.txt) (from [EasyList](https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_specific_cname.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/EasyPrivacyCNAME.txt)
+- [AdGuard DNS](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardDNS.txt) (from [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardDNS.txt)

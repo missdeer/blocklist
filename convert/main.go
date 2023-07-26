@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"sort"
 	"strings"
 	"time"
 	"golang.org/x/net/idna"
@@ -58,8 +59,8 @@ func main() {
 		var hosts strings.Builder
 		hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from - %s\n# Last converted - %s\n#\n\n", name, list, time.Now().Format(time.RFC1123)))
 
-		domains := map[string]bool{}
-		exceptions := map[string]bool{}
+		domains := map[string]struct{}{}
+		exceptions := map[string]struct{}{}
 
 		for index, filter := range lines {
 			fmt.Printf("Process %d/%d lines\r",index, len(lines))
@@ -102,15 +103,25 @@ func main() {
 			}
 
 			if strings.HasPrefix(filter, "@@") {
-				exceptions["0.0.0.0 "+filter[2:]] = true
+				exceptions["0.0.0.0 "+filter[2:]] = struct{}{}
 				continue
 			}
 
-			domains["0.0.0.0 "+filter] = true
+			domains["0.0.0.0 "+filter] = struct{}{}
 		}
 		fmt.Printf("\n")
 		fmt.Println("Got", len(domains), "domains, except", len(exceptions), "ones")
-		for domain := range domains {
+		
+		// 创建一个切片来存储 map 的 keys
+		keys := make([]string, 0, len(domains))
+		for k := range domains {
+			keys = append(keys, k)
+		}
+
+		// 使用 sort 包对切片进行排序
+		sort.Strings(keys)
+		
+		for _, domain := range keys {
 			if _, ok := exceptions[domain]; !ok {
 				hosts.WriteString(domain + "\n")
 			}

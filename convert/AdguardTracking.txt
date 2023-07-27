@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 26 Jul 2023 04:22:16 UTC
+# Last converted - Thu, 27 Jul 2023 04:21:55 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -11195,7 +11195,6 @@
 0.0.0.0 bhs4.com
 0.0.0.0 bhwjoa.cotopaxi.com
 0.0.0.0 bhxemw.charleskeith.com
-0.0.0.0 bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.tt.omtrdc.net
 0.0.0.0 bia.brightinfo.com
@@ -11340,7 +11339,6 @@
 0.0.0.0 bkvtrack.com
 0.0.0.0 bl-1.com
 0.0.0.0 bl-wellness.wellness.tt.omtrdc.net
-0.0.0.0 bl.impresa.pt
 0.0.0.0 bl1.cms.tt.omtrdc.net
 0.0.0.0 blablabus-test.cloud-prod.cloud.tt.omtrdc.net
 0.0.0.0 blachmar-technikcity.tt.omtrdc.net
@@ -11743,7 +11741,6 @@
 0.0.0.0 bouncyproperty.com
 0.0.0.0 boundlessbrake.com
 0.0.0.0 bourbon.tt.omtrdc.net
-0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bourse.tt.omtrdc.net
 0.0.0.0 boutique-dev.asrunapirelease.spotlight-app.eu.eu.tt.omtrdc.net
 0.0.0.0 boutique.ricoh.fr
@@ -11818,7 +11815,6 @@
 0.0.0.0 br.auden.backend.tt.omtrdc.net
 0.0.0.0 br.bio-rad.com
 0.0.0.0 br.hb.tt.omtrdc.net
-0.0.0.0 br.phorm.com
 0.0.0.0 br.promo.skf.com
 0.0.0.0 br.spotlight.tt.omtrdc.net
 0.0.0.0 br29.idmapper.api.api.tt.omtrdc.net
@@ -12069,7 +12065,6 @@
 0.0.0.0 bt-stage-1.tt.omtrdc.net
 0.0.0.0 bt.astadia.com
 0.0.0.0 bt.mediaimpact.de
-0.0.0.0 bt.phorm.com
 0.0.0.0 bt.tns-gallup.dk
 0.0.0.0 bt.tt.hb-api.tt.omtrdc.net
 0.0.0.0 bt.tt.omtrdc.net
@@ -12310,7 +12305,6 @@
 0.0.0.0 c.security.org
 0.0.0.0 c.sibnet.ru
 0.0.0.0 c.snow.com
-0.0.0.0 c.t-online.de
 0.0.0.0 c.tbex.ru
 0.0.0.0 c.telemetry.tt.omtrdc.net
 0.0.0.0 c.tt.omtrdc.net
@@ -14060,10 +14054,8 @@
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.ghostery.net
-0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-statistics.nhn-commerce.com
 0.0.0.0 collector-web.tt.omtrdc.net
-0.0.0.0 collector.apester.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector.cakeresume.com
@@ -47036,6 +47028,7 @@
 0.0.0.0 tgirgs.flinders.nl
 0.0.0.0 tgofcrpwsb.aem.hb.tt.omtrdc.net
 0.0.0.0 tgt.maep.ibm.com
+0.0.0.0 tgtag.io
 0.0.0.0 tgtgzo.otelz.com
 0.0.0.0 tgw.tt.omtrdc.net
 0.0.0.0 th--0-0.tt.omtrdc.net

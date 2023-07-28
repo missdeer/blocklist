@@ -145,6 +145,8 @@ func main() {
 	sort.Strings(keys)
 
 	var hosts strings.Builder
+	hosts.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy\n# Last converted - %s\n#\n\n", time.Now().Format(time.RFC1123)))
+	
 	for _, domain := range keys {
 		if _, ok := allexceptions[domain]; !ok {
 			hosts.WriteString(domain + "\n")

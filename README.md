@@ -1,5 +1,5 @@
 # blocklist
-domain block list
+domain block list, strongly recommended use these lists with [CoreDNS custom build](https://github.com/missdeer/coredns_custom_build)
 
 ## Go edition of https://github.com/r-a-y/mobile-hosts
 

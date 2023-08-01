@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 31 Jul 2023 04:22:42 UTC
+# Last converted - Tue, 01 Aug 2023 04:23:11 UTC
 #
 
 0.0.0.0 33across.com
@@ -308,6 +308,7 @@
 0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 gameanalisys.appcpi.net
+0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gcd-s2s.appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gcdsdk.appsflyersdk.com

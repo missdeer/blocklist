@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 01 Aug 2023 04:23:11 UTC
+# Last converted - Wed, 02 Aug 2023 04:22:08 UTC
 #
 
 0.0.0.0 33across.com
@@ -650,7 +650,6 @@
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.neodatagroup.com
-0.0.0.0 tracker.rqmob.com
 0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-config-service.glority.com
@@ -701,7 +700,6 @@
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 ustat.batmobi.net
 0.0.0.0 utop.umengcloud.com
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems

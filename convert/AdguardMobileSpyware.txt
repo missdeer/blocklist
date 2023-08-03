@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 02 Aug 2023 04:22:08 UTC
+# Last converted - Thu, 03 Aug 2023 04:23:01 UTC
 #
 
 0.0.0.0 33across.com
@@ -442,7 +442,6 @@
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.happycolor.app
 0.0.0.0 metrics.macys.com
-0.0.0.0 metrics.plaid.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.sp0n.io
 0.0.0.0 metrics.spbtv.com

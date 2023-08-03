@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 02 Aug 2023 04:22:11 UTC
+# Last converted - Thu, 03 Aug 2023 04:23:03 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -29667,7 +29667,6 @@
 0.0.0.0 metrics.pfizer.com
 0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.pinkribbonbottle.com
-0.0.0.0 metrics.plaid.com
 0.0.0.0 metrics.plusrewards.com.au
 0.0.0.0 metrics.politico.com
 0.0.0.0 metrics.politico.eu
@@ -49241,7 +49240,6 @@
 0.0.0.0 tracker.relaido.jp
 0.0.0.0 tracker.remp-beam.golem.de
 0.0.0.0 tracker.remp.sme.sk
-0.0.0.0 tracker.rqmob.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.secretescapes.com
 0.0.0.0 tracker.selectivv.com
@@ -51205,7 +51203,6 @@
 0.0.0.0 utklhk.kojima.net
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utp02.cps.tt.omtrdc.net
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uts.auction.co.kr
 0.0.0.0 utsssl.auction.co.kr
 0.0.0.0 utt.impactcdn.com
@@ -52924,6 +52921,7 @@
 0.0.0.0 wiredminds.de
 0.0.0.0 wirjoi.meetsmore.com
 0.0.0.0 wisedialogbankspa.tt.omtrdc.net
+0.0.0.0 wiseref.com
 0.0.0.0 wisetrack.net
 0.0.0.0 wishloop.com
 0.0.0.0 wissen.sage.de

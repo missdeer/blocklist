@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 03 Aug 2023 04:23:03 UTC
+# Last converted - Fri, 04 Aug 2023 04:22:29 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -1864,7 +1864,6 @@
 0.0.0.0 a.myfidevs.io
 0.0.0.0 a.mygreatrelief.com
 0.0.0.0 a.o2u.jp
-0.0.0.0 a.oix.net
 0.0.0.0 a.oney.es
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.parfumsclub.de
@@ -1937,7 +1936,6 @@
 0.0.0.0 a1.api.bbc.com
 0.0.0.0 a1.cba-digital.tt.omtrdc.net
 0.0.0.0 a1.hb-fa-stage.tt.omtrdc.net
-0.0.0.0 a1.huiqituan.com
 0.0.0.0 a10-15-08.feednews.tt.omtrdc.net
 0.0.0.0 a10053.actonservice.com
 0.0.0.0 a10645.actonservice.com
@@ -5815,6 +5813,7 @@
 0.0.0.0 adsensedetective.com
 0.0.0.0 adserver.application.tt.omtrdc.net
 0.0.0.0 adserver.snapads.com
+0.0.0.0 adservice.google.
 0.0.0.0 adsettings.com
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adsmetadata.startappk8s.com
@@ -10459,7 +10458,6 @@
 0.0.0.0 b.freshpair.com
 0.0.0.0 b.fxnetworks.com
 0.0.0.0 b.gondola-night.tt.omtrdc.net
-0.0.0.0 b.grvcdn.com
 0.0.0.0 b.karte.io
 0.0.0.0 b.koodomobile.com
 0.0.0.0 b.law.com
@@ -13247,7 +13245,6 @@
 0.0.0.0 click.jasmin.com
 0.0.0.0 click.jctrkg.com
 0.0.0.0 click.linksaude.club
-0.0.0.0 click.livejasmin.com
 0.0.0.0 click.lmbcustomersupport.com
 0.0.0.0 click.mmosite.com
 0.0.0.0 click.mmotoplay.com
@@ -13513,7 +13510,6 @@
 0.0.0.0 clp.tt.omtrdc.net
 0.0.0.0 clrmgt.k8s-stg.getaws.tt.omtrdc.net
 0.0.0.0 cls-po-02.tt.omtrdc.net
-0.0.0.0 cls.ichotelsgroup.com
 0.0.0.0 cls7.theushuaiaexperience.com
 0.0.0.0 clt.banggood.com
 0.0.0.0 cltxxq.cruises.united.com
@@ -13575,7 +13571,6 @@
 0.0.0.0 cmsappleworldwidedeveloper.hb-api.tt.omtrdc.net
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
-0.0.0.0 cmt.setrowid.com
 0.0.0.0 cmttvv.bonprix.se
 0.0.0.0 cn-go.experian.com
 0.0.0.0 cn.adpinfo.com
@@ -13635,9 +13630,7 @@
 0.0.0.0 cnsecurity.actonservice.com
 0.0.0.0 cnstats.ru
 0.0.0.0 cnt.alawar.com
-0.0.0.0 cnt.cerber.rambler.ru
 0.0.0.0 cnt.hd21.
-0.0.0.0 cnt.inforotor.net
 0.0.0.0 cnt.logoslovo.ru
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nov.ru
@@ -13652,8 +13645,6 @@
 0.0.0.0 cnt.xhamster.com
 0.0.0.0 cnt.yeptube.
 0.0.0.0 cnt1.net
-0.0.0.0 cnt2.stroeerdp.de
-0.0.0.0 cntcerber.rambler.ru
 0.0.0.0 cntxtfl.com
 0.0.0.0 cnv.ignmb.com
 0.0.0.0 cnxddc.lodenfrey.com
@@ -13702,7 +13693,6 @@
 0.0.0.0 code.acstat.com
 0.0.0.0 code.cpe.tt.omtrdc.net
 0.0.0.0 code.lobby.tt.omtrdc.net
-0.0.0.0 code.lockbot.net
 0.0.0.0 code.r5hsid.ru
 0.0.0.0 code.randomhouse.com
 0.0.0.0 code.tt.omtrdc.net
@@ -18460,7 +18450,6 @@
 0.0.0.0 djbvwtvuzl.att.hb.tt.omtrdc.net
 0.0.0.0 djbztw.marimekko.com
 0.0.0.0 djers.com
-0.0.0.0 djibeacon.dowjoneson.com
 0.0.0.0 djnqoe.rani.com.tr
 0.0.0.0 djoglobalinc.tt.omtrdc.net
 0.0.0.0 djurslandpizza.pronto.tt.omtrdc.net
@@ -20287,7 +20276,6 @@
 0.0.0.0 events.interface.com
 0.0.0.0 events.issmarketintelligence.com
 0.0.0.0 events.jora.com
-0.0.0.0 events.kaloo.ga
 0.0.0.0 events.kangan.edu.au
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.lbesecapi.com
@@ -20332,7 +20320,6 @@
 0.0.0.0 eventsapi.grocerkey.com
 0.0.0.0 eventsbskyb.hb-api.tt.omtrdc.net
 0.0.0.0 eventstream.dodopizza.com
-0.0.0.0 eventtracker.elitedaily.com
 0.0.0.0 eventtracking.hubapi.com
 0.0.0.0 everestgrp.tt.omtrdc.net
 0.0.0.0 everestjs.net
@@ -22411,7 +22398,6 @@
 0.0.0.0 handyfield.com
 0.0.0.0 hanser.met.vgwort.de
 0.0.0.0 happenhistory.com
-0.0.0.0 happyunicorns.gutefrage.net
 0.0.0.0 harborcub.com
 0.0.0.0 harborfreight.tt.omtrdc.net
 0.0.0.0 hardtofindmilk.com
@@ -22441,8 +22427,6 @@
 0.0.0.0 harrodsltd.tt.omtrdc.net
 0.0.0.0 harvardbusinessrevie.tt.omtrdc.net
 0.0.0.0 harvester.cms.markiza.sk
-0.0.0.0 harvester.eu.square-enix.com
-0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 harvester.hbpl.co.uk
 0.0.0.0 harvester.hnonline.sk
 0.0.0.0 harvestlimited.tt.omtrdc.net
@@ -22686,15 +22670,12 @@
 0.0.0.0 hit-counters.net
 0.0.0.0 hit-counts.com
 0.0.0.0 hit-parade.com
-0.0.0.0 hit-pool.upscore.io
 0.0.0.0 hit.acstat.com
 0.0.0.0 hit.api.useinsider.com
 0.0.0.0 hit.c97.org
 0.0.0.0 hit.copesa.cl
 0.0.0.0 hit.darmoweliczniki.pl
 0.0.0.0 hit.demirorenteknoloji.com
-0.0.0.0 hit.dogannet.tv
-0.0.0.0 hit.duhnet.tv
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hit.interia.pl
 0.0.0.0 hit.mynet.com
@@ -22879,7 +22860,6 @@
 0.0.0.0 hoverfly.dailyblocks.tv
 0.0.0.0 hoverfly.papercrowns.com
 0.0.0.0 hoverfly.winchdesign.cn
-0.0.0.0 howmanyview.com
 0.0.0.0 hpe.tt.omtrdc.net
 0.0.0.0 hphtjv.orellfuessli.ch
 0.0.0.0 hpjapan.tt.omtrdc.net
@@ -26700,7 +26680,6 @@
 0.0.0.0 lst3sc.tt.omtrdc.net
 0.0.0.0 lsv5.belambra.fr
 0.0.0.0 lsym9ypfvnppa9uw.sparta.www.members.tt.omtrdc.net
-0.0.0.0 lt.logly.co.jp
 0.0.0.0 ltaoei.rendez-vous.ru
 0.0.0.0 ltcmak.alodokter.com
 0.0.0.0 ltcnetwork.mhainc.com
@@ -31339,7 +31318,6 @@
 0.0.0.0 nfused.eobuv.com.ua
 0.0.0.0 ng.virgul.com
 0.0.0.0 ngacm.com
-0.0.0.0 ngagement-engine.mobify.com
 0.0.0.0 ngastatic.com
 0.0.0.0 ngazee.novostroy-m.ru
 0.0.0.0 ngghll.me.co.kr
@@ -31519,11 +31497,9 @@
 0.0.0.0 nrljxvaxcj.182mtv.hb.tt.omtrdc.net
 0.0.0.0 nrstxi.envieshoes.gr
 0.0.0.0 ns.access-online.com.au
-0.0.0.0 ns1.phorm.com
 0.0.0.0 ns1.tt.omtrdc.net
 0.0.0.0 ns12.tt.omtrdc.net
 0.0.0.0 ns1p.net
-0.0.0.0 ns2.phorm.com
 0.0.0.0 ns2.tt.omtrdc.net
 0.0.0.0 ns336739.ip-37-187-249.eu
 0.0.0.0 nsaudience.pl
@@ -46332,7 +46308,6 @@
 0.0.0.0 terms.internet.apps.samsung.com
 0.0.0.0 terms1b.tt.omtrdc.net
 0.0.0.0 tern.xebel.co
-0.0.0.0 terra.fp.oix.net
 0.0.0.0 terradatum.actonservice.com
 0.0.0.0 terriblethumb.com
 0.0.0.0 terrificgoose.com
@@ -46731,7 +46706,6 @@
 0.0.0.0 tilhyw.lampen24.nl
 0.0.0.0 tim.nextinpact.com
 0.0.0.0 timeout.tt.omtrdc.net
-0.0.0.0 timeslog.indiatimes.com
 0.0.0.0 timeterritory.com
 0.0.0.0 timetracker-worker.us-east-1.tt.omtrdc.net
 0.0.0.0 timetwig.com
@@ -47061,7 +47035,6 @@
 0.0.0.0 top-ro.ro
 0.0.0.0 top-staging.mail.ru
 0.0.0.0 top.eomy.net
-0.0.0.0 top.gamesby.net
 0.0.0.0 top.gigmir.net
 0.0.0.0 top.hsdn.org
 0.0.0.0 top.list.ru
@@ -48324,7 +48297,6 @@
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracelytics.com
 0.0.0.0 traceprof.com
-0.0.0.0 tracer.perezhilton.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 traceworks.com
 0.0.0.0 tracfonewireless.tt.omtrdc.net
@@ -48395,7 +48367,6 @@
 0.0.0.0 track.asistireltrabajodecuidado.com
 0.0.0.0 track.assistance-live.com
 0.0.0.0 track.atenciondirectapro.com
-0.0.0.0 track.atom-data.io
 0.0.0.0 track.auckland.ac.nz
 0.0.0.0 track.audtd.com
 0.0.0.0 track.autoloanupdates.com
@@ -48472,7 +48443,6 @@
 0.0.0.0 track.clubuldeenglezaonline.ro
 0.0.0.0 track.cmcassets.com
 0.0.0.0 track.cobramarketingspace.com
-0.0.0.0 track.codepen.io
 0.0.0.0 track.coherentpath.com
 0.0.0.0 track.colegiosmilitaresdelmundo.com
 0.0.0.0 track.colegiosmilitaresespacio.com
@@ -48768,6 +48738,7 @@
 0.0.0.0 track.leadhit.io
 0.0.0.0 track.leadhit.ru
 0.0.0.0 track.leadsgorillaoffer.com
+0.0.0.0 track.lemmatechnologies.com
 0.0.0.0 track.lesmills.com
 0.0.0.0 track.levelsleadgen.xyz
 0.0.0.0 track.libii.cn

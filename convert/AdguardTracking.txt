@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 04 Aug 2023 04:22:29 UTC
+# Last converted - Sat, 05 Aug 2023 04:21:44 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -12279,6 +12279,7 @@
 0.0.0.0 canadiantire.tt.omtrdc.net
 0.0.0.0 canaldigital.tt.omtrdc.net
 0.0.0.0 canarahsbclife.tt.omtrdc.net
+0.0.0.0 canarytokens.com
 0.0.0.0 canata.trekkww.fun
 0.0.0.0 cance.hb.tt.omtrdc.net
 0.0.0.0 candac.iridion.de
@@ -18776,7 +18777,6 @@
 0.0.0.0 dsushi1610.tt.omtrdc.net
 0.0.0.0 dsw.tt.omtrdc.net
 0.0.0.0 dt.beyla.site
-0.0.0.0 dt.nrjmobile.fr
 0.0.0.0 dta.tt.omtrdc.net
 0.0.0.0 dtc-v6t.com
 0.0.0.0 dtch.brunel.nl
@@ -18918,6 +18918,7 @@
 0.0.0.0 e.unchealthcare.org
 0.0.0.0 e.viously.com
 0.0.0.0 e10.verticurl.com
+0.0.0.0 e20d8e38992b.o3n.io
 0.0.0.0 e2e.mashable.com
 0.0.0.0 e5obq1v261.www.lurkit.com
 0.0.0.0 e62ndy5gz80q.bitdomain.biz
@@ -20098,6 +20099,7 @@
 0.0.0.0 etrack.ext.hpe.com
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
+0.0.0.0 etracker.p3p.repl.co
 0.0.0.0 etrigue.com
 0.0.0.0 ets.easybrain.com
 0.0.0.0 etscampaign.motorola.com
@@ -20262,7 +20264,6 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.demoup.com
 0.0.0.0 events.elliemae.com
-0.0.0.0 events.emogi.com
 0.0.0.0 events.engage.cebglobal.com
 0.0.0.0 events.executiveboard.com
 0.0.0.0 events.flagship.io
@@ -20539,7 +20540,6 @@
 0.0.0.0 farahatco.actonservice.com
 0.0.0.0 fareastone.tt.omtrdc.net
 0.0.0.0 farethief.com
-0.0.0.0 farmer.wego.com
 0.0.0.0 farmerfireman.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farmersinsurance.tt.omtrdc.net
@@ -20796,8 +20796,6 @@
 0.0.0.0 flxpxl.com
 0.0.0.0 fly.caljetelite.com
 0.0.0.0 fly.foggybottomfarm.org
-0.0.0.0 fly.gentside.com
-0.0.0.0 fly.ohmymag.com
 0.0.0.0 flyaa-cdn.3.flyaa.tt.omtrdc.net
 0.0.0.0 flyingfish.agilehedges.com
 0.0.0.0 flyingfish.cloudqigong.com
@@ -21440,7 +21438,6 @@
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geoiplookup.wikimedia.org
 0.0.0.0 geoloc.hurriyet.com.tr
-0.0.0.0 geolocation.performgroup.com
 0.0.0.0 geometry-dash.de.tt.omtrdc.net
 0.0.0.0 geonetric.actonservice.com
 0.0.0.0 geoplugin.net
@@ -22162,6 +22159,7 @@
 0.0.0.0 gr-business.vodafone.com
 0.0.0.0 gr-in.tools.tt.omtrdc.net
 0.0.0.0 gr.promo.skf.com
+0.0.0.0 grabifyicu.com
 0.0.0.0 gracefulsock.com
 0.0.0.0 grado.ufv.es
 0.0.0.0 grafana.tools-dev.assistant.tt.omtrdc.net
@@ -22673,7 +22671,6 @@
 0.0.0.0 hit.acstat.com
 0.0.0.0 hit.api.useinsider.com
 0.0.0.0 hit.c97.org
-0.0.0.0 hit.copesa.cl
 0.0.0.0 hit.darmoweliczniki.pl
 0.0.0.0 hit.demirorenteknoloji.com
 0.0.0.0 hit.gemius.pl
@@ -22978,7 +22975,6 @@
 0.0.0.0 hyattcorporation.tt.omtrdc.net
 0.0.0.0 hybrid.ai
 0.0.0.0 hycywj.akkushop.de
-0.0.0.0 hydrahydra.ir
 0.0.0.0 hyena.baseline.is
 0.0.0.0 hyena.kitafund.com
 0.0.0.0 hyena.m1guelpf.blog
@@ -23151,7 +23147,6 @@
 0.0.0.0 ifwromail2.tt.omtrdc.net
 0.0.0.0 ifxnyp.troquer.com.mx
 0.0.0.0 ifyane.balaan.co.kr
-0.0.0.0 ig.fp.oix.net
 0.0.0.0 ig.ig.com
 0.0.0.0 ig.ig.ig.com
 0.0.0.0 ig.igmarkets.com
@@ -32084,6 +32079,7 @@
 0.0.0.0 openinternetexchange.net
 0.0.0.0 openmonitor.alipay-eco.com
 0.0.0.0 openmonitor.alipay.com
+0.0.0.0 openrate.aweber.com
 0.0.0.0 openstat.net
 0.0.0.0 opentracker.net
 0.0.0.0 opentracking.ru
@@ -43383,7 +43379,6 @@
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.myshows.me
 0.0.0.0 stat.nate.com
-0.0.0.0 stat.novinky.cz
 0.0.0.0 stat.novostimira.com
 0.0.0.0 stat.onemob.mobi
 0.0.0.0 stat.outrigger.com
@@ -43564,7 +43559,6 @@
 0.0.0.0 stats.bholmes.dev
 0.0.0.0 stats.bildconnect.de
 0.0.0.0 stats.bimbase.nl
-0.0.0.0 stats.binki.es
 0.0.0.0 stats.bitdefender.com
 0.0.0.0 stats.bitpost.app
 0.0.0.0 stats.bjarteblogg.com
@@ -43627,7 +43621,6 @@
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.cleverdiabetic.com
 0.0.0.0 stats.cloud-backup-for-podio.com
-0.0.0.0 stats.cnevids.com
 0.0.0.0 stats.coachingcourses.pro
 0.0.0.0 stats.coachinghive.com
 0.0.0.0 stats.code-it-studio.de
@@ -43733,13 +43726,11 @@
 0.0.0.0 stats.erikinthekitchen.com
 0.0.0.0 stats.erlef.org
 0.0.0.0 stats.eteleon.de
-0.0.0.0 stats.europe.newsweek.com
 0.0.0.0 stats.evenchilada.com
 0.0.0.0 stats.executebig.org
 0.0.0.0 stats.extendedstayamerica.com
 0.0.0.0 stats.extramilefloorcare.com
 0.0.0.0 stats.eyehelp.co
-0.0.0.0 stats.eyeviewdigital.com
 0.0.0.0 stats.fabiofranchino.com
 0.0.0.0 stats.faluninfo.at
 0.0.0.0 stats.faluninfo.ba
@@ -43748,14 +43739,12 @@
 0.0.0.0 stats.faluninfo.si
 0.0.0.0 stats.familyvacationcritic.com
 0.0.0.0 stats.fantinel.dev
-0.0.0.0 stats.farfetch.com
 0.0.0.0 stats.fastbackward.app
 0.0.0.0 stats.fcalan.org
 0.0.0.0 stats.feathercss.makerkits.co
 0.0.0.0 stats.felipesere.com
 0.0.0.0 stats.femtobill.com
 0.0.0.0 stats.ferienwohnung-dombrowski.com
-0.0.0.0 stats.ficbook.net
 0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.finalrabiesgeneration.org
 0.0.0.0 stats.firedrive.com
@@ -49193,6 +49182,7 @@
 0.0.0.0 tracker.gpcdn.pl
 0.0.0.0 tracker.hdtvcloud.com
 0.0.0.0 tracker.idocdn.com
+0.0.0.0 tracker.iplocation.net
 0.0.0.0 tracker.joongang.co.kr
 0.0.0.0 tracker.joost.com
 0.0.0.0 tracker.kantan-access.com
@@ -50734,7 +50724,6 @@
 0.0.0.0 uazmti.a101.com.tr
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 ub.finanzfrage.net
-0.0.0.0 ubak.zhugeapi.net
 0.0.0.0 ubcaih.xlmoto.dk
 0.0.0.0 ubdjfy.maje.com
 0.0.0.0 ubdsej.notino.pl

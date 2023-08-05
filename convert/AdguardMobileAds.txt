@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 04 Aug 2023 04:22:20 UTC
+# Last converted - Sat, 05 Aug 2023 04:21:47 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -54,6 +54,7 @@
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.vrvm.com
+0.0.0.0 ad.weibo.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.wynk.in
 0.0.0.0 ad6media.fr
@@ -174,6 +175,7 @@
 0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.io
 0.0.0.0 adsrvr.org
+0.0.0.0 adstrategy.biz.weibo.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtech.de
 0.0.0.0 adtheorent.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 08 Aug 2023 04:22:39 UTC
+# Last converted - Wed, 09 Aug 2023 04:23:16 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -26211,7 +26211,6 @@
 0.0.0.0 lcs.modoo.at
 0.0.0.0 lcs.naver.com
 0.0.0.0 lcsopa.onamae.com
-0.0.0.0 lct.salesforce.com
 0.0.0.0 ldckmk.divarese.com.tr
 0.0.0.0 lddt.de
 0.0.0.0 lderbysa.tt.omtrdc.net
@@ -26471,7 +26470,6 @@
 0.0.0.0 live-api.search.tt.omtrdc.net
 0.0.0.0 live-d.cdn.tt.omtrdc.net
 0.0.0.0 live.alljobs.co.il
-0.0.0.0 live.ec2.cxo.name
 0.0.0.0 live.polycom.com
 0.0.0.0 live.rezync.com
 0.0.0.0 live.splunk.com
@@ -26573,7 +26571,6 @@
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log-lb.skyperfectv.co.jp
-0.0.0.0 log-live.direct.ly
 0.0.0.0 log-marketing.jp
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-player.arte.tv
@@ -26601,14 +26598,12 @@
 0.0.0.0 log.bandi.so
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.bloodsugars.live
-0.0.0.0 log.cinematoday.jp
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.cognex.com
 0.0.0.0 log.collectaction.com
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.dav.edu.vn
-0.0.0.0 log.deutschegrammophon.com
 0.0.0.0 log.down61.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.dzen.ru
@@ -27125,10 +27120,8 @@
 0.0.0.0 m.beststoremart.com
 0.0.0.0 m.bumrungrad1378.com
 0.0.0.0 m.custom.info.shutterstock.com
-0.0.0.0 m.czbiw.com
 0.0.0.0 m.data.mob.com
 0.0.0.0 m.delltechnologies.com
-0.0.0.0 m.dubcm.com
 0.0.0.0 m.edweek.org
 0.0.0.0 m.enerpac.com
 0.0.0.0 m.evolutiondigital.com
@@ -32602,6 +32595,7 @@
 0.0.0.0 outlook2351.tt.omtrdc.net
 0.0.0.0 outlook52.tt.omtrdc.net
 0.0.0.0 outlookny.csmail.tt.omtrdc.net
+0.0.0.0 outpostemail.notify.readtangle.com
 0.0.0.0 outreach.allmy-data.com
 0.0.0.0 outreach.connectednation.org
 0.0.0.0 outreach.crossref.org
@@ -33616,7 +33610,6 @@
 0.0.0.0 picshost.pics
 0.0.0.0 pictet.tt.omtrdc.net
 0.0.0.0 pictetasset.tt.omtrdc.net
-0.0.0.0 pictures.zooplus.com
 0.0.0.0 piddme.buyma.com
 0.0.0.0 pietexture.com
 0.0.0.0 pig.civicplatform.org
@@ -33642,7 +33635,6 @@
 0.0.0.0 ping.naturadapt.com
 0.0.0.0 ping.resoluteoil.com
 0.0.0.0 ping.smyte.com
-0.0.0.0 ping.tvmaze.com
 0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 pingagenow.com
 0.0.0.0 pingback.giphy.com
@@ -40345,7 +40337,6 @@
 0.0.0.0 spisbedre.tns-gallup.dk
 0.0.0.0 spixel.socy.es
 0.0.0.0 spjysa.only.com
-0.0.0.0 spkrth.scw.systems
 0.0.0.0 splitbee.io
 0.0.0.0 splittag.com
 0.0.0.0 splyt.com
@@ -47420,6 +47411,7 @@
 0.0.0.0 trckdis.informativecentral.biz
 0.0.0.0 trckr.beatconnect.com
 0.0.0.0 trckr.contextualadv.com
+0.0.0.0 trcksp.cordial.io
 0.0.0.0 trcnsxtp-supp.adm.tt.omtrdc.net
 0.0.0.0 trdishpurchasingcorporation.hb-api.tt.omtrdc.net
 0.0.0.0 treadbun.com

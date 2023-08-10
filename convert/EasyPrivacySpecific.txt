@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 09 Aug 2023 04:23:17 UTC
+# Last converted - Thu, 10 Aug 2023 04:23:31 UTC
 #
 
 0.0.0.0 3gl.net
@@ -64,7 +64,6 @@
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
-0.0.0.0 analytics4.dashboard.fingerprint.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.privacyguides.net
@@ -234,8 +233,6 @@
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
-0.0.0.0 fpa-cdn.decrypt.co
-0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
@@ -255,7 +252,6 @@
 0.0.0.0 geoip.hmageo.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geolocation.forbes.com
-0.0.0.0 gfp.intuit.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gnar.grammarly.com
@@ -406,6 +402,7 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 pxl.indeed.com
 0.0.0.0 q777.sfchronicle.com
+0.0.0.0 qfp.intuit.com
 0.0.0.0 qm.redbull.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 rankhit.china.com
@@ -469,7 +466,6 @@
 0.0.0.0 stats.calcalist.co.il
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
-0.0.0.0 stats.hd24.watch
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it

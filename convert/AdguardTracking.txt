@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 10 Aug 2023 04:23:21 UTC
+# Last converted - Fri, 11 Aug 2023 04:22:36 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -7157,6 +7157,7 @@
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 ambitjaggi.tt.omtrdc.net
 0.0.0.0 ambrmxpod-d.tt.omtrdc.net
+0.0.0.0 amc.yandex.ru
 0.0.0.0 amcgns.giesswein.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amdcopen.m.taobao.com
@@ -8785,6 +8786,7 @@
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.business.westernunion.com
 0.0.0.0 app.byutickets.com
+0.0.0.0 app.c.bloomberg.com
 0.0.0.0 app.calbears.com
 0.0.0.0 app.campaign.morganstanley.com
 0.0.0.0 app.campaign.trendmicro.com
@@ -13468,6 +13470,7 @@
 0.0.0.0 clicks.h.hepsiburada.com
 0.0.0.0 clicks.hungryroot.com
 0.0.0.0 clicks.hurriyet.com.tr
+0.0.0.0 clicks.mlsend.com
 0.0.0.0 clicks.tableau.com
 0.0.0.0 clicks.traffictrader.net
 0.0.0.0 clicks.wawlabs.com
@@ -19879,12 +19882,14 @@
 0.0.0.0 email.emsphone.com
 0.0.0.0 email.eomega.org
 0.0.0.0 email.episcopalseniorlife.org
+0.0.0.0 email.feedrabbit.com
 0.0.0.0 email.festiva.com
 0.0.0.0 email.gncu.org
 0.0.0.0 email.hockeytown.com
 0.0.0.0 email.info.exclusive-networks.com
 0.0.0.0 email.lottehotel.com
 0.0.0.0 email.lynnimaging.com
+0.0.0.0 email.mg-d1.substack.com
 0.0.0.0 email.mymandg.co.uk
 0.0.0.0 email.nirandfar.com
 0.0.0.0 email.participaction.com
@@ -20223,6 +20228,7 @@
 0.0.0.0 eonmxd.urban-research.jp
 0.0.0.0 eonromania.tt.omtrdc.net
 0.0.0.0 eopp1.tt.omtrdc.net
+0.0.0.0 eotrx.substackcdn.com
 0.0.0.0 eozwcp.jetex.com
 0.0.0.0 ep.americanexpress.com
 0.0.0.0 ep.regis.edu
@@ -26435,6 +26441,7 @@
 0.0.0.0 link.provensavingtips.org
 0.0.0.0 link.quadairdroneshop.net
 0.0.0.0 link.seguno-mail.com
+0.0.0.0 link.theatlantic.com
 0.0.0.0 link.theverge.com
 0.0.0.0 link.topdealspost.com
 0.0.0.0 link.vox.com
@@ -40343,6 +40350,7 @@
 0.0.0.0 spiffymachine.com
 0.0.0.0 spigte.shopee.tw
 0.0.0.0 spinnakermgmt.actonservice.com
+0.0.0.0 spiny.ai
 0.0.0.0 spirebaboon.com
 0.0.0.0 spisbedre.tns-gallup.dk
 0.0.0.0 spixel.socy.es
@@ -46622,7 +46630,6 @@
 0.0.0.0 track.zalando.
 0.0.0.0 track.zappdeal.com
 0.0.0.0 track.zappos.com
-0.0.0.0 track.zomato.com
 0.0.0.0 track1.avplayer.com
 0.0.0.0 track1122.malayluck.com
 0.0.0.0 track2.myklovr.com
@@ -46653,12 +46660,10 @@
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.ai.xiaomi.com
-0.0.0.0 tracker.ampush.io
 0.0.0.0 tracker.anandtech.com
 0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.azet.sk
 0.0.0.0 tracker.blutv.com
-0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.calameo.com
 0.0.0.0 tracker.cartprotector.com
@@ -46668,7 +46673,6 @@
 0.0.0.0 tracker.chatbot.k.tt.omtrdc.net
 0.0.0.0 tracker.citicsinfo.com
 0.0.0.0 tracker.convead.io
-0.0.0.0 tracker.cpapath.com
 0.0.0.0 tracker.dalso.org
 0.0.0.0 tracker.dcdn.baidu.com
 0.0.0.0 tracker.decomworld.com
@@ -46823,7 +46827,6 @@
 0.0.0.0 tracking.capterra.com
 0.0.0.0 tracking.care.muschealth.org
 0.0.0.0 tracking.care.salinasvalleyhealth.com
-0.0.0.0 tracking.carprices.com
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.cengage.com
 0.0.0.0 tracking.centerfield.com
@@ -46905,7 +46908,6 @@
 0.0.0.0 tracking.gartner.com
 0.0.0.0 tracking.gelia.com
 0.0.0.0 tracking.getapp.com
-0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.global-demand02.nec.com
 0.0.0.0 tracking.gnavi.co.jp
 0.0.0.0 tracking.go.atcc.org
@@ -46969,11 +46971,9 @@
 0.0.0.0 tracking.janssenmedicalcloud.sk
 0.0.0.0 tracking.janssenos.com
 0.0.0.0 tracking.kegerator.com
-0.0.0.0 tracking.koego.com
 0.0.0.0 tracking.komoot.de
 0.0.0.0 tracking.krone.at
 0.0.0.0 tracking.kubota.ca
-0.0.0.0 tracking.kurier.at
 0.0.0.0 tracking.kyobo.co.kr
 0.0.0.0 tracking.lailiveevents.com
 0.0.0.0 tracking.laivideo.com
@@ -47200,7 +47200,6 @@
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.usenext.com
 0.0.0.0 tracking.usj.es
-0.0.0.0 tracking.ustream.tv
 0.0.0.0 tracking.utas.edu.au
 0.0.0.0 tracking.valoans.tt.omtrdc.net
 0.0.0.0 tracking.ventingdirect.com
@@ -47258,7 +47257,6 @@
 0.0.0.0 tracking5.labcorp.com
 0.0.0.0 trackingaa.hitachienergy.com
 0.0.0.0 trackingalumni.accenturealumni.com
-0.0.0.0 trackingapi.cloudapp.net
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 trackingapi.meinprospekt.de
 0.0.0.0 trackingcareers.accenture.com
@@ -47278,7 +47276,6 @@
 0.0.0.0 tracklog.58.com
 0.0.0.0 trackmarketing.staubli.com
 0.0.0.0 trackmyweb.net
-0.0.0.0 trackpm.shop2market.com
 0.0.0.0 tracks.davidkingsbury.co.uk
 0.0.0.0 tracks1.ferrari.com
 0.0.0.0 tracks3.ferrari.com
@@ -47505,7 +47502,6 @@
 0.0.0.0 trk-egestas.com
 0.0.0.0 trk-poc4.tt.omtrdc.net
 0.0.0.0 trk-svc1.tt.omtrdc.net
-0.0.0.0 trk.10ru.pt
 0.0.0.0 trk.2ndtrk.com
 0.0.0.0 trk.5news.name
 0.0.0.0 trk.adbutter.net
@@ -48233,7 +48229,6 @@
 0.0.0.0 uhlagm.rakurakuseisan.jp
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 uhn9.up-france.fr
-0.0.0.0 ui.oix.net
 0.0.0.0 uial5.tt.omtrdc.net
 0.0.0.0 uiar02.aavi.tt.omtrdc.net
 0.0.0.0 uicjnk.gumtree.co.za
@@ -49095,7 +49090,6 @@
 0.0.0.0 vqjacf.mauriziocollectionstore.com
 0.0.0.0 vqp3.madeindesign.co.uk
 0.0.0.0 vqwckswxsf.meet.aem.hb.tt.omtrdc.net
-0.0.0.0 vra.outbrain.com
 0.0.0.0 vrasky-a-starnouci-plet.tt.omtrdc.net
 0.0.0.0 vrhesh.avocadogreenmattress.com
 0.0.0.0 vroclav.trekkeeee.fun
@@ -49104,7 +49098,6 @@
 0.0.0.0 vrrp-91901.cs01.corp.tt.omtrdc.net
 0.0.0.0 vrsvcn.cartucho.es
 0.0.0.0 vrt-next-nat-next.tt.omtrdc.net
-0.0.0.0 vrt.outbrain.com
 0.0.0.0 vrvjwr.mobelaris.com
 0.0.0.0 vry9.destinia.com
 0.0.0.0 vrzmfy.fool.com
@@ -51038,6 +51031,7 @@
 0.0.0.0 ysuckpvvya.242metlife.hb.tt.omtrdc.net
 0.0.0.0 yt0blqw1vlv7.tt.omtrdc.net
 0.0.0.0 ytalarexkw.242discoverydp.hb.tt.omtrdc.net
+0.0.0.0 ythingy.com
 0.0.0.0 ytouvy.arezzo.com.br
 0.0.0.0 yueqal.glassesusa.com
 0.0.0.0 yujmyt.theiconic.co.nz

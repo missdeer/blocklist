@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 10 Aug 2023 04:23:31 UTC
+# Last converted - Fri, 11 Aug 2023 04:22:34 UTC
 #
 
 0.0.0.0 3gl.net
@@ -175,6 +175,7 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
+0.0.0.0 digianalytics.airtel.in
 0.0.0.0 dii.bankaust.com.au
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dnn506yrbagrg.cloudfront.net

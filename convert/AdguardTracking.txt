@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 11 Aug 2023 04:22:36 UTC
+# Last converted - Sat, 12 Aug 2023 04:21:35 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -14970,7 +14970,7 @@
 0.0.0.0 csyqts.tmon.co.kr
 0.0.0.0 ct.buzzfeed.com
 0.0.0.0 ct.pinterest.com
-0.0.0.0 ct.sendgrid.net%2Fwf%2Fopen%3
+0.0.0.0 ct.sendgrid.net
 0.0.0.0 ct2.kimodameshi.com
 0.0.0.0 ct2.kyarame.com
 0.0.0.0 ct2.sarashi.com
@@ -19890,6 +19890,7 @@
 0.0.0.0 email.lottehotel.com
 0.0.0.0 email.lynnimaging.com
 0.0.0.0 email.mg-d1.substack.com
+0.0.0.0 email.mgtp01.squarespace-mail.com
 0.0.0.0 email.mymandg.co.uk
 0.0.0.0 email.nirandfar.com
 0.0.0.0 email.participaction.com
@@ -19899,6 +19900,7 @@
 0.0.0.0 email.sugarresearch.com.au
 0.0.0.0 email.tt.omtrdc.net
 0.0.0.0 email.vollrathco.com
+0.0.0.0 email.wetransfer.com
 0.0.0.0 email.zumaoffice.com
 0.0.0.0 email82a.tt.omtrdc.net
 0.0.0.0 emailing.casden.banquepopulaire.fr
@@ -26442,6 +26444,7 @@
 0.0.0.0 link.quadairdroneshop.net
 0.0.0.0 link.seguno-mail.com
 0.0.0.0 link.theatlantic.com
+0.0.0.0 link.theskimm.com
 0.0.0.0 link.theverge.com
 0.0.0.0 link.topdealspost.com
 0.0.0.0 link.vox.com
@@ -26465,6 +26468,7 @@
 0.0.0.0 links.goodaccess.com
 0.0.0.0 links.newsletter.fortune.com
 0.0.0.0 links.riverview.org
+0.0.0.0 links.theskimm.com
 0.0.0.0 linksynergy.com
 0.0.0.0 linkvoz.tt.omtrdc.net
 0.0.0.0 linkxchanger.com
@@ -31707,6 +31711,7 @@
 0.0.0.0 nosudwc.ddddddddddd.fun
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 nothingmethod.com
+0.0.0.0 notices.rei.com
 0.0.0.0 notificaciones.conduce-seguro.es
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 notify.bugsnag.com
@@ -37299,6 +37304,7 @@
 0.0.0.0 sli.familyhandyman.com
 0.0.0.0 sli.fortune.com
 0.0.0.0 sli.huffpost.com
+0.0.0.0 sli.thedailybeast.com
 0.0.0.0 sligro.tt.omtrdc.net
 0.0.0.0 slike.indiatimes.com
 0.0.0.0 slimopinion.com
@@ -45898,6 +45904,7 @@
 0.0.0.0 track.calmrise.co
 0.0.0.0 track.camarasdeseguridadparausted.com
 0.0.0.0 track.canalonesreparar.com
+0.0.0.0 track.canva.com
 0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.carespros.com
 0.0.0.0 track.carloanagent.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 11 Aug 2023 04:22:34 UTC
+# Last converted - Sat, 12 Aug 2023 04:21:28 UTC
 #
 
 0.0.0.0 3gl.net
@@ -194,6 +194,7 @@
 0.0.0.0 engine.traceparts.com
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 error-collector.ted.com
+0.0.0.0 errorreports.couponcabin.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.tidal.com
 0.0.0.0 etui.fs.ml.com
@@ -440,6 +441,7 @@
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
+0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 sourcepoint-mms.aetv.com

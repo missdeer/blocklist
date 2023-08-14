@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 13 Aug 2023 04:21:22 UTC
+# Last converted - Mon, 14 Aug 2023 04:22:30 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -44089,6 +44089,7 @@
 0.0.0.0 teyvmb.moniquelhuillier.com
 0.0.0.0 tfdtpa.dot-st.com
 0.0.0.0 tfpeev.chanluu.com
+0.0.0.0 tg1.premiumimpression.com
 0.0.0.0 tgdaudience.com
 0.0.0.0 tgh.hrm.healthgrades.com
 0.0.0.0 tgirgs.flinders.nl

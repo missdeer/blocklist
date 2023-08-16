@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 15 Aug 2023 04:22:18 UTC
+# Last converted - Wed, 16 Aug 2023 04:22:48 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -17726,6 +17726,7 @@
 0.0.0.0 email.info.exclusive-networks.com
 0.0.0.0 email.lottehotel.com
 0.0.0.0 email.lynnimaging.com
+0.0.0.0 email.mail2.smartrmail.co
 0.0.0.0 email.mg-d1.substack.com
 0.0.0.0 email.mgtp01.squarespace-mail.com
 0.0.0.0 email.mymandg.co.uk

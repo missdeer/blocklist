@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 16 Aug 2023 04:22:48 UTC
+# Last converted - Thu, 17 Aug 2023 04:22:04 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -11399,6 +11399,7 @@
 0.0.0.0 c.tbex.ru
 0.0.0.0 c.tt.omtrdc.net
 0.0.0.0 c.tvpixel.com
+0.0.0.0 c.webengage.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c0.adalyser.com
@@ -28435,6 +28436,7 @@
 0.0.0.0 news.rbj.net
 0.0.0.0 news.reedexpo.fr
 0.0.0.0 news.salon-aps.com
+0.0.0.0 news.samsung.com%2Fus%2F%3Fnoti%3D
 0.0.0.0 news.scbiznews.com
 0.0.0.0 news.sitl.eu
 0.0.0.0 news.sp2.org
@@ -30402,16 +30404,13 @@
 0.0.0.0 pixel.ipinfo.io
 0.0.0.0 pixel.klout.com
 0.0.0.0 pixel.lilystyle.ai
-0.0.0.0 pixel.naij.com
 0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.newsdiscover.com.au
 0.0.0.0 pixel.nur.kz
-0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.pcworld.com
 0.0.0.0 pixel.playbuzz.com
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.quantserve.com
-0.0.0.0 pixel.randi.adswizz.com
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.roymorgan.com
@@ -30648,7 +30647,6 @@
 0.0.0.0 plotrabbit.com
 0.0.0.0 plotzn.apmex.com
 0.0.0.0 ploy.batmobi.net
-0.0.0.0 ploz.mangadex.org
 0.0.0.0 pls.ambue.com
 0.0.0.0 pls.fcrpg.net
 0.0.0.0 pls.skycastle.dev
@@ -37285,6 +37283,7 @@
 0.0.0.0 ssl.o.vitals.com
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 ssl.sc.amc.devk.de
+0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 sslanalytics.sixt.es
 0.0.0.0 sslanalytics.sixt.fr
 0.0.0.0 sslmetrics.vivint.com
@@ -45659,7 +45658,6 @@
 0.0.0.0 webed-02.dc3.tt.omtrdc.net
 0.0.0.0 webed-02.stg.dc3.tt.omtrdc.net
 0.0.0.0 webed.dm-event.net
-0.0.0.0 webengage.com
 0.0.0.0 webest.info
 0.0.0.0 webex.tt.omtrdc.net
 0.0.0.0 webflowmetrics.com
@@ -47168,6 +47166,7 @@
 0.0.0.0 yzdljh.clarins.ca
 0.0.0.0 yzdltz.pricerunner.dk
 0.0.0.0 z.opmnstr.com
+0.0.0.0 z.webengage.com
 0.0.0.0 z211.yourconroenews.com
 0.0.0.0 z3k9si.covid-resources.com
 0.0.0.0 z45-16-v01.tt.omtrdc.net

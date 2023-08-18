@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 17 Aug 2023 04:22:10 UTC
+# Last converted - Fri, 18 Aug 2023 04:22:26 UTC
 #
 
 0.0.0.0 3gl.net
@@ -389,6 +389,7 @@
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
+0.0.0.0 plausible.ripped.guide
 0.0.0.0 plausible.safing.io
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 plenty.vidio.com

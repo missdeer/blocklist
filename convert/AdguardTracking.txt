@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 17 Aug 2023 04:22:04 UTC
+# Last converted - Fri, 18 Aug 2023 04:22:34 UTC
 #
 
 0.0.0.0 0--skitch--0.tt.omtrdc.net
@@ -5912,6 +5912,7 @@
 0.0.0.0 adsmetadata.startappk8s.com
 0.0.0.0 adsn-da-00.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 adsoft.tt.omtrdc.net
+0.0.0.0 adsolutions.com
 0.0.0.0 adspsp.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adsso1-sat.cbp.tt.omtrdc.net
@@ -10422,6 +10423,7 @@
 0.0.0.0 beacon.tws.toyota.jp
 0.0.0.0 beacon.vertebrae-axis.com
 0.0.0.0 beacon.walmart.ca
+0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
@@ -12085,6 +12087,7 @@
 0.0.0.0 click.pocketoption.world
 0.0.0.0 click.qualifyforcare.org
 0.0.0.0 click.quickenloansnow.com
+0.0.0.0 click.redditmail.com%2FCI0%2F
 0.0.0.0 click.rollouki.com
 0.0.0.0 click.securetracking.info
 0.0.0.0 click.trackconv.online
@@ -16929,6 +16932,7 @@
 0.0.0.0 dreamcounter.de
 0.0.0.0 dressexpansion.com
 0.0.0.0 dreyers.tt.omtrdc.net
+0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 driosstream.tns-gallup.dk
 0.0.0.0 dripappliance.com
 0.0.0.0 drive.seagate.com
@@ -23623,6 +23627,7 @@
 0.0.0.0 lmo3.ps.tt.omtrdc.net
 0.0.0.0 lmorsb.highstreettv.com
 0.0.0.0 lmportal-stg.vms.tt.omtrdc.net
+0.0.0.0 lmqmpm.clicks.mlsend.com
 0.0.0.0 lndata.com
 0.0.0.0 lngtd.com
 0.0.0.0 lnk.cortexi-site.live
@@ -32149,6 +32154,7 @@
 0.0.0.0 run.swiftra.com
 0.0.0.0 runtimecollective.tt.omtrdc.net
 0.0.0.0 rup5.destinia.ru
+0.0.0.0 ruralrobin.com
 0.0.0.0 rush.hrm.healthgrades.com
 0.0.0.0 rushmemorial.hrm.healthgrades.com
 0.0.0.0 russia.promo.skf.com
@@ -32924,6 +32930,7 @@
 0.0.0.0 scaredcomfort.com
 0.0.0.0 scaredsidewalk.com
 0.0.0.0 scaredsnake.com
+0.0.0.0 scaredsnakes.com
 0.0.0.0 scaredstory.com
 0.0.0.0 scarfsmash.com
 0.0.0.0 scatteredheat.com

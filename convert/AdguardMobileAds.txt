@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 18 Aug 2023 04:22:25 UTC
+# Last converted - Sat, 19 Aug 2023 04:22:39 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -35,6 +35,7 @@
 0.0.0.0 ad.apps.fm
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.auditude.com
+0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.doubleclick.net
@@ -687,6 +688,7 @@
 0.0.0.0 saymedia.com
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 screen.buzzvil.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.native123.com

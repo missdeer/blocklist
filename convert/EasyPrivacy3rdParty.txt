@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 21 Aug 2023 04:22:18 UTC
+# Last converted - Tue, 22 Aug 2023 04:22:15 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -377,6 +377,7 @@
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
+0.0.0.0 d1qnmu4nrib73p.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
 0.0.0.0 d1r2sy6oc0ariq.cloudfront.net
@@ -867,7 +868,6 @@
 0.0.0.0 ptracker.nurturehq.com
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 pub.sheknows.com
-0.0.0.0 pubgw.yahoo.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net

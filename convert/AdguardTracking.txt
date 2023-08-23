@@ -1,9 +1,10 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 22 Aug 2023 04:22:14 UTC
+# Last converted - Wed, 23 Aug 2023 04:22:01 UTC
 #
 
+0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-4-80-0.jamf.tt.omtrdc.net
 0.0.0.0 0-5.com.hopac.api.tt.omtrdc.net
@@ -1827,6 +1828,7 @@
 0.0.0.0 a.beliefnet.com
 0.0.0.0 a.bigtennetwork.com
 0.0.0.0 a.bitmango.com
+0.0.0.0 a.brack.ch
 0.0.0.0 a.conferencecall.com
 0.0.0.0 a.ctd.ai
 0.0.0.0 a.ddli.jp
@@ -17918,6 +17920,7 @@
 0.0.0.0 email.axisintegrated.ca
 0.0.0.0 email.azurareborn.com
 0.0.0.0 email.bowl.com
+0.0.0.0 email.cloud2.secureclick.net
 0.0.0.0 email.cobsbread.com
 0.0.0.0 email.emsphone.com
 0.0.0.0 email.eomega.org
@@ -18266,6 +18269,7 @@
 0.0.0.0 esm1.net
 0.0.0.0 esomniture.com
 0.0.0.0 espndotcom.tt.omtrdc.net
+0.0.0.0 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 0.0.0.0 esqjac.costakreuzfahrten.de
 0.0.0.0 esqxrp.bonprix-fl.be
 0.0.0.0 essdhn.makuake.com
@@ -19514,7 +19518,6 @@
 0.0.0.0 get.ukg.in
 0.0.0.0 get.ukg.mx
 0.0.0.0 getaim.info
-0.0.0.0 getback.ch
 0.0.0.0 getbackstory.com
 0.0.0.0 getbeacon.io
 0.0.0.0 getclicky.com
@@ -19703,6 +19706,7 @@
 0.0.0.0 go.bestdealliving.com
 0.0.0.0 go.betbonusbrasil.com
 0.0.0.0 go.bicho365.com
+0.0.0.0 go.bidfluence.com
 0.0.0.0 go.bil-jac.com
 0.0.0.0 go.bioscarco.com
 0.0.0.0 go.bitnami.com
@@ -23878,6 +23882,7 @@
 0.0.0.0 link.theatlantic.com
 0.0.0.0 link.theskimm.com
 0.0.0.0 link.theverge.com
+0.0.0.0 link.thirdlove.com
 0.0.0.0 link.topdealspost.com
 0.0.0.0 link.vox.com
 0.0.0.0 linkconnector.com
@@ -24704,6 +24709,7 @@
 0.0.0.0 mail9.img.tt.omtrdc.net
 0.0.0.0 mail91.dns.tt.omtrdc.net
 0.0.0.0 mailboxmeeting.com
+0.0.0.0 mailchimp.com%2Fmctx%2Fopens
 0.0.0.0 mailer.conad.com
 0.0.0.0 mailer.gameloft.com
 0.0.0.0 mailer.mistersafetyshoes.com
@@ -27114,7 +27120,6 @@
 0.0.0.0 metrics.explore.calvinklein.com
 0.0.0.0 metrics.extraespanol.warnerbros.com
 0.0.0.0 metrics.extratv.warnerbros.com
-0.0.0.0 metrics.extremetech.com
 0.0.0.0 metrics.faceipf.com
 0.0.0.0 metrics.familiaynutricion.com.co
 0.0.0.0 metrics.fancl.co.jp
@@ -28990,6 +28995,7 @@
 0.0.0.0 nntgna.dmm.com
 0.0.0.0 nnvoia.closetworld.com
 0.0.0.0 nnvtvx.chegg.com
+0.0.0.0 nnw.soundestlink.com
 0.0.0.0 no7company.tt.omtrdc.net
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 node.aibeacon.jp
@@ -38429,7 +38435,6 @@
 0.0.0.0 stat.wolterskluwer.pl
 0.0.0.0 stat.wolterskluwer.pt
 0.0.0.0 stat.www.fi
-0.0.0.0 stat.xhamsterpremium.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 stat.youku.com
 0.0.0.0 stat24.com
@@ -38557,7 +38562,6 @@
 0.0.0.0 stats.beatricew.com
 0.0.0.0 stats.beausimensen.com
 0.0.0.0 stats.beautility.makerkits.co
-0.0.0.0 stats.behance.net
 0.0.0.0 stats.belic.si
 0.0.0.0 stats.bentleymotors.com
 0.0.0.0 stats.benui.ca
@@ -38950,7 +38954,6 @@
 0.0.0.0 stats.lumension.com
 0.0.0.0 stats.lussoveloce.com
 0.0.0.0 stats.m2m-mobil.de
-0.0.0.0 stats.macmillanusa.com
 0.0.0.0 stats.macosicons.com
 0.0.0.0 stats.madeit.io
 0.0.0.0 stats.madethis.gallery
@@ -39207,7 +39210,6 @@
 0.0.0.0 stats.staging.hex.pm
 0.0.0.0 stats.steepandcheap.com
 0.0.0.0 stats.steuer-soldaten.de
-0.0.0.0 stats.storify.com
 0.0.0.0 stats.strawberry.rocks
 0.0.0.0 stats.streamhub.io
 0.0.0.0 stats.studypages.com
@@ -39274,8 +39276,6 @@
 0.0.0.0 stats.trussed.dev
 0.0.0.0 stats.tsas.ca
 0.0.0.0 stats.tubecalculator.co.uk
-0.0.0.0 stats.tudou.com
-0.0.0.0 stats.tvmaze.com
 0.0.0.0 stats.twhl.xyz
 0.0.0.0 stats.ubiwiz.com
 0.0.0.0 stats.ucheba.ru
@@ -39285,7 +39285,6 @@
 0.0.0.0 stats.urbanfinn.com
 0.0.0.0 stats.urlaubsverwaltung.cloud
 0.0.0.0 stats.useeffect.dev
-0.0.0.0 stats.uswitch.com
 0.0.0.0 stats.uticorp.com
 0.0.0.0 stats.uxtools.co
 0.0.0.0 stats.v4.agirpourlenvironnement.org
@@ -39382,12 +39381,10 @@
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statsrely.com
 0.0.0.0 statssheet.com
-0.0.0.0 statstracker.celebrity-gossip.net
 0.0.0.0 statsw.com
 0.0.0.0 statsy.net
 0.0.0.0 stattds.club
 0.0.0.0 stattooz.com
-0.0.0.0 stattrack.0catch.com
 0.0.0.0 stattrax.com
 0.0.0.0 statuesquebrush.com
 0.0.0.0 statun.com
@@ -39407,7 +39404,6 @@
 0.0.0.0 stbg.standardbank.com
 0.0.0.0 stbt.coupons.com
 0.0.0.0 stc.store.page.zaloapp.com
-0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 stcounter.com
 0.0.0.0 std.o.globalacademycme.com
 0.0.0.0 std.o.medscape.com
@@ -40135,7 +40131,6 @@
 0.0.0.0 t.bceagles.com
 0.0.0.0 t.beop.io
 0.0.0.0 t.biooncology.com
-0.0.0.0 t.blinkist.com
 0.0.0.0 t.bluehens.com
 0.0.0.0 t.bucky.uwbadgers.com
 0.0.0.0 t.budweisergardens.com
@@ -40404,7 +40399,6 @@
 0.0.0.0 t0ikowg7jg.serverlesslaravelcourse.com
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.ask1.co
-0.0.0.0 t1.clipkit.com
 0.0.0.0 t1.musthird.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
@@ -40950,7 +40944,6 @@
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry-beta2.x.tt.omtrdc.net
 0.0.0.0 telemetry-in.battle.net
-0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.api.wmcdp.io
 0.0.0.0 telemetry.art19.com
@@ -42963,7 +42956,6 @@
 0.0.0.0 track.cursosdegestionlogisticaenlinea.com
 0.0.0.0 track.cursosenfermeriahoy.com
 0.0.0.0 track.customer.io
-0.0.0.0 track.custora.com
 0.0.0.0 track.cyberpowercenter.com
 0.0.0.0 track.da2hit.com
 0.0.0.0 track.dailydrivepro.com
@@ -43031,7 +43023,6 @@
 0.0.0.0 track.ecomhub.agency
 0.0.0.0 track.edu-info.jp
 0.0.0.0 track.effiliation.com
-0.0.0.0 track.effitarget.com
 0.0.0.0 track.electromastercenter.com
 0.0.0.0 track.electroworkforyou.com
 0.0.0.0 track.elmundodeloscruceros.com
@@ -43260,7 +43251,6 @@
 0.0.0.0 track.livecamtracker.com
 0.0.0.0 track.livesimplelife.club
 0.0.0.0 track.livexsite.com
-0.0.0.0 track.lobi.co
 0.0.0.0 track.lookerpets.com
 0.0.0.0 track.louefroid.com
 0.0.0.0 track.luciawellness.com
@@ -43338,7 +43328,6 @@
 0.0.0.0 track.odinenergyut.com
 0.0.0.0 track.officialflexup.com
 0.0.0.0 track.ogrowthlabs.com
-0.0.0.0 track.omgpl.com
 0.0.0.0 track.onlineappdesigncourses.com
 0.0.0.0 track.openfixdeckco.com
 0.0.0.0 track.oricare.ro
@@ -43399,7 +43388,6 @@
 0.0.0.0 track.pursuittrustcorp.com
 0.0.0.0 track.push-ad.com
 0.0.0.0 track.pushbullet.com
-0.0.0.0 track.qcri.org
 0.0.0.0 track.quad.com
 0.0.0.0 track.quickestcoverage.com
 0.0.0.0 track.quize.tech
@@ -43531,7 +43519,6 @@
 0.0.0.0 track.topflighttrack.com
 0.0.0.0 track.topplansforyou.cloud
 0.0.0.0 track.toptechnews.news
-0.0.0.0 track.toroadvertising.com
 0.0.0.0 track.tourotrilionario.com
 0.0.0.0 track.tproger.ru
 0.0.0.0 track.trackerop.com
@@ -43701,7 +43688,6 @@
 0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker-iat.tt.omtrdc.net
 0.0.0.0 tracker-rec.smart-bdash.com
-0.0.0.0 tracker.77player.xyz
 0.0.0.0 tracker.adbinead.com
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.affirm.com

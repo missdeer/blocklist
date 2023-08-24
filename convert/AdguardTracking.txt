@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 23 Aug 2023 04:22:01 UTC
+# Last converted - Thu, 24 Aug 2023 04:22:01 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7361,6 +7361,7 @@
 0.0.0.0 analytics.cn.ru
 0.0.0.0 analytics.cnfanart.com
 0.0.0.0 analytics.cnnchile.com
+0.0.0.0 analytics.code.illusion.jp
 0.0.0.0 analytics.codeforscience.org
 0.0.0.0 analytics.codeskulptor.org
 0.0.0.0 analytics.codigo.se
@@ -7402,6 +7403,7 @@
 0.0.0.0 analytics.eikko.ai
 0.0.0.0 analytics.electro-com.ru
 0.0.0.0 analytics.elegela.net
+0.0.0.0 analytics.elegela.us
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.ensighten.com
 0.0.0.0 analytics.ericafischerphotography.com
@@ -12208,6 +12210,7 @@
 0.0.0.0 click.jctrkg.com
 0.0.0.0 click.linksaude.club
 0.0.0.0 click.lmbcustomersupport.com
+0.0.0.0 click.mailersend.net
 0.0.0.0 click.mmotoplay.com
 0.0.0.0 click.mobileapps.pics
 0.0.0.0 click.mobiletron.online
@@ -12261,6 +12264,7 @@
 0.0.0.0 clicks.hungryroot.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.mlsend.com
+0.0.0.0 clicks.mlsend2.com
 0.0.0.0 clicks.tableau.com
 0.0.0.0 clicks.wawlabs.com
 0.0.0.0 clicks2.sc.tt.omtrdc.net
@@ -17939,6 +17943,7 @@
 0.0.0.0 email.nirandfar.com
 0.0.0.0 email.participaction.com
 0.0.0.0 email.pcmaconvene.org
+0.0.0.0 email.send.aliyana.in
 0.0.0.0 email.social.qualtrics.com
 0.0.0.0 email.softwareag.com
 0.0.0.0 email.sugarresearch.com.au
@@ -23899,6 +23904,7 @@
 0.0.0.0 links.getrestofinisher.com
 0.0.0.0 links.go.shoretel.com
 0.0.0.0 links.goodaccess.com
+0.0.0.0 links.kahoot.com
 0.0.0.0 links.newsletter.fortune.com
 0.0.0.0 links.riverview.org
 0.0.0.0 links.theskimm.com
@@ -34148,6 +34154,7 @@
 0.0.0.0 signals.carrefoursa.com
 0.0.0.0 signifyd.com
 0.0.0.0 signup-way.com
+0.0.0.0 signup.com
 0.0.0.0 signup.myklovr.com
 0.0.0.0 signup.vovici.com
 0.0.0.0 silentcredit.com
@@ -43488,6 +43495,7 @@
 0.0.0.0 track.t-twocollectives.com
 0.0.0.0 track.taliacollective.com
 0.0.0.0 track.tcppu.com
+0.0.0.0 track.team.kahoot.com
 0.0.0.0 track.techhubforyou.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io

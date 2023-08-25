@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 24 Aug 2023 04:22:09 UTC
+# Last converted - Fri, 25 Aug 2023 04:22:34 UTC
 #
 
 0.0.0.0 33across.com
@@ -38,6 +38,7 @@
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advangelists.com
 0.0.0.0 advmob.cn
+0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
@@ -262,6 +263,7 @@
 0.0.0.0 dm.pstatp.com
 0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 do-not-tracker.org
+0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 dsp-adcreative.mobshark.net
@@ -329,10 +331,10 @@
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 helpgrid1.ksmobile.com
-0.0.0.0 heytapmobile.com
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hq1.appsflyer.com
+0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iapp-cp.nuggad.net
@@ -484,6 +486,7 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 oldevent.togothermany.com
+0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onelink.appsflyer.com
@@ -538,7 +541,6 @@
 0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rosenberg.appmetrica.webvisor.com

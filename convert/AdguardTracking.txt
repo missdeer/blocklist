@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 25 Aug 2023 04:22:31 UTC
+# Last converted - Sat, 26 Aug 2023 04:21:19 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -390,7 +390,6 @@
 0.0.0.0 1471-4.tt.omtrdc.net
 0.0.0.0 148-4.ap.tt.omtrdc.net
 0.0.0.0 149-7280.tt.omtrdc.net
-0.0.0.0 149.13.65.144
 0.0.0.0 14903.tt.omtrdc.net
 0.0.0.0 14dishpurchasingcorporation.hb-api.tt.omtrdc.net
 0.0.0.0 14foxentertainment.hb-api.tt.omtrdc.net
@@ -646,7 +645,6 @@
 0.0.0.0 191xnews.hb.tt.omtrdc.net
 0.0.0.0 192-em.tt.omtrdc.net
 0.0.0.0 1932467g17.secure0149.tt.omtrdc.net
-0.0.0.0 195.10.245.55
 0.0.0.0 195.65.152.33adobecorp.hb.tt.omtrdc.net
 0.0.0.0 195.65.152.33newimagitasinc.hb.tt.omtrdc.net
 0.0.0.0 195191195191pn.hb.tt.omtrdc.net
@@ -770,9 +768,7 @@
 0.0.0.0 212-107-123-78.customers.tt.omtrdc.net
 0.0.0.0 212-107-127-135.customers.tt.omtrdc.net
 0.0.0.0 212-107-153-181.customers.tt.omtrdc.net
-0.0.0.0 212.227.100.108
 0.0.0.0 212.54.132200paloaltonetworks.tt.omtrdc.net
-0.0.0.0 212.95.32.75
 0.0.0.0 21257243.tt.omtrdc.net
 0.0.0.0 21260.tt.omtrdc.net
 0.0.0.0 21266241.tt.omtrdc.net
@@ -1480,7 +1476,6 @@
 0.0.0.0 62-127-110-207.tt.omtrdc.net
 0.0.0.0 62-127-149-110.tt.omtrdc.net
 0.0.0.0 62-127-95-40.tt.omtrdc.net
-0.0.0.0 62.160.52.73
 0.0.0.0 6214291.group41.sites.tt.omtrdc.net
 0.0.0.0 6251344.group34.sites.tt.omtrdc.net
 0.0.0.0 62j.unice.atlassian-app.eu.tt.omtrdc.net
@@ -1530,7 +1525,6 @@
 0.0.0.0 71.hb.tt.omtrdc.net
 0.0.0.0 7166868.group18.sites.tt.omtrdc.net
 0.0.0.0 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
-0.0.0.0 72.172.88.25
 0.0.0.0 7244932.group32.sites.tt.omtrdc.net
 0.0.0.0 7268550.tt.omtrdc.net
 0.0.0.0 7272069.tt.omtrdc.net
@@ -7780,7 +7774,6 @@
 0.0.0.0 analyticstest.amica.com
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytik.xyz
-0.0.0.0 analyze.yahooapis.com
 0.0.0.0 analyzer.omniata.com
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
@@ -8322,7 +8315,6 @@
 0.0.0.0 aplobv.xexymix.com
 0.0.0.0 aplyncowa.uds-qa.tt.omtrdc.net
 0.0.0.0 apm-sign.cloud.tt.omtrdc.net
-0.0.0.0 apm.crittercism.com
 0.0.0.0 apmap-1psn1.tt.omtrdc.net
 0.0.0.0 apmediacao-gamboaa.tt.omtrdc.net
 0.0.0.0 apmotorsdiniscar.tt.omtrdc.net
@@ -9361,9 +9353,6 @@
 0.0.0.0 atarget.firstrepublic.com
 0.0.0.0 atarget.harley-davidson.com
 0.0.0.0 atarts1.tt.omtrdc.net
-0.0.0.0 atax.gamespy.com
-0.0.0.0 atax.gamestats.com
-0.0.0.0 atax.ign.com
 0.0.0.0 atax.teamxbox.com
 0.0.0.0 atbs.actonservice.com
 0.0.0.0 atc14.tt.omtrdc.net
@@ -12300,7 +12289,6 @@
 0.0.0.0 cliftons.actonservice.com
 0.0.0.0 clixcount.com
 0.0.0.0 clixpy.com
-0.0.0.0 clk.about.com
 0.0.0.0 clk.aktr.info
 0.0.0.0 clk.allaboutvibe.com
 0.0.0.0 clk.americanbrightlife.com
@@ -17249,7 +17237,6 @@
 0.0.0.0 e-zeeinternet.com
 0.0.0.0 e.customeriomail.com
 0.0.0.0 e.darpro-solutions.com
-0.0.0.0 e.dr-zh.com
 0.0.0.0 e.email.forbes.com
 0.0.0.0 e.fdm.dk
 0.0.0.0 e.galeton.com
@@ -17926,6 +17913,7 @@
 0.0.0.0 email.axisintegrated.ca
 0.0.0.0 email.azurareborn.com
 0.0.0.0 email.bowl.com
+0.0.0.0 email.budovideos.com
 0.0.0.0 email.cloud2.secureclick.net
 0.0.0.0 email.cobsbread.com
 0.0.0.0 email.emsphone.com
@@ -20266,7 +20254,6 @@
 0.0.0.0 gssprt.jp
 0.0.0.0 gst.pulse.buyatoyota.com
 0.0.0.0 gst.pulse.toyota.com
-0.0.0.0 gstat.orange.fr
 0.0.0.0 gstats.cn
 0.0.0.0 gsupplyair.carte-gr.total.fr
 0.0.0.0 gsyegj.shatura.com
@@ -20868,7 +20855,6 @@
 0.0.0.0 hrnhcu.kapiva.in
 0.0.0.0 hronboard.actonservice.com
 0.0.0.0 hrqjlayvik.17.182nfl.hb.tt.omtrdc.net
-0.0.0.0 hrumpoc.hotels.com
 0.0.0.0 hruyiq.auction.co.kr
 0.0.0.0 hs-analytics.net
 0.0.0.0 hs-scripts.com
@@ -23088,7 +23074,6 @@
 0.0.0.0 joules.tt.omtrdc.net
 0.0.0.0 journalisten.tns-gallup.dk
 0.0.0.0 journey.cisco.com
-0.0.0.0 journey.unicef.de
 0.0.0.0 jowtkv.vertbaudet.de
 0.0.0.0 joy.ochronus.online
 0.0.0.0 jp-axia.m0mentum.net
@@ -23464,7 +23449,6 @@
 0.0.0.0 kqzyfj.com
 0.0.0.0 kr-go.experian.com
 0.0.0.0 kr.met.vgwort.de
-0.0.0.0 kr.phorm.com
 0.0.0.0 kr.promo.skf.com
 0.0.0.0 krak.tns-gallup.dk
 0.0.0.0 kraken.rambler.ru
@@ -28982,7 +28966,6 @@
 0.0.0.0 nlgzhd.yoox.com
 0.0.0.0 nljjem.honeys-onlineshop.com
 0.0.0.0 nlog.droid4x.cn
-0.0.0.0 nlog.nethru.io
 0.0.0.0 nlp-japan.life-and-mind.com
 0.0.0.0 nltzqx.autodoc.co.uk
 0.0.0.0 nlvnht.miror.jp
@@ -39289,7 +39272,6 @@
 0.0.0.0 stats.vanityprojects.com
 0.0.0.0 stats.vattenfall.nl
 0.0.0.0 stats.vattenfall.se
-0.0.0.0 stats.vc.gg
 0.0.0.0 stats.vdsnow.ru
 0.0.0.0 stats.vertis.io
 0.0.0.0 stats.vican.me
@@ -39399,7 +39381,6 @@
 0.0.0.0 stay.lottehotel.com
 0.0.0.0 stbg.standardbank.co.za
 0.0.0.0 stbg.standardbank.com
-0.0.0.0 stbt.coupons.com
 0.0.0.0 stc.store.page.zaloapp.com
 0.0.0.0 stcounter.com
 0.0.0.0 std.o.globalacademycme.com
@@ -40791,7 +40772,6 @@
 0.0.0.0 tdameritrade.tt.hb-api.tt.omtrdc.net
 0.0.0.0 tdameritrade.tt.hb-fa-stage.tt.omtrdc.net
 0.0.0.0 tdameritrade.tt.omtrdc.net
-0.0.0.0 tdapi.wickey.nl
 0.0.0.0 tdatpegqrt.dev.ext.tt.omtrdc.net
 0.0.0.0 tdatpegqrt.tpeg.tt.omtrdc.net
 0.0.0.0 tdbankfinancialgroup.tt.hb-fa-dev.tt.omtrdc.net
@@ -41539,7 +41519,6 @@
 0.0.0.0 top.gigmir.net
 0.0.0.0 top.hsdn.org
 0.0.0.0 top.list.ru
-0.0.0.0 top.myfilms.su
 0.0.0.0 top.neurofacts.org
 0.0.0.0 top.nydus.org
 0.0.0.0 top.t-sk.ru
@@ -43071,7 +43050,6 @@
 0.0.0.0 track.foreverideal.com
 0.0.0.0 track.forexagone.com
 0.0.0.0 track.freesmartphonenow.co
-0.0.0.0 track.ft.com
 0.0.0.0 track.ftnft.com
 0.0.0.0 track.fullgripecom.com
 0.0.0.0 track.furniturevisioncenter.com
@@ -43884,7 +43862,6 @@
 0.0.0.0 tracking.cspire.com
 0.0.0.0 tracking.cuddlypoodle.com
 0.0.0.0 tracking.culturalinsurance.com
-0.0.0.0 tracking.deluxe-marketing.com
 0.0.0.0 tracking.dev2.pepsicopartners.com
 0.0.0.0 tracking.dfinsolutions.com
 0.0.0.0 tracking.diginetica.net
@@ -43947,7 +43924,6 @@
 0.0.0.0 tracking.go.onshape.com
 0.0.0.0 tracking.go.provident.bank
 0.0.0.0 tracking.go.toyobo.co.jp
-0.0.0.0 tracking.goodgamestudios.com
 0.0.0.0 tracking.gpm-rtv.ru
 0.0.0.0 tracking.graduateschool.edu
 0.0.0.0 tracking.greenerdeals.info
@@ -44057,7 +44033,6 @@
 0.0.0.0 tracking.mjbizdaily.com
 0.0.0.0 tracking.mkt-email.samsungsds.com
 0.0.0.0 tracking.monespaceprime.engie.fr
-0.0.0.0 tracking.moneyam.com
 0.0.0.0 tracking.motorolasolutions.com
 0.0.0.0 tracking.mtn.co.za
 0.0.0.0 tracking.musixmatch.com
@@ -44500,6 +44475,7 @@
 0.0.0.0 trioofdipstas.tt.omtrdc.net
 0.0.0.0 trip-fia.tt.omtrdc.net
 0.0.0.0 tripadvisor.com%2FMptUrl%3Fp%3D
+0.0.0.0 tripadvisor.com%2Fimg%2Fcdsi%2Fpartner%2Ftransparent_pixel
 0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 tripointehomesinc.tt.omtrdc.net
 0.0.0.0 tripura105.tt.omtrdc.net

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 26 Aug 2023 04:21:19 UTC
+# Last converted - Sun, 27 Aug 2023 04:21:42 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -4881,6 +4881,7 @@
 0.0.0.0 abkobh.chobirich.com
 0.0.0.0 ablink-api.i-api.tt.omtrdc.net
 0.0.0.0 ablink-myinfo-uat.tt.omtrdc.net
+0.0.0.0 ablink.hi.channel4.com
 0.0.0.0 ablink1774.sender.sender.tt.omtrdc.net
 0.0.0.0 abmask.tt.omtrdc.net
 0.0.0.0 abmeldung.information.o2.de

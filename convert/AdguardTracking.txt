@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 27 Aug 2023 04:21:42 UTC
+# Last converted - Mon, 28 Aug 2023 04:23:00 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -12189,6 +12189,7 @@
 0.0.0.0 click.check-games.com
 0.0.0.0 click.ci.fr.tt.omtrdc.net
 0.0.0.0 click.clickcash.pro
+0.0.0.0 click.discord.com
 0.0.0.0 click.dracking.com
 0.0.0.0 click.e.change.org
 0.0.0.0 click.emails.paypal.com
@@ -23342,6 +23343,7 @@
 0.0.0.0 kiwi.coreyodonnell.tech
 0.0.0.0 kiwi.emilkowal.ski
 0.0.0.0 kiwi.mcan.sh
+0.0.0.0 kiwi.mdldb.net
 0.0.0.0 kiwi.railway.app
 0.0.0.0 kixfji.ymdy.co.jp
 0.0.0.0 kiynew.com

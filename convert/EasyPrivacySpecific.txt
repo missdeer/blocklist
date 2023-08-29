@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 28 Aug 2023 04:23:02 UTC
+# Last converted - Tue, 29 Aug 2023 04:23:14 UTC
 #
 
 0.0.0.0 3gl.net
@@ -128,7 +128,9 @@
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.hollisterco.com
+0.0.0.0 collect.reagroupdata.com.au
 0.0.0.0 collect.thunder-io.com
+0.0.0.0 collections-api.realestate.com.au
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.fiverr.com
@@ -301,6 +303,7 @@
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
 0.0.0.0 l936.expressnews.com
+0.0.0.0 lexa.realestate.com.au
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com

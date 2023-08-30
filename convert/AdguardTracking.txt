@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 29 Aug 2023 04:23:18 UTC
+# Last converted - Wed, 30 Aug 2023 04:22:49 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -85,6 +85,7 @@
 0.0.0.0 0saft.blog.tt.omtrdc.net
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0stats.com
+0.0.0.0 0ukok.mjt.lu
 0.0.0.0 1-95-9.tt.omtrdc.net
 0.0.0.0 1-cl0ud.com
 0.0.0.0 1-fu.tt.omtrdc.net
@@ -10148,7 +10149,6 @@
 0.0.0.0 b-ssl.grvcdn.com
 0.0.0.0 b.aecf.org
 0.0.0.0 b.allsecur.nl
-0.0.0.0 b.aol.com
 0.0.0.0 b.asrunapirelease.spotlight.tt.omtrdc.net
 0.0.0.0 b.betterbenefitslocal.com
 0.0.0.0 b.bloomberglp.com
@@ -10169,7 +10169,6 @@
 0.0.0.0 b.mitrust.com
 0.0.0.0 b.miwebflex.com
 0.0.0.0 b.mynewplace.com
-0.0.0.0 b.oix.net
 0.0.0.0 b.parade.com
 0.0.0.0 b.publicmobile.ca
 0.0.0.0 b.px-cdn.net
@@ -10529,7 +10528,6 @@
 0.0.0.0 beacon.richrelevance.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.samsclub.com
-0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon.tingyun.com
@@ -13218,7 +13216,6 @@
 0.0.0.0 count.fr
 0.0.0.0 count.gothaer-digital.de
 0.0.0.0 count.livetv.ru
-0.0.0.0 count.livetv.sx
 0.0.0.0 count.ly
 0.0.0.0 count.munhwa.com
 0.0.0.0 count.nuanyuehanxing.com
@@ -13261,7 +13258,6 @@
 0.0.0.0 counter.promodeejay.net
 0.0.0.0 counter.proxycrawl.com
 0.0.0.0 counter.rambler.ru
-0.0.0.0 counter.rian.ru
 0.0.0.0 counter.sberbank.ru
 0.0.0.0 counter.scribblelive.com
 0.0.0.0 counter.sibnet.ru
@@ -38773,7 +38769,6 @@
 0.0.0.0 stats.gslc.utah.edu
 0.0.0.0 stats.gtnetworks.com
 0.0.0.0 stats.guersanguillaume.com
-0.0.0.0 stats.guiamais.com.br
 0.0.0.0 stats.guidingwallet.app
 0.0.0.0 stats.hackershare.dev
 0.0.0.0 stats.hager.com
@@ -38956,7 +38951,6 @@
 0.0.0.0 stats.motorcyclepartsireland.ie
 0.0.0.0 stats.mrtnvh.com
 0.0.0.0 stats.mt.com
-0.0.0.0 stats.muasamcong.gov.vn
 0.0.0.0 stats.multiplelenses.com
 0.0.0.0 stats.multiply.cloud
 0.0.0.0 stats.myherocard.com
@@ -39256,7 +39250,6 @@
 0.0.0.0 stats.vertis.io
 0.0.0.0 stats.vican.me
 0.0.0.0 stats.video.globo.com
-0.0.0.0 stats.video.search.yahoo.com
 0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.videoseyred.in
 0.0.0.0 stats.vidyome.com
@@ -39307,7 +39300,6 @@
 0.0.0.0 stats.zimri.net
 0.0.0.0 stats.zmags.com
 0.0.0.0 stats.zone-telechargement.
-0.0.0.0 stats01.20min.ch
 0.0.0.0 stats1.wpmudev.com
 0.0.0.0 stats2.agilecrm.com
 0.0.0.0 stats2.allure.com
@@ -39357,7 +39349,6 @@
 0.0.0.0 stay.lottehotel.com
 0.0.0.0 stbg.standardbank.co.za
 0.0.0.0 stbg.standardbank.com
-0.0.0.0 stc.store.page.zaloapp.com
 0.0.0.0 stcounter.com
 0.0.0.0 std.o.globalacademycme.com
 0.0.0.0 std.o.medscape.com
@@ -40332,7 +40323,6 @@
 0.0.0.0 t810.ctpost.com
 0.0.0.0 t9h2.ricardocuisine.com
 0.0.0.0 t9k3a.jeanpaulfortin.com
-0.0.0.0 ta.queit.in
 0.0.0.0 ta.taxslayer.com
 0.0.0.0 ta.trs.cn
 0.0.0.0 tabcorpholdingslimit.tt.omtrdc.net
@@ -42728,7 +42718,6 @@
 0.0.0.0 track.abrdnaod.com
 0.0.0.0 track.abrdnifn.com
 0.0.0.0 track.abrdnnewindia.co.uk
-0.0.0.0 track.ad.nl
 0.0.0.0 track.adabra.com
 0.0.0.0 track.adchx.de
 0.0.0.0 track.adform.net
@@ -44099,7 +44088,6 @@
 0.0.0.0 tracking.shop.verymobile.it
 0.0.0.0 tracking.shopback.com
 0.0.0.0 tracking.shopstyle.co.uk
-0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 tracking.sierrawireless.com
 0.0.0.0 tracking.silverfernbrand.com
 0.0.0.0 tracking.singlestore.com

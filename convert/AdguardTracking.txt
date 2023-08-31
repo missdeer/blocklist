@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 30 Aug 2023 04:22:49 UTC
+# Last converted - Thu, 31 Aug 2023 04:22:58 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -5955,7 +5955,6 @@
 0.0.0.0 adservice.google.
 0.0.0.0 adsettings.com
 0.0.0.0 adsmetadata.mobileadexchange.net
-0.0.0.0 adsmetadata.startappk8s.com
 0.0.0.0 adsn-da-00.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 adsoft.tt.omtrdc.net
 0.0.0.0 adsolutions.com
@@ -7288,7 +7287,6 @@
 0.0.0.0 analytics-ssl.allconnect.com
 0.0.0.0 analytics-ssl.bradyid.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics-tracking.meetup.com
@@ -7716,7 +7714,6 @@
 0.0.0.0 analytics.uhhospitals.org
 0.0.0.0 analytics.unand.ac.id
 0.0.0.0 analytics.underarmour.com
-0.0.0.0 analytics.unister-gmbh.de
 0.0.0.0 analytics.unive.nl
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 analytics.us.archive.org
@@ -10146,7 +10143,6 @@
 0.0.0.0 b-int1.tt.omtrdc.net
 0.0.0.0 b-kb.tt.omtrdc.net
 0.0.0.0 b-sit-cmsit.tt.omtrdc.net
-0.0.0.0 b-ssl.grvcdn.com
 0.0.0.0 b.aecf.org
 0.0.0.0 b.allsecur.nl
 0.0.0.0 b.asrunapirelease.spotlight.tt.omtrdc.net
@@ -10525,7 +10521,6 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.qq.com
-0.0.0.0 beacon.richrelevance.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.shazam.com
@@ -12678,7 +12673,6 @@
 0.0.0.0 comenityservicing.tt.omtrdc.net
 0.0.0.0 comeresaprensasl.tt.omtrdc.net
 0.0.0.0 comespn.hb.omtrdc.netespndotcom.tt.omtrdc.net
-0.0.0.0 comet.yahoo.com
 0.0.0.0 cometlytrack.com
 0.0.0.0 comfluvaccines-cloud.vaccines.tt.omtrdc.net
 0.0.0.0 comfluvaccinesscm4.vaccines.tt.omtrdc.net
@@ -17244,6 +17238,7 @@
 0.0.0.0 dzszbb.homes.co.jp
 0.0.0.0 dzuthv.fahrrad-xxl.de
 0.0.0.0 dzwqfq.alpitour.it
+0.0.0.0 e-bedwettingstore.com
 0.0.0.0 e-contenta.com
 0.0.0.0 e-img.hover.to
 0.0.0.0 e-kaiseki.com
@@ -19455,12 +19450,10 @@
 0.0.0.0 geo.go2s.co
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
-0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.mattel163.com
 0.0.0.0 geo.met.vgwort.de
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.mozilla.org
-0.0.0.0 geo.play.it
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
@@ -19476,7 +19469,6 @@
 0.0.0.0 geoip.cleveland.com
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.gulflive.com
-0.0.0.0 geoip.herewetest.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.inquirer.net
 0.0.0.0 geoip.lehighvalleylive.com
@@ -23889,7 +23881,6 @@
 0.0.0.0 livelylaugh.com
 0.0.0.0 livestat.com
 0.0.0.0 livestats.fr
-0.0.0.0 livetracker.rfe.pangea-cms.com
 0.0.0.0 livetrafficfeed.com
 0.0.0.0 livewebstats.dk
 0.0.0.0 lizard.juststeveking.uk
@@ -26511,7 +26502,6 @@
 0.0.0.0 mediatek52.tt.omtrdc.net
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediator.imgsmail.ru
-0.0.0.0 mediator.mail.ru
 0.0.0.0 mediawatch.tns-gallup.dk
 0.0.0.0 mediawebltd.tt.omtrdc.net
 0.0.0.0 medibankltdau.tt.omtrdc.net
@@ -31559,6 +31549,7 @@
 0.0.0.0 puma.islingtonmecc.org.uk
 0.0.0.0 puma.strategyascode.com
 0.0.0.0 pumlmb.netcologne.de
+0.0.0.0 pumpedpancake.com
 0.0.0.0 pumpkin.abine.com
 0.0.0.0 pupses.com
 0.0.0.0 purchasesuggestion.com
@@ -32788,9 +32779,7 @@
 0.0.0.0 sa.adidas.pt
 0.0.0.0 sa.adidas.se
 0.0.0.0 sa.adidas.sk
-0.0.0.0 sa.aol.com
 0.0.0.0 sa.bbc.co.uk
-0.0.0.0 sa.bbc.com
 0.0.0.0 sa.bdoaustralia.bdo.com.au
 0.0.0.0 sa.chdist.com
 0.0.0.0 sa.dyson.no
@@ -37319,7 +37308,6 @@
 0.0.0.0 sp.thetowntalk.com
 0.0.0.0 sp.timesrecordnews.com
 0.0.0.0 sp.tinymce.com
-0.0.0.0 sp.udimg.com
 0.0.0.0 sp.vcstar.com
 0.0.0.0 sp.visaliatimesdelta.com
 0.0.0.0 sp.wausaudailyherald.com
@@ -38363,7 +38351,6 @@
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stat.rare.ru
 0.0.0.0 stat.rizeniskoly.cz
-0.0.0.0 stat.ruvr.ru
 0.0.0.0 stat.scroogefrog.com
 0.0.0.0 stat.smarteca.cz
 0.0.0.0 stat.smarteca.es
@@ -38734,7 +38721,6 @@
 0.0.0.0 stats.frantic.im
 0.0.0.0 stats.frenlo.com
 0.0.0.0 stats.fs4c.org
-0.0.0.0 stats.ft.com
 0.0.0.0 stats.fullofwishes.co.uk
 0.0.0.0 stats.fundimmo.com
 0.0.0.0 stats.fwdkit.com

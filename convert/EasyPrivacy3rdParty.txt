@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 30 Aug 2023 04:22:41 UTC
+# Last converted - Thu, 31 Aug 2023 04:23:00 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -130,6 +130,7 @@
 0.0.0.0 analytics.salesanalytics.io
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics.shareaholic.com
+0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
@@ -493,6 +494,7 @@
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnxlgencstz4.cloudfront.net
+0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
@@ -557,6 +559,7 @@
 0.0.0.0 events.medio.com
 0.0.0.0 events.missena.io
 0.0.0.0 events.ocdn.eu
+0.0.0.0 events.paramount.tech
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net

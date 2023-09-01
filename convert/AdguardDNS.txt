@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Thu, 31 Aug 2023 04:23:02 UTC
+# Last converted - Fri, 01 Sep 2023 04:22:58 UTC
 #
 
 0.0.0.0 0-000.store
@@ -2070,6 +2070,7 @@
 0.0.0.0 abc.yebaike.com
 0.0.0.0 abc748596aaa.vip
 0.0.0.0 abcd.5lu.com
+0.0.0.0 abcd.cnhuoche.com
 0.0.0.0 abcd.yiq.com
 0.0.0.0 abcd.zle.com
 0.0.0.0 abcdcfasda.gushiwen.cn
@@ -5672,6 +5673,7 @@
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-sprint.qoqa.com
+0.0.0.0 analytics-stamp.confi.com.vc
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tracker.thescore.com
@@ -7560,12 +7562,14 @@
 0.0.0.0 awembd.com
 0.0.0.0 awemdia.com
 0.0.0.0 awempire.com
+0.0.0.0 awempt.com
 0.0.0.0 awemwh.com
 0.0.0.0 awentw.com
 0.0.0.0 aweproto.com
 0.0.0.0 aweprotostatic.com
 0.0.0.0 aweprt.com
 0.0.0.0 awepsi.com
+0.0.0.0 awepsljan.com
 0.0.0.0 awept.com
 0.0.0.0 awesome-blocker.com
 0.0.0.0 awesome.section.io
@@ -11242,6 +11246,7 @@
 0.0.0.0 cdcc3.com
 0.0.0.0 cdceed.de
 0.0.0.0 cdcqee.com
+0.0.0.0 cdctwm.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 cdeaffjujxchf.com
 0.0.0.0 cdend.com
@@ -11901,6 +11906,7 @@
 0.0.0.0 chromessolacer.com
 0.0.0.0 chronicads.com
 0.0.0.0 chrysostrck.com
+0.0.0.0 chryvast.com
 0.0.0.0 chsfdfkwsrjwe.xyz
 0.0.0.0 chshcms.net
 0.0.0.0 chsrkred.com
@@ -16944,6 +16950,7 @@
 0.0.0.0 dp45nhyltt487.cloudfront.net
 0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 dpaic.xyz
+0.0.0.0 dpbgnf.xyz
 0.0.0.0 dpbxtrqyljhse.xyz
 0.0.0.0 dpd9yiocsyy6p.cloudfront.net
 0.0.0.0 dpdnav.com
@@ -18232,6 +18239,7 @@
 0.0.0.0 embogsoarers.com
 0.0.0.0 embtrk.com
 0.0.0.0 embulkglommed.com
+0.0.0.0 embwmpt.com
 0.0.0.0 emcoper.com
 0.0.0.0 emdcadvertise.eastmoney.com
 0.0.0.0 emediate.dk
@@ -19563,6 +19571,7 @@
 0.0.0.0 fandelcot.com
 0.0.0.0 fandmo.com
 0.0.0.0 fandommetrics.com
+0.0.0.0 fangcunzhijian1.cn
 0.0.0.0 fangfeeling.com
 0.0.0.0 fangfeng001.xyz
 0.0.0.0 fangfeng002.xyz
@@ -20034,6 +20043,7 @@
 0.0.0.0 finallysuburblaunching.com
 0.0.0.0 finance-hot-news.com
 0.0.0.0 finance2you.org
+0.0.0.0 financefear.com
 0.0.0.0 financial-agent.headlines.pw
 0.0.0.0 finative.cloud
 0.0.0.0 finative.eu
@@ -26759,9 +26769,12 @@
 0.0.0.0 jsl44w.xyz
 0.0.0.0 jslbaha.top
 0.0.0.0 jslog.zapps.vn
+0.0.0.0 jsmcrpu.com
+0.0.0.0 jsmcrt.com
 0.0.0.0 jsmentry.com
 0.0.0.0 jsmjmp.com
 0.0.0.0 jsmpsi.com
+0.0.0.0 jsmpus.com
 0.0.0.0 jsnignsa.xyz
 0.0.0.0 jsnoownma.fun
 0.0.0.0 jsoctn9.com
@@ -28860,6 +28873,7 @@
 0.0.0.0 liverbarrelrustle.com
 0.0.0.0 livesegmentservice.com
 0.0.0.0 livesession.io
+0.0.0.0 livesexbar.com
 0.0.0.0 livesmarter.com
 0.0.0.0 livesmi.com
 0.0.0.0 livestat.com
@@ -37834,6 +37848,7 @@
 0.0.0.0 prpopss.com
 0.0.0.0 prprocess.com
 0.0.0.0 prre.ru
+0.0.0.0 prtawe.com
 0.0.0.0 prtlth.xyz
 0.0.0.0 prtord.com
 0.0.0.0 prtracker.com
@@ -37972,6 +37987,8 @@
 0.0.0.0 ptawe.com
 0.0.0.0 ptawehex.net
 0.0.0.0 ptawhood.net
+0.0.0.0 ptbrdg.com
+0.0.0.0 ptcdwm.com
 0.0.0.0 ptechait.com
 0.0.0.0 ptecmooz.net
 0.0.0.0 ptecmuny.com
@@ -46499,6 +46516,7 @@
 0.0.0.0 thalto.com
 0.0.0.0 thalubse.net
 0.0.0.0 thaninncoos.com
+0.0.0.0 thank-you.io
 0.0.0.0 thankful-conference.pro
 0.0.0.0 thanksgivingbilliardslight.com
 0.0.0.0 thanksinhabitedregretful.com
@@ -52488,6 +52506,7 @@
 0.0.0.0 wmmediacorp.com
 0.0.0.0 wmober.com
 0.0.0.0 wmolgnjo.xyz
+0.0.0.0 wmpset.com
 0.0.0.0 wmptctl.com
 0.0.0.0 wmpuem.com
 0.0.0.0 wmrok.com
@@ -54192,6 +54211,7 @@
 0.0.0.0 yuncaizhijia.ltd
 0.0.0.0 yunded.com
 0.0.0.0 yunit.org
+0.0.0.0 yunliunet.com
 0.0.0.0 yunqiii.store
 0.0.0.0 yunsennet.com
 0.0.0.0 yunshipei.com

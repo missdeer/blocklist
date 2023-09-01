@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 31 Aug 2023 04:22:58 UTC
+# Last converted - Fri, 01 Sep 2023 04:23:00 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -11883,6 +11883,7 @@
 0.0.0.0 cdn.easybenefitfinder.com
 0.0.0.0 cdn.experience.globalsources.com
 0.0.0.0 cdn.glassboxcdn.com
+0.0.0.0 cdn.granify.com
 0.0.0.0 cdn.kaizenplatform.net
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.mavi.digital
@@ -11897,7 +11898,6 @@
 0.0.0.0 cdn.resonate.com
 0.0.0.0 cdn.rlets.com
 0.0.0.0 cdn.sgmntfy.com
-0.0.0.0 cdn.shopify.com%2Fshopify-email%2F
 0.0.0.0 cdn.smlog.co.kr
 0.0.0.0 cdn.sophi.io
 0.0.0.0 cdn.sppoints.xyz
@@ -12295,7 +12295,6 @@
 0.0.0.0 client.tt.omtrdc.net
 0.0.0.0 clientcode.tt.omtrdc.net
 0.0.0.0 clientlog.midomi.com
-0.0.0.0 clientlog.portal.office.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clientservice.alphasimplex.com
@@ -16982,6 +16981,7 @@
 0.0.0.0 dmp.citiservi.es
 0.0.0.0 dmp.sbermarketing.ru
 0.0.0.0 dmpcloud.net
+0.0.0.0 dmpmetrics.rcsmetrics.it
 0.0.0.0 dmpprof.com
 0.0.0.0 dmpxs.com
 0.0.0.0 dmqykw.thirtymall.com
@@ -23809,6 +23809,7 @@
 0.0.0.0 link.americanhomesaver.com
 0.0.0.0 link.bankofscotland.co.uk
 0.0.0.0 link.buytuffbolt.com
+0.0.0.0 link.cnbc.com
 0.0.0.0 link.cortexisite.live
 0.0.0.0 link.epichomesavings.com
 0.0.0.0 link.findtruefit.com
@@ -30840,7 +30841,6 @@
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.reddit.com
-0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.s3xified.com
@@ -31943,7 +31943,6 @@
 0.0.0.0 readysnails.com
 0.0.0.0 readytrainingonline.actonservice.com
 0.0.0.0 real-feedback.toros.daum.net
-0.0.0.0 real-user-monitoring.a.autoscout24.com
 0.0.0.0 realcomm.actonservice.com
 0.0.0.0 realcounter.eu
 0.0.0.0 realcounters.com
@@ -33957,6 +33956,7 @@
 0.0.0.0 sftp.actonservice.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sg-go.experian.com
+0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg.lucanet.com
 0.0.0.0 sg.promo.skf.com
 0.0.0.0 sg01.rayjump.com
@@ -43617,6 +43617,7 @@
 0.0.0.0 tracker.dcdn.baidu.com
 0.0.0.0 tracker.decomworld.com
 0.0.0.0 tracker.departapp.com
+0.0.0.0 tracker.dianshige.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
@@ -43660,6 +43661,7 @@
 0.0.0.0 tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.tubecj.com
+0.0.0.0 tracker.ulivetv.net
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.wordstream.com
@@ -43667,6 +43669,7 @@
 0.0.0.0 tracker.yolo247.com
 0.0.0.0 trackerapi.service.echobox.com
 0.0.0.0 trackerhqu.com
+0.0.0.0 trackernew.ulivetv.net
 0.0.0.0 trackers.adtarget.me
 0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org

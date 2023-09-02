@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 01 Sep 2023 04:23:02 UTC
+# Last converted - Sat, 02 Sep 2023 04:27:51 UTC
 #
 
 0.0.0.0 3gl.net
@@ -304,6 +304,7 @@
 0.0.0.0 jumbo.zomato.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 lexa.realestate.com.au
+0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
@@ -367,6 +368,7 @@
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.fusevideo.net
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 perf.mouser.com
@@ -604,6 +606,7 @@
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 webtrekk.net
+0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt-safetag.com

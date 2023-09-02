@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 01 Sep 2023 04:23:03 UTC
+# Last converted - Sat, 02 Sep 2023 04:27:48 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -376,6 +376,7 @@
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
+0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
@@ -1296,6 +1297,7 @@
 0.0.0.0 userexperience.thehut.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 v.shopify.com
+0.0.0.0 validate.onecount.net
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verify.authorize.net

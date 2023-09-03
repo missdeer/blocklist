@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 02 Sep 2023 04:27:47 UTC
+# Last converted - Sun, 03 Sep 2023 04:21:49 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -23993,6 +23993,7 @@
 0.0.0.0 log.bandi.so
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.bloodsugars.live
+0.0.0.0 log.bntrace.com
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.cognex.com
@@ -37391,6 +37392,7 @@
 0.0.0.0 splittag.com
 0.0.0.0 splyt.com
 0.0.0.0 spmaeu.gumtree.com.au
+0.0.0.0 spmailtechnol.com
 0.0.0.0 spmyma.moscowfresh.ru
 0.0.0.0 spn-twr-14.com
 0.0.0.0 spn.ee

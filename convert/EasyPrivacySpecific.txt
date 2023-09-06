@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 04 Sep 2023 04:22:37 UTC
+# Last converted - Wed, 06 Sep 2023 04:23:06 UTC
 #
 
 0.0.0.0 3gl.net
@@ -249,8 +249,8 @@
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gct.americanexpress.com
+0.0.0.0 generic-function-log-data-7il2midpaa-nn.a.run.app
 0.0.0.0 geo.brobible.com
-0.0.0.0 geo.gfycat.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geoip.boredpanda.com
@@ -461,6 +461,7 @@
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.plesk.com
 0.0.0.0 ss.photospecialist.co.uk
+0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
 0.0.0.0 stat.cdngeek.com
@@ -470,6 +471,7 @@
 0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stategg.cdngeek.com
 0.0.0.0 static.parsely.com
+0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.calcalist.co.il

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 06 Sep 2023 04:22:59 UTC
+# Last converted - Thu, 07 Sep 2023 04:22:57 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -5391,7 +5391,6 @@
 0.0.0.0 acxe8gqr1vsklr8k.sparta.members.tt.omtrdc.net
 0.0.0.0 acxiom-online.com
 0.0.0.0 acxiom.hb.tt.omtrdc.net
-0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-chflex-ch2.slb.tt.omtrdc.net
 0.0.0.0 ad-creative.projectcarmen.com
@@ -7124,7 +7123,6 @@
 0.0.0.0 allvideometrika.com
 0.0.0.0 ally.tt.omtrdc.net
 0.0.0.0 alocdn.com
-0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umeng.com
@@ -7694,7 +7692,6 @@
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.slidesai.io
-0.0.0.0 analytics.snappea.com
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.soluforce.com
 0.0.0.0 analytics.sona-mira.co.jp
@@ -8129,7 +8126,6 @@
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.api.feeder.tt.omtrdc.net
 0.0.0.0 api.appc-b-vir-d1.vz8y.p1.tt.omtrdc.net
-0.0.0.0 api.appsee.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.argocd-worker-2.5g1k.p1.tt.omtrdc.net
@@ -8148,7 +8144,6 @@
 0.0.0.0 api.clearsky.tt.omtrdc.net
 0.0.0.0 api.clus2-dev.tt.omtrdc.net
 0.0.0.0 api.content.stage.tt.omtrdc.net
-0.0.0.0 api.crittercism.com
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 api.datatunnel-staging.tt.omtrdc.net
 0.0.0.0 api.dev.origo.tt.omtrdc.net
@@ -8178,7 +8173,6 @@
 0.0.0.0 api.hairlie-stg.tt.omtrdc.net
 0.0.0.0 api.hb.tt.omtrdc.net
 0.0.0.0 api.hbf-qa.pmib.test.tt.omtrdc.net
-0.0.0.0 api.imqtyik.com
 0.0.0.0 api.ingest.oitroot.us-east-1-clean1.preview.tt.omtrdc.net
 0.0.0.0 api.instabug.com
 0.0.0.0 api.internal.aws-kops.tt.omtrdc.net
@@ -8222,7 +8216,6 @@
 0.0.0.0 api.ria.tt.omtrdc.net
 0.0.0.0 api.rm1003.stage.tt.omtrdc.net
 0.0.0.0 api.ryanyao.design
-0.0.0.0 api.safedk.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sandpit1.assistant.tt.omtrdc.net
 0.0.0.0 api.sapglobalmarketingin.tt.omtrdc.net
@@ -8237,7 +8230,6 @@
 0.0.0.0 api.signer.paiweb.tt.omtrdc.net
 0.0.0.0 api.sisgasrec.tt.omtrdc.net
 0.0.0.0 api.smbeat.jp
-0.0.0.0 api.splkmobile.com
 0.0.0.0 api.sqills-coe-testa-test.gce.tt.omtrdc.net
 0.0.0.0 api.stage2an052.stage.tt.omtrdc.net
 0.0.0.0 api.stage2d0105.stage.tt.omtrdc.net
@@ -11880,7 +11872,6 @@
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 cazbahdirect.fosterkeencut.com
-0.0.0.0 cb.ksmobile.com
 0.0.0.0 cba9.hb.tt.omtrdc.net
 0.0.0.0 cbc.pnc.com
 0.0.0.0 cbdatatracker.com
@@ -12506,7 +12497,6 @@
 0.0.0.0 cmp.skoda.be
 0.0.0.0 cmp.vdfin.be
 0.0.0.0 cmp.volkswagen.be
-0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 cmptch.com
 0.0.0.0 cms.lv
 0.0.0.0 cms.tt.omtrdc.net
@@ -13352,7 +13342,6 @@
 0.0.0.0 counterstatistik.de
 0.0.0.0 countertracker.com
 0.0.0.0 counterviews.net
-0.0.0.0 countess.twitch.tv
 0.0.0.0 counthis.com
 0.0.0.0 counti.de
 0.0.0.0 counting4free.com
@@ -17238,7 +17227,6 @@
 0.0.0.0 dsmmadvantage.com
 0.0.0.0 dsoxjxin5jji.controlconceptsusa.com
 0.0.0.0 dsp-adcreative.mobshark.net
-0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 dsp.tt.omtrdc.net
 0.0.0.0 dsparking.com
 0.0.0.0 dsply.com
@@ -18482,7 +18470,6 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event-tracking.deliverr.com
-0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.boozallen.com
 0.0.0.0 event.chitai-gorod.ru
 0.0.0.0 event.collector.scopely.io
@@ -18514,6 +18501,7 @@
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+0.0.0.0 eventexistence.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
@@ -21065,7 +21053,6 @@
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 iamheliumapacpartner.tt.omtrdc.net
-0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 ias1hv79dvqcgjcv.tt.omtrdc.net
 0.0.0.0 iatspayments.actonservice.com
 0.0.0.0 iazwzp.lyst.com
@@ -24055,7 +24042,6 @@
 0.0.0.0 lodlww.carcon.co.jp
 0.0.0.0 loewshotels.tt.omtrdc.net
 0.0.0.0 lofi.kylnk.com
-0.0.0.0 log-api.aillis.net
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee.
 0.0.0.0 log-hl.snssdk.com
@@ -24108,7 +24094,6 @@
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
 0.0.0.0 log.go.com
-0.0.0.0 log.go2s.co
 0.0.0.0 log.gobankingrates.com
 0.0.0.0 log.gomlab.com
 0.0.0.0 log.gs3.goo.ne.jp
@@ -29623,7 +29608,6 @@
 0.0.0.0 one2.onestep.fr
 0.0.0.0 onecallglobal.actonservice.com
 0.0.0.0 onecloud.avaya.com
-0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onefeed.co.uk
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onelink.me
@@ -30908,7 +30892,6 @@
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.naturadapt.com
 0.0.0.0 ping.resoluteoil.com
-0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 pingagenow.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.sogou.com
@@ -30958,6 +30941,7 @@
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.archive.
 0.0.0.0 pixel.augsburger-allgemeine.de
+0.0.0.0 pixel.aws.pfnetwork.net
 0.0.0.0 pixel.barion.com
 0.0.0.0 pixel.bridge.dooca.store
 0.0.0.0 pixel.bullion.media
@@ -33682,7 +33666,6 @@
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 sdlmaf.bestsecret.at
 0.0.0.0 sdtagging.azureedge.net
@@ -38623,6 +38606,7 @@
 0.0.0.0 statementsweater.com
 0.0.0.0 stateofil.tt.omtrdc.net
 0.0.0.0 statetc.nate.com
+0.0.0.0 statgw.devtodev.com
 0.0.0.0 stathat.com
 0.0.0.0 stathound.com
 0.0.0.0 static-ads.zaloapp.com
@@ -45199,7 +45183,6 @@
 0.0.0.0 ttrace.ru
 0.0.0.0 tts29.tt.omtrdc.net
 0.0.0.0 ttucxehxuodiva1jee.sparta.members.tt.omtrdc.net
-0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tuagol.gartenmoebel.de
 0.0.0.0 tufcum.margaretha.se
 0.0.0.0 tugngs.tui.com
@@ -45451,9 +45434,7 @@
 0.0.0.0 umbtest.my.tt.omtrdc.net
 0.0.0.0 umcm.tt.omtrdc.net
 0.0.0.0 umdlbn.globetrotter.de
-0.0.0.0 umeng.com.gds.alibabadns.com
 0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 umengcloud.com.gds.alibabadns.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umiaob.kireibiz.jp
 0.0.0.0 umuc.tt.omtrdc.net
@@ -45592,7 +45573,6 @@
 0.0.0.0 us.onkyo.actonservice.com
 0.0.0.0 us.promo.skf.com
 0.0.0.0 us.ricoh-usa.com
-0.0.0.0 us04logfiles-va.zoom.us
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usa1-dr.tt.omtrdc.net
 0.0.0.0 usaa.tt.omtrdc.net
@@ -45650,7 +45630,6 @@
 0.0.0.0 usrkrz.zdravcity.ru
 0.0.0.0 ussmelap094p.arrownao.corp.tt.omtrdc.net
 0.0.0.0 ussolutions.equifax.com
-0.0.0.0 ustat.batmobi.net
 0.0.0.0 ustat.info
 0.0.0.0 ustat.pro
 0.0.0.0 ustglobal.tt.omtrdc.net

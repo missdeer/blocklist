@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 06 Sep 2023 04:23:07 UTC
+# Last converted - Thu, 07 Sep 2023 04:22:56 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -67,7 +67,6 @@
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.contentexchange.me
 0.0.0.0 analytics.convertlanguage.com
-0.0.0.0 analytics.dealer.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -748,6 +747,7 @@
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.doppiocdn.com
 0.0.0.0 metrics.doppiocdn.org
+0.0.0.0 metrics.doppiostreams.com
 0.0.0.0 metrics.futureplc.engineering
 0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.icloud.com

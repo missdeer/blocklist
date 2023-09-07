@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 06 Sep 2023 04:23:01 UTC
+# Last converted - Thu, 07 Sep 2023 04:23:00 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -269,6 +269,7 @@
 0.0.0.0 astrsk.net
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atti.com
+0.0.0.0 audiomob.com
 0.0.0.0 avazunativeads.com
 0.0.0.0 axonix.com
 0.0.0.0 banner.hpmdnetwork.ru
@@ -574,7 +575,6 @@
 0.0.0.0 mojiva.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 mopub-win-us-east.bksn.se
-0.0.0.0 mradx.net
 0.0.0.0 msg.ettoday.net
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mtburn.com

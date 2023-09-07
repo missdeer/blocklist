@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 06 Sep 2023 04:23:05 UTC
+# Last converted - Thu, 07 Sep 2023 04:22:55 UTC
 #
 
 0.0.0.0 33across.com
@@ -12,7 +12,6 @@
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 ace.naver.com
-0.0.0.0 ad-analytics-bootstrap.metaps.com
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
@@ -48,7 +47,6 @@
 0.0.0.0 akstat.io
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 ali-stats.jpush.cn
-0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alogs.umeng.com
@@ -103,7 +101,6 @@
 0.0.0.0 analytics.robinhood.com
 0.0.0.0 analytics.rover.io
 0.0.0.0 analytics.seekxr.com
-0.0.0.0 analytics.snappea.com
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.zg-api.com
@@ -118,22 +115,18 @@
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.analytics.omgpop.com
-0.0.0.0 api.appsee.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.branch.io
-0.0.0.0 api.crittercism.com
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
-0.0.0.0 api.imqtyik.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.reproio.com
-0.0.0.0 api.safedk.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
@@ -141,7 +134,6 @@
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
 0.0.0.0 api.smbeat.jp
-0.0.0.0 api.splkmobile.com
 0.0.0.0 api.telemetry.watchabc.go.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api2.appsflyer.com
@@ -188,7 +180,6 @@
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 carfax.sc.omtrdc.net
-0.0.0.0 cb.ksmobile.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdnappicons.appsflyer.com
@@ -203,7 +194,6 @@
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clog.mirrativ.com
 0.0.0.0 cloudconf.fengkongcloud.com
-0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 co.akisinn.info
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
@@ -266,7 +256,6 @@
 0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 dsp-adcreative.mobshark.net
-0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 dsptrack.mobshark.net
 0.0.0.0 dt.beyla.site
 0.0.0.0 dualstack-cgicol.amap.com
@@ -281,7 +270,6 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 ets.easybrain.com
 0.0.0.0 event-search.jorte.com
-0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
@@ -336,7 +324,6 @@
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 iam-agof-app.irquest.com
-0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 imp.apprevolve.com
@@ -371,7 +358,6 @@
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
-0.0.0.0 log-api.aillis.net
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-tb.isnssdk.com
@@ -395,7 +381,6 @@
 0.0.0.0 log.estand.jp
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
-0.0.0.0 log.go2s.co
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.make50.com
@@ -487,7 +472,6 @@
 0.0.0.0 oldevent.togothermany.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 omni-ads.omni.news
-0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 online-metrix.imars.cloud
 0.0.0.0 online-metrix.net
@@ -501,7 +485,6 @@
 0.0.0.0 payload.adadapted.com
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 piano_log.kingsoft.jp
-0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtas.qq.com
 0.0.0.0 pippio.com
@@ -561,7 +544,6 @@
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
@@ -679,7 +661,6 @@
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts.line-apps.com
-0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 ub-xjp.vvbrd.com
@@ -688,21 +669,17 @@
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 umeng.com.gds.alibabadns.com
 0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 umengcloud.com.gds.alibabadns.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
-0.0.0.0 us04logfiles-va.zoom.us
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usage.influxdata.com
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usertrack.appcpi.net
-0.0.0.0 ustat.batmobi.net
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 validate.appsflyer.com

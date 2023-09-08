@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 07 Sep 2023 04:22:57 UTC
+# Last converted - Fri, 08 Sep 2023 04:22:54 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -1841,7 +1841,6 @@
 0.0.0.0 a.audifrance.fr
 0.0.0.0 a.beliefnet.com
 0.0.0.0 a.bigtennetwork.com
-0.0.0.0 a.bitmango.com
 0.0.0.0 a.brack.ch
 0.0.0.0 a.conferencecall.com
 0.0.0.0 a.ctd.ai
@@ -7834,7 +7833,6 @@
 0.0.0.0 analyticstest.amica.com
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytik.xyz
-0.0.0.0 analyzer.omniata.com
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 anaplan.tt.omtrdc.net
@@ -8201,7 +8199,6 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mtndml.tt.omtrdc.net
 0.0.0.0 api.mypmo.tt.omtrdc.net
-0.0.0.0 api.oneaudience.com
 0.0.0.0 api.ouibus-training3-test2-test.tt.omtrdc.net
 0.0.0.0 api.ow.tt.omtrdc.net
 0.0.0.0 api.pdx.tt.omtrdc.net
@@ -8229,7 +8226,6 @@
 0.0.0.0 api.shopfront.gammanl.tt.omtrdc.net
 0.0.0.0 api.signer.paiweb.tt.omtrdc.net
 0.0.0.0 api.sisgasrec.tt.omtrdc.net
-0.0.0.0 api.smbeat.jp
 0.0.0.0 api.sqills-coe-testa-test.gce.tt.omtrdc.net
 0.0.0.0 api.stage2an052.stage.tt.omtrdc.net
 0.0.0.0 api.stage2d0105.stage.tt.omtrdc.net
@@ -8683,7 +8679,6 @@
 0.0.0.0 app.results.chronicle.com
 0.0.0.0 app.riverbed.com
 0.0.0.0 app.rolltide.com
-0.0.0.0 app.roximity.com
 0.0.0.0 app.sapglobalmarketingin.tt.omtrdc.net
 0.0.0.0 app.sbas.sage.com
 0.0.0.0 app.scarletknights.com
@@ -16304,7 +16299,6 @@
 0.0.0.0 dc.sterlingjewelers.com
 0.0.0.0 dc.stokke.com
 0.0.0.0 dc.volkswagen.com
-0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.zales.com
 0.0.0.0 dc.zalesoutlet.com
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
@@ -19426,7 +19420,6 @@
 0.0.0.0 gallupnet.fi
 0.0.0.0 galop.leferacheval-saintcloud.com
 0.0.0.0 galp.tt.omtrdc.net
-0.0.0.0 gameanalisys.appcpi.net
 0.0.0.0 gamefowl.emailforward.mx
 0.0.0.0 gamefowl.karlsutt.com
 0.0.0.0 gamefowl.nonprofit.foundation
@@ -20639,7 +20632,6 @@
 0.0.0.0 hellosherpa.com
 0.0.0.0 hellosmpl.com
 0.0.0.0 helpdesk.thinkhdi.com
-0.0.0.0 helpgrid1.ksmobile.com
 0.0.0.0 helpster.met.vgwort.de
 0.0.0.0 helvetia.tt.omtrdc.net
 0.0.0.0 henkel.tt.omtrdc.net
@@ -24184,7 +24176,6 @@
 0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 logcollect.totalcms.ncloud.or.kr
 0.0.0.0 logcollector.note.com
-0.0.0.0 logcollector.viewster.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
@@ -29298,7 +29289,6 @@
 0.0.0.0 observerapp.com
 0.0.0.0 obtfhl.bellemaison.jp
 0.0.0.0 obyxuq.gazzy.com.br
-0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 occidente.ubmmexico.com
 0.0.0.0 oceanautomotive.actonservice.com
@@ -34148,7 +34138,6 @@
 0.0.0.0 shelbypublishing.actonservice.com
 0.0.0.0 shell.tt.omtrdc.net
 0.0.0.0 shelterorgtarget.tt.omtrdc.net
-0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 sherlock.nicolabigwood.uk
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shhh.lol
@@ -39426,7 +39415,6 @@
 0.0.0.0 stats.ubiwiz.com
 0.0.0.0 stats.ucheba.ru
 0.0.0.0 stats.umsns.com
-0.0.0.0 stats.unity3d.com
 0.0.0.0 stats.unusualtourist.com
 0.0.0.0 stats.urbanfinn.com
 0.0.0.0 stats.urlaubsverwaltung.cloud
@@ -40551,7 +40539,6 @@
 0.0.0.0 tag.goadopt.io
 0.0.0.0 tag.hariken.co
 0.0.0.0 tag.imagino.com
-0.0.0.0 tag.karte.io
 0.0.0.0 tag.nifty.com
 0.0.0.0 tag.pprl.io
 0.0.0.0 tag.rmp.rakuten.com
@@ -43923,7 +43910,6 @@
 0.0.0.0 tracking.adpinfo.com
 0.0.0.0 tracking.adpri.org
 0.0.0.0 tracking.adsbot.kr
-0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 tracking.affiliateclub.cz
 0.0.0.0 tracking.agora.io
@@ -44383,7 +44369,6 @@
 0.0.0.0 tracking.vertiv.com
 0.0.0.0 tracking.vertivco.com
 0.0.0.0 tracking.viewlift.com
-0.0.0.0 tracking.viewster.com
 0.0.0.0 tracking.virginmediao2business.co.uk
 0.0.0.0 tracking.virtus.com
 0.0.0.0 tracking.visitdubai.com
@@ -47730,7 +47715,6 @@
 0.0.0.0 xlbvvo.luisaviaroma.com
 0.0.0.0 xlisting.jp
 0.0.0.0 xljqqe.hsn.com
-0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
@@ -48038,7 +48022,6 @@
 0.0.0.0 zerostats.com
 0.0.0.0 zerotogether.tt.omtrdc.net
 0.0.0.0 zesep.com
-0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeustechnology.com
 0.0.0.0 zewdpmtypi._tcp.abcnews.hb.tt.omtrdc.net
 0.0.0.0 zewdpmtypi.tcp.abcnews.hb.tt.omtrdc.net

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 10 Sep 2023 04:21:40 UTC
+# Last converted - Mon, 11 Sep 2023 04:22:57 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -130,6 +130,7 @@
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.shorte.st
+0.0.0.0 analytics.shorthand.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
@@ -553,6 +554,7 @@
 0.0.0.0 events.btw.so
 0.0.0.0 events.demoup.com
 0.0.0.0 events.devcycle.com
+0.0.0.0 events.elev.io
 0.0.0.0 events.flagship.io
 0.0.0.0 events.jokerly.com
 0.0.0.0 events.jotform.com

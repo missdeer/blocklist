@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 11 Sep 2023 04:22:57 UTC
+# Last converted - Tue, 12 Sep 2023 04:22:35 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -59,6 +59,7 @@
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.carbaselive.com
+0.0.0.0 analytics.cdn112.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.clic2buy.com

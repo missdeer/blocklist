@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 13 Sep 2023 04:22:55 UTC
+# Last converted - Thu, 14 Sep 2023 04:22:31 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -532,6 +532,7 @@
 0.0.0.0 mads.bz
 0.0.0.0 manage.com
 0.0.0.0 manifest.auditude.com
+0.0.0.0 marketing.mangacopy.com
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbn.com.ua

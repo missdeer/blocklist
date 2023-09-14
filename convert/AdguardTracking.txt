@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 13 Sep 2023 04:22:49 UTC
+# Last converted - Thu, 14 Sep 2023 04:22:27 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7544,6 +7544,7 @@
 0.0.0.0 analytics.gestore.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gewaterheater.com
+0.0.0.0 analytics.gnetworks.xyz
 0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gooogol.com
@@ -12226,7 +12227,6 @@
 0.0.0.0 chui.tristes.mfisswger.com
 0.0.0.0 chunkycactus.com
 0.0.0.0 churro.noteapps.info
-0.0.0.0 ci.asosservices.com
 0.0.0.0 ci.intuit.ca
 0.0.0.0 ci.intuit.com
 0.0.0.0 ci.quickbooks.com
@@ -20125,6 +20125,7 @@
 0.0.0.0 go.l-com.com
 0.0.0.0 go.labcorp.com
 0.0.0.0 go.lanair.com
+0.0.0.0 go.lanet.click
 0.0.0.0 go.lanmark360.com
 0.0.0.0 go.laurelsprings.com
 0.0.0.0 go.legalinjuryadvocates.com

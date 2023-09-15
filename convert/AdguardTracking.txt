@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 14 Sep 2023 04:22:27 UTC
+# Last converted - Fri, 15 Sep 2023 04:22:39 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -29665,6 +29665,7 @@
 0.0.0.0 o.swisscom.ch
 0.0.0.0 o.therosettastone.es
 0.0.0.0 o.xbox.com
+0.0.0.0 o1000929.ingest.sentry.io
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o365diagtelemetry.trafficmanager.net
 0.0.0.0 o398.trumbulltimes.com

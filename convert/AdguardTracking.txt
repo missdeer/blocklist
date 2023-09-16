@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 15 Sep 2023 04:22:39 UTC
+# Last converted - Sat, 16 Sep 2023 04:22:04 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -23399,6 +23399,7 @@
 0.0.0.0 joinmy.site
 0.0.0.0 joinsai.securitiesamerica.com
 0.0.0.0 joinus.holidayseniorliving.com
+0.0.0.0 jokerly.com
 0.0.0.0 jolly-gates.18-185-56-88.tt.omtrdc.net
 0.0.0.0 jonzos.cashconverters.es
 0.0.0.0 joqawz.snipes.nl

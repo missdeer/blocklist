@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 16 Sep 2023 04:22:12 UTC
+# Last converted - Sun, 17 Sep 2023 04:21:57 UTC
 #
 
 0.0.0.0 3gl.net
@@ -65,6 +65,7 @@
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
 0.0.0.0 anon-stats.eff.org
+0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.privacyguides.net
 0.0.0.0 appanalysis.banggood.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 19 Sep 2023 04:23:36 UTC
+# Last converted - Wed, 20 Sep 2023 04:23:28 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -9546,6 +9546,7 @@
 0.0.0.0 asurioninsuranceserv.tt.omtrdc.net
 0.0.0.0 asustekcomputerinc.tt.omtrdc.net
 0.0.0.0 asutech2ywatch.tt.omtrdc.net
+0.0.0.0 asv.transsion.com
 0.0.0.0 asw-csp-m.central.central.tt.omtrdc.net
 0.0.0.0 asw-prod.gslb.tt.omtrdc.net
 0.0.0.0 asw.x.tt.omtrdc.net
@@ -32238,6 +32239,7 @@
 0.0.0.0 pu.pretunique.fr
 0.0.0.0 pub.toku-tag.jp
 0.0.0.0 pubexchange.com
+0.0.0.0 public-cis.exponea.com
 0.0.0.0 public.profitwell.com
 0.0.0.0 publications.nomination.fr
 0.0.0.0 publicidad.davivienda.com.pa
@@ -43753,6 +43755,7 @@
 0.0.0.0 trace.insead.edu
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
+0.0.0.0 trace.rememberapp.co.kr
 0.0.0.0 trace.zhiyan.tencent-cloud.net
 0.0.0.0 trace21.dsb-ebusiness.com
 0.0.0.0 tracelog.www.alibaba.com

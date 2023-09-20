@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 19 Sep 2023 04:23:27 UTC
+# Last converted - Wed, 20 Sep 2023 04:23:19 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -582,7 +582,6 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
-0.0.0.0 fenix.walkerllaw.org
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebase.googleapis.com
@@ -1114,6 +1113,7 @@
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
+0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.refinery89.com
@@ -1264,6 +1264,7 @@
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
+0.0.0.0 tracking.server.bytecon.com
 0.0.0.0 tracking.sexcash.com
 0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.sharplink.us

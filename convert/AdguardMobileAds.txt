@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 20 Sep 2023 04:23:31 UTC
+# Last converted - Thu, 21 Sep 2023 04:22:48 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -89,6 +89,7 @@
 0.0.0.0 adition.com
 0.0.0.0 adkernel.com
 0.0.0.0 adkmob.com
+0.0.0.0 adkwai.com
 0.0.0.0 adleads.com
 0.0.0.0 adlibr.com
 0.0.0.0 adman.gr
@@ -208,6 +209,7 @@
 0.0.0.0 adzmobi.com
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 ajdivotdelbloab24.jio.com
+0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 alicdn.com
 0.0.0.0 alt-ad.mail.ru
 0.0.0.0 am15.net
@@ -455,6 +457,7 @@
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 httpool.com
 0.0.0.0 huntmad.com
+0.0.0.0 hw-ot-ad.a.yximgs.com
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 hybrid.ai
 0.0.0.0 hyperadx.com
@@ -509,6 +512,7 @@
 0.0.0.0 komoona.com
 0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krutilka.net
+0.0.0.0 kskwai.com
 0.0.0.0 kusuriyasan.org
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l3op.info
@@ -803,6 +807,8 @@
 0.0.0.0 tveta.naver.net
 0.0.0.0 tw-api.vpon.com
 0.0.0.0 tw.api.vpon.com
+0.0.0.0 tx-ad.a.yximgs.com
+0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 u-ad.info
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ultraadserver.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 20 Sep 2023 04:23:28 UTC
+# Last converted - Thu, 21 Sep 2023 04:22:51 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -34674,6 +34674,7 @@
 0.0.0.0 seniors.fairportbaptisthomes.org
 0.0.0.0 sensic.net
 0.0.0.0 sensor.org.ua
+0.0.0.0 sensors-log.dongqiudi.com
 0.0.0.0 sensors.balluff.com
 0.0.0.0 sensors.ibreader.com
 0.0.0.0 sensors.snappea.com
@@ -39340,6 +39341,7 @@
 0.0.0.0 stat.dbschenker.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.detelefoongids.nl
+0.0.0.0 stat.dongqiudi.com
 0.0.0.0 stat.download.xunlei.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.eagleplatform.com

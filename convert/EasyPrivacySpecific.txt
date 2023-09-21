@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 20 Sep 2023 04:23:30 UTC
+# Last converted - Thu, 21 Sep 2023 04:22:45 UTC
 #
 
 0.0.0.0 3gl.net
@@ -29,6 +29,7 @@
 0.0.0.0 analyselog.dx.com
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-tracking.meetup.com
+0.0.0.0 analytics-wcms.joins.net
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adfreetime.com

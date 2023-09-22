@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 21 Sep 2023 04:22:45 UTC
+# Last converted - Fri, 22 Sep 2023 04:22:40 UTC
 #
 
 0.0.0.0 3gl.net
@@ -235,6 +235,7 @@
 0.0.0.0 fathom.app.silverbeak.com
 0.0.0.0 fathom.status.im
 0.0.0.0 fathom.tdvm.net
+0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
 0.0.0.0 fdt.kraken.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.heavybit.com
@@ -321,6 +322,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
+0.0.0.0 log.v.ssp.yahoo.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logging.api.intuit.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 22 Sep 2023 04:22:40 UTC
+# Last converted - Sat, 23 Sep 2023 04:22:01 UTC
 #
 
 0.0.0.0 3gl.net
@@ -133,6 +133,7 @@
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.hollisterco.com
 0.0.0.0 collect.reagroupdata.com.au
+0.0.0.0 collect.stepstone.co.uk
 0.0.0.0 collect.thunder-io.com
 0.0.0.0 collections-api.realestate.com.au
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -528,6 +529,7 @@
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 tags.stepstone.com
 0.0.0.0 tao.barstoolsports.com
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org
@@ -606,6 +608,7 @@
 0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 vg247-uk.vg247.com
 0.0.0.0 views.arabnews.com
+0.0.0.0 views.asura.gg
 0.0.0.0 visualrevenue.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w-profiling.cibc.com

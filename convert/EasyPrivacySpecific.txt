@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 24 Sep 2023 04:22:00 UTC
+# Last converted - Mon, 25 Sep 2023 04:23:22 UTC
 #
 
 0.0.0.0 3gl.net
@@ -94,6 +94,7 @@
 0.0.0.0 c.fingerprint.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
+0.0.0.0 c.vogue.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
@@ -418,6 +419,7 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 pxl.indeed.com
 0.0.0.0 q777.sfchronicle.com
+0.0.0.0 qc.vogue.com
 0.0.0.0 qfp.intuit.com
 0.0.0.0 qm.redbull.com
 0.0.0.0 r.bbci.co.uk

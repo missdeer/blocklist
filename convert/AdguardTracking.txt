@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 26 Sep 2023 04:23:12 UTC
+# Last converted - Wed, 27 Sep 2023 04:22:39 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -9082,6 +9082,7 @@
 0.0.0.0 app.fordidahocenter.com
 0.0.0.0 app.foxtheatre.org
 0.0.0.0 app.frbcommunications.org
+0.0.0.0 app.frontapp.com%2Fapi%2F1%2Fnoauth%2Fcompanies%2Falternstiveto%2Fseen%2Fmsg_
 0.0.0.0 app.gafreedom.com
 0.0.0.0 app.gaincapital.com
 0.0.0.0 app.georgiadogs.com
@@ -18805,6 +18806,7 @@
 0.0.0.0 earthycopy.com
 0.0.0.0 earwig.architecturesofhiding.com
 0.0.0.0 east.tt.omtrdc.net
+0.0.0.0 easter-analytics.com
 0.0.0.0 eastman.tt.omtrdc.net
 0.0.0.0 easy-hit-counters.com
 0.0.0.0 easy.dans.tt.omtrdc.net
@@ -19432,6 +19434,7 @@
 0.0.0.0 email.social.qualtrics.com
 0.0.0.0 email.softwareag.com
 0.0.0.0 email.sugarresearch.com.au
+0.0.0.0 email.updates.patreon.com
 0.0.0.0 email.vollrathco.com
 0.0.0.0 email.wetransfer.com
 0.0.0.0 email.zumaoffice.com
@@ -19855,8 +19858,10 @@
 0.0.0.0 eu.cignaglobalhealth.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 eu.ironmountain.com
+0.0.0.0 eu.pftk.temu.com
 0.0.0.0 eu.sharpmarketing.eu
 0.0.0.0 eu.spgo.io
+0.0.0.0 eu.thtk.temu.com
 0.0.0.0 eu17.tt.omtrdc.net
 0.0.0.0 eue.d-teknoloji.com.tr
 0.0.0.0 eui.tt.omtrdc.net
@@ -26363,6 +26368,7 @@
 0.0.0.0 log.adap.tv
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.affiliate.rakuten.co.jp
+0.0.0.0 log.ahamo.com
 0.0.0.0 log.ajunews.com
 0.0.0.0 log.api.useinsider.com
 0.0.0.0 log.api.zaloapp.com
@@ -30660,6 +30666,7 @@
 0.0.0.0 mjgjehuagy.www.att.hb.tt.omtrdc.net
 0.0.0.0 mjnpya.marktplaats.nl
 0.0.0.0 mjt.lacoste.com
+0.0.0.0 mjt.lu
 0.0.0.0 mjwnxc.julbie.com
 0.0.0.0 mkcentrum0.tt.omtrdc.net
 0.0.0.0 mkmkew.hometogo.no
@@ -35818,6 +35825,7 @@
 0.0.0.0 roosterfirework.com
 0.0.0.0 root9b.actonservice.com
 0.0.0.0 ros3d4dbs3px.salud-masculina.info
+0.0.0.0 roseincome.com
 0.0.0.0 rosenberg.appmetrica.webvisor.com
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rosenovel.tt.omtrdc.net
@@ -40812,6 +40820,7 @@
 0.0.0.0 solar.sunpower.com
 0.0.0.0 solar.sunpowercorp.com
 0.0.0.0 solar.tt.omtrdc.net
+0.0.0.0 solarislabyrinth.com
 0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 solaseedairinc.tt.omtrdc.net
 0.0.0.0 sole.pretto.fr
@@ -41216,6 +41225,7 @@
 0.0.0.0 spaces.martela.pl
 0.0.0.0 spacestation.tt.omtrdc.net
 0.0.0.0 spade.twitch.tv
+0.0.0.0 spadsync.com
 0.0.0.0 spain.thomsonreuters.com
 0.0.0.0 spamtitan.actonservice.com
 0.0.0.0 spanids.dictionary.com

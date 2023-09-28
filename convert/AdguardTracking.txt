@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 27 Sep 2023 04:22:39 UTC
+# Last converted - Thu, 28 Sep 2023 04:23:28 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8030,6 +8030,7 @@
 0.0.0.0 analytics.iss.one
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.joincambridge.com
+0.0.0.0 analytics.jslib.win
 0.0.0.0 analytics.jst.ai
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kaltura.com

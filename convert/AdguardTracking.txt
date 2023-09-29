@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 28 Sep 2023 04:23:28 UTC
+# Last converted - Fri, 29 Sep 2023 04:23:30 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -22022,6 +22022,7 @@
 0.0.0.0 grim-soul-dark-fantasy-survival.tt.omtrdc.net
 0.0.0.0 grmtech.net
 0.0.0.0 groceriesnewmedia.hb.tt.omtrdc.net
+0.0.0.0 groovy-manul.pikapod.net
 0.0.0.0 groovyornament.com
 0.0.0.0 groundcare.dixiechopper.com
 0.0.0.0 groupama.tt.omtrdc.net
@@ -26383,6 +26384,7 @@
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.bntrace.com
+0.0.0.0 log.bunjang.co.kr
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.cognex.com
@@ -45520,6 +45522,7 @@
 0.0.0.0 tl32p83s6h5.coxnet.hb.tt.omtrdc.net
 0.0.0.0 tl813.com
 0.0.0.0 tlcrelationshipmanag.tt.omtrdc.net
+0.0.0.0 tlr.stripocdn.email
 0.0.0.0 tls.thelibrarystore.com
 0.0.0.0 tlsalw.platypusshoes.co.nz
 0.0.0.0 tltpyy.saatchiart.com
@@ -48383,6 +48386,7 @@
 0.0.0.0 tracking.sexcash.com
 0.0.0.0 tracking.sfitrucks.com
 0.0.0.0 tracking.shaadi.com
+0.0.0.0 tracking.shinycolors.enza.fun
 0.0.0.0 tracking.shl.com
 0.0.0.0 tracking.shop.verymobile.it
 0.0.0.0 tracking.shopback.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 29 Sep 2023 04:23:30 UTC
+# Last converted - Sat, 30 Sep 2023 04:22:25 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -30791,6 +30791,7 @@
 0.0.0.0 mnwljk.ibagy.com.br
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 mob.cpao.tt.omtrdc.net
+0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-dev.mystore.tt.omtrdc.net

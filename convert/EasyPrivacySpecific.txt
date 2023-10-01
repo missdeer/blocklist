@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 30 Sep 2023 04:22:26 UTC
+# Last converted - Sun, 01 Oct 2023 04:22:30 UTC
 #
 
 0.0.0.0 3gl.net
@@ -27,6 +27,7 @@
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 analyselog.dx.com
+0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-wcms.joins.net

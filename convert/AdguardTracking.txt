@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 01 Oct 2023 04:22:25 UTC
+# Last converted - Mon, 02 Oct 2023 04:23:15 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -13234,6 +13234,7 @@
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.h.hepsiburada.com
 0.0.0.0 clicks.hungryroot.com
+0.0.0.0 clicks.meetup.com
 0.0.0.0 clicks.mlsend.com
 0.0.0.0 clicks.mlsend2.com
 0.0.0.0 clicks.tableau.com

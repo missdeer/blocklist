@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 02 Oct 2023 04:23:20 UTC
+# Last converted - Tue, 03 Oct 2023 04:23:29 UTC
 #
 
 0.0.0.0 3gl.net
@@ -42,6 +42,7 @@
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
+0.0.0.0 analytics.gamesdrive.net
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.hashnode.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 04 Oct 2023 04:23:33 UTC
+# Last converted - Thu, 05 Oct 2023 04:22:57 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -2081,6 +2081,7 @@
 0.0.0.0 a.17.251comcastentertainmentgroup.hb.tt.omtrdc.net
 0.0.0.0 a.17.251fortis.hb.tt.omtrdc.net
 0.0.0.0 a.182adobecorp.hb-api.tt.omtrdc.net
+0.0.0.0 a.1gr.cz
 0.0.0.0 a.20minutes.fr
 0.0.0.0 a.241nbcume.hb.tt.omtrdc.net
 0.0.0.0 a.241newscorpau.hb.tt.omtrdc.net
@@ -23116,6 +23117,7 @@
 0.0.0.0 hubmetric.samsclub.com
 0.0.0.0 hubmetrics.samsclub.com
 0.0.0.0 hubspotlinks.com
+0.0.0.0 hubtydum.me
 0.0.0.0 hubvisor.io
 0.0.0.0 huccia.lozkoholicy.pl
 0.0.0.0 huchang1zpnweiq.tt.omtrdc.net
@@ -27285,6 +27287,7 @@
 0.0.0.0 m-spfm.tt.omtrdc.net
 0.0.0.0 m-stg-rts.tt.omtrdc.net
 0.0.0.0 m-unitedfree.tt.omtrdc.net
+0.0.0.0 m.1gr.cz
 0.0.0.0 m.aclk.jp
 0.0.0.0 m.acmgloballab.com
 0.0.0.0 m.addthisedge.com

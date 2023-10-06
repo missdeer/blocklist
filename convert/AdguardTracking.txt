@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 05 Oct 2023 04:22:57 UTC
+# Last converted - Fri, 06 Oct 2023 04:23:12 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8175,6 +8175,7 @@
 0.0.0.0 analytics.myapstore.com
 0.0.0.0 analytics.mycater.fr
 0.0.0.0 analytics.myhermes.de
+0.0.0.0 analytics.myshoptago.com
 0.0.0.0 analytics.mystream.com
 0.0.0.0 analytics.mysynchrony.com
 0.0.0.0 analytics.nascar.com
@@ -8297,6 +8298,7 @@
 0.0.0.0 analytics.sprint.com
 0.0.0.0 analytics.stanby.com
 0.0.0.0 analytics.starlink.com
+0.0.0.0 analytics.streamfab.
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
 0.0.0.0 analytics.superstation.com
@@ -51946,6 +51948,7 @@
 0.0.0.0 wfadmin-qa.dqa.tt.omtrdc.net
 0.0.0.0 wfadmin51.tt.omtrdc.net
 0.0.0.0 wfhm-ox-test.tt.omtrdc.net
+0.0.0.0 wfthumty.pm
 0.0.0.0 wftp101.tt.omtrdc.net
 0.0.0.0 wfwpok.impressionen.de
 0.0.0.0 wgjemfwksx.32.17.182aem.hb.tt.omtrdc.net

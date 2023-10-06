@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Thu, 05 Oct 2023 04:22:52 UTC
+# Last converted - Fri, 06 Oct 2023 04:23:08 UTC
 #
 
 0.0.0.0 0-000.store
@@ -608,6 +608,7 @@
 0.0.0.0 26gg.bnq86.com
 0.0.0.0 26niao20230505.live
 0.0.0.0 26q4nn691.de
+0.0.0.0 273knt.xyz
 0.0.0.0 2777d013fc.com
 0.0.0.0 27a25cc598.com
 0.0.0.0 27gh.cc
@@ -5876,6 +5877,7 @@
 0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.myfinance.com
+0.0.0.0 analytics.myshoptago.com
 0.0.0.0 analytics.nastooh.ir
 0.0.0.0 analytics.neoogilvy.uy
 0.0.0.0 analytics.netcent.se
@@ -10310,7 +10312,6 @@
 0.0.0.0 bs7li.cn
 0.0.0.0 bsanciv.top
 0.0.0.0 bsbaswq.cn
-0.0.0.0 bsc-dataseed1.binance.org
 0.0.0.0 bserver.gp-guia.net
 0.0.0.0 bsfofnphcuj.com
 0.0.0.0 bsgbd77l.de
@@ -13585,6 +13586,7 @@
 0.0.0.0 counter.megaindex.ru
 0.0.0.0 counter.mgronline.com
 0.0.0.0 counter.monkeybanana3.com
+0.0.0.0 counter.musicsweb.ir
 0.0.0.0 counter.nn.ru
 0.0.0.0 counter.nope.dk
 0.0.0.0 counter.ntdvn.com
@@ -24895,6 +24897,7 @@
 0.0.0.0 hwpub.com
 0.0.0.0 hwpyfcxahv.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 hwuogmusthxfpk.xyz
 0.0.0.0 hwyjfhdjgoorb.com
 0.0.0.0 hxbt.alading123.com
 0.0.0.0 hxcdyx.com
@@ -25993,6 +25996,7 @@
 0.0.0.0 instadia.net
 0.0.0.0 instadrama.site
 0.0.0.0 instaflrt.com
+0.0.0.0 install-check.com
 0.0.0.0 installads.net
 0.0.0.0 installads.org
 0.0.0.0 installads2.com
@@ -43468,6 +43472,7 @@
 0.0.0.0 shareifyoulike.com
 0.0.0.0 shareitpp.com
 0.0.0.0 sharemedia.rs
+0.0.0.0 sharemefiles.ru
 0.0.0.0 shareresults.com
 0.0.0.0 sharesceral.uno
 0.0.0.0 sharethrough.com
@@ -46141,6 +46146,7 @@
 0.0.0.0 stratebilater.com
 0.0.0.0 strategicattacksstudied.com
 0.0.0.0 strategicperplexanswered.com
+0.0.0.0 stratos.blue
 0.0.0.0 strced.xyz
 0.0.0.0 streakattempt.com
 0.0.0.0 stream-all.com
@@ -54663,6 +54669,7 @@
 0.0.0.0 xmtrading.com
 0.0.0.0 xmtrk.com
 0.0.0.0 xmvftaoz.com
+0.0.0.0 xmvmir.icu
 0.0.0.0 xmxupz.xyz
 0.0.0.0 xmzurh.xyz
 0.0.0.0 xn--2qu96gouvko1a.com
@@ -55640,6 +55647,7 @@
 0.0.0.0 zapprecisionadmire.com
 0.0.0.0 zapunited.com
 0.0.0.0 zarabotki.ru
+0.0.0.0 zarad.net
 0.0.0.0 zarame.uno
 0.0.0.0 zaremamynah.com
 0.0.0.0 zarget.com

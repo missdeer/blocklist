@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 06 Oct 2023 04:23:12 UTC
+# Last converted - Sat, 07 Oct 2023 04:22:15 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -49198,6 +49198,7 @@
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.usj.es
 0.0.0.0 tracking.utas.edu.au
+0.0.0.0 tracking.utlservice.com
 0.0.0.0 tracking.ventingdirect.com
 0.0.0.0 tracking.ventingpipe.com
 0.0.0.0 tracking.venture-net.co.jp

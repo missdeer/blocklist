@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 10 Oct 2023 04:23:24 UTC
+# Last converted - Wed, 11 Oct 2023 04:23:17 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -12493,6 +12493,7 @@
 0.0.0.0 c.security.org
 0.0.0.0 c.sibnet.ru
 0.0.0.0 c.snow.com
+0.0.0.0 c.statcounter.com
 0.0.0.0 c.tbex.ru
 0.0.0.0 c.tt.omtrdc.net
 0.0.0.0 c.tvpixel.com
@@ -20518,6 +20519,7 @@
 0.0.0.0 ezvjys.belezanaweb.com.br
 0.0.0.0 ezytrack.com
 0.0.0.0 f-counter.net
+0.0.0.0 f.revotas.com
 0.0.0.0 f.sen.seg.br
 0.0.0.0 f02b61sgc617.es.themoneytizer.com
 0.0.0.0 f0nn.oney.fr

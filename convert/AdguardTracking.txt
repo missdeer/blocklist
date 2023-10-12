@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 11 Oct 2023 04:23:17 UTC
+# Last converted - Thu, 12 Oct 2023 04:23:10 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -14586,6 +14586,7 @@
 0.0.0.0 coyote.hopr.swiss
 0.0.0.0 coyote.nickgurney.com
 0.0.0.0 coyote.txet.ch
+0.0.0.0 cozyhillside.com
 0.0.0.0 cp.cp.twendee.jp
 0.0.0.0 cp.deltadentalwa.com
 0.0.0.0 cp.ir-central.irco.com
@@ -14684,6 +14685,7 @@
 0.0.0.0 creditsuisse.tt.omtrdc.net
 0.0.0.0 creo.trekkww.space
 0.0.0.0 creusatcom.tt.omtrdc.net
+0.0.0.0 crimsonmeadow.com
 0.0.0.0 crissbellini.espheredigital.com
 0.0.0.0 cristinacordova.tt.omtrdc.net
 0.0.0.0 cristinajimenez.tt.omtrdc.net
@@ -18986,6 +18988,7 @@
 0.0.0.0 ea.easyvoyage.com
 0.0.0.0 ea.ecotour.com
 0.0.0.0 ea.elstarprevention.com
+0.0.0.0 ea.epochbase.com
 0.0.0.0 ea.evaway.com
 0.0.0.0 ea.fleurancenature.com
 0.0.0.0 ea.fleurancenature.fr
@@ -31552,6 +31555,7 @@
 0.0.0.0 msend-qat.tt.omtrdc.net
 0.0.0.0 msfvwi.sieuthiyte.com.vn
 0.0.0.0 msg-intl.qy.net
+0.0.0.0 msg-na.hismarttv.com
 0.0.0.0 msg.71.am
 0.0.0.0 msg.qy.net
 0.0.0.0 msg.simeji.baidu.jp
@@ -50543,6 +50547,7 @@
 0.0.0.0 unicreditgroup.tt.omtrdc.net
 0.0.0.0 unicreditit.tt.omtrdc.net
 0.0.0.0 unid.go.com
+0.0.0.0 unified-ter-na.hismarttv.com
 0.0.0.0 unifiedwfo.verintsystemsinc.com
 0.0.0.0 unifilabs.actonservice.com
 0.0.0.0 uniformadvantage.tt.omtrdc.net
@@ -50957,6 +50962,7 @@
 0.0.0.0 viasat.tt.omtrdc.net
 0.0.0.0 viavarejo.tt.omtrdc.net
 0.0.0.0 viborgfolkeblad.tns-gallup.dk
+0.0.0.0 vibranthaven.com
 0.0.0.0 vicentecamarasa.tt.omtrdc.net
 0.0.0.0 vicky.tweaknology.org
 0.0.0.0 vicpolreg.tt.omtrdc.net

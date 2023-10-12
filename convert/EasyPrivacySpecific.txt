@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 11 Oct 2023 04:23:07 UTC
+# Last converted - Thu, 12 Oct 2023 04:23:11 UTC
 #
 
 0.0.0.0 3gl.net
@@ -330,6 +330,7 @@
 0.0.0.0 log.v.ssp.yahoo.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logger.nerdwallet.com
+0.0.0.0 logger007.cam4.com
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 loglady.kiwi.com
 0.0.0.0 logs.hotstar.com

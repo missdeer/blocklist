@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 13 Oct 2023 04:23:26 UTC
+# Last converted - Sat, 14 Oct 2023 04:22:21 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -38529,6 +38529,7 @@
 0.0.0.0 smeasurement.fcc-fac.ca
 0.0.0.0 smeasurement.infiniti.ca
 0.0.0.0 smeasurement.nissan.ca
+0.0.0.0 smelel.icu
 0.0.0.0 smelt.allenpike.com
 0.0.0.0 smelt.gautrowski.com
 0.0.0.0 smemiltiontrk.com
@@ -52111,6 +52112,7 @@
 0.0.0.0 wheelpros.tt.tt.omtrdc.net
 0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 wheretonext.tt.omtrdc.net
+0.0.0.0 whimsicalgrove.com
 0.0.0.0 whippet.ianglover.com
 0.0.0.0 whippet.madebywil.co
 0.0.0.0 whippet.miniforetak.no

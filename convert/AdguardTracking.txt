@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 14 Oct 2023 04:22:21 UTC
+# Last converted - Sun, 15 Oct 2023 04:22:31 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -12769,6 +12769,7 @@
 0.0.0.0 carreraipnoncek.tt.omtrdc.net
 0.0.0.0 carreras.unisabana.edu.co
 0.0.0.0 carriagecan.com
+0.0.0.0 carrick-ui.advoncommerce.com
 0.0.0.0 carrierservices-business.vodafone.com
 0.0.0.0 carry-hk12.tt.omtrdc.net
 0.0.0.0 cars.autopia.com.au

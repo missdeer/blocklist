@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Mon, 16 Oct 2023 04:23:37 UTC
+# Last converted - Tue, 17 Oct 2023 04:23:28 UTC
 #
 
 0.0.0.0 0-000.store
@@ -2007,6 +2007,7 @@
 0.0.0.0 aagomsi.xyz
 0.0.0.0 aaholidays.cn
 0.0.0.0 aahvz.top
+0.0.0.0 aaknmt.icu
 0.0.0.0 aamapi.com
 0.0.0.0 aamsitecertifier.com
 0.0.0.0 aamv.vip
@@ -3678,6 +3679,7 @@
 0.0.0.0 ads.nyatider.nu
 0.0.0.0 ads.o-networkaffiliates.com
 0.0.0.0 ads.olx.com
+0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.oyungemisi.com
 0.0.0.0 ads.pdbarea.com
 0.0.0.0 ads.periodistadigital.com
@@ -4051,6 +4053,7 @@
 0.0.0.0 adt598.com
 0.0.0.0 adtag.cc
 0.0.0.0 adtag.sphdigital.com
+0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtags.mobi
 0.0.0.0 adtags.pro
 0.0.0.0 adtaily.com
@@ -5789,6 +5792,7 @@
 0.0.0.0 analytics.developer.riotgames.com
 0.0.0.0 analytics.diamondstarfinancial.com.vn
 0.0.0.0 analytics.digitalpfizer.com
+0.0.0.0 analytics.disney.go.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.dpd.com
@@ -6192,6 +6196,7 @@
 0.0.0.0 aniauu2.cc
 0.0.0.0 anicli.click
 0.0.0.0 anida.info
+0.0.0.0 aniede.xyz
 0.0.0.0 aniem44.cc
 0.0.0.0 anifefashionism.com
 0.0.0.0 anifk71.cc
@@ -8330,6 +8335,7 @@
 0.0.0.0 bassdyemanipulate.com
 0.0.0.0 bassengravefascinated.com
 0.0.0.0 bassistscrap.com
+0.0.0.0 bassoonavatara.com
 0.0.0.0 bastardminims.com
 0.0.0.0 baste-znl.com
 0.0.0.0 bastesgaltrap.com
@@ -12516,6 +12522,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-analytics.mts.ru
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-telemetry.roblox.com
@@ -13926,6 +13933,7 @@
 0.0.0.0 creaperu.com
 0.0.0.0 creara-media.ru
 0.0.0.0 create2fear.com
+0.0.0.0 createsgummous.com
 0.0.0.0 creationaleprose.com
 0.0.0.0 creative-bars1.com
 0.0.0.0 creative-serving.com
@@ -14105,6 +14113,7 @@
 0.0.0.0 cryptocoinsad.com
 0.0.0.0 cryptoland.com
 0.0.0.0 cryptonoter.com
+0.0.0.0 cryptosplash.care
 0.0.0.0 cryptraffic.de
 0.0.0.0 crystal-ad.ge
 0.0.0.0 crystalboulevard.com
@@ -15228,6 +15237,7 @@
 0.0.0.0 d3lk5upv0ixky2.cloudfront.net
 0.0.0.0 d3lliyjbt3afgo.cloudfront.net
 0.0.0.0 d3ln1qrnwms3rd.cloudfront.net
+0.0.0.0 d3lqotgbn3npr.cloudfront.net
 0.0.0.0 d3lvr7yuk4uaui.cloudfront.net
 0.0.0.0 d3lw2k94jnkvbs.cloudfront.net
 0.0.0.0 d3m4hp4bp4w996.cloudfront.net
@@ -17414,6 +17424,7 @@
 0.0.0.0 dreamsoppressive.com
 0.0.0.0 dreamteaser.ru
 0.0.0.0 dreamvids.pro
+0.0.0.0 dreamycanyon.com
 0.0.0.0 dreanrh.cn
 0.0.0.0 dreary-east.pro
 0.0.0.0 dreesfootler.uno
@@ -17845,6 +17856,7 @@
 0.0.0.0 dzbkl37t8az8q.cloudfront.net
 0.0.0.0 dzdgfp673c1p0.cloudfront.net
 0.0.0.0 dzeoiizhixuyvg.com
+0.0.0.0 dzgwautxzdtn9.cloudfront.net
 0.0.0.0 dzhjmp.com
 0.0.0.0 dzienkudrow.com
 0.0.0.0 dzjnejsffqqih.com
@@ -20151,6 +20163,7 @@
 0.0.0.0 fathomdns.com
 0.0.0.0 fathomseo.com
 0.0.0.0 fathuntsgall.com
+0.0.0.0 fatimacapos.com
 0.0.0.0 fatlossremedies.com
 0.0.0.0 fatowzsis.com
 0.0.0.0 fatsosjogs.com
@@ -22685,8 +22698,10 @@
 0.0.0.0 gmogccmnp.com
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 gmpfruktfatpi.com
+0.0.0.0 gmx13.top
 0.0.0.0 gmx15.top
 0.0.0.0 gmx16.top
+0.0.0.0 gmx17.top
 0.0.0.0 gmx20.top
 0.0.0.0 gmx21.top
 0.0.0.0 gmx22.top
@@ -22824,6 +22839,7 @@
 0.0.0.0 gointhe.space
 0.0.0.0 gokedoas.xyz
 0.0.0.0 golbxjhofipyv.com
+0.0.0.0 gold-line.click
 0.0.0.0 gold-mir.com
 0.0.0.0 gold-wm.ru
 0.0.0.0 gold.ibiza-court.com
@@ -23835,6 +23851,7 @@
 0.0.0.0 haustoam.com
 0.0.0.0 hauthoun.xyz
 0.0.0.0 hauufhgezl.com
+0.0.0.0 havagedhyana.com
 0.0.0.0 havamedia.net
 0.0.0.0 havan3eab9row2n.com
 0.0.0.0 havanese.top
@@ -28338,6 +28355,7 @@
 0.0.0.0 knr1.xyz
 0.0.0.0 knsnyfpnbyakn.xyz
 0.0.0.0 kntswafuos.com
+0.0.0.0 knuaxfv.cn
 0.0.0.0 knubbyripens.uno
 0.0.0.0 knucklecivichereafter.com
 0.0.0.0 knurryaikuchi.guru
@@ -28631,6 +28649,7 @@
 0.0.0.0 kwmwva.com
 0.0.0.0 kwnmhplnqnfxh.xyz
 0.0.0.0 kwqelx.com
+0.0.0.0 kwtgntyu.xyz
 0.0.0.0 kwtnhdrmbx.com
 0.0.0.0 kwtrdd.com
 0.0.0.0 kwtyuv.com
@@ -32705,6 +32724,7 @@
 0.0.0.0 mothdiscussioncrest.com
 0.0.0.0 motherehoom.pro
 0.0.0.0 motherhoodlimiteddetest.com
+0.0.0.0 mothifta.xyz
 0.0.0.0 motille.com
 0.0.0.0 motionflowers.com
 0.0.0.0 motionlessbag.com
@@ -36169,6 +36189,7 @@
 0.0.0.0 overzubatan.com
 0.0.0.0 ovexui.xyz
 0.0.0.0 ovfratlkxerv.xyz
+0.0.0.0 ovfvkfc.xyz
 0.0.0.0 ovgzbnjj.com
 0.0.0.0 ovhodsalpm.com
 0.0.0.0 ovibospeseta.com
@@ -37398,6 +37419,7 @@
 0.0.0.0 phulaque.com
 0.0.0.0 phulrauftoa.com
 0.0.0.0 phultems.net
+0.0.0.0 phultids.com
 0.0.0.0 phumpauk.com
 0.0.0.0 phuteheglu.com
 0.0.0.0 phwrju.xyz
@@ -38512,6 +38534,7 @@
 0.0.0.0 pre4sentre8dhf.com
 0.0.0.0 preachribbonsummoned.com
 0.0.0.0 preaf.jp
+0.0.0.0 preampribbony.com
 0.0.0.0 preanalytication.com
 0.0.0.0 prearmscachet.uno
 0.0.0.0 prebid-cache.ifunny.co
@@ -40532,6 +40555,7 @@
 0.0.0.0 rbbbdj.xyz
 0.0.0.0 rbcdn.com
 0.0.0.0 rbck.st3pst3p.com
+0.0.0.0 rbfive.bid
 0.0.0.0 rbfour.bid
 0.0.0.0 rbljoyvsvtj.xyz
 0.0.0.0 rblrekay.com
@@ -41747,6 +41771,7 @@
 0.0.0.0 rkalbwupipuow.xyz
 0.0.0.0 rkdms.com
 0.0.0.0 rkds10.icu
+0.0.0.0 rkds5.icu
 0.0.0.0 rkfodhkxmf.com
 0.0.0.0 rkft2sdl8b.ru
 0.0.0.0 rkgwzfwjgk.com
@@ -44618,6 +44643,7 @@
 0.0.0.0 smiinformeri.online
 0.0.0.0 smileoffennec.com
 0.0.0.0 smilered.com
+0.0.0.0 smiletkandol.com
 0.0.0.0 smilewanted.com
 0.0.0.0 smileycentral.com
 0.0.0.0 smileyhost.net
@@ -46618,6 +46644,7 @@
 0.0.0.0 suddensoda.com
 0.0.0.0 suddenstructure.com
 0.0.0.0 sudorwauve.com
+0.0.0.0 sudsguidon.com
 0.0.0.0 suescollum.com
 0.0.0.0 sufeismmitered.digital
 0.0.0.0 suffertreasureapproval.com
@@ -49442,6 +49469,7 @@
 0.0.0.0 tracking-amp.vnexpress.net
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-api.hotmart.com
+0.0.0.0 tracking-api.mangopulse.net
 0.0.0.0 tracking-api.sub100.com.br
 0.0.0.0 tracking-config-service.glority.com
 0.0.0.0 tracking-live.kr3m.com
@@ -51144,6 +51172,7 @@
 0.0.0.0 unflamewandoo.com
 0.0.0.0 unfolded-economics.com
 0.0.0.0 unforgivablegrowl.com
+0.0.0.0 unglazeclassic.com
 0.0.0.0 ungloomnisnas.com
 0.0.0.0 ungolbator.com
 0.0.0.0 ungoutylensmen.website
@@ -51992,6 +52021,7 @@
 0.0.0.0 vdggsd013.com
 0.0.0.0 vdggsd014.com
 0.0.0.0 vdggsd015.com
+0.0.0.0 vdggsd016.com
 0.0.0.0 vdlvry.com
 0.0.0.0 vdmiruryll.xyz
 0.0.0.0 vdna-assets.com
@@ -55260,6 +55290,7 @@
 0.0.0.0 y-track.com
 0.0.0.0 y.21haodianmt.com
 0.0.0.0 y.photoint.net
+0.0.0.0 y1.junshitt.com
 0.0.0.0 y1.spreton.com
 0.0.0.0 y1990.pw
 0.0.0.0 y2ax5.y0tf2wp.online
@@ -55915,6 +55946,7 @@
 0.0.0.0 z1.pclady.com.cn
 0.0.0.0 z11011.com
 0.0.0.0 z1hihu.xmcimg.com
+0.0.0.0 z1wfe.top
 0.0.0.0 z211.yourconroenews.com
 0.0.0.0 z3yfkdjd.icu
 0.0.0.0 z444o.com

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Tue, 17 Oct 2023 04:23:28 UTC
+# Last converted - Wed, 18 Oct 2023 04:23:17 UTC
 #
 
 0.0.0.0 0-000.store
@@ -177,6 +177,7 @@
 0.0.0.0 1.i999d.cn
 0.0.0.0 1.isanxia.com
 0.0.0.0 1.jeasyui.net
+0.0.0.0 1.jiangzheba.com
 0.0.0.0 1.jiqie.cn
 0.0.0.0 1.jushtong.com
 0.0.0.0 1.kuaidiwo.cn
@@ -1325,6 +1326,7 @@
 0.0.0.0 6f752f73ce.com
 0.0.0.0 6fe24753fb.com
 0.0.0.0 6fxtpu64lxyt.com
+0.0.0.0 6gcstb.xyz
 0.0.0.0 6glece4homah8dweracea.com
 0.0.0.0 6h1cz.xyz
 0.0.0.0 6ha03.icu
@@ -6220,6 +6222,7 @@
 0.0.0.0 aniruyt.ru
 0.0.0.0 aniview.com
 0.0.0.0 anjlkkyhpp.com
+0.0.0.0 anjneia.xyz
 0.0.0.0 ankdoier.com
 0.0.0.0 ankhspreses.space
 0.0.0.0 ankleproposedomicile.com
@@ -7295,7 +7298,6 @@
 0.0.0.0 atrack.avplayer.com
 0.0.0.0 atraichuor.com
 0.0.0.0 atraxio.com
-0.0.0.0 atresadvertising.com
 0.0.0.0 atriblethetch.com
 0.0.0.0 atripplotx.com
 0.0.0.0 ats.auction.co.kr
@@ -9443,6 +9445,7 @@
 0.0.0.0 bjrfnps4efhldfj.ru
 0.0.0.0 bjs.faxingzhan.com
 0.0.0.0 bjtel.cn
+0.0.0.0 bjtgds.xyz
 0.0.0.0 bjursundfastigheter.se
 0.0.0.0 bjws.xyz
 0.0.0.0 bjxiangcao.com
@@ -10780,6 +10783,7 @@
 0.0.0.0 c.cpa6.ru
 0.0.0.0 c.cpl2.ru
 0.0.0.0 c.cqpsf.cn
+0.0.0.0 c.down.tube
 0.0.0.0 c.dpgmedia.net
 0.0.0.0 c.grimuar.ru
 0.0.0.0 c.hit.ua
@@ -11061,6 +11065,7 @@
 0.0.0.0 candiruarf.com
 0.0.0.0 candy-network.com
 0.0.0.0 candypeaches.com
+0.0.0.0 candyprotected.com
 0.0.0.0 canelastram.com
 0.0.0.0 canem-auris.com
 0.0.0.0 cangatu.xyz
@@ -14603,6 +14608,7 @@
 0.0.0.0 d1bxkgbbc428vi.cloudfront.net
 0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
+0.0.0.0 d1cglulyxpv8sj.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1clmik8la8v65.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
@@ -16549,6 +16555,7 @@
 0.0.0.0 dilliskunhome.com
 0.0.0.0 dillsloppy.com
 0.0.0.0 dilruwha.net
+0.0.0.0 diluterwearers.com
 0.0.0.0 dilutionavailstoker.com
 0.0.0.0 dilvyi2h98h1q.cloudfront.net
 0.0.0.0 dimcarnie.com
@@ -17327,6 +17334,7 @@
 0.0.0.0 dpijohb.icu
 0.0.0.0 dpipel.com
 0.0.0.0 dpirwgljl6cjp.cloudfront.net
+0.0.0.0 dpj0uvy.icu
 0.0.0.0 dpjlvaveq1byu.cloudfront.net
 0.0.0.0 dpmsrv.com
 0.0.0.0 dprograp.online
@@ -17669,6 +17677,7 @@
 0.0.0.0 dumbacademyradiation.com
 0.0.0.0 dumbpop.com
 0.0.0.0 dumedia.ru
+0.0.0.0 dumeia.cn
 0.0.0.0 dummiedkhodja.com
 0.0.0.0 dummieseardrum.com
 0.0.0.0 dumplingclubhousecompliments.com
@@ -18520,6 +18529,7 @@
 0.0.0.0 ekqfkk.xyz
 0.0.0.0 ekrnhbmrbbvwdro.com
 0.0.0.0 ektobedirectuklyec.info
+0.0.0.0 ekzzed.icu
 0.0.0.0 ela-3-tnk.com
 0.0.0.0 elaboratehall.pro
 0.0.0.0 elajowser.com
@@ -19881,6 +19891,7 @@
 0.0.0.0 f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
 0.0.0.0 f48d1c06e4.com
 0.0.0.0 f4906b7c15ba.com
+0.0.0.0 f4961f1b2e.com
 0.0.0.0 f4cebacks.com
 0.0.0.0 f5080f5cee5a00.com
 0.0.0.0 f52a1ac6d9.com
@@ -22698,10 +22709,13 @@
 0.0.0.0 gmogccmnp.com
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 gmpfruktfatpi.com
+0.0.0.0 gmx12.top
 0.0.0.0 gmx13.top
+0.0.0.0 gmx14.top
 0.0.0.0 gmx15.top
 0.0.0.0 gmx16.top
 0.0.0.0 gmx17.top
+0.0.0.0 gmx18.top
 0.0.0.0 gmx20.top
 0.0.0.0 gmx21.top
 0.0.0.0 gmx22.top
@@ -30622,6 +30636,7 @@
 0.0.0.0 lvnmzhhod.com
 0.0.0.0 lvntekpejrmtb.com
 0.0.0.0 lvodomo.info
+0.0.0.0 lvomenbxbyl.com
 0.0.0.0 lvpcxqcoohcviks.com
 0.0.0.0 lvrvdn.xyz
 0.0.0.0 lvskhjsloiqviv.xyz
@@ -39027,6 +39042,7 @@
 0.0.0.0 providingstallionemployee.com
 0.0.0.0 provify.io
 0.0.0.0 provincebarely.com
+0.0.0.0 provingavidity.com
 0.0.0.0 provisionpointingpincers.com
 0.0.0.0 provlimbus.com
 0.0.0.0 provocativeprivate.com
@@ -39953,6 +39969,7 @@
 0.0.0.0 qmrwbzwalrmry.top
 0.0.0.0 qmsdxo.ru
 0.0.0.0 qmvnrvjeyyzna.top
+0.0.0.0 qmwx4.xyz
 0.0.0.0 qmxgkgykaex.com
 0.0.0.0 qmykwjryyrrjj.top
 0.0.0.0 qmzakpdewlelv.com
@@ -41770,6 +41787,7 @@
 0.0.0.0 rjzqtz.xyz
 0.0.0.0 rkalbwupipuow.xyz
 0.0.0.0 rkdms.com
+0.0.0.0 rkds1.icu
 0.0.0.0 rkds10.icu
 0.0.0.0 rkds5.icu
 0.0.0.0 rkfodhkxmf.com
@@ -43272,6 +43290,7 @@
 0.0.0.0 securitytrfx.com
 0.0.0.0 sedatebun.com
 0.0.0.0 sedatecompulsiveout.com
+0.0.0.0 sedatenerves.com
 0.0.0.0 sedatingnews.com
 0.0.0.0 sednerenforbo.com
 0.0.0.0 sedodna.com
@@ -48670,6 +48689,7 @@
 0.0.0.0 tmh4pshu0f3n.com
 0.0.0.0 tmjhdyghjm.com
 0.0.0.0 tmjwlmhc.xyz
+0.0.0.0 tmlwvxae.xyz
 0.0.0.0 tmmkhspf.xyz
 0.0.0.0 tmmp.io
 0.0.0.0 tmnbocewmddu.com
@@ -51893,6 +51913,7 @@
 0.0.0.0 valvyre.com
 0.0.0.0 vam-nado.ru
 0.0.0.0 vamaker.com
+0.0.0.0 vamjfssdvjit.com
 0.0.0.0 vampedcortine.com
 0.0.0.0 vampersmutuary.com
 0.0.0.0 vampersogmic.com
@@ -52022,6 +52043,7 @@
 0.0.0.0 vdggsd014.com
 0.0.0.0 vdggsd015.com
 0.0.0.0 vdggsd016.com
+0.0.0.0 vdggsd017.com
 0.0.0.0 vdlvry.com
 0.0.0.0 vdmiruryll.xyz
 0.0.0.0 vdna-assets.com
@@ -52961,6 +52983,7 @@
 0.0.0.0 vw66i.top
 0.0.0.0 vwcsl.com
 0.0.0.0 vwedfijcm.xyz
+0.0.0.0 vwegihahkos.com
 0.0.0.0 vwfppr.xyz
 0.0.0.0 vwgtbnamrvg.com
 0.0.0.0 vwhnfwdbf.com
@@ -53734,6 +53757,7 @@
 0.0.0.0 whbhsoft.cn
 0.0.0.0 whbn.xyz
 0.0.0.0 whdupigghrm.xyz
+0.0.0.0 whdwydt.cn
 0.0.0.0 whe0nqk.icu
 0.0.0.0 whechypheshu.com
 0.0.0.0 whedupache.pro
@@ -54875,6 +54899,7 @@
 0.0.0.0 xfzyun.com
 0.0.0.0 xg.hbcygs518.com
 0.0.0.0 xg2o402yyy.ru
+0.0.0.0 xg6hb.xyz
 0.0.0.0 xgeuzcfrkeb.com
 0.0.0.0 xghnqq.com
 0.0.0.0 xghxpvl.com

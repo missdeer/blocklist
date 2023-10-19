@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 18 Oct 2023 04:23:21 UTC
+# Last converted - Thu, 19 Oct 2023 04:23:20 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -509,7 +509,6 @@
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
-0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 dr3fr5q4g2ul9.cloudfront.net
 0.0.0.0 drlimmode9ddd.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -772,6 +771,7 @@
 0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.userguiding.com
+0.0.0.0 metrika.cdn112.com
 0.0.0.0 metrix.emagister.com
 0.0.0.0 mj-snowplow-static-js.s3.amazonaws.com
 0.0.0.0 mjca-yijws.global.ssl.fastly.net

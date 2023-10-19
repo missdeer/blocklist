@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 18 Oct 2023 04:23:29 UTC
+# Last converted - Thu, 19 Oct 2023 04:23:27 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -18168,6 +18168,7 @@
 0.0.0.0 delete.atea.fi
 0.0.0.0 deleteme.intuit.com
 0.0.0.0 delevar.trekkww.fun
+0.0.0.0 delicatecascade.com
 0.0.0.0 delightdriving.com
 0.0.0.0 delightfulhour.com
 0.0.0.0 delikatesycentrum02.ads.tt.omtrdc.net
@@ -49833,6 +49834,7 @@
 0.0.0.0 tracking.trinet.com
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.trutv.com
+0.0.0.0 tracking.tving.com
 0.0.0.0 tracking.twocommagrowth.com
 0.0.0.0 tracking.uberflip.com
 0.0.0.0 tracking.uk.adp.com
@@ -52757,6 +52759,7 @@
 0.0.0.0 wizardryfc1.blog.tt.omtrdc.net
 0.0.0.0 wizenszmwn.abcnews.hb.tt.omtrdc.net
 0.0.0.0 wizinkbank.tt.omtrdc.net
+0.0.0.0 wizrocketmail.net
 0.0.0.0 wjtekf.vidaxl.bg
 0.0.0.0 wjvaswaaul.thissubdomainshouldonlyresolveifwildcard.aem.hb.tt.omtrdc.net
 0.0.0.0 wkaybv.feuvert.es

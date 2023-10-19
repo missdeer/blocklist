@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 18 Oct 2023 04:23:20 UTC
+# Last converted - Thu, 19 Oct 2023 04:23:19 UTC
 #
 
 0.0.0.0 3gl.net
@@ -88,6 +88,7 @@
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 bfp.capitalone.com
+0.0.0.0 bi.banggood.com
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 bluekai.com
@@ -231,6 +232,7 @@
 0.0.0.0 events.santander.co.uk
 0.0.0.0 events.squarespace.com
 0.0.0.0 events.turbosquid.com
+0.0.0.0 events2.www.edenfantasys.com
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 exactag.com
 0.0.0.0 exelator.com
@@ -433,6 +435,7 @@
 0.0.0.0 rankhit.china.com
 0.0.0.0 ras.yahoo.com
 0.0.0.0 rba-screen.healthsafe-id.com
+0.0.0.0 rec.banggood.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 relay.fiverr.com
 0.0.0.0 reports.tunein.com
@@ -627,7 +630,11 @@
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w740.newstimes.com
+0.0.0.0 wa.childrensplace.com
 0.0.0.0 wa.gmx.co.uk
+0.0.0.0 wa.gymboree.com
+0.0.0.0 wa.pjplace.com
+0.0.0.0 wa.sugarandjade.com
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 weblog.flyasiana.com

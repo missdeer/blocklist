@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Thu, 19 Oct 2023 04:23:29 UTC
+# Last converted - Fri, 20 Oct 2023 04:23:20 UTC
 #
 
 0.0.0.0 0-000.store
@@ -10899,6 +10899,7 @@
 0.0.0.0 c9r05q.com
 0.0.0.0 c9tt3jj.top
 0.0.0.0 c9xv.xyz
+0.0.0.0 ca-api.cafe24data.com
 0.0.0.0 ca.video-cdn.net
 0.0.0.0 ca.yangshengtv.com
 0.0.0.0 ca169a128b.com
@@ -17336,7 +17337,6 @@
 0.0.0.0 dozwjl.xyz
 0.0.0.0 dp1fzft1fdb84.cloudfront.net
 0.0.0.0 dp45nhyltt487.cloudfront.net
-0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 dpaic.xyz
 0.0.0.0 dpbgnf.xyz
 0.0.0.0 dpbxtrqyljhse.xyz
@@ -17765,6 +17765,7 @@
 0.0.0.0 dvl8xapgpqgc1.cloudfront.net
 0.0.0.0 dvmdwmnyj3u4h.cloudfront.net
 0.0.0.0 dvnfo.com
+0.0.0.0 dvnqhdmze.xyz
 0.0.0.0 dvr8.com
 0.0.0.0 dvrnszf.cn
 0.0.0.0 dvs.china.com
@@ -17787,6 +17788,7 @@
 0.0.0.0 dwellingmerrimentrecorder.com
 0.0.0.0 dwellingsensationalthere.com
 0.0.0.0 dwene4pgj0r33.cloudfront.net
+0.0.0.0 dwerzv.xyz
 0.0.0.0 dwetwdstom1020.com
 0.0.0.0 dwf6crl4raal7.cloudfront.net
 0.0.0.0 dwfjtz.xyz
@@ -19404,6 +19406,7 @@
 0.0.0.0 event.csdn.net
 0.0.0.0 event.filum.ai
 0.0.0.0 event.getblue.io
+0.0.0.0 event.hackle.io
 0.0.0.0 event.headlines.pw
 0.0.0.0 event.hket.com
 0.0.0.0 event.impression-neo.naver.com
@@ -20912,6 +20915,7 @@
 0.0.0.0 fmsads.com
 0.0.0.0 fmsde0dv2j54.com
 0.0.0.0 fmstigat.online
+0.0.0.0 fmvbyji.cn
 0.0.0.0 fmxfboibrmbf.xyz
 0.0.0.0 fmzjinez.com
 0.0.0.0 fn-pz.com
@@ -22743,7 +22747,9 @@
 0.0.0.0 gmx28.top
 0.0.0.0 gmx29.top
 0.0.0.0 gmx30.top
+0.0.0.0 gmx45.top
 0.0.0.0 gmx46.top
+0.0.0.0 gmx47.top
 0.0.0.0 gmxvmvptfm.com
 0.0.0.0 gmyze.com
 0.0.0.0 gmzdaily.com
@@ -23392,6 +23398,7 @@
 0.0.0.0 gtbdhr.com
 0.0.0.0 gtcslt-di2.com
 0.0.0.0 gtdmtjebafo.com
+0.0.0.0 gth112.com
 0.0.0.0 gthfwcjhbxbq.xyz
 0.0.0.0 gtiqmsbpor.com
 0.0.0.0 gtm-server.healthline.com
@@ -23805,6 +23812,7 @@
 0.0.0.0 hardtofindmilk.com
 0.0.0.0 hardwaretakeoutintimidate.com
 0.0.0.0 hardynarrow.com
+0.0.0.0 haresmodus.com
 0.0.0.0 harfuzawmk.com
 0.0.0.0 harhtwb.com
 0.0.0.0 haribdathesea.com
@@ -25319,8 +25327,10 @@
 0.0.0.0 ictowaz.ru
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 icvehoixyqudejo.xyz
+0.0.0.0 icvsleec.xyz
 0.0.0.0 icyrwy.xyz
 0.0.0.0 id-visitors.com
+0.0.0.0 id-ward.com
 0.0.0.0 id1.cn
 0.0.0.0 id5-sync.com
 0.0.0.0 id9uep.ru
@@ -29405,6 +29415,7 @@
 0.0.0.0 liambahaloed.com
 0.0.0.0 lianfu.shop
 0.0.0.0 liangge20221223.xyz
+0.0.0.0 lianglili2.cn
 0.0.0.0 liangmei20221031.xyz
 0.0.0.0 lianjikeji.cn
 0.0.0.0 lianmen1.joyyang.com
@@ -31928,6 +31939,7 @@
 0.0.0.0 metricus.artlebedev.ru
 0.0.0.0 metrigo.zalan.do
 0.0.0.0 metrika-informer.com
+0.0.0.0 metrika.cdn112.com
 0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.lookmovie2.to
 0.0.0.0 metrika.myseldon.com
@@ -33336,6 +33348,7 @@
 0.0.0.0 mywondertrip.com
 0.0.0.0 myxlyajuhsjiwsp.com
 0.0.0.0 myxozilla.icu
+0.0.0.0 myyxox.icu
 0.0.0.0 mznbrazfty.com
 0.0.0.0 mzol7lbm.com
 0.0.0.0 mzpbvvxv.com
@@ -40102,6 +40115,7 @@
 0.0.0.0 qtd95fj.online
 0.0.0.0 qtienly.top
 0.0.0.0 qtimowbaqnd.xyz
+0.0.0.0 qtq632.com
 0.0.0.0 qtspkqzn.com
 0.0.0.0 qtuopsqmunzo.com
 0.0.0.0 qtuwrazawtpa.com
@@ -41827,6 +41841,7 @@
 0.0.0.0 rkdms.com
 0.0.0.0 rkds1.icu
 0.0.0.0 rkds10.icu
+0.0.0.0 rkds2.icu
 0.0.0.0 rkds5.icu
 0.0.0.0 rkfodhkxmf.com
 0.0.0.0 rkft2sdl8b.ru
@@ -47696,6 +47711,7 @@
 0.0.0.0 tdeogusnou.xyz
 0.0.0.0 tdep.hema.nl
 0.0.0.0 tdep.kvk.nl
+0.0.0.0 tdhlmto.cn
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 tdk.petsplace.nl
 0.0.0.0 tdkkjueowqb.com
@@ -50726,6 +50742,7 @@
 0.0.0.0 tystnnnrluv.com
 0.0.0.0 tytothwarts.com
 0.0.0.0 tytyeastfeukufun.info
+0.0.0.0 tyuetxt.com
 0.0.0.0 tywdchppfgds.xyz
 0.0.0.0 tyxo.bg
 0.0.0.0 tyxo.com
@@ -50953,6 +50970,7 @@
 0.0.0.0 ugricmoist.com
 0.0.0.0 ugripaid.com
 0.0.0.0 ugroocuw.net
+0.0.0.0 ugvbsrbht.xyz
 0.0.0.0 ugyeon.com
 0.0.0.0 ugyplysh.com
 0.0.0.0 ugyyod.com
@@ -52169,6 +52187,7 @@
 0.0.0.0 ventite.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 ventrequmus.com
+0.0.0.0 venture-365-inspired.com
 0.0.0.0 venturead.com
 0.0.0.0 venturyremove.info
 0.0.0.0 venulaevavs.com
@@ -52868,6 +52887,7 @@
 0.0.0.0 vpbceulnfbx.com
 0.0.0.0 vpdcp.com
 0.0.0.0 vpico.com
+0.0.0.0 vpipi.com
 0.0.0.0 vpixrlkggv.com
 0.0.0.0 vpn-access.site
 0.0.0.0 vpn-defend.com
@@ -54670,6 +54690,7 @@
 0.0.0.0 wvjzbijwbsegqq.com
 0.0.0.0 wvnuubmothth.com
 0.0.0.0 wvrney.com
+0.0.0.0 wvtem.com
 0.0.0.0 wvwl.cn
 0.0.0.0 wvwxjfjjytaf.com
 0.0.0.0 wvxcdtuhcagistb.xyz
@@ -55970,6 +55991,7 @@
 0.0.0.0 yxhstwzjbu.info
 0.0.0.0 yxkhpk.com
 0.0.0.0 yxpoprve.com
+0.0.0.0 yxrxsov.xyz
 0.0.0.0 yxswtummev.info
 0.0.0.0 yxvoud.com
 0.0.0.0 yy17173.dtime.com

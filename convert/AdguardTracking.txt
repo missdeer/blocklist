@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 19 Oct 2023 04:23:27 UTC
+# Last converted - Fri, 20 Oct 2023 04:23:23 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -12733,6 +12733,7 @@
 0.0.0.0 c4tw.net
 0.0.0.0 c52.tt.omtrdc.net
 0.0.0.0 c993.westport-news.com
+0.0.0.0 ca-api.cafe24data.com
 0.0.0.0 ca.clubavantages.net
 0.0.0.0 ca.connect.finning.com
 0.0.0.0 ca.creditacceptance.com
@@ -54205,4 +54206,5 @@
 0.0.0.0 zz1-jenkins.office.tt.omtrdc.net
 0.0.0.0 zzfoxentertainment.hb-api.tt.omtrdc.net
 0.0.0.0 zzsqqx.shopjapan.co.jp
+0.0.0.0 |mailgun.org
 0.0.0.0 |piwik.

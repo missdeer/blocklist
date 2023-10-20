@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 19 Oct 2023 04:23:20 UTC
+# Last converted - Fri, 20 Oct 2023 04:23:32 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -801,6 +801,7 @@
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nova.dice.net
 0.0.0.0 nr-events.taboola.com
+0.0.0.0 nr.static.mmcdn.com
 0.0.0.0 ns.rvmkitt.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 observer.ip-label.net
@@ -1303,6 +1304,7 @@
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 trib.al
 0.0.0.0 triggers.wfxtriggers.com
+0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 trk.clinch.co
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.storyly.io

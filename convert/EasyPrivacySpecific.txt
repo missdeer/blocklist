@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 20 Oct 2023 04:23:32 UTC
+# Last converted - Sat, 21 Oct 2023 04:22:14 UTC
 #
 
 0.0.0.0 3gl.net
@@ -388,6 +388,7 @@
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 perf.mouser.com
+0.0.0.0 perr.hola.org
 0.0.0.0 pf.intuit.com
 0.0.0.0 pf.newegg.com
 0.0.0.0 ph.thenextweb.com

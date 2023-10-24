@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 23 Oct 2023 04:23:11 UTC
+# Last converted - Tue, 24 Oct 2023 04:22:44 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -78,6 +78,7 @@
 0.0.0.0 adfiles.auditude.com
 0.0.0.0 adflake.com
 0.0.0.0 adforgames.com
+0.0.0.0 adfork.co.kr
 0.0.0.0 adform.com
 0.0.0.0 adfox.ru
 0.0.0.0 adg.kajicam.com

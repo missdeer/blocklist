@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 25 Oct 2023 04:23:13 UTC
+# Last converted - Thu, 26 Oct 2023 04:22:32 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -16,6 +16,7 @@
 0.0.0.0 a.mobify.com
 0.0.0.0 a.opumo.net
 0.0.0.0 aan.amazon.com
+0.0.0.0 activity-flow.vtex.com
 0.0.0.0 activity.wisepops.com
 0.0.0.0 ad-shield.io
 0.0.0.0 ad.aloodo.com
@@ -554,6 +555,7 @@
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
@@ -1141,6 +1143,7 @@
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
+0.0.0.0 telemetry.vtex.com
 0.0.0.0 timber.sendtonews.com
 0.0.0.0 timejs.game.163.com
 0.0.0.0 tk.storetail.io

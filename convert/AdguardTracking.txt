@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 25 Oct 2023 04:23:11 UTC
+# Last converted - Thu, 26 Oct 2023 04:22:39 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -14042,6 +14042,7 @@
 0.0.0.0 collection.saga.co.uk
 0.0.0.0 collections.equifax.com
 0.0.0.0 collector-analytics.efigence.com
+0.0.0.0 collector-api.frspecifics.com
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.ghostery.net
@@ -21603,6 +21604,7 @@
 0.0.0.0 fretfulfurniture.com
 0.0.0.0 fridaymarketing.actonservice.com
 0.0.0.0 friendbuy.com
+0.0.0.0 friendlycrayon.com
 0.0.0.0 friendlyfold.com
 0.0.0.0 friendslakestudio.tt.omtrdc.net
 0.0.0.0 friendwool.com
@@ -27666,6 +27668,7 @@
 0.0.0.0 lqpzdi.coppel.com
 0.0.0.0 lqxjrk.fbs.com
 0.0.0.0 lr-ingest.io
+0.0.0.0 lr-intake.com
 0.0.0.0 lravwm.spa.cz
 0.0.0.0 lrbelgium.wolterskluwer.com
 0.0.0.0 lrczech.wolterskluwer.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 26 Oct 2023 04:22:39 UTC
+# Last converted - Fri, 27 Oct 2023 04:22:53 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -9526,6 +9526,7 @@
 0.0.0.0 app.scarletknights.com
 0.0.0.0 app.selectyourtickets.com
 0.0.0.0 app.seminoles.com
+0.0.0.0 app.shopimind.com
 0.0.0.0 app.shoptarget.com.br
 0.0.0.0 app.siemens-energy.com
 0.0.0.0 app.siemensplmevents.com
@@ -20490,6 +20491,7 @@
 0.0.0.0 etc.lghausysusa.com
 0.0.0.0 etc.lxhausys.com
 0.0.0.0 etgkbu.unieuro.it
+0.0.0.0 ethereallagoon.com
 0.0.0.0 ethiassa.tt.omtrdc.net
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
@@ -25797,6 +25799,7 @@
 0.0.0.0 isoplexis.actonservice.com
 0.0.0.0 isovav.akomeya.jp
 0.0.0.0 ispta88a.tt.omtrdc.net
+0.0.0.0 iss.shopimind.com
 0.0.0.0 ist-track.com
 0.0.0.0 istat24.com
 0.0.0.0 istatistik.arabam.com
@@ -50435,6 +50438,7 @@
 0.0.0.0 traka8.crypto-mall.org
 0.0.0.0 trakken.de
 0.0.0.0 trakzor.com
+0.0.0.0 tranquilcanyon.com
 0.0.0.0 tranquilside.com
 0.0.0.0 trans-logistics.tt.omtrdc.net
 0.0.0.0 trans-token.1.dataocean.tt.omtrdc.net

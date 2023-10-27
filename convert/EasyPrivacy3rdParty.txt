@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 26 Oct 2023 04:22:32 UTC
+# Last converted - Fri, 27 Oct 2023 04:22:47 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -579,6 +579,7 @@
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
+0.0.0.0 events.storifyme.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.ubembed.com
 0.0.0.0 events.whisk.com

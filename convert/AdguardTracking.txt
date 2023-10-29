@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 28 Oct 2023 04:23:03 UTC
+# Last converted - Sun, 29 Oct 2023 04:22:03 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -43973,6 +43973,7 @@
 0.0.0.0 stat.nate.com
 0.0.0.0 stat.ncl.com
 0.0.0.0 stat.novostimira.com
+0.0.0.0 stat.ntv.ru
 0.0.0.0 stat.onemob.mobi
 0.0.0.0 stat.outrigger.com
 0.0.0.0 stat.pl

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 30 Oct 2023 04:23:38 UTC
+# Last converted - Tue, 31 Oct 2023 04:23:17 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -46,6 +46,7 @@
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leap.app
 0.0.0.0 ad.mail.ru
+0.0.0.0 ad.mediamixer.co.kr
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.particlenews.com

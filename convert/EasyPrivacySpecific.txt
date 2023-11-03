@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 02 Nov 2023 04:23:05 UTC
+# Last converted - Fri, 03 Nov 2023 04:23:17 UTC
 #
 
 0.0.0.0 3gl.net
@@ -217,6 +217,7 @@
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event.evtm.53.com
+0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-prod.autolist.com

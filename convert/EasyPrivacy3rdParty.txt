@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 03 Nov 2023 04:23:17 UTC
+# Last converted - Sat, 04 Nov 2023 04:22:57 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -273,6 +273,7 @@
 0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.tyuwq.com
+0.0.0.0 clicktalecdn.sslcs.cdngc.net
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
@@ -1044,6 +1045,7 @@
 0.0.0.0 stats.mpthemes.net
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
+0.0.0.0 stats.netdriven.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.ozwebsites.biz
 0.0.0.0 stats.phoenix-widget.com

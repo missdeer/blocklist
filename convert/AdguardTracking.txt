@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 03 Nov 2023 04:23:16 UTC
+# Last converted - Sat, 04 Nov 2023 04:23:02 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -38313,6 +38313,7 @@
 0.0.0.0 scaredsidewalk.com
 0.0.0.0 scaredsnake.com
 0.0.0.0 scaredsnakes.com
+0.0.0.0 scaredsong.com
 0.0.0.0 scaredstory.com
 0.0.0.0 scarfsmash.com
 0.0.0.0 scatteredheat.com

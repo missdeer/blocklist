@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 04 Nov 2023 04:23:02 UTC
+# Last converted - Sun, 05 Nov 2023 04:22:54 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -10358,6 +10358,7 @@
 0.0.0.0 at.neom.com
 0.0.0.0 at.norisbank.de
 0.0.0.0 at.postbank.de
+0.0.0.0 at.prod.jimdo.systems
 0.0.0.0 at.sharpmarketing.eu
 0.0.0.0 at.swisscom.ch
 0.0.0.0 at.tt.omtrdc.net
@@ -14009,6 +14010,7 @@
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nov.ru
 0.0.0.0 cnt.nuvid.
+0.0.0.0 cnt.promodj.com
 0.0.0.0 cnt.proporn.
 0.0.0.0 cnt.rambler.ru
 0.0.0.0 cnt.ramlife.ru

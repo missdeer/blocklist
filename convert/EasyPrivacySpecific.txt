@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 06 Nov 2023 04:24:02 UTC
+# Last converted - Tue, 07 Nov 2023 04:23:29 UTC
 #
 
 0.0.0.0 3gl.net
@@ -371,6 +371,7 @@
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mxcdn.net
 0.0.0.0 n26-trusted.n26.com
+0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com

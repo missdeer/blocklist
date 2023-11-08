@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 07 Nov 2023 04:23:24 UTC
+# Last converted - Wed, 08 Nov 2023 04:23:52 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -433,7 +433,6 @@
 0.0.0.0 156.2.22nbcume.hb.tt.omtrdc.net
 0.0.0.0 1573.tt.omtrdc.net
 0.0.0.0 158-231searchmai.tt.omtrdc.net
-0.0.0.0 15823f12-289e-4189-9e51-e2de1bf1a105.online
 0.0.0.0 159.prod.cloud.prod.cloud.tt.omtrdc.net
 0.0.0.0 15kvalencia.es.ssl.sc.tt.omtrdc.net
 0.0.0.0 15y.api.tt.omtrdc.net
@@ -1181,7 +1180,6 @@
 0.0.0.0 316jf.tt.omtrdc.net
 0.0.0.0 317lemans.treknew.fun
 0.0.0.0 317rochelle.treknew.fun
-0.0.0.0 31830fbc-adbf-11ed-afa1-0242ac120002.site
 0.0.0.0 318ajova.trekkeeee.fun
 0.0.0.0 318alabama.trekkeeee.fun
 0.0.0.0 318alaska.trekkeeee.fun
@@ -7954,6 +7952,7 @@
 0.0.0.0 alsgaj.chosun.com
 0.0.0.0 alsgaj.sportschosun.com
 0.0.0.0 also.greatsecuritydebate.net
+0.0.0.0 alt-r.my.com
 0.0.0.0 alt.tns-gallup.dk
 0.0.0.0 altabold1.com
 0.0.0.0 altalex.wolterskluwer.com
@@ -8322,6 +8321,7 @@
 0.0.0.0 analytics.fs-bdash.com
 0.0.0.0 analytics.futuro360.com
 0.0.0.0 analytics.gamedatacrunch.com
+0.0.0.0 analytics.gamesdrive.net
 0.0.0.0 analytics.gate.co.id
 0.0.0.0 analytics.geastore.com
 0.0.0.0 analytics.geekyminds.net
@@ -8374,6 +8374,7 @@
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.karakuri.ai
+0.0.0.0 analytics.keepstreams.com
 0.0.0.0 analytics.kellerencompass.com
 0.0.0.0 analytics.kellerpermits.com
 0.0.0.0 analytics.kellyservices.com

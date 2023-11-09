@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 08 Nov 2023 04:23:55 UTC
+# Last converted - Thu, 09 Nov 2023 04:23:40 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -773,6 +773,7 @@
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
 0.0.0.0 tapstat.ru
+0.0.0.0 tapulsads.ru
 0.0.0.0 targetspot.com
 0.0.0.0 tccbanner.com
 0.0.0.0 teachscape.vo.llnwd.net

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 08 Nov 2023 04:23:53 UTC
+# Last converted - Thu, 09 Nov 2023 04:23:39 UTC
 #
 
 0.0.0.0 3gl.net
@@ -99,6 +99,7 @@
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
 0.0.0.0 c.vogue.com
+0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
@@ -188,7 +189,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 dii.bankaust.com.au
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dnn506yrbagrg.cloudfront.net
@@ -433,6 +433,7 @@
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.vogue.com
+0.0.0.0 qc.wired.com
 0.0.0.0 qfp.intuit.com
 0.0.0.0 qm.redbull.com
 0.0.0.0 r.apkpure.net

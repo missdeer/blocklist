@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 10 Nov 2023 04:23:49 UTC
+# Last converted - Sat, 11 Nov 2023 04:23:06 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -49390,6 +49390,7 @@
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.smartseminar.jp
 0.0.0.0 tracker.softcube.com
+0.0.0.0 tracker.srta.spectrum.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.swedish.org
 0.0.0.0 tracker.thinkermail.com

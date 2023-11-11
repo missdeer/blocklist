@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 10 Nov 2023 04:23:46 UTC
+# Last converted - Sat, 11 Nov 2023 04:23:08 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -119,6 +119,7 @@
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adquota.com
+0.0.0.0 adrouter-charter-vod.cadenttech.tv
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-chunks.prod.ihrhls.com

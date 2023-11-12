@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 11 Nov 2023 04:23:06 UTC
+# Last converted - Sun, 12 Nov 2023 04:22:57 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8205,6 +8205,7 @@
 0.0.0.0 analytics.clientify.net
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cloud.unity3d.com
+0.0.0.0 analytics.clubic.com
 0.0.0.0 analytics.cn.ru
 0.0.0.0 analytics.cnfanart.com
 0.0.0.0 analytics.cnnchile.com
@@ -14740,6 +14741,7 @@
 0.0.0.0 counter.nn.ru
 0.0.0.0 counter.nv.ua
 0.0.0.0 counter.ok.ee
+0.0.0.0 counter.packa2.cz
 0.0.0.0 counter.pixplug.in
 0.0.0.0 counter.pr-cy.ru
 0.0.0.0 counter.promodeejay.net
@@ -44573,6 +44575,7 @@
 0.0.0.0 stats.tnt.com
 0.0.0.0 stats.toiletmap.org.uk
 0.0.0.0 stats.tork.fr
+0.0.0.0 stats.totalav.com
 0.0.0.0 stats.tou.tv
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.tradingacademy.com

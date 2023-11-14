@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 13 Nov 2023 04:23:53 UTC
+# Last converted - Tue, 14 Nov 2023 04:23:36 UTC
 #
 
 0.0.0.0 33across.com
@@ -289,6 +289,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 g.analytics.versa-ai.com
@@ -530,6 +531,7 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-log-inter.youdao.com
+0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk.appsflyer.com

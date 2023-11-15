@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 14 Nov 2023 04:23:36 UTC
+# Last converted - Wed, 15 Nov 2023 04:23:54 UTC
 #
 
 0.0.0.0 33across.com
@@ -436,6 +436,7 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com
+0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
@@ -489,6 +490,7 @@
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 prod-analytics.royal.drmgms.com
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
+0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 prugskh.com
 0.0.0.0 prugskh.net

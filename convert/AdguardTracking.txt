@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 15 Nov 2023 04:23:57 UTC
+# Last converted - Thu, 16 Nov 2023 04:24:31 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -5968,6 +5968,7 @@
 0.0.0.0 adservice.google.
 0.0.0.0 adsettings.com
 0.0.0.0 adslb1.hb-fa-dev.tt.omtrdc.net
+0.0.0.0 adsmeasurement.com
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adsn-da-00.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 adsoft.tt.omtrdc.net
@@ -9331,6 +9332,7 @@
 0.0.0.0 audicentrumrzeszow-online.tt.omtrdc.net
 0.0.0.0 audicityplock6a.tt.omtrdc.net
 0.0.0.0 audid-api.taobao.com
+0.0.0.0 audience-mostread.r7.com
 0.0.0.0 audience.acpm.fr
 0.0.0.0 audience.d.tt.omtrdc.net
 0.0.0.0 audience.standardchartered.com.tw
@@ -53415,6 +53417,7 @@
 0.0.0.0 t.gene.com
 0.0.0.0 t.genentech-access.com
 0.0.0.0 t.georgiadogs.com
+0.0.0.0 t.ghostboard.io
 0.0.0.0 t.goairforcefalcons.com
 0.0.0.0 t.goarmywestpoint.com
 0.0.0.0 t.gobearcats.com

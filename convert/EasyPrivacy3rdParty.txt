@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 15 Nov 2023 04:23:58 UTC
+# Last converted - Thu, 16 Nov 2023 04:24:27 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -590,6 +590,7 @@
 0.0.0.0 events.ubembed.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
+0.0.0.0 eventsproxy.gargantuan.futureplc.com
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 experience.contextly.com
@@ -1103,6 +1104,7 @@
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
 0.0.0.0 t.enuygun.com
+0.0.0.0 t.ghostboard.io
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com

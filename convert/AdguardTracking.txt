@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 17 Nov 2023 04:24:23 UTC
+# Last converted - Sat, 18 Nov 2023 04:23:36 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7702,6 +7702,7 @@
 0.0.0.0 analytics.toyotaforklift.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.tripoto.com
+0.0.0.0 analytics.trovit.com
 0.0.0.0 analytics.truckingauthority.com
 0.0.0.0 analytics.trust.page
 0.0.0.0 analytics.trutv.com
@@ -13448,6 +13449,7 @@
 0.0.0.0 d1rszqblq924lq.cloudfront.net
 0.0.0.0 d1snv67wdds0p2.cloudfront.net
 0.0.0.0 d1stxfv94hrhia.cloudfront.net
+0.0.0.0 d1tprjo2w7krrh.cloudfront.net
 0.0.0.0 d1tracker.ru
 0.0.0.0 d1uy7uzra011au.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
@@ -39003,6 +39005,7 @@
 0.0.0.0 meerkat.bigcrazylife.com
 0.0.0.0 meerkat.inprivy.io
 0.0.0.0 meerkat.nilsmielke.me
+0.0.0.0 meet-buddy.com
 0.0.0.0 meet-jit-si-jvb-42-83-44p-proxy.tt.omtrdc.net
 0.0.0.0 meet-lu.beta.tt.omtrdc.net
 0.0.0.0 meet.a-app.eu-app.eu.tt.omtrdc.net
@@ -40825,6 +40828,7 @@
 0.0.0.0 mplxtms.com
 0.0.0.0 mpp-server.tcp.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 mpptarget.tt.omtrdc.net
+0.0.0.0 mpraven.org
 0.0.0.0 mpseoxcy.tt.omtrdc.net
 0.0.0.0 mpstat.us
 0.0.0.0 mpt.promo.skf.com
@@ -43738,6 +43742,7 @@
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.ipinfo.io
 0.0.0.0 pixel.lilystyle.ai
+0.0.0.0 pixel.locker2.com
 0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.newsdiscover.com.au
 0.0.0.0 pixel.nur.kz
@@ -47449,7 +47454,9 @@
 0.0.0.0 smartworksforme.actonservice.com
 0.0.0.0 smartzonessva.com
 0.0.0.0 smatning.volkswagen.se
+0.0.0.0 smatr.net
 0.0.0.0 smatrix.hbo.com
+0.0.0.0 smazaz.icu
 0.0.0.0 smb-cashback.alcatel-lucent.com.au
 0.0.0.0 smb.info.shutterstock.com
 0.0.0.0 smbzbm.skymilescruises.com
@@ -57590,6 +57597,7 @@
 0.0.0.0 tracking.precisely.com
 0.0.0.0 tracking.precollege.wisc.edu
 0.0.0.0 tracking.predtrk.com
+0.0.0.0 tracking.prismpartner.smt.docomo.ne.jp
 0.0.0.0 tracking.pro.engie.fr
 0.0.0.0 tracking.prodesa.com
 0.0.0.0 tracking.prodiga.no
@@ -59038,6 +59046,7 @@
 0.0.0.0 us.onkyo.actonservice.com
 0.0.0.0 us.promo.skf.com
 0.0.0.0 us.ricoh-usa.com
+0.0.0.0 us.tags.newscgp.com
 0.0.0.0 us.tt.omtrdc.net
 0.0.0.0 us01xmpp-cis-ngxsrv11.tt.omtrdc.net
 0.0.0.0 us04logfiles.zoom.us

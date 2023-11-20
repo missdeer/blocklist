@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 19 Nov 2023 04:23:18 UTC
+# Last converted - Mon, 20 Nov 2023 04:24:51 UTC
 #
 
 0.0.0.0 3gl.net
@@ -530,6 +530,7 @@
 0.0.0.0 t.av.st
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.dailymail.co.uk
+0.0.0.0 t.deepnote.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com

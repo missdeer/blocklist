@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 21 Nov 2023 04:24:37 UTC
+# Last converted - Wed, 22 Nov 2023 04:24:32 UTC
 #
 
 0.0.0.0 33across.com
@@ -65,11 +65,9 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
-0.0.0.0 analytics-http.mintegral.net
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sprint.qoqa.com
-0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics.300624.com
 0.0.0.0 analytics.ad.daum.net
@@ -320,6 +318,7 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ibd-as-api.iq.com
+0.0.0.0 iemiq.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 imp.apprevolve.com
 0.0.0.0 imp.startappservice.com
@@ -427,6 +426,7 @@
 0.0.0.0 metrics.spbtv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 mgs123.com
+0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
@@ -663,6 +663,7 @@
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengjmacs.m.taobao.com
+0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
@@ -693,5 +694,6 @@
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
+0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 zdbb.net
 0.0.0.0 ztevents.zaloapp.com

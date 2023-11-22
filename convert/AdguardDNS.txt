@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Tue, 21 Nov 2023 04:24:42 UTC
+# Last converted - Wed, 22 Nov 2023 04:24:26 UTC
 #
 
 0.0.0.0 0-000.store
@@ -247,6 +247,7 @@
 0.0.0.0 11.yiqig.com
 0.0.0.0 1100058268.rsc.cdn77.org
 0.0.0.0 1100ad.com
+0.0.0.0 1102734998.rsc.cdn77.org
 0.0.0.0 1104piaoba2022.xyz
 0.0.0.0 110628.cn
 0.0.0.0 1106yh.com
@@ -2309,6 +2310,7 @@
 0.0.0.0 accustomreview.com
 0.0.0.0 acdbidoxmfu.com
 0.0.0.0 acdcdn.com
+0.0.0.0 acdcmarimo.com
 0.0.0.0 acdn01.vidox.net
 0.0.0.0 acdnpro.com
 0.0.0.0 ace.naver.com
@@ -2889,6 +2891,7 @@
 0.0.0.0 adcron.com
 0.0.0.0 adcrowd.com
 0.0.0.0 adcryp.to
+0.0.0.0 adcs.myappsget.com
 0.0.0.0 adcsh.cfd
 0.0.0.0 add.f5haber.com
 0.0.0.0 add.in.ua
@@ -5605,6 +5608,7 @@
 0.0.0.0 amywhereby.com
 0.0.0.0 amzargfaht.com
 0.0.0.0 amzbr.com
+0.0.0.0 amzbtuolwp.com
 0.0.0.0 amzosmcuhci.com
 0.0.0.0 amzpzylzo.com
 0.0.0.0 an.batmobi.net
@@ -5678,7 +5682,6 @@
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-helper.com
-0.0.0.0 analytics-http.mintegral.net
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ingress.bitmovin.com
@@ -5691,7 +5694,6 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics-stamp.confi.com.vc
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-wcms.joins.net
@@ -10623,6 +10625,7 @@
 0.0.0.0 buzzador.com
 0.0.0.0 buzzardcraizey.com
 0.0.0.0 buzzcity.net
+0.0.0.0 buzzdancing.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 buzzonclick.com
 0.0.0.0 buzzoola.com
@@ -11573,6 +11576,7 @@
 0.0.0.0 ceekougy.net
 0.0.0.0 ceeleeca.com
 0.0.0.0 ceemoptu.xyz
+0.0.0.0 ceeqgwt.com
 0.0.0.0 cegrithy.net
 0.0.0.0 cehiswasreb.ru
 0.0.0.0 cehuiy.com
@@ -12692,6 +12696,7 @@
 0.0.0.0 cms.grandcloud.cn
 0.0.0.0 cms.lv
 0.0.0.0 cms100.xyz
+0.0.0.0 cmshow.gtimg.cn
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
 0.0.0.0 cmsxodnj.xyz
@@ -17698,6 +17703,7 @@
 0.0.0.0 dulativergs.com
 0.0.0.0 dulcormutated.com
 0.0.0.0 dulillipupan.com
+0.0.0.0 dullstory.pro
 0.0.0.0 dulogav.com
 0.0.0.0 dulojet.com
 0.0.0.0 dulosqatkrk.com
@@ -18023,6 +18029,7 @@
 0.0.0.0 eads.to
 0.0.0.0 eadv.it
 0.0.0.0 eaenjwd1cmftxjk.ru
+0.0.0.0 eafb9d5abc.com
 0.0.0.0 eagazi.com
 0.0.0.0 eagle-insight.com
 0.0.0.0 eagleapi.io
@@ -20548,6 +20555,7 @@
 0.0.0.0 fgre9.top
 0.0.0.0 fgrvbkquwurttn.com
 0.0.0.0 fgttbz.xyz
+0.0.0.0 fguhyg.cn
 0.0.0.0 fgxfnkiojgs.com
 0.0.0.0 fh-main.measure.agilemeasure.com
 0.0.0.0 fh259by01r25.com
@@ -22441,6 +22449,7 @@
 0.0.0.0 ggsaffiliates.com
 0.0.0.0 ggsbjzyo.com
 0.0.0.0 ggsfq.com
+0.0.0.0 ggsfq.xyz
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 0.0.0.0 ggtraf.com
 0.0.0.0 ggw.gusuwang.com
@@ -23487,6 +23496,7 @@
 0.0.0.0 grxeyig.xyz
 0.0.0.0 grxwqq.com
 0.0.0.0 grygrothapi.pro
+0.0.0.0 gs-ad.jp
 0.0.0.0 gs.mountain.com
 0.0.0.0 gsasd.info
 0.0.0.0 gsclvurjec.xyz
@@ -23771,6 +23781,7 @@
 0.0.0.0 hacde3.icu
 0.0.0.0 hacde5.icu
 0.0.0.0 hacde6.icu
+0.0.0.0 hadabqhbewcrt.com
 0.0.0.0 hadarone.com
 0.0.0.0 haderilovas.com
 0.0.0.0 hades.qyer.com
@@ -25575,6 +25586,7 @@
 0.0.0.0 ieggdijjfccaffgdafb.ru
 0.0.0.0 ieicbkjmmqkcmgq.com
 0.0.0.0 ieiukkwfqhwuvwy.com
+0.0.0.0 iemiq.com
 0.0.0.0 iendoo.com
 0.0.0.0 iepda.xyz
 0.0.0.0 ietyofedinj89yewtburgh.com
@@ -26419,6 +26431,7 @@
 0.0.0.0 instantresp.com
 0.0.0.0 instantshingle.com
 0.0.0.0 instapagemetrics.com
+0.0.0.0 instaruptilt.com
 0.0.0.0 insteadprincipleshearted.com
 0.0.0.0 insticator.com
 0.0.0.0 instinctcringe.com
@@ -27235,6 +27248,7 @@
 0.0.0.0 jaxxenpro.com
 0.0.0.0 jayhou.top
 0.0.0.0 jazg97clb.ru
+0.0.0.0 jazzlowness.com
 0.0.0.0 jazzmoist.com
 0.0.0.0 jazzspeechlessarena.com
 0.0.0.0 jb.dianshu119.com
@@ -29621,6 +29635,7 @@
 0.0.0.0 levulicdiamins.com
 0.0.0.0 levulinmoble.space
 0.0.0.0 lewdlygrips.top
+0.0.0.0 lewhrzv.xyz
 0.0.0.0 lewqiiy.xyz
 0.0.0.0 lexemeowhere.digital
 0.0.0.0 lexicoggeegaw.website
@@ -32459,6 +32474,7 @@
 0.0.0.0 mingysticker.guru
 0.0.0.0 mini.hao123.com
 0.0.0.0 miniaturechain.pro
+0.0.0.0 miniatureoffer.pro
 0.0.0.0 minidoc.ru
 0.0.0.0 miniglobalcitizens.com
 0.0.0.0 minimumacquitteam.com
@@ -32474,6 +32490,7 @@
 0.0.0.0 minsistereron.xyz
 0.0.0.0 mintclick.xyz
 0.0.0.0 mintegral.com
+0.0.0.0 mintegral.net
 0.0.0.0 mintmanunmanly.com
 0.0.0.0 mintsdrouket.com
 0.0.0.0 minuterhythm.com
@@ -33342,6 +33359,7 @@
 0.0.0.0 mtdata10.ru
 0.0.0.0 mtdkhfguafqijx.com
 0.0.0.0 mtga.setapp.com
+0.0.0.0 mtgglobals.com
 0.0.0.0 mtienlx.top
 0.0.0.0 mtjrhfww.com
 0.0.0.0 mtjwxcdjierrmw.com
@@ -37737,6 +37755,7 @@
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 pgbmjuhwiej.xyz
 0.0.0.0 pgdmon.com
+0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgght17.com
 0.0.0.0 pghub.io
 0.0.0.0 pgitpwovdh.xyz
@@ -39358,6 +39377,7 @@
 0.0.0.0 progressproceeding.com
 0.0.0.0 prohibitedhalfway.com
 0.0.0.0 projeanaliz.com
+0.0.0.0 projecta-common-1258344701.file.myqcloud.com
 0.0.0.0 projectagora.net
 0.0.0.0 projectagora.tech
 0.0.0.0 projectagoralibs.com
@@ -39584,6 +39604,7 @@
 0.0.0.0 psauwush.net
 0.0.0.0 psclicks.com
 0.0.0.0 psdn.xyz
+0.0.0.0 pseeghud.com
 0.0.0.0 pseekree.com
 0.0.0.0 pseekseecm.com
 0.0.0.0 pseemsee.com
@@ -40360,6 +40381,7 @@
 0.0.0.0 qgoqkcpw.xyz
 0.0.0.0 qgrnyis.cn
 0.0.0.0 qgsgnqhqgjw.com
+0.0.0.0 qgsjtgvjz.com
 0.0.0.0 qguwoq.cn
 0.0.0.0 qgxbluhsgad.com
 0.0.0.0 qhapp.top
@@ -40546,6 +40568,7 @@
 0.0.0.0 qreakingoutinteah.xyz
 0.0.0.0 qrirud.xyz
 0.0.0.0 qrlsx.com
+0.0.0.0 qroagwadndwy.com
 0.0.0.0 qrprobopassor.com
 0.0.0.0 qrstes.com
 0.0.0.0 qruohmguna.com
@@ -45438,6 +45461,7 @@
 0.0.0.0 sockzoomtoothbrush.com
 0.0.0.0 socsi.in
 0.0.0.0 socy.es
+0.0.0.0 sodainquired.com
 0.0.0.0 sodallay.com
 0.0.0.0 sodamash.com
 0.0.0.0 sodamidhankie.com
@@ -46600,6 +46624,7 @@
 0.0.0.0 stats.dongphim.net
 0.0.0.0 stats.ebay.com
 0.0.0.0 stats.edicy.com
+0.0.0.0 stats.ehandel.se
 0.0.0.0 stats.esecured.net
 0.0.0.0 stats.europe.newsweek.com
 0.0.0.0 stats.eyeviewdigital.com
@@ -47629,7 +47654,9 @@
 0.0.0.0 syenitetatler.tech
 0.0.0.0 syinga.com
 0.0.0.0 syjkscy.cn
+0.0.0.0 sykfmgu.com
 0.0.0.0 sylvatealonely.com
+0.0.0.0 sylxisys.com
 0.0.0.0 symbolizebeast.com
 0.0.0.0 symbolstudents.com
 0.0.0.0 symbolultrasound.com
@@ -49306,6 +49333,7 @@
 0.0.0.0 tmmkhspf.xyz
 0.0.0.0 tmmp.io
 0.0.0.0 tmnbocewmddu.com
+0.0.0.0 tmnsstf.com
 0.0.0.0 tmochyf.cn
 0.0.0.0 tmozs.com
 0.0.0.0 tmrhoe2.com
@@ -52024,6 +52052,7 @@
 0.0.0.0 uoutube.com
 0.0.0.0 uowfag.xyz
 0.0.0.0 uowjsjkanqmw.com
+0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 up-rank.com
 0.0.0.0 up.hiao.com
 0.0.0.0 up4u.me
@@ -52489,6 +52518,7 @@
 0.0.0.0 vacant-writer.com
 0.0.0.0 vacationambulancekin.com
 0.0.0.0 vacationinvolve.com
+0.0.0.0 vaccinationinvalidphosphate.com
 0.0.0.0 vaccinationwear.com
 0.0.0.0 vaccinegrownparliamentary.com
 0.0.0.0 vacuolewhilter.com
@@ -54586,6 +54616,7 @@
 0.0.0.0 whotrundledthe.com
 0.0.0.0 whoumtip.xyz
 0.0.0.0 whoungoz.net
+0.0.0.0 whounoag.xyz
 0.0.0.0 whourgie.com
 0.0.0.0 whoursie.com
 0.0.0.0 whoururt.xyz
@@ -56627,6 +56658,7 @@
 0.0.0.0 yummiesfootle.space
 0.0.0.0 yummy-gap.pro
 0.0.0.0 yumomis.com
+0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 yuncaizhijia.ltd
 0.0.0.0 yunded.com
 0.0.0.0 yunit.org
@@ -57430,6 +57462,7 @@
 0.0.0.0 zzfoms.com
 0.0.0.0 zzhengre.com
 0.0.0.0 zzisnvb.cn
+0.0.0.0 zzjwblqbwlrnj.top
 0.0.0.0 zzkwsosixkdu.com
 0.0.0.0 zzngisyq.xyz
 0.0.0.0 zzqrr.com

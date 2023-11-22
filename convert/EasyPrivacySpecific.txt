@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 21 Nov 2023 04:24:39 UTC
+# Last converted - Wed, 22 Nov 2023 04:24:35 UTC
 #
 
 0.0.0.0 3gl.net
@@ -361,6 +361,7 @@
 0.0.0.0 metrics.syf.com
 0.0.0.0 metrics.ted.com
 0.0.0.0 metricsishare.rediff.com
+0.0.0.0 mi.grubhub.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 midas.chase.com
 0.0.0.0 mixpanel-proxy.ted.com
@@ -555,6 +556,7 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.stepstone.com
 0.0.0.0 tao.barstoolsports.com
+0.0.0.0 taplytics-umami.grubhub.com
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org
 0.0.0.0 targeting.washpost.nile.works

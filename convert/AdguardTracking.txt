@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 22 Nov 2023 04:24:29 UTC
+# Last converted - Thu, 23 Nov 2023 04:24:29 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7309,7 +7309,6 @@
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
-0.0.0.0 analytics-http.mintegral.net
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ingress.bitmovin.com
@@ -7327,7 +7326,6 @@
 0.0.0.0 analytics-ssl.bradyid.com
 0.0.0.0 analytics-ssl.seton.co.uk
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 analytics-tcp.mintegral.net
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-wcms.joins.net
@@ -8629,6 +8627,7 @@
 0.0.0.0 app.partner.fisglobal.com
 0.0.0.0 app.payments-response.americanexpress.co.uk
 0.0.0.0 app.payments.53.com
+0.0.0.0 app.pendo.io
 0.0.0.0 app.pennathletics.com
 0.0.0.0 app.pittsburghpanthers.com
 0.0.0.0 app.playhousesquare.org
@@ -34195,6 +34194,7 @@
 0.0.0.0 iegwze.goldcar.es
 0.0.0.0 iemail.theiconic.com.au
 0.0.0.0 iemail.tt.omtrdc.net
+0.0.0.0 iemiq.com
 0.0.0.0 iepfcy.farmandfleet.com
 0.0.0.0 iesnare.com
 0.0.0.0 iethpk.notino.ro
@@ -41057,6 +41057,7 @@
 0.0.0.0 meadowlark.bump.sh
 0.0.0.0 meadowlark.hownow.guide
 0.0.0.0 meadowlark.psynapse.no
+0.0.0.0 meanlytics.com
 0.0.0.0 meanwellaustralia.actonservice.com
 0.0.0.0 meapk.com
 0.0.0.0 measure.chase.com
@@ -42696,6 +42697,7 @@
 0.0.0.0 minnow.tapas-software.net
 0.0.0.0 mint3-new.tt.omtrdc.net
 0.0.0.0 mint8.tt.omtrdc.net
+0.0.0.0 mintegral.net
 0.0.0.0 mintelweb.b.s.tt.omtrdc.net
 0.0.0.0 minuetkittenscattery.tt.omtrdc.net
 0.0.0.0 minze04d.tt.omtrdc.net
@@ -61549,6 +61551,7 @@
 0.0.0.0 uoblij.farmaline.be
 0.0.0.0 uogqym.christopherandbanks.com
 0.0.0.0 uolwbz.heine.de
+0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 up-rank.com
 0.0.0.0 up.aktivliv.com
 0.0.0.0 upalytics.com
@@ -61962,6 +61965,7 @@
 0.0.0.0 viaggimarilore.tt.omtrdc.net
 0.0.0.0 viasat.tt.omtrdc.net
 0.0.0.0 viavarejo.tt.omtrdc.net
+0.0.0.0 vibeaconstr.onezapp.com
 0.0.0.0 viborgfolkeblad.tns-gallup.dk
 0.0.0.0 vicentecamarasa.tt.omtrdc.net
 0.0.0.0 vicky.tweaknology.org
@@ -64347,6 +64351,7 @@
 0.0.0.0 ythingy.com
 0.0.0.0 yueqal.glassesusa.com
 0.0.0.0 yujmyt.theiconic.co.nz
+0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 yunakagawa.tt.omtrdc.net
 0.0.0.0 yunanmitolojisi.tt.omtrdc.net
 0.0.0.0 yunit.org

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 22 Nov 2023 04:24:30 UTC
+# Last converted - Thu, 23 Nov 2023 04:24:26 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -810,6 +810,7 @@
 0.0.0.0 newsletters.nationalgeographic.com
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
+0.0.0.0 nitrous-analytics.s3.amazonaws.com
 0.0.0.0 noflake-aggregator-http.narvar.com
 0.0.0.0 nojscontainer.pepperjam.com
 0.0.0.0 nol.yahoo.com

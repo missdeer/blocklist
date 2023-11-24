@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 23 Nov 2023 04:24:26 UTC
+# Last converted - Fri, 24 Nov 2023 04:23:57 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -257,14 +257,12 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
-0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 check.ddos-guard.net
-0.0.0.0 check.deadlinefunnel.com
 0.0.0.0 cimage.adobe.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -513,6 +511,7 @@
 0.0.0.0 dnxlgencstz4.cloudfront.net
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
+0.0.0.0 doppler-client-events.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
@@ -741,6 +740,7 @@
 0.0.0.0 logger.snackly.co
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.je-apps.com
+0.0.0.0 logging.pw.adn.cloud
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com

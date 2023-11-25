@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Fri, 24 Nov 2023 04:23:55 UTC
+# Last converted - Sat, 25 Nov 2023 04:23:38 UTC
 #
 
 0.0.0.0 0-000.store
@@ -7788,6 +7788,7 @@
 0.0.0.0 azoogleads.com
 0.0.0.0 azorbe.com
 0.0.0.0 azpresearch.club
+0.0.0.0 azq.zozo.jp
 0.0.0.0 azraelzvro.com
 0.0.0.0 azsin.ru
 0.0.0.0 azskk.com
@@ -10401,6 +10402,7 @@
 0.0.0.0 btn.pchome.net
 0.0.0.0 btnativedirect.com
 0.0.0.0 btncdn.com
+0.0.0.0 btodsjr.com
 0.0.0.0 btonzfjleinuax.com
 0.0.0.0 btpnative.com
 0.0.0.0 btpnav.com
@@ -11483,7 +11485,6 @@
 0.0.0.0 cdn.steambets.net
 0.0.0.0 cdn.teleportapi.com
 0.0.0.0 cdn.topmind.io
-0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.umh.ua
 0.0.0.0 cdn.upthinking.cn
 0.0.0.0 cdn.usefathom.com
@@ -11867,7 +11868,6 @@
 0.0.0.0 check-now.online
 0.0.0.0 check-out-this.site
 0.0.0.0 check-update-today.com
-0.0.0.0 check.deadlinefunnel.com
 0.0.0.0 check.tadapi.info
 0.0.0.0 checkbl.ru
 0.0.0.0 checkcdn.net
@@ -13307,6 +13307,7 @@
 0.0.0.0 connectio.s3.amazonaws.com
 0.0.0.0 connectreadoasis.com
 0.0.0.0 connects.ch
+0.0.0.0 connecttoday.eu
 0.0.0.0 connexity.net
 0.0.0.0 connexplace.com
 0.0.0.0 connext-cdn.azureedge.net
@@ -13834,6 +13835,7 @@
 0.0.0.0 cpazilla.ru
 0.0.0.0 cpcmanager.com
 0.0.0.0 cpcmart.com
+0.0.0.0 cpcstdploqqh.com
 0.0.0.0 cpddwyuyd.com
 0.0.0.0 cpdsrv.de
 0.0.0.0 cpealwcwao.com
@@ -14200,6 +14202,7 @@
 0.0.0.0 cteripre.com
 0.0.0.0 cthbini.xyz
 0.0.0.0 cthisismoych.com
+0.0.0.0 cthkgodgy.com
 0.0.0.0 ctiavxtakmw.com
 0.0.0.0 cticalwhichhere.info
 0.0.0.0 ctienlf.top
@@ -15910,6 +15913,7 @@
 0.0.0.0 de17a.com
 0.0.0.0 de2nsnw1i3egd.cloudfront.net
 0.0.0.0 deadlineevaporate.com
+0.0.0.0 deadlinefunnel.com
 0.0.0.0 deadly-variety.pro
 0.0.0.0 deadlyheart.pro
 0.0.0.0 deadlyrelationship.com
@@ -16914,6 +16918,7 @@
 0.0.0.0 djm080u34wfc5.cloudfront.net
 0.0.0.0 djmaza.in
 0.0.0.0 djnaivalj34ub.cloudfront.net
+0.0.0.0 djponj.xyz
 0.0.0.0 djqacscl.com
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 0.0.0.0 djs.baomihua.com
@@ -17271,6 +17276,7 @@
 0.0.0.0 dopor.info
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
+0.0.0.0 doppler-client-events.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 doprinplupr.com
 0.0.0.0 doprodavec.ru
@@ -17815,6 +17821,7 @@
 0.0.0.0 duz64ud8y8urc.cloudfront.net
 0.0.0.0 duzmevl.com
 0.0.0.0 duzt6rhr7wo8p.cloudfront.net
+0.0.0.0 dv663fc06d35i.cloudfront.net
 0.0.0.0 dv7t7qyvgyrt5.cloudfront.net
 0.0.0.0 dvaminusodin.net
 0.0.0.0 dvanaro.ru
@@ -18368,6 +18375,7 @@
 0.0.0.0 edvforeveretest.com
 0.0.0.0 edvfwlacluo.com
 0.0.0.0 edvrfjrrxk.com
+0.0.0.0 edvxygh.com
 0.0.0.0 edw.edmunds.com
 0.0.0.0 edwate.com
 0.0.0.0 edwfdhkgnx.com
@@ -20921,6 +20929,7 @@
 0.0.0.0 flbpplqrvzopon.com
 0.0.0.0 flcounter.com
 0.0.0.0 fldes6fq.de
+0.0.0.0 fldkakjccxhgw.com
 0.0.0.0 flecur.com
 0.0.0.0 fleddatabaseclothing.com
 0.0.0.0 fleddaughter.com
@@ -22115,6 +22124,7 @@
 0.0.0.0 gayuxhswva.com
 0.0.0.0 gazati.com
 0.0.0.0 gazeesaucier.com
+0.0.0.0 gazeesoter.com
 0.0.0.0 gbaseby.ru
 0.0.0.0 gbbgaiuqq.com
 0.0.0.0 gbcnvip15.com
@@ -22319,6 +22329,7 @@
 0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geolsoul.life
+0.0.0.0 geometryworstaugust.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georgianabamboorehearse.com
 0.0.0.0 geoservice.curse.com
@@ -22485,6 +22496,7 @@
 0.0.0.0 gg1.mengchongzu.com
 0.0.0.0 gg72a1.com
 0.0.0.0 gg86.pinggu.org
+0.0.0.0 gg88.bj.bcebos.com
 0.0.0.0 ggcode.2345.com
 0.0.0.0 ggdm1.nhaidu.net
 0.0.0.0 ggdrfh5.com
@@ -22955,6 +22967,7 @@
 0.0.0.0 gnuoipb.cn
 0.0.0.0 go-mpulse.net
 0.0.0.0 go-rillatrack.com
+0.0.0.0 go-srv.com
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.bidfluence.com
 0.0.0.0 go.gotourls.bid
@@ -22987,10 +23000,12 @@
 0.0.0.0 go8me.ru
 0.0.0.0 goaciptu.net
 0.0.0.0 goads.pro
+0.0.0.0 goadserver.com
 0.0.0.0 goadservices.com
 0.0.0.0 goadx.com
 0.0.0.0 goaffmy.com
 0.0.0.0 goagloow.xyz
+0.0.0.0 goahouma.xyz
 0.0.0.0 goajuzey.com
 0.0.0.0 goalebim.com
 0.0.0.0 goaleedeary.com
@@ -23375,6 +23390,7 @@
 0.0.0.0 greasemotion.com
 0.0.0.0 greasysquare.com
 0.0.0.0 greatappland.com
+0.0.0.0 greataseset.org
 0.0.0.0 greatbonushere.life
 0.0.0.0 greatcpm.com
 0.0.0.0 greatdexchange.com
@@ -25309,6 +25325,7 @@
 0.0.0.0 hutremindbond.com
 0.0.0.0 huwuftie.com
 0.0.0.0 huxifena.cn
+0.0.0.0 huxsvl.xyz
 0.0.0.0 huylki.com
 0.0.0.0 hvcbkr.com
 0.0.0.0 hvd1t.com
@@ -27963,6 +27980,7 @@
 0.0.0.0 jugixgjqx.xyz
 0.0.0.0 jugsmithecology.com
 0.0.0.0 juhece.uno
+0.0.0.0 juhooqv.cn
 0.0.0.0 juiceadv.com
 0.0.0.0 juiceadv.net
 0.0.0.0 juicebarads.com
@@ -28602,6 +28620,7 @@
 0.0.0.0 kjvaqbyebqkzy.top
 0.0.0.0 kjvnfhdgb.com
 0.0.0.0 kjwysxs.cn
+0.0.0.0 kkeojk.xyz
 0.0.0.0 kkghcdvxdfvsq.com
 0.0.0.0 kkjrwxs.com
 0.0.0.0 kkjuu.xyz
@@ -28870,6 +28889,7 @@
 0.0.0.0 koureptu.xyz
 0.0.0.0 koutobey.net
 0.0.0.0 kovla.com
+0.0.0.0 koyuod.xyz
 0.0.0.0 kozoysnsx.com
 0.0.0.0 kpdn.ru
 0.0.0.0 kpdqdbyi.com
@@ -29626,6 +29646,7 @@
 0.0.0.0 leisurelyparoleexcitedly.com
 0.0.0.0 leisurelypizzascarlet.com
 0.0.0.0 leiwo.xyz
+0.0.0.0 lejshxao.xyz
 0.0.0.0 lemelstrikes.cfd
 0.0.0.0 lementwrencespri.info
 0.0.0.0 lemetri.info
@@ -30151,6 +30172,7 @@
 0.0.0.0 lkdybkwi.xyz
 0.0.0.0 lkhmkmhlqst.xyz
 0.0.0.0 lkidke.com
+0.0.0.0 lkjgdyhtdrnau.com
 0.0.0.0 lkjjhrwrcmvtl.com
 0.0.0.0 lkjkbjnalnqnb.top
 0.0.0.0 lkjrx.xyz
@@ -31734,6 +31756,7 @@
 0.0.0.0 mawsewtow.com
 0.0.0.0 mawstroca.top
 0.0.0.0 max-adserv.com
+0.0.0.0 max211.top
 0.0.0.0 maxato.com
 0.0.0.0 maxbounty.com
 0.0.0.0 maxepv.com
@@ -34492,6 +34515,7 @@
 0.0.0.0 nezuel.com
 0.0.0.0 nezygmobha.com
 0.0.0.0 nfctoroxi.xyz
+0.0.0.0 nfeblwlatpnbjs.com
 0.0.0.0 nffkfg.com
 0.0.0.0 nfkq8jy5db0b.com
 0.0.0.0 nftjmbhwxgo.com
@@ -39285,6 +39309,7 @@
 0.0.0.0 prfctmney.com
 0.0.0.0 prft1pub.com
 0.0.0.0 prftonnes.com
+0.0.0.0 prhphla.xyz
 0.0.0.0 prhzxq.com
 0.0.0.0 priceyaspect.pro
 0.0.0.0 priceypies.com
@@ -39586,6 +39611,7 @@
 0.0.0.0 proseoverlook.com
 0.0.0.0 prositzapas.com
 0.0.0.0 prosmazke.ru
+0.0.0.0 prosocrawn.com
 0.0.0.0 prospectconductorcheerfully.com
 0.0.0.0 prospecteye.com
 0.0.0.0 prospecttunaante.com
@@ -39710,6 +39736,7 @@
 0.0.0.0 psauwush.net
 0.0.0.0 psclicks.com
 0.0.0.0 psdn.xyz
+0.0.0.0 psedregn.net
 0.0.0.0 pseeghud.com
 0.0.0.0 pseekree.com
 0.0.0.0 pseekseecm.com
@@ -40850,6 +40877,7 @@
 0.0.0.0 quzmtpxw.xyz
 0.0.0.0 quzpvtt.xyz
 0.0.0.0 qvcyeknp.xyz
+0.0.0.0 qvftejz.cn
 0.0.0.0 qvi0.ru
 0.0.0.0 qvikar.com
 0.0.0.0 qvjpjsglmvhcbv.xyz
@@ -41724,6 +41752,7 @@
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 rek.yemlee.com
 0.0.0.0 rek5.savefrom.net
+0.0.0.0 rekfubzli.com
 0.0.0.0 rekhatov.ru
 0.0.0.0 rekipion.com
 0.0.0.0 rekl.brawlstars-app.ru
@@ -46394,6 +46423,7 @@
 0.0.0.0 ssvim.com
 0.0.0.0 st-5cva8vttppvjafpc7jvj.kodik.biz
 0.0.0.0 st-a.vtvdigital.vn
+0.0.0.0 st-fly.b-cdn.net
 0.0.0.0 st-rdirect.com
 0.0.0.0 st.astraone.io
 0.0.0.0 st.cdnco.us
@@ -49525,6 +49555,7 @@
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toboads.com
 0.0.0.0 tobwcdovmfthb.xyz
+0.0.0.0 tobyxev.com
 0.0.0.0 toc.io
 0.0.0.0 toccatamotific.com
 0.0.0.0 todayapp.tv
@@ -49882,6 +49913,7 @@
 0.0.0.0 tqmibkqlwqdysi.com
 0.0.0.0 tqnggnsi.fun
 0.0.0.0 tqqjk.top
+0.0.0.0 tqrjlqt.com
 0.0.0.0 tqrznqs.cn
 0.0.0.0 tqxwilx.com
 0.0.0.0 tqytqdrq.icu
@@ -53688,6 +53720,7 @@
 0.0.0.0 vpop2.com
 0.0.0.0 vpotyflfox.com
 0.0.0.0 vppst.iltrovatore.it
+0.0.0.0 vpqko.fun
 0.0.0.0 vpqpbgvgly.com
 0.0.0.0 vprtrfc.com
 0.0.0.0 vprwamqmdd.xyz
@@ -54449,6 +54482,7 @@
 0.0.0.0 wechatweb.com.cn
 0.0.0.0 wechoong.com
 0.0.0.0 wecjdqpinrpaugf.com
+0.0.0.0 wecklrb.cn
 0.0.0.0 wecouldle.com
 0.0.0.0 wecount4u.com
 0.0.0.0 wedflossbecause.com
@@ -54558,6 +54592,7 @@
 0.0.0.0 wfnetwork.com
 0.0.0.0 wfnpay.com
 0.0.0.0 wfthumty.pm
+0.0.0.0 wfuwlkgm.com
 0.0.0.0 wfuxwegisqhe.com
 0.0.0.0 wfyovpolha.com
 0.0.0.0 wg-aff.com
@@ -55268,6 +55303,7 @@
 0.0.0.0 woudaufe.net
 0.0.0.0 woujoami.com
 0.0.0.0 woukrkskillsom.info
+0.0.0.0 wouldmakefea.org
 0.0.0.0 wouldmakefeag.info
 0.0.0.0 wouldnotspea.info
 0.0.0.0 wouled.com
@@ -56768,6 +56804,7 @@
 0.0.0.0 ytbzqtrog.com
 0.0.0.0 ytcc3.com
 0.0.0.0 yterxv.com
+0.0.0.0 ytezym.xyz
 0.0.0.0 ytfezzava.com
 0.0.0.0 ytfotjfrttgyal.com
 0.0.0.0 ytgzz.com
@@ -57442,6 +57479,7 @@
 0.0.0.0 zprelandings.com
 0.0.0.0 zprk.io
 0.0.0.0 zpsovpgyk.xyz
+0.0.0.0 zpvsuniqkhj.com
 0.0.0.0 zpvuugw.cn
 0.0.0.0 zq.lansedir.com
 0.0.0.0 zqfcndk.com

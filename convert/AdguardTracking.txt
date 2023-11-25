@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 24 Nov 2023 04:24:00 UTC
+# Last converted - Sat, 25 Nov 2023 04:23:41 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -10002,6 +10002,7 @@
 0.0.0.0 azlej8cdm.pragmaticwebsecurity.com
 0.0.0.0 azlyta.immowelt.de
 0.0.0.0 aznmpb.tokyu-land.co.jp
+0.0.0.0 azq.zozo.jp
 0.0.0.0 azr-pxcnf-emea21707.px.tt.omtrdc.net
 0.0.0.0 azr-qa2.tt.omtrdc.net
 0.0.0.0 azrs17.tt.omtrdc.net
@@ -13197,6 +13198,7 @@
 0.0.0.0 cpowiltonnewmedia.hb.tt.omtrdc.net
 0.0.0.0 cpsappdev-stage1.psb.tt.omtrdc.net
 0.0.0.0 cpstest-setup-mc.tt.omtrdc.net
+0.0.0.0 cpt.geniee.jp
 0.0.0.0 cptirc01.tt.omtrdc.net
 0.0.0.0 cptrack.de
 0.0.0.0 cpx.to

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 27 Nov 2023 04:24:23 UTC
+# Last converted - Tue, 28 Nov 2023 04:24:15 UTC
 #
 
 0.0.0.0 33across.com
@@ -348,6 +348,7 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 lhzbdvm.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com

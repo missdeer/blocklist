@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 28 Nov 2023 04:24:20 UTC
+# Last converted - Wed, 29 Nov 2023 04:24:16 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -10145,7 +10145,6 @@
 0.0.0.0 b0e8.com
 0.0.0.0 b0i09audnu.tt.omtrdc.net
 0.0.0.0 b1.market-search.online
-0.0.0.0 b16.nakanohito.jp
 0.0.0.0 b1img.com
 0.0.0.0 b1n.carabins.umontreal.ca
 0.0.0.0 b1tow9h4erpw.anur.polymerdev.com
@@ -10444,6 +10443,7 @@
 0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
+0.0.0.0 beaconimages.netflix.net
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beafdf.restaupro.com
 0.0.0.0 beagle.prod.tda.link
@@ -11282,7 +11282,6 @@
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.microsoft.com
 0.0.0.0 c.msn.com
-0.0.0.0 c.nakanohito.jp
 0.0.0.0 c.plerdy.com
 0.0.0.0 c.pravo.ru
 0.0.0.0 c.revmizer.com
@@ -13426,7 +13425,6 @@
 0.0.0.0 cs.analytics.lego.com
 0.0.0.0 cs.coopeservidores.fi.cr
 0.0.0.0 cs.hot.net.il
-0.0.0.0 cs.nakanohito.jp
 0.0.0.0 cs.nexttv.co.il
 0.0.0.0 cs0010sbeda.theory-clinic.com
 0.0.0.0 cs0010sbeda.theory-diet.com
@@ -16589,6 +16587,7 @@
 0.0.0.0 ddioce.wolverine.com
 0.0.0.0 ddiscoverydp.hb-api.tt.omtrdc.net
 0.0.0.0 ddk9-ctxsf-000.tt.omtrdc.net
+0.0.0.0 ddl.alma.iltalehti.fi
 0.0.0.0 ddla593ymz72o.cloudfront.net
 0.0.0.0 ddrqaq.superkul.no
 0.0.0.0 de-de.siemensplmevents.com
@@ -45383,6 +45382,7 @@
 0.0.0.0 nahealth.hrm.healthgrades.com
 0.0.0.0 naidileobram.actonservice.com
 0.0.0.0 naj.sk
+0.0.0.0 nakanohito.jp
 0.0.0.0 nakisa.actonservice.com
 0.0.0.0 nalook.com
 0.0.0.0 namrinfo.motorolasolutions.com
@@ -63549,7 +63549,6 @@
 0.0.0.0 ugmarketing.smu.edu.sg
 0.0.0.0 ugowai.baito.mynavi.jp
 0.0.0.0 ugzbsu.klimaworld.com
-0.0.0.0 uh.nakanohito.jp
 0.0.0.0 uhc.tt.omtrdc.net
 0.0.0.0 uhd5nn09mgml.fort-shop.kiev.ua
 0.0.0.0 uhenqb.manning.com

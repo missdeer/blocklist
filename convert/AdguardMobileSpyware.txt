@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 29 Nov 2023 04:24:12 UTC
+# Last converted - Thu, 30 Nov 2023 04:24:19 UTC
 #
 
 0.0.0.0 33across.com
@@ -124,7 +124,6 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.reproio.com
 0.0.0.0 api.safegraph.com
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com

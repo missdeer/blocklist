@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 29 Nov 2023 04:24:16 UTC
+# Last converted - Thu, 30 Nov 2023 04:24:13 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8324,7 +8324,6 @@
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sandpit1.assistant.tt.omtrdc.net
 0.0.0.0 api.sbe.dee.tt.omtrdc.net
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com

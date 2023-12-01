@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 30 Nov 2023 04:24:19 UTC
+# Last converted - Fri, 01 Dec 2023 04:24:39 UTC
 #
 
 0.0.0.0 33across.com
@@ -14,7 +14,6 @@
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
-0.0.0.0 ada-tr.staff-start.com
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4ae.ut.taobao.com
@@ -37,7 +36,6 @@
 0.0.0.0 advangelists.com
 0.0.0.0 advmob.cn
 0.0.0.0 adx-in.ads.heytapmobile.com
-0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
@@ -123,7 +121,6 @@
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.reproio.com
-0.0.0.0 api.safegraph.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
@@ -525,7 +522,6 @@
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rts.mobula.sdk.duapps.com
-0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 s3-analytics-events.easybrain.com
@@ -571,8 +567,6 @@
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.sxp.smartclip.net
-0.0.0.0 stats.umsns.com
-0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com

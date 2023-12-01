@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 30 Nov 2023 04:24:13 UTC
+# Last converted - Fri, 01 Dec 2023 04:24:35 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -5601,7 +5601,6 @@
 0.0.0.0 ad4m.at
 0.0.0.0 ad7620bd0d9457d2bfc6f8f000944845.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 ad90.idmapper.api.api.tt.omtrdc.net
-0.0.0.0 ada-tr.staff-start.com
 0.0.0.0 ada8-2.ampleur.jp
 0.0.0.0 ada8.ampleur.jp
 0.0.0.0 adaa2-fix.ns.campaign.tt.omtrdc.net
@@ -6290,7 +6289,6 @@
 0.0.0.0 aexhyo.pilatos.com
 0.0.0.0 aexmails.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 aeyochi28.tt.omtrdc.net
-0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 af-za-0-6.tt.omtrdc.net
 0.0.0.0 af-za-0-8.tt.omtrdc.net
 0.0.0.0 af.analytics.elx.cloud
@@ -8321,7 +8319,6 @@
 0.0.0.0 api.reproio.com
 0.0.0.0 api.ria.tt.omtrdc.net
 0.0.0.0 api.ryanyao.design
-0.0.0.0 api.safegraph.com
 0.0.0.0 api.sandpit1.assistant.tt.omtrdc.net
 0.0.0.0 api.sbe.dee.tt.omtrdc.net
 0.0.0.0 api.sec.miui.com
@@ -49872,7 +49869,6 @@
 0.0.0.0 ru.secure.sonosite.com
 0.0.0.0 ru4.com
 0.0.0.0 ruanda.trekkww.fun
-0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rubicon.wellsfargo.com
 0.0.0.0 rubrikinc.tt.omtrdc.net
 0.0.0.0 rucounter.ru
@@ -57145,7 +57141,6 @@
 0.0.0.0 stats.twirrl.co
 0.0.0.0 stats.ubiwiz.com
 0.0.0.0 stats.ucheba.ru
-0.0.0.0 stats.umsns.com
 0.0.0.0 stats.unusualtourist.com
 0.0.0.0 stats.urbanfinn.com
 0.0.0.0 stats.urlaubsverwaltung.cloud
@@ -57235,7 +57230,6 @@
 0.0.0.0 statse-omtrdc.deka.de
 0.0.0.0 statsevent.com
 0.0.0.0 statsforever.com
-0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsigapi.net
 0.0.0.0 statsinsight.com
 0.0.0.0 statsit.com

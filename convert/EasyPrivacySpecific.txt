@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 30 Nov 2023 04:24:18 UTC
+# Last converted - Fri, 01 Dec 2023 04:24:37 UTC
 #
 
 0.0.0.0 3gl.net
@@ -516,6 +516,7 @@
 0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.pstream.net
+0.0.0.0 stats.qwant.com
 0.0.0.0 stats.sandberg.world
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.suenicholls.com

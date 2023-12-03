@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 02 Dec 2023 04:23:18 UTC
+# Last converted - Sun, 03 Dec 2023 04:23:14 UTC
 #
 
 0.0.0.0 3gl.net
@@ -260,6 +260,7 @@
 0.0.0.0 fuse.forbes.com
 0.0.0.0 g.ign.com
 0.0.0.0 g.mashable.com
+0.0.0.0 g.newtimes.com
 0.0.0.0 g.pcmag.com
 0.0.0.0 ga.dx.com
 0.0.0.0 ga.nsimg.net
@@ -474,6 +475,7 @@
 0.0.0.0 s.infogram.com
 0.0.0.0 s.wayfair.com
 0.0.0.0 saa.insideedition.com
+0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
 0.0.0.0 semasio.net
 0.0.0.0 shopmetric.rediff.com
@@ -562,6 +564,7 @@
 0.0.0.0 tags.stepstone.com
 0.0.0.0 tao.barstoolsports.com
 0.0.0.0 taplytics-umami.grubhub.com
+0.0.0.0 target-us.samsung.com
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org
 0.0.0.0 targeting.washpost.nile.works

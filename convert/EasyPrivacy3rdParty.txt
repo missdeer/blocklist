@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 02 Dec 2023 04:23:22 UTC
+# Last converted - Sun, 03 Dec 2023 04:23:14 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -100,6 +100,7 @@
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.klickly.com
 0.0.0.0 analytics.kongregate.io
+0.0.0.0 analytics.lemoolah.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.logsss.com
@@ -641,6 +642,7 @@
 0.0.0.0 geotrust.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
 0.0.0.0 gleam.io
+0.0.0.0 go.activengage.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
@@ -1345,6 +1347,7 @@
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 urldefense.com
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
+0.0.0.0 usaoptimizedby.increasingly.co
 0.0.0.0 user.userguiding.com
 0.0.0.0 userexperience.thehut.net
 0.0.0.0 usersegment.wpdigital.net

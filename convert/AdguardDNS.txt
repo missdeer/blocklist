@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Sun, 03 Dec 2023 04:23:11 UTC
+# Last converted - Mon, 04 Dec 2023 04:24:26 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -665,6 +665,7 @@
 0.0.0.0 2re6rpip2.de
 0.0.0.0 2rlgdkf7s.de
 0.0.0.0 2rmifan7n.de
+0.0.0.0 2s8s.com
 0.0.0.0 2sfygwfxvsxv.info
 0.0.0.0 2smarttracker.com
 0.0.0.0 2smt6mfgo.de
@@ -4239,6 +4240,7 @@
 0.0.0.0 adwstats.com
 0.0.0.0 adwx6vcj.com
 0.0.0.0 adx-dre.op.hicloud.com
+0.0.0.0 adx-exchange.toast.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 adx.36kr.com
@@ -5682,6 +5684,7 @@
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.ica.se
+0.0.0.0 analytics.idfnet.net
 0.0.0.0 analytics.ifanrusercontent.com
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.ikyu.com
@@ -5710,6 +5713,7 @@
 0.0.0.0 analytics.labbayk.ir
 0.0.0.0 analytics.lasegunda.ecn.cl
 0.0.0.0 analytics.lekumo.jp
+0.0.0.0 analytics.lemoolah.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.liveact-vault.com
 0.0.0.0 analytics.liveact.cri-mw.jp
@@ -8655,6 +8659,7 @@
 0.0.0.0 bepapersurmise.space
 0.0.0.0 beparaspr.com
 0.0.0.0 bepilelaities.com
+0.0.0.0 bepmrb.xyz
 0.0.0.0 bepolite.eu
 0.0.0.0 bepqevudfoha.com
 0.0.0.0 bepunbabite.uno
@@ -18000,6 +18005,7 @@
 0.0.0.0 ecma.bdimg.com
 0.0.0.0 ecmb.bdimg.com
 0.0.0.0 ecmwsx.icu
+0.0.0.0 ecn-ldr.de
 0.0.0.0 ecn5.com
 0.0.0.0 eco-tag.jp
 0.0.0.0 eco.2t4fe.xyz
@@ -19714,6 +19720,7 @@
 0.0.0.0 f1lws.top
 0.0.0.0 f1tbit.com
 0.0.0.0 f1tfmxzg.icu
+0.0.0.0 f23al.xyz
 0.0.0.0 f27tltnd.de
 0.0.0.0 f28fda58c5.com
 0.0.0.0 f2bdeb5c8c.com
@@ -27426,6 +27433,7 @@
 0.0.0.0 jqueryoi.com
 0.0.0.0 jqueryserve.org
 0.0.0.0 jqueryserver.com
+0.0.0.0 jqvajfvs.xyz
 0.0.0.0 jqyde7msbro2.com
 0.0.0.0 jrfkurohvql.xyz
 0.0.0.0 jrfwfwk.com
@@ -32223,6 +32231,7 @@
 0.0.0.0 miteredgasbags.com
 0.0.0.0 mitour.de
 0.0.0.0 mitrarank.ir
+0.0.0.0 mitself.net
 0.0.0.0 mittencattle.com
 0.0.0.0 mittenheatdied.com
 0.0.0.0 mittylargen.com
@@ -32762,6 +32771,7 @@
 0.0.0.0 mostdeport.com
 0.0.0.0 mostlytreasure.com
 0.0.0.0 mostopana.ru
+0.0.0.0 motcmn.icu
 0.0.0.0 mothdiscussioncrest.com
 0.0.0.0 motherehoom.pro
 0.0.0.0 motherhoodlimiteddetest.com
@@ -33702,6 +33712,7 @@
 0.0.0.0 needlessnorth.com
 0.0.0.0 needleworkemmaapostrophe.com
 0.0.0.0 neednguarded.space
+0.0.0.0 needqnv.xyz
 0.0.0.0 needyneedle.com
 0.0.0.0 needyscarcasserole.com
 0.0.0.0 neegreez.com
@@ -41916,6 +41927,7 @@
 0.0.0.0 ritzyrepresentative.com
 0.0.0.0 ritzyveil.com
 0.0.0.0 rivatedqualizebruisi.info
+0.0.0.0 rivdxb.xyz
 0.0.0.0 riverhit.com
 0.0.0.0 riverhita.com
 0.0.0.0 riverlead.ru
@@ -44341,6 +44353,7 @@
 0.0.0.0 simpunok.com
 0.0.0.0 simrubwan.com
 0.0.0.0 simsoque.net
+0.0.0.0 simulateswing.com
 0.0.0.0 simuld.com
 0.0.0.0 simultaneouslyagreeingcontradiction.com
 0.0.0.0 sinatraworthy.uno
@@ -50846,6 +50859,7 @@
 0.0.0.0 twitterfollowers.site
 0.0.0.0 twkcbfwam.com
 0.0.0.0 twlcyc.cn
+0.0.0.0 twlmq.space
 0.0.0.0 twlmzwaec.com
 0.0.0.0 twnafj.xyz
 0.0.0.0 two.fsylr.com
@@ -51803,6 +51817,7 @@
 0.0.0.0 usageanalytics.coveo.com
 0.0.0.0 usailtuwhe.com
 0.0.0.0 usancit.top
+0.0.0.0 usaoptimizedby.increasingly.co
 0.0.0.0 usbanners.com
 0.0.0.0 useads.com
 0.0.0.0 usearch.site
@@ -51869,6 +51884,7 @@
 0.0.0.0 usinesmycete.xyz
 0.0.0.0 usingswhoring.com
 0.0.0.0 usjbwvtqwv.com
+0.0.0.0 uskoie.xyz
 0.0.0.0 uslbaht.top
 0.0.0.0 uslsjwnk.xyz
 0.0.0.0 uslsxe.com
@@ -55436,6 +55452,7 @@
 0.0.0.0 xrewo.xyz
 0.0.0.0 xrkyqq.com
 0.0.0.0 xrlkvghzi.com
+0.0.0.0 xrrhwgj.xyz
 0.0.0.0 xruonpmunan.com
 0.0.0.0 xs.houyi.baofeng.net
 0.0.0.0 xsa2zq7q2l.ru

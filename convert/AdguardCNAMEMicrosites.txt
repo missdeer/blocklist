@@ -1,7 +1,7 @@
 # AdguardCNAMEMicrosites
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_microsites.txt
-# Last converted - Mon, 04 Dec 2023 04:24:23 UTC
+# Last converted - Tue, 05 Dec 2023 04:24:19 UTC
 #
 
 0.0.0.0 00c0a62f0c.de65e1286b.com
@@ -45,6 +45,7 @@
 0.0.0.0 1866115cbe.3f5b226d6e.com
 0.0.0.0 193523aee9.122f794d0c.com
 0.0.0.0 196af26667.9072b44d3e.com
+0.0.0.0 19cdb461a5.32f689042e.com
 0.0.0.0 1b38ccf99a.bdcebeabc4.com
 0.0.0.0 1b6ab23d2c.255b9e74d2.com
 0.0.0.0 1ba7882463.cf6ab9a135.com
@@ -69,6 +70,7 @@
 0.0.0.0 2a98a4b811.a2a2fd6dd1.com
 0.0.0.0 2abf7576ac.4fbe7621b8.com
 0.0.0.0 2b93cd08b5.fd40cd3322.com
+0.0.0.0 2c83d2caf6.d067641e02.com
 0.0.0.0 2caf7c08e0.fa84f180d1.com
 0.0.0.0 2cb68fec4a.4fde20c235.com
 0.0.0.0 2d56aafb14.8767fbfa8b.com
@@ -125,6 +127,7 @@
 0.0.0.0 4e838acbab.d3f3abd25c.com
 0.0.0.0 4ee283d2af.9f8695e9a4.com
 0.0.0.0 4f7909aec6.cc19ba8a6c.com
+0.0.0.0 50f0f4c399.3acf699e5d.com
 0.0.0.0 518b98b921.7ecd70404f.com
 0.0.0.0 52292b9db4.e4cd7bbad2.com
 0.0.0.0 52b517df93.d26b092649.com
@@ -195,6 +198,7 @@
 0.0.0.0 7ac6afc563.1a0b8c9a68.com
 0.0.0.0 7b4927c8f2.373c93bba1.com
 0.0.0.0 7b72e40059.4e5d31aaea.com
+0.0.0.0 7b808c74be.f3277f96a7.com
 0.0.0.0 7d6e3e04ac.6580789546.com
 0.0.0.0 7d8f4c4c3d.bca286d743.com
 0.0.0.0 7db3723e5c.59afb8cbf9.com
@@ -204,6 +208,7 @@
 0.0.0.0 7fa2c26b89.fba8a9ab60.com
 0.0.0.0 80d1a27de4.7776bf141c.com
 0.0.0.0 812748c48f.02f87a8089.com
+0.0.0.0 8251cabcf2.e1bf37eb3f.com
 0.0.0.0 84da976039.ea8e52e061.com
 0.0.0.0 84eeafa1d9.f02fa5826c.com
 0.0.0.0 856267c01d.41bcf8ddc1.com
@@ -250,7 +255,6 @@
 0.0.0.0 9ea415bca3.0816086bd1.com
 0.0.0.0 9fd272d79c.2f16d429ce.com
 0.0.0.0 a.aer.com
-0.0.0.0 a.mx.information.maileva.com
 0.0.0.0 a.swd5.com
 0.0.0.0 a0603102f5.5a9b48f0db.com
 0.0.0.0 a10b5740ba.239333b133.com
@@ -264,6 +268,7 @@
 0.0.0.0 a235.chron.com
 0.0.0.0 a235.myplainview.com
 0.0.0.0 a235.registercitizen.com
+0.0.0.0 a235.seattlepi.com
 0.0.0.0 a235.stamfordadvocate.com
 0.0.0.0 a390770006.41291ba668.com
 0.0.0.0 a614.al.com
@@ -420,6 +425,7 @@
 0.0.0.0 app.cloud.plaxo.com
 0.0.0.0 app.cofcsports.com
 0.0.0.0 app.comms.aon.com
+0.0.0.0 app.communications.americanexpress.ca
 0.0.0.0 app.communications.citimortgage.com
 0.0.0.0 app.communications.jdsu.com
 0.0.0.0 app.compasslearning.biz
@@ -474,6 +480,7 @@
 0.0.0.0 app.globalbusinesstravel.americanexpress.com
 0.0.0.0 app.go.bmc.com
 0.0.0.0 app.go.coxmedia.com
+0.0.0.0 app.go.csc.com
 0.0.0.0 app.go.endicia.com
 0.0.0.0 app.go.gogoair.com
 0.0.0.0 app.go.gogoinflight.com
@@ -506,6 +513,7 @@
 0.0.0.0 app.goto.dowjones.com
 0.0.0.0 app.green.omniture.com
 0.0.0.0 app.griztix.umt.edu
+0.0.0.0 app.gseagles.com
 0.0.0.0 app.hailstate.com
 0.0.0.0 app.hawaiiathletics.com
 0.0.0.0 app.hawkeyesports.com
@@ -543,7 +551,6 @@
 0.0.0.0 app.info.washingtonwizards.com
 0.0.0.0 app.inform.equifax.com
 0.0.0.0 app.information.cognos.com
-0.0.0.0 app.information.maileva.com
 0.0.0.0 app.innovate.molex.com
 0.0.0.0 app.insider.cavs.net
 0.0.0.0 app.insight.cision.com
@@ -593,6 +600,7 @@
 0.0.0.0 app.noreply.cummins.com
 0.0.0.0 app.now.bomgar.com
 0.0.0.0 app.now.nowtv.com
+0.0.0.0 app.nuhuskies.com
 0.0.0.0 app.nusports.com
 0.0.0.0 app.ohiobobcats.com
 0.0.0.0 app.okcciviccenter.com
@@ -841,6 +849,7 @@
 0.0.0.0 breakthrough.kronos.com
 0.0.0.0 btaconnect.americanexpress.at
 0.0.0.0 btaconnect.americanexpress.co.uk
+0.0.0.0 btaconnect.americanexpress.de
 0.0.0.0 btaconnect.americanexpress.es
 0.0.0.0 btaconnect.americanexpress.fr
 0.0.0.0 btaconnect.americanexpress.it
@@ -1037,6 +1046,7 @@
 0.0.0.0 communications.apilayer.com
 0.0.0.0 communications.cigna.com
 0.0.0.0 communications.embarcadero.com
+0.0.0.0 communications.fusioncharts.com
 0.0.0.0 communications.idera.com
 0.0.0.0 communications.parcours.fr
 0.0.0.0 communications.sencha.com
@@ -1222,7 +1232,6 @@
 0.0.0.0 corporatemrguide.americanexpress.de
 0.0.0.0 corporatepages.proximus.com
 0.0.0.0 corporateplatino.americanexpress.it
-0.0.0.0 correo.information.maileva.com
 0.0.0.0 cortellisconnections.thomsonreuters.com
 0.0.0.0 covenant.psjhealth.org
 0.0.0.0 cp.ir-central.irco.com
@@ -1259,6 +1268,7 @@
 0.0.0.0 d387563a79.9a454e6651.com
 0.0.0.0 d3fab9608e.14eb4832a6.com
 0.0.0.0 d4a90e546a.11a6670e45.com
+0.0.0.0 d834c8bfc5.e468aaeee7.com
 0.0.0.0 d93a7f2b7e.9c03f2208e.com
 0.0.0.0 d9d8248a89.220e561113.com
 0.0.0.0 da7a33716c.92be9e6be2.com
@@ -1404,6 +1414,7 @@
 0.0.0.0 e10.verticurl.com
 0.0.0.0 e11ba282e6.38711532a0.com
 0.0.0.0 e172aea9a0.66fb5240da.com
+0.0.0.0 e4342886e5.26dffa4094.com
 0.0.0.0 e4709b9f29.afe95832bb.com
 0.0.0.0 e49bdd68c5.047f8eefaf.com
 0.0.0.0 e65f8bedd1.96d5dc8650.com
@@ -1421,11 +1432,13 @@
 0.0.0.0 earn-and-refer.extoleu.com
 0.0.0.0 eatonaero.advancedtech.com
 0.0.0.0 eb.informabi.com
+0.0.0.0 ebde3ee436.29f37d2f17.com
 0.0.0.0 ec.infosys.com
 0.0.0.0 ece585577b.71bfa0d8fb.com
 0.0.0.0 economicadvantage.midamerican.com
 0.0.0.0 ecvmbusiness.mtn.co.za
 0.0.0.0 ed1.comcastbiz.com
+0.0.0.0 edge.ricoh-europe.com
 0.0.0.0 edpsmart.edpcomunicacao.com.br
 0.0.0.0 education.bendigotafe.edu.au
 0.0.0.0 education.leads360.com
@@ -1543,6 +1556,7 @@
 0.0.0.0 elq.mouser.fr
 0.0.0.0 elq.mouser.jp
 0.0.0.0 elq.mouser.pe
+0.0.0.0 elq.mouser.tw
 0.0.0.0 elq.nextens.nl
 0.0.0.0 elq.openshift.com
 0.0.0.0 elq.opensource.com
@@ -1579,6 +1593,7 @@
 0.0.0.0 elqtracking.revenera.com
 0.0.0.0 elqtracking.richardsonrfpd.com
 0.0.0.0 elqtracking.strayer.edu
+0.0.0.0 elqtracking.wearejust.co.uk
 0.0.0.0 elqtrck.motor.no
 0.0.0.0 elqtrck.nanawall.com
 0.0.0.0 elqtrk.cn.morningstar.com
@@ -1712,7 +1727,6 @@
 0.0.0.0 email-tw.americanexpress.com
 0.0.0.0 email.hockeytown.com
 0.0.0.0 email.info.exclusive-networks.com
-0.0.0.0 email.information.maileva.com
 0.0.0.0 email.lottehotel.com
 0.0.0.0 email.mymandg.co.uk
 0.0.0.0 emailhoteldevelopment.ihg.com
@@ -1854,6 +1868,7 @@
 0.0.0.0 eu.business.samsung.com
 0.0.0.0 eu.cignaglobalhealth.com
 0.0.0.0 eu.ironmountain.com
+0.0.0.0 eufunding.ukri.org
 0.0.0.0 eumeainfo.motorolasolutions.com
 0.0.0.0 eurotax-at.autovistagroup.com
 0.0.0.0 eurotax-be.autovistagroup.com
@@ -1866,6 +1881,7 @@
 0.0.0.0 eurotax-pl.autovistagroup.com
 0.0.0.0 eurotax-pt.autovistagroup.com
 0.0.0.0 eurotax-ro.autovistagroup.com
+0.0.0.0 eurotax-si.autovistagroup.com
 0.0.0.0 eurotax-sk.autovistagroup.com
 0.0.0.0 eurotaxsrbija-si.autovistagroup.com
 0.0.0.0 evenement.ricoh.fr
@@ -1922,7 +1938,6 @@
 0.0.0.0 events.ricoh.ie
 0.0.0.0 events.tafensw.edu.au
 0.0.0.0 events.verticurl.com
-0.0.0.0 exchange.information.maileva.com
 0.0.0.0 execgroup.convio.com
 0.0.0.0 exhibit.coteriefashionevents.com
 0.0.0.0 exhibit.firex.co.uk
@@ -2074,7 +2089,6 @@
 0.0.0.0 fpc.indigovision.com
 0.0.0.0 fpc.inxinternational.com
 0.0.0.0 fpc.laerdal.com
-0.0.0.0 fpc.pelco.com
 0.0.0.0 fpc.pelican.com
 0.0.0.0 fpc.questoraclecommunity.org
 0.0.0.0 fpc.sage.com
@@ -2098,12 +2112,14 @@
 0.0.0.0 friends.keurig.ca
 0.0.0.0 friends.keurig.com
 0.0.0.0 friends.uvacreditunion.org
+0.0.0.0 fromhttptohttps.atea.fi
 0.0.0.0 frostnsullivan.advancedtech.com
 0.0.0.0 fsi.seek.intel.com
 0.0.0.0 future.coniferhealth.com
 0.0.0.0 future.jcu.edu.au
 0.0.0.0 future.uwindsor.ca
 0.0.0.0 fvc.alcatel-lucent.com
+0.0.0.0 fxipca.americanexpress.ca
 0.0.0.0 fxipreferral.americanexpress.com
 0.0.0.0 fxpayments.americanexpress.com.au
 0.0.0.0 fxreferral.americanexpress.com
@@ -2179,6 +2195,7 @@
 0.0.0.0 go.computacenter.com
 0.0.0.0 go.comres.emerson.com
 0.0.0.0 go.comres1.emerson.com
+0.0.0.0 go.cornerstonebuildingbrands.com
 0.0.0.0 go.deltek.com
 0.0.0.0 go.dunnhumby.com
 0.0.0.0 go.dxc.technology
@@ -2255,6 +2272,7 @@
 0.0.0.0 go.tuev.cn
 0.0.0.0 go.tuv.com
 0.0.0.0 go.ubmamg-media.com
+0.0.0.0 go.ukg.com
 0.0.0.0 go.ultimatesoftware.com
 0.0.0.0 go.visma.com
 0.0.0.0 go.vitality.com.ar
@@ -2282,6 +2300,7 @@
 0.0.0.0 groundcare.dixiechopper.com
 0.0.0.0 groups.heatexperience.com
 0.0.0.0 grow.advisorgroup.com
+0.0.0.0 grow.national.biz
 0.0.0.0 gsasolutionssecure.gsa.gov
 0.0.0.0 gslive.edm.globalsources.com
 0.0.0.0 gsmatch.edm.globalsources.com
@@ -2290,10 +2309,12 @@
 0.0.0.0 gsupplyair.carte-gr.total.fr
 0.0.0.0 guest.vistage.com
 0.0.0.0 gva.share.ntv.io
+0.0.0.0 happyholidays.coniferhealth.com
 0.0.0.0 hasslefree.redwingshoes.com
 0.0.0.0 health.aonunited.com
 0.0.0.0 health.atlanticgeneral.org
 0.0.0.0 health.fishersci.com
+0.0.0.0 health.info.baptisthealth.com
 0.0.0.0 healthcare.fishersci.com
 0.0.0.0 healthcare.mcgladrey.com
 0.0.0.0 healthcare.oakstreethealth.com
@@ -2315,6 +2336,7 @@
 0.0.0.0 hk-go.experian.com
 0.0.0.0 home.edm.globalsources.com
 0.0.0.0 hopeful.coh.org
+0.0.0.0 horizoneurope.ukri.org
 0.0.0.0 hospitality.redbull.racing
 0.0.0.0 host11.traffic-builders.com
 0.0.0.0 hptechnology.arrow.com
@@ -2395,6 +2417,7 @@
 0.0.0.0 images.connect.globalservices.arrow.com
 0.0.0.0 images.connect.hpe.com
 0.0.0.0 images.connect.mandiant.com
+0.0.0.0 images.connect.o2.co.uk
 0.0.0.0 images.connect.omron.eu
 0.0.0.0 images.connect.veritivcorp.com
 0.0.0.0 images.connect2.bt.com
@@ -2469,6 +2492,7 @@
 0.0.0.0 images.edm.cunardinoz.com.au
 0.0.0.0 images.edm.princesscruises.com.au
 0.0.0.0 images.edm.propertyguru.com
+0.0.0.0 images.edm.wlcl.com.au
 0.0.0.0 images.education.ifebp.org
 0.0.0.0 images.efficiency.nl.visma.com
 0.0.0.0 images.eloqua.fredhutch.org
@@ -2719,6 +2743,7 @@
 0.0.0.0 images.notice.wageworks.com
 0.0.0.0 images.noticias.clarin.com
 0.0.0.0 images.notifications.aigdirect.com
+0.0.0.0 images.novedades.fibercorp.com.ar
 0.0.0.0 images.nwinsurance.pemco.com
 0.0.0.0 images.offers.princesscruises.co.uk
 0.0.0.0 images.online.bankofjordan.com.jo
@@ -2748,6 +2773,7 @@
 0.0.0.0 images.purl.mercedes-benz.com
 0.0.0.0 images.query.adelaide.edu.au
 0.0.0.0 images.read.aspiresys.com
+0.0.0.0 images.register.deloittece.com
 0.0.0.0 images.register.lighthouse-media.com
 0.0.0.0 images.reldirect.lenovo.com
 0.0.0.0 images.respond.macktrucks.com
@@ -2864,7 +2890,6 @@
 0.0.0.0 info.authorize.net
 0.0.0.0 info.avigilon.com
 0.0.0.0 info.avtecinc.com
-0.0.0.0 info.banpronicaragua.com.ni
 0.0.0.0 info.banrural.com.gt
 0.0.0.0 info.bbvaautorenting.es
 0.0.0.0 info.bendigotafe.edu.au
@@ -2896,6 +2921,7 @@
 0.0.0.0 info.extrahop.com
 0.0.0.0 info.fdbhealth.com
 0.0.0.0 info.floridagators.com
+0.0.0.0 info.forms.messe-muenchen.de
 0.0.0.0 info.fortrea.com
 0.0.0.0 info.frbservices.org
 0.0.0.0 info.fscsecurities.com
@@ -3021,6 +3047,7 @@
 0.0.0.0 insights.golubcapital.com
 0.0.0.0 insights.harvardbusiness.org
 0.0.0.0 insights.labcorp.com
+0.0.0.0 insights.networks.global.fujitsu.com
 0.0.0.0 insights.nexansdatacenter.com
 0.0.0.0 insights.prophet.com
 0.0.0.0 insightseries.redbull.racing
@@ -3297,8 +3324,6 @@
 0.0.0.0 mail.dolce-gusto.ua
 0.0.0.0 mail.dolce-gusto.us
 0.0.0.0 mail.hsm.co.uk
-0.0.0.0 mail.information.maileva.com
-0.0.0.0 mail6.information.maileva.com
 0.0.0.0 making-future.afry.com
 0.0.0.0 managedaccounts.nvenergy.com
 0.0.0.0 managedaccounts.pacificpower.net
@@ -3341,6 +3366,7 @@
 0.0.0.0 marketing.promotivnordics.dk
 0.0.0.0 marketing.psentertainment.com
 0.0.0.0 marketing.royalalaskanmovers.com
+0.0.0.0 marketing.salva.es
 0.0.0.0 marketing.sonac.biz
 0.0.0.0 marketing.spcapitaliq.com
 0.0.0.0 marketing.tandemdiabetes.com
@@ -3351,6 +3377,7 @@
 0.0.0.0 marketreports.autovistagroup.com
 0.0.0.0 markkinointi.igopost.fi
 0.0.0.0 mat.lgdisplay.com
+0.0.0.0 matrk.rockymountainpower.net
 0.0.0.0 mds.ricoh-europe.com
 0.0.0.0 mds.ricoh.ch
 0.0.0.0 mds.ricoh.co.uk
@@ -3413,14 +3440,13 @@
 0.0.0.0 move.azets.fi
 0.0.0.0 move.azets.se
 0.0.0.0 mroprospector.aviationweek.com
+0.0.0.0 ms.informaengage.com
 0.0.0.0 ms1.morganstanley.com
 0.0.0.0 msa-emea.secureforms.partnermcafee.com
 0.0.0.0 msa-uki.secureforms.partnermcafee.com
 0.0.0.0 mt-business.vodafone.com
 0.0.0.0 mx.carte-gr.total.fr
 0.0.0.0 mx.mywd.com
-0.0.0.0 mx01.information.maileva.com
-0.0.0.0 mx5.information.maileva.com
 0.0.0.0 my-go.experian.com
 0.0.0.0 my.catfinancial.com
 0.0.0.0 my.internationalsos.com
@@ -3461,6 +3487,7 @@
 0.0.0.0 networkingexchange.att.com
 0.0.0.0 networkprotection.mcafee.com
 0.0.0.0 networks.balluff.com
+0.0.0.0 newperspective.americanexpress.com
 0.0.0.0 news.cannesyachtingfestival.com
 0.0.0.0 news.crmtechnologies.com
 0.0.0.0 news.dbschenker.com
@@ -3576,7 +3603,6 @@
 0.0.0.0 pages.bayer.com
 0.0.0.0 pages.bioglan.com.au
 0.0.0.0 pages.canon.com.au
-0.0.0.0 pages.cartridgesdirect.com.au
 0.0.0.0 pages.cenomicenters.com
 0.0.0.0 pages.contact.columbiabank.com
 0.0.0.0 pages.contact.umpquabank.com
@@ -3603,7 +3629,6 @@
 0.0.0.0 pages.nbjsummit.com
 0.0.0.0 pages.news.realestate.bnpparibas
 0.0.0.0 pages.omdia.informa.com
-0.0.0.0 pages.pelco.com
 0.0.0.0 pages.pentonmktgsvcs.com
 0.0.0.0 pages.pharmaintelligence.informa.com
 0.0.0.0 pages.primalpictures.com
@@ -3654,8 +3679,6 @@
 0.0.0.0 pm.eu.viatrisconnect.com
 0.0.0.0 pm.eu.viatrisconnect.de
 0.0.0.0 pm.eu.viatrisconnect.it
-0.0.0.0 po.information.maileva.com
-0.0.0.0 poczta.information.maileva.com
 0.0.0.0 podbooth.martela.com
 0.0.0.0 podbooth.martela.no
 0.0.0.0 podbooth.martela.se
@@ -3672,6 +3695,7 @@
 0.0.0.0 preference.nuance.com
 0.0.0.0 preferencecenter.fticonsulting.com
 0.0.0.0 preferencecentre.americanexpress.co.uk
+0.0.0.0 preferencecentre.americanexpress.es
 0.0.0.0 preferences.acspubs.org
 0.0.0.0 preferences.bowerswilkins.com
 0.0.0.0 preferences.darglobal.co.uk
@@ -3757,6 +3781,7 @@
 0.0.0.0 rc.visionsolutions.com
 0.0.0.0 reach.ironmountain.com
 0.0.0.0 reach.terumo-bct.com
+0.0.0.0 read.lightreading.com
 0.0.0.0 read.telecoms.com
 0.0.0.0 ready.curriculumassociates.com
 0.0.0.0 ready.nerdery.com
@@ -4135,6 +4160,7 @@
 0.0.0.0 reg.gdconf.com
 0.0.0.0 reg.insecurity.com
 0.0.0.0 reg.iotworldtoday.com
+0.0.0.0 reg.nojitter.com
 0.0.0.0 reg.techweb.com
 0.0.0.0 reg.theaisummit.com
 0.0.0.0 register-implants.dentsplysirona.com
@@ -4200,6 +4226,7 @@
 0.0.0.0 response.leadingauthorities.com
 0.0.0.0 response.littletikescommercial.com
 0.0.0.0 response.miracle-recreation.com
+0.0.0.0 response.nofault.com
 0.0.0.0 response.nxp.com
 0.0.0.0 response.operative.com
 0.0.0.0 response.optimummedical.co.uk
@@ -4374,6 +4401,7 @@
 0.0.0.0 securityintelligence.verint.com
 0.0.0.0 seek.intel.com
 0.0.0.0 seek.uwa.edu.au
+0.0.0.0 semences.pioneer.com
 0.0.0.0 sementi.pioneer.com
 0.0.0.0 seminte.pioneer.com
 0.0.0.0 send.mad-infeed.jp
@@ -4620,6 +4648,7 @@
 0.0.0.0 share.tauntongazette.com
 0.0.0.0 share.tcpalm.com
 0.0.0.0 share.teachersfcu.org
+0.0.0.0 share.teachingchannel.com
 0.0.0.0 share.telegram.com
 0.0.0.0 share.tenmarks.com
 0.0.0.0 share.thedailyjournal.com
@@ -4684,8 +4713,8 @@
 0.0.0.0 smtpauth.carte-gr.total.fr
 0.0.0.0 smtpmail.carte-gr.total.fr
 0.0.0.0 smtps.go.fr.scc.com
-0.0.0.0 sniper.information.maileva.com
 0.0.0.0 sns2.secureforms.mcafee.com
+0.0.0.0 social.fabkids.com
 0.0.0.0 social.forddirectdealers.com
 0.0.0.0 social.insidelpl.com
 0.0.0.0 software.seek.intel.com
@@ -4787,6 +4816,7 @@
 0.0.0.0 submit.info.shutterstock.com
 0.0.0.0 submit.vaisala.com
 0.0.0.0 subscribe.adpinfo.com
+0.0.0.0 subscribe.dnv.com
 0.0.0.0 subscribe.verintsystemsinc.com
 0.0.0.0 subscribe.vistage.com
 0.0.0.0 subscriptionmanagement.53.com
@@ -4923,6 +4953,7 @@
 0.0.0.0 t.jmusports.com
 0.0.0.0 t.krannertcenter.com
 0.0.0.0 t.kstatesports.com
+0.0.0.0 t.ksuowls.com
 0.0.0.0 t.liberty.edu
 0.0.0.0 t.libertyfirstcreditunionarena.com
 0.0.0.0 t.lsusports.net
@@ -5040,6 +5071,7 @@
 0.0.0.0 thetradenews.strategic-i.com
 0.0.0.0 ticketoffice.liberty.edu
 0.0.0.0 tkelq.genesys.com
+0.0.0.0 tm-marketing.wolterskluwer.com
 0.0.0.0 tmt.intelligence.informa.com
 0.0.0.0 tools.ricoh.co.uk
 0.0.0.0 tools.ricoh.de
@@ -5055,6 +5087,7 @@
 0.0.0.0 track-e.infineon.com
 0.0.0.0 track-e.infineoncommunity.com
 0.0.0.0 track.abrdn.com
+0.0.0.0 track.abrdnacp.com
 0.0.0.0 track.abrdnaef.com
 0.0.0.0 track.abrdnaod.com
 0.0.0.0 track.abrdnawp.com
@@ -5514,6 +5547,7 @@
 0.0.0.0 tracking.teho.visma.fi
 0.0.0.0 tracking.test.insead.edu
 0.0.0.0 tracking.theemeraldconference.com
+0.0.0.0 tracking.thermoinfo.com
 0.0.0.0 tracking.thiomucase.es
 0.0.0.0 tracking.thunderhead.com
 0.0.0.0 tracking.ti.com
@@ -5551,6 +5585,7 @@
 0.0.0.0 tracking.vodafone.com
 0.0.0.0 tracking.wettfreunde.net
 0.0.0.0 tracking.winecoolerdirect.com
+0.0.0.0 tracking.xmor.info
 0.0.0.0 tracking.y-nmc.jp
 0.0.0.0 tracking.yealink.com
 0.0.0.0 tracking.zagranie.com
@@ -5603,6 +5638,7 @@
 0.0.0.0 transplant.care.uhssa.com
 0.0.0.0 travelandleisure.share.ntv.io
 0.0.0.0 trc.solution.resonac.com
+0.0.0.0 trck.accredible.com
 0.0.0.0 trck.comms.watlow.com
 0.0.0.0 trck.copeland.com
 0.0.0.0 trck.e.atradius.com
@@ -5611,6 +5647,8 @@
 0.0.0.0 trck.info.fullsaildc3.com
 0.0.0.0 trck.info.lloydslistintelligence.com
 0.0.0.0 trck.internalnews.dbschenker.com
+0.0.0.0 trck.medlem.elogit.no
+0.0.0.0 trck.my.elca.ch
 0.0.0.0 trelleborg.tecs1.com
 0.0.0.0 trk.admmontreal.com
 0.0.0.0 trk.admtoronto.com
@@ -5633,6 +5671,7 @@
 0.0.0.0 trk.arozone.cn
 0.0.0.0 trk.arozone.com
 0.0.0.0 trk.aviationweek.com
+0.0.0.0 trk.avlr.net
 0.0.0.0 trk.bakewithstork.com
 0.0.0.0 trk.banktech.com
 0.0.0.0 trk.barcoproducts.ca
@@ -5794,6 +5833,7 @@
 0.0.0.0 trk.nojitter.com
 0.0.0.0 trk.novelis.com
 0.0.0.0 trk.nrn.com
+0.0.0.0 trk.nvenergy.com
 0.0.0.0 trk.oberdorferpumps.com
 0.0.0.0 trk.oma.dk
 0.0.0.0 trk.optum.com
@@ -5802,6 +5842,7 @@
 0.0.0.0 trk.peceniejeradost.sk
 0.0.0.0 trk.pecenijeradost.cz
 0.0.0.0 trk.picnictables.com
+0.0.0.0 trk.planta.be
 0.0.0.0 trk.planta.pt
 0.0.0.0 trk.plantafin.fr
 0.0.0.0 trk.plasticstoday.com
@@ -5945,6 +5986,7 @@
 0.0.0.0 web.care.eehealth.org
 0.0.0.0 web.care.mclaren.org
 0.0.0.0 web.care.mhs.net
+0.0.0.0 web.care.northoaks.org
 0.0.0.0 web.care.sheppardpratt.org
 0.0.0.0 web.care.uhssa.com
 0.0.0.0 web.care.wakemed.org
@@ -6051,6 +6093,7 @@
 0.0.0.0 www.armolipid.com.ru
 0.0.0.0 www.b2bmarketing.swisscom.ch
 0.0.0.0 www.b2bmarketingsb.swisscom.ch
+0.0.0.0 www.cf.labanquepostale.fr
 0.0.0.0 www.chronischepancreatitis.nl
 0.0.0.0 www.communications.kra.go.ke
 0.0.0.0 www.compass-fit.jp
@@ -6064,6 +6107,7 @@
 0.0.0.0 www.enterprises.proximus.com
 0.0.0.0 www.epipenexpiryservice.com
 0.0.0.0 www.ess.tis.co.jp
+0.0.0.0 www.events.ferrari.com
 0.0.0.0 www.fordprotectplans.com
 0.0.0.0 www.futureofcoffee.com
 0.0.0.0 www.gaylordhotelsnews.com
@@ -6071,6 +6115,7 @@
 0.0.0.0 www.glf.mt.com
 0.0.0.0 www.go.dunnhumby.com
 0.0.0.0 www.happyholidays.coniferhealth.com
+0.0.0.0 www.hasslefree.redwingshoes.com
 0.0.0.0 www.heatexperience.com
 0.0.0.0 www.hr.adp.ca
 0.0.0.0 www.infineon-community.com
@@ -6085,6 +6130,7 @@
 0.0.0.0 www.longterminvestmentsolutions.com
 0.0.0.0 www.lowvolatilitysolutions.com
 0.0.0.0 www.marketing.hilton.com
+0.0.0.0 www.maserati.info
 0.0.0.0 www.mediwebinars.com
 0.0.0.0 www.medtronicsolutions.com
 0.0.0.0 www.mkt.uvg.edu.gt

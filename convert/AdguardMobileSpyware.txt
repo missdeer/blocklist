@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 04 Dec 2023 04:24:26 UTC
+# Last converted - Tue, 05 Dec 2023 04:24:24 UTC
 #
 
 0.0.0.0 33across.com
@@ -113,6 +113,7 @@
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.bytebrew.io
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gameofwhales.com

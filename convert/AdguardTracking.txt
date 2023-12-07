@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 06 Dec 2023 04:24:30 UTC
+# Last converted - Thu, 07 Dec 2023 04:24:59 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -13880,6 +13880,7 @@
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2c.ne.jp
+0.0.0.0 d2cli4kgl5uxre.cloudfront.net
 0.0.0.0 d2cmqkwo8rxlr9.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
@@ -47649,6 +47650,7 @@
 0.0.0.0 ogukky.canadagoose.jp
 0.0.0.0 oguwou.pichau.com.br
 0.0.0.0 ohjrxj.personalizationmall.com
+0.0.0.0 ohmy.bid
 0.0.0.0 ohmystats.com
 0.0.0.0 ohrdit.kfzteile24.de
 0.0.0.0 ohsu.pure.tt.omtrdc.net
@@ -59906,6 +59908,7 @@
 0.0.0.0 tagman.waitrosecellar.com
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 tagmanager.toast.com
+0.0.0.0 tagmanager.yodobashi.com
 0.0.0.0 tagmanager1.citi.com
 0.0.0.0 tagmanager1.citibank.com
 0.0.0.0 tagmanager1.citibankonline.com

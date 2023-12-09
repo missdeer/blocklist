@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 08 Dec 2023 04:24:36 UTC
+# Last converted - Sat, 09 Dec 2023 04:23:54 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -59579,6 +59579,7 @@
 0.0.0.0 t.energyrebateguide.com
 0.0.0.0 t.erivedge.com
 0.0.0.0 t.fairparkdallas.com
+0.0.0.0 t.fastcmp.com
 0.0.0.0 t.felmat.net
 0.0.0.0 t.fermion.fi
 0.0.0.0 t.festo.com

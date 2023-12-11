@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 10 Dec 2023 04:23:49 UTC
+# Last converted - Mon, 11 Dec 2023 04:24:56 UTC
 #
 
 0.0.0.0 3gl.net
@@ -526,6 +526,7 @@
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
+0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 substation.confection.io
 0.0.0.0 svc2.sc.com

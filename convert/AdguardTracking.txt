@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 12 Dec 2023 04:24:34 UTC
+# Last converted - Wed, 13 Dec 2023 04:24:33 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -6289,6 +6289,7 @@
 0.0.0.0 aeikhouse.blog.tt.omtrdc.net
 0.0.0.0 aelca.tt.omtrdc.net
 0.0.0.0 aem-collector.daumkakao.io
+0.0.0.0 aem-kakao-collector.onkakao.net
 0.0.0.0 aem5.gslb.tt.omtrdc.net
 0.0.0.0 aemobility-stage.pdc.tt.omtrdc.net
 0.0.0.0 aenderung.hb-fa-dev.tt.omtrdc.net

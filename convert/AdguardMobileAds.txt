@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Thu, 14 Dec 2023 04:24:27 UTC
+# Last converted - Fri, 15 Dec 2023 04:24:39 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -648,6 +648,7 @@
 0.0.0.0 owap.su
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p1-lm.adukwai.com
+0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.net
 0.0.0.0 painsko.com

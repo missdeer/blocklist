@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 15 Dec 2023 04:24:38 UTC
+# Last converted - Sat, 16 Dec 2023 04:23:52 UTC
 #
 
 0.0.0.0 3gl.net
@@ -621,6 +621,8 @@
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
+0.0.0.0 tracking.epicgames.com
+0.0.0.0 tracking.fortnite.com
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com

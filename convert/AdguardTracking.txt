@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 15 Dec 2023 04:24:37 UTC
+# Last converted - Sat, 16 Dec 2023 04:23:51 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -37493,6 +37493,7 @@
 0.0.0.0 eventos.mirecweek.com
 0.0.0.0 eventos.ubmmexico.com
 0.0.0.0 eventos.usj.es
+0.0.0.0 events-api.gazetadopovo.com.br
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
@@ -67276,6 +67277,7 @@
 0.0.0.0 tracking.enlist.com
 0.0.0.0 tracking.ensonhaber.com
 0.0.0.0 tracking.ent.oviahealth.com
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.epredia.com
 0.0.0.0 tracking.epsilon.com
 0.0.0.0 tracking.epsilon.postclickmarketing.com
@@ -67296,6 +67298,7 @@
 0.0.0.0 tracking.flourishfluxforests.com
 0.0.0.0 tracking.flowofwork.adp.com
 0.0.0.0 tracking.flukecal.com
+0.0.0.0 tracking.fortnite.com
 0.0.0.0 tracking.foxtale.in
 0.0.0.0 tracking.fr.adp.com
 0.0.0.0 tracking.fticonsulting.com

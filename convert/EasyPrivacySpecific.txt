@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 Dec 2023 04:25:08 UTC
+# Last converted - Tue, 19 Dec 2023 04:24:21 UTC
 #
 
 0.0.0.0 3gl.net
@@ -183,6 +183,7 @@
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
+0.0.0.0 data.torry.io
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.patreon.com
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 18 Dec 2023 04:25:10 UTC
+# Last converted - Tue, 19 Dec 2023 04:24:16 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1168,6 +1168,7 @@
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.vtex.com
+0.0.0.0 test.takedwn.ws
 0.0.0.0 timber.sendtonews.com
 0.0.0.0 timejs.game.163.com
 0.0.0.0 tk.storetail.io

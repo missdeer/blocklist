@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 21 Dec 2023 04:24:33 UTC
+# Last converted - Fri, 22 Dec 2023 04:24:16 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -38776,6 +38776,7 @@
 0.0.0.0 extole.io
 0.0.0.0 extramilefloorcare.ericksonbuilt.com
 0.0.0.0 extraspacecom.tt.omtrdc.net
+0.0.0.0 extrawatch.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extremetracking.com
 0.0.0.0 extstat.info
@@ -39594,6 +39595,7 @@
 0.0.0.0 ga-bq-py-1.appspot.com
 0.0.0.0 ga.amgtrack.link
 0.0.0.0 ga.clearbit.com
+0.0.0.0 ga.getresponse.com
 0.0.0.0 gaafbi.fashiondays.hu
 0.0.0.0 gacela.eu
 0.0.0.0 gae.karte.io

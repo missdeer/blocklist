@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 21 Dec 2023 04:24:32 UTC
+# Last converted - Fri, 22 Dec 2023 04:24:17 UTC
 #
 
 0.0.0.0 3gl.net
@@ -131,6 +131,7 @@
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 cmpworker.dotesports.com
+0.0.0.0 cmpworker.primagames.com
 0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.viptube.com
@@ -353,6 +354,7 @@
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 meetrics.net
 0.0.0.0 metrics.audius.co

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 22 Dec 2023 04:24:16 UTC
+# Last converted - Sat, 23 Dec 2023 04:23:44 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -54922,6 +54922,7 @@
 0.0.0.0 pxksnymto.ru
 0.0.0.0 pxkvpx.euro-fh.de
 0.0.0.0 pxkwnp.mortoglou.gr
+0.0.0.0 pxl.retaku.net
 0.0.0.0 pxlctl.elpais.com
 0.0.0.0 pxmzlk.redfin.com
 0.0.0.0 pxxhbz.apamanshop.com
@@ -64306,6 +64307,7 @@
 0.0.0.0 t.apexmedicares.com
 0.0.0.0 t.apkpure.net
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.arcade.show
 0.0.0.0 t.arianelab.com
 0.0.0.0 t.arizonawildcats.com
 0.0.0.0 t.arkansasrazorbacks.com
@@ -67661,6 +67663,7 @@
 0.0.0.0 track.lifewelllived.fitness
 0.0.0.0 track.linfey.com
 0.0.0.0 track.linkgamebassadors.com
+0.0.0.0 track.linksynergy.com
 0.0.0.0 track.list-finder.jp
 0.0.0.0 track.littleknowntips.com
 0.0.0.0 track.live-assistance-now.net

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 26 Dec 2023 04:24:29 UTC
+# Last converted - Wed, 27 Dec 2023 04:23:42 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -21,6 +21,7 @@
 0.0.0.0 activity.wisepops.com
 0.0.0.0 ad-shield.io
 0.0.0.0 ad.aloodo.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
@@ -1401,6 +1402,7 @@
 0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtbevents.pricespider.com
+0.0.0.0 wtr-digital-analytics.ew.r.appspot.com
 0.0.0.0 x.babe.today
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com

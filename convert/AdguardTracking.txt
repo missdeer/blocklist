@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 26 Dec 2023 04:24:28 UTC
+# Last converted - Wed, 27 Dec 2023 04:23:34 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -53052,6 +53052,7 @@
 0.0.0.0 o.opentable.com
 0.0.0.0 o.otrestaurant.com
 0.0.0.0 o.swisscom.ch
+0.0.0.0 o.techmaniak.pl
 0.0.0.0 o.therosettastone.es
 0.0.0.0 o.webmd.com
 0.0.0.0 o.www.tt.omtrdc.net

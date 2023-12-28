@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 27 Dec 2023 04:23:34 UTC
+# Last converted - Thu, 28 Dec 2023 04:24:10 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -12410,6 +12410,7 @@
 0.0.0.0 clhzet.ubierzswojesciany.pl
 0.0.0.0 cli2020.com
 0.0.0.0 click-ang4.tt.omtrdc.net
+0.0.0.0 click-performance.assets.rndtech.de
 0.0.0.0 click-plus.net
 0.0.0.0 click-url.com
 0.0.0.0 click.5mindivinemanifestation.com

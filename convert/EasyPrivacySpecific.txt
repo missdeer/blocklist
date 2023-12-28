@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 27 Dec 2023 04:23:35 UTC
+# Last converted - Thu, 28 Dec 2023 04:24:11 UTC
 #
 
 0.0.0.0 3gl.net
@@ -154,6 +154,7 @@
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector.xhamster3.com
 0.0.0.0 colvk.viki.io
 0.0.0.0 confiant.msn.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com

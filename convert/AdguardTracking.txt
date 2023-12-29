@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 28 Dec 2023 04:24:10 UTC
+# Last converted - Fri, 29 Dec 2023 04:23:42 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8598,6 +8598,7 @@
 0.0.0.0 api.internal.zonetv.newdev.tt.omtrdc.net
 0.0.0.0 api.irishrail-aa-test.tt.omtrdc.net
 0.0.0.0 api.irishrail-s.tt.omtrdc.net
+0.0.0.0 api.iterable.com
 0.0.0.0 api.iterative.ly
 0.0.0.0 api.j4.tt.omtrdc.net
 0.0.0.0 api.kanriotasuke.tt.omtrdc.net
@@ -50528,6 +50529,7 @@
 0.0.0.0 metrics.gapcanada.ca
 0.0.0.0 metrics.gazyva.com
 0.0.0.0 metrics.gcimetrics.com
+0.0.0.0 metrics.geekwire.com
 0.0.0.0 metrics.geelongadvertiser.com.au
 0.0.0.0 metrics.genentech-access.com
 0.0.0.0 metrics.genentech-forum.com
@@ -50942,6 +50944,7 @@
 0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.pinkribbonbottle.com
 0.0.0.0 metrics.pisces-penton.com
+0.0.0.0 metrics.plaid.com
 0.0.0.0 metrics.plusrewards.com.au
 0.0.0.0 metrics.pmis.abbott.com
 0.0.0.0 metrics.politico.com

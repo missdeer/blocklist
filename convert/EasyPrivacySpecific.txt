@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 30 Dec 2023 04:24:26 UTC
+# Last converted - Sun, 31 Dec 2023 04:23:46 UTC
 #
 
 0.0.0.0 3gl.net
@@ -408,6 +408,7 @@
 0.0.0.0 petametrics.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 pf.newegg.com
+0.0.0.0 pftk.temu.com
 0.0.0.0 ph.thenextweb.com
 0.0.0.0 ping.hungama.com
 0.0.0.0 pingback.giphy.com

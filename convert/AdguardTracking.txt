@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 02 Jan 2024 04:24:00 UTC
+# Last converted - Wed, 03 Jan 2024 04:24:05 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7939,6 +7939,7 @@
 0.0.0.0 analytics.egernsund.com
 0.0.0.0 analytics.egernsund.de
 0.0.0.0 analytics.eikko.ai
+0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.electro-com.ru
 0.0.0.0 analytics.elegela.net
 0.0.0.0 analytics.elegela.us

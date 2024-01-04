@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 03 Jan 2024 04:24:05 UTC
+# Last converted - Thu, 04 Jan 2024 04:24:25 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7825,6 +7825,7 @@
 0.0.0.0 analytics.andrewsmith.com.au
 0.0.0.0 analytics.angelina-fieber.com
 0.0.0.0 analytics.any.do
+0.0.0.0 analytics.api.justeattakeaway.com
 0.0.0.0 analytics.appsbnet.com.br
 0.0.0.0 analytics.appservice.tech
 0.0.0.0 analytics.archive.org
@@ -58955,6 +58956,7 @@
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtm-tracking.zozo.jp
 0.0.0.0 rtmark.net
+0.0.0.0 rtnl.bxcl.de
 0.0.0.0 rtoaster.jp
 0.0.0.0 rtrack.2raffle.mx
 0.0.0.0 rtrack.bigsolar-power.com

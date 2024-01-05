@@ -1,10 +1,9 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 04 Jan 2024 04:24:26 UTC
+# Last converted - Fri, 05 Jan 2024 04:24:36 UTC
 #
 
-0.0.0.0 3gl.net
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.electerious.com
 0.0.0.0 a.tellonym.me
@@ -77,7 +76,6 @@
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b629.electronicdesign.com
-0.0.0.0 babator.com
 0.0.0.0 barnes.send.cm
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
@@ -91,7 +89,6 @@
 0.0.0.0 bi.banggood.com
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
-0.0.0.0 bluekai.com
 0.0.0.0 boomerang.dell.com
 0.0.0.0 bup.bankofamerica.com
 0.0.0.0 c.fingerprint.com
@@ -106,7 +103,6 @@
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cfa.fidelity.com
-0.0.0.0 chartbeat.com
 0.0.0.0 cl.canva.com
 0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
@@ -163,23 +159,18 @@
 0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
 0.0.0.0 content22.online.citi.com
-0.0.0.0 contentexchange.me
-0.0.0.0 contentspread.net
 0.0.0.0 conversion.mooncard.co
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
 0.0.0.0 cpt.itv.com
-0.0.0.0 cpx.to
 0.0.0.0 crayfish.thingelstad.com
-0.0.0.0 criteo.com
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crumbs.robinhood.com
 0.0.0.0 cryo.socialblade.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 customer.homedepot.com
 0.0.0.0 cwt.citywire.info
-0.0.0.0 cxense.com
 0.0.0.0 d.skk.moe
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 d276.ourmidland.com
@@ -197,17 +188,14 @@
 0.0.0.0 df.infra.shopee.ph
 0.0.0.0 dii.bankaust.com.au
 0.0.0.0 discover-metrics.cloud.seek.com.au
-0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 drfdisvc.walmart.com
-0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
 0.0.0.0 ea.epochbase.com
 0.0.0.0 ec.thredup.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
-0.0.0.0 emetriq.de
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
 0.0.0.0 engine.traceparts.com
@@ -242,8 +230,6 @@
 0.0.0.0 events2.www.edenfantasys.com
 0.0.0.0 evs.icy-lake.kickstarter.com
 0.0.0.0 evs.sgmt.loom.com
-0.0.0.0 exactag.com
-0.0.0.0 exelator.com
 0.0.0.0 exr-mms.expertreviews.co.uk
 0.0.0.0 f.cdngeek.com
 0.0.0.0 f362.nola.com
@@ -296,8 +282,6 @@
 0.0.0.0 heap.drop.com
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 hlogger.heraldcorp.com
-0.0.0.0 hotjar.com
-0.0.0.0 hpr.outbrain.com
 0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 iam-rum-intake.datadoghq.com
@@ -305,7 +289,6 @@
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 imgs.signifyd.com
-0.0.0.0 imrworldwide.com
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingress.linktr.ee
@@ -319,7 +302,6 @@
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
-0.0.0.0 irqs.ioam.de
 0.0.0.0 isc-tracking.eventim.com
 0.0.0.0 isharemetric.rediff.com
 0.0.0.0 ivx.lacompagnie.com
@@ -339,7 +321,6 @@
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.klook.com
-0.0.0.0 log.outbrain.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.v.ssp.yahoo.com
@@ -357,10 +338,8 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
-0.0.0.0 meetrics.net
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
-0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.camsoda.com
 0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
@@ -380,14 +359,12 @@
 0.0.0.0 mr.homedepot.ca
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 mstm.motorsport.com
-0.0.0.0 mxcdn.net
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noodle.backmarket.io
-0.0.0.0 nuggad.net
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
@@ -395,7 +372,6 @@
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onesignal.com
 0.0.0.0 ophan.theguardian.com
-0.0.0.0 optimizely.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.fusevideo.net
 0.0.0.0 p.hentaiforce.net
@@ -413,9 +389,7 @@
 0.0.0.0 ping.hungama.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
-0.0.0.0 pingdom.net
 0.0.0.0 pingo.staticmoly.me
-0.0.0.0 pippio.com
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 pixel.convertize.io
@@ -456,15 +430,12 @@
 0.0.0.0 ras.yahoo.com
 0.0.0.0 rba-screen.healthsafe-id.com
 0.0.0.0 rec.banggood.com
-0.0.0.0 referrer.disqus.com
 0.0.0.0 relay.fiverr.com
 0.0.0.0 reports.tunein.com
 0.0.0.0 rfk.biglots.com
 0.0.0.0 ring.staticmoly.me
-0.0.0.0 rlcdn.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
-0.0.0.0 rqtrk.eu
 0.0.0.0 rs.mail.ru
 0.0.0.0 rstat.rockmostbet.com
 0.0.0.0 rsx.afterpay.com
@@ -485,7 +456,6 @@
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
-0.0.0.0 semasio.net
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
@@ -513,7 +483,6 @@
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stategg.cdngeek.com
-0.0.0.0 static.parsely.com
 0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
@@ -579,7 +548,6 @@
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 td.airdroid.com
-0.0.0.0 tealiumiq.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
@@ -589,12 +557,10 @@
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com
-0.0.0.0 theadex.com
 0.0.0.0 thtk.temu.com
 0.0.0.0 tif.ionos.com
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tilt.bankofamerica.com
-0.0.0.0 tisoomi-services.com
 0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tmetrix.my.chick-fil-a.com
 0.0.0.0 tms.eharmony.ca
@@ -638,7 +604,6 @@
 0.0.0.0 trk.tirto.id
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
-0.0.0.0 u44.pnc.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
@@ -657,7 +622,6 @@
 0.0.0.0 views.arabnews.com
 0.0.0.0 views.asura.gg
 0.0.0.0 views.asurascans.com
-0.0.0.0 visualrevenue.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
@@ -671,12 +635,8 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 weblog.flyasiana.com
-0.0.0.0 webtrekk.net
 0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv
-0.0.0.0 wt-eu02.net
-0.0.0.0 wt-safetag.com
-0.0.0.0 xplosion.de
 0.0.0.0 y738.nhregister.com
 0.0.0.0 y820.darientimes.com
 0.0.0.0 y900.greenwichtime.com

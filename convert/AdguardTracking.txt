@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 04 Jan 2024 04:24:25 UTC
+# Last converted - Fri, 05 Jan 2024 04:24:35 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7770,6 +7770,7 @@
 0.0.0.0 analytic20.detik.com
 0.0.0.0 analytics-api.a-f.io
 0.0.0.0 analytics-api.dvdfab.
+0.0.0.0 analytics-api.invideo.io
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
@@ -11517,6 +11518,8 @@
 0.0.0.0 brasilwebmail.webmail.tt.omtrdc.net
 0.0.0.0 brat-online.ro
 0.0.0.0 brcdn.com
+0.0.0.0 brdtest.com
+0.0.0.0 brdtnet.com
 0.0.0.0 breakdance.treker.fun
 0.0.0.0 breakthrough.kronos.com
 0.0.0.0 breaktime.com.tw
@@ -11538,6 +11541,9 @@
 0.0.0.0 briefing.actonservice.com
 0.0.0.0 brigant.trekkeeee.space
 0.0.0.0 briggsstratton.tt.omtrdc.net
+0.0.0.0 bright-sdk.com
+0.0.0.0 brightdata.com
+0.0.0.0 brightdata.de
 0.0.0.0 brightedge.com
 0.0.0.0 brighthousefinancial.tt.omtrdc.net
 0.0.0.0 brigitte.met.vgwort.de
@@ -49391,6 +49397,7 @@
 0.0.0.0 lumberliquidators.tt.omtrdc.net
 0.0.0.0 lumenera.actonservice.com
 0.0.0.0 luminate.com
+0.0.0.0 luminati.io
 0.0.0.0 lumitos.com
 0.0.0.0 lumtjt.plumbingonline.ca
 0.0.0.0 luna-dev.tt.omtrdc.net
@@ -56788,6 +56795,8 @@
 0.0.0.0 permutive.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.hola.org
+0.0.0.0 perr.l-agent.me
+0.0.0.0 perr.l-err.biz
 0.0.0.0 perryhalles.tt.omtrdc.net
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
@@ -70107,6 +70116,7 @@
 0.0.0.0 tr.sort.espmp-nifr.net
 0.0.0.0 tr.souscription.floa.fr
 0.0.0.0 tr.spain.plimsoll.es
+0.0.0.0 tr.staff-start.com
 0.0.0.0 tr.strategie.gouv.fr
 0.0.0.0 tr.suedkurier.de
 0.0.0.0 tr.suivi-client-edf.com

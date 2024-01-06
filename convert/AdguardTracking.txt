@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 05 Jan 2024 04:24:35 UTC
+# Last converted - Sat, 06 Jan 2024 04:24:07 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -57405,6 +57405,7 @@
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prd.tt.omtrdc.net
+0.0.0.0 prdwebcollector.ruetracking.com
 0.0.0.0 pre-employmentservices.adp.com
 0.0.0.0 pre-zcorp.tt.omtrdc.net
 0.0.0.0 pre.glotgrx.com
@@ -72836,6 +72837,7 @@
 0.0.0.0 trk.therealforceshop.com
 0.0.0.0 trk.thinkhdi.com
 0.0.0.0 trk.thomaspumps.com
+0.0.0.0 trk.tirto.id
 0.0.0.0 trk.torridnails.it
 0.0.0.0 trk.trackclick.co
 0.0.0.0 trk.trafficastro.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 06 Jan 2024 04:24:07 UTC
+# Last converted - Sun, 07 Jan 2024 04:24:08 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -72385,6 +72385,7 @@
 0.0.0.0 trk-svc1.tt.omtrdc.net
 0.0.0.0 trk.2ndtrk.com
 0.0.0.0 trk.5news.name
+0.0.0.0 trk.a-dsp.com
 0.0.0.0 trk.acabenefitapproval.com
 0.0.0.0 trk.adbutter.net
 0.0.0.0 trk.addrawlestrk.com

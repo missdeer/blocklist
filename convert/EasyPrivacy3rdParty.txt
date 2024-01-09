@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 08 Jan 2024 04:25:03 UTC
+# Last converted - Tue, 09 Jan 2024 04:24:41 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -159,6 +159,7 @@
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
+0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.websolute.it
@@ -536,6 +537,7 @@
 0.0.0.0 ec.walkme.com
 0.0.0.0 ecomm.events
 0.0.0.0 ecommstats.s3.amazonaws.com
+0.0.0.0 edge.adobedc.net
 0.0.0.0 edge.bredg.com
 0.0.0.0 eel.transistor.fm
 0.0.0.0 ele26126.jscrambler.com
@@ -700,6 +702,7 @@
 0.0.0.0 jtracking-gate.lulusoft.com
 0.0.0.0 k.keyade.com
 0.0.0.0 k.streamrail.com
+0.0.0.0 k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 klarnaservices.com
@@ -1156,6 +1159,7 @@
 0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
+0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media

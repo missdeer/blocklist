@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 08 Jan 2024 04:25:08 UTC
+# Last converted - Tue, 09 Jan 2024 04:24:43 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -387,6 +387,7 @@
 0.0.0.0 pf.newegg.com
 0.0.0.0 pftk.temu.com
 0.0.0.0 ph.thenextweb.com
+0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hungama.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com

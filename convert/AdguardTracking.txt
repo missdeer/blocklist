@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 09 Jan 2024 04:24:42 UTC
+# Last converted - Wed, 10 Jan 2024 04:24:53 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8148,6 +8148,7 @@
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.mondotv.jp
 0.0.0.0 analytics.move.ru
+0.0.0.0 analytics.msk1.ru
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.multithread.studio
 0.0.0.0 analytics.myapstore.com
@@ -55127,6 +55128,7 @@
 0.0.0.0 metrics.vero.co.nz
 0.0.0.0 metrics.viega.de
 0.0.0.0 metrics.vikingline.ee
+0.0.0.0 metrics.viqeo.tv
 0.0.0.0 metrics.virginaustralia.com
 0.0.0.0 metrics.virginmedia.com
 0.0.0.0 metrics.virtualservers.com
@@ -58605,6 +58607,7 @@
 0.0.0.0 paysd-token-token.global.global.tt.omtrdc.net
 0.0.0.0 paytronixemails.yogurt-land.com
 0.0.0.0 paz.dida-world.com
+0.0.0.0 pb.adriver.ru
 0.0.0.0 pb.i.sogou.com
 0.0.0.0 pb.trk.pbee.online
 0.0.0.0 pbbl.co
@@ -60971,6 +60974,7 @@
 0.0.0.0 rtarget.trk.agency
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.loopa.net.au
+0.0.0.0 rtb.videonow.ru
 0.0.0.0 rtbanalytics.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc.dymatrix.cloud
@@ -69406,9 +69410,12 @@
 0.0.0.0 sync.1dmp.io
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.adspend.space
 0.0.0.0 sync.bumlam.com
 0.0.0.0 sync.ebis.ne.jp
 0.0.0.0 sync.morgdm.ru
+0.0.0.0 sync.opendsp.ru
+0.0.0.0 sync.programmatica.com
 0.0.0.0 synergy-e.com
 0.0.0.0 synergy.tt.omtrdc.net
 0.0.0.0 synopsysinc.tt.omtrdc.net

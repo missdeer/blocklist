@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 10 Jan 2024 04:24:53 UTC
+# Last converted - Thu, 11 Jan 2024 04:24:57 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -75711,6 +75711,7 @@
 0.0.0.0 usereachpeople.com
 0.0.0.0 userexperience.thehut.net
 0.0.0.0 userlook.com
+0.0.0.0 usermetric.io
 0.0.0.0 userneeds.dk
 0.0.0.0 userpicspl.tt.omtrdc.net
 0.0.0.0 userprefs.tt.omtrdc.net

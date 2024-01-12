@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 11 Jan 2024 04:24:57 UTC
+# Last converted - Fri, 12 Jan 2024 04:25:16 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -18370,6 +18370,7 @@
 0.0.0.0 drive.seagate.com
 0.0.0.0 drivecl.dd.tt.omtrdc.net
 0.0.0.0 driven.actonservice.com
+0.0.0.0 driveniq.com
 0.0.0.0 driversalert49.tt.omtrdc.net
 0.0.0.0 dropbox--9.tt.omtrdc.net
 0.0.0.0 dropbox-20-9.tt.omtrdc.net

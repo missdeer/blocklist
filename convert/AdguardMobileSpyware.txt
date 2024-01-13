@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 12 Jan 2024 04:25:12 UTC
+# Last converted - Sat, 13 Jan 2024 04:24:41 UTC
 #
 
 0.0.0.0 33across.com
@@ -131,6 +131,7 @@
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 applog.uc.cn
@@ -228,6 +229,7 @@
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
 0.0.0.0 detect.rayjump.com
+0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dex50.deteql.net
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dig.bdurl.net
@@ -310,6 +312,7 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hit.gemius.pl
+0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hwstats.unity3d.com
@@ -424,6 +427,7 @@
 0.0.0.0 metrics.spbtv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 mgs123.com
+0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mlb.did.ijinshan.com
@@ -470,6 +474,7 @@
 0.0.0.0 onthe.io
 0.0.0.0 open.oneplus.net
 0.0.0.0 openstat.net
+0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com
 0.0.0.0 pangle-b.io
 0.0.0.0 pathfinder.analytics.komoot.net
@@ -540,6 +545,8 @@
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
+0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sg-public-data-api.hoyoverse.com
 0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sia.internet.apps.samsung.com
@@ -689,6 +696,7 @@
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
+0.0.0.0 ys-log-upload-os.hoyoverse.com
 0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 zdbb.net
 0.0.0.0 zml-apm-prd.dbv4.noncd.db.de

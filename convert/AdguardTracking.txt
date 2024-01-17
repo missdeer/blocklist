@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 16 Jan 2024 04:24:41 UTC
+# Last converted - Wed, 17 Jan 2024 04:25:17 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7878,10 +7878,12 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 analytics-api.statvoo.com
+0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-beacon.p.uliza.jp
 0.0.0.0 analytics-bskyb.hb-api.tt.omtrdc.net
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-coletor-site.ojc.com.br
+0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
@@ -8055,6 +8057,7 @@
 0.0.0.0 analytics.evo.co.uk
 0.0.0.0 analytics.ewz.ch
 0.0.0.0 analytics.faceitanalytics.com
+0.0.0.0 analytics.fap.bar
 0.0.0.0 analytics.fatmedia.io
 0.0.0.0 analytics.fcgtalent.fi
 0.0.0.0 analytics.ferguson.com
@@ -58132,15 +58135,12 @@
 0.0.0.0 o.webmd.com
 0.0.0.0 o.www.tt.omtrdc.net
 0.0.0.0 o.xbox.com
-0.0.0.0 o1000929.ingest.sentry.io
-0.0.0.0 o1184810.ingest.sentry.io
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 o365diagtelemetry.trafficmanager.net
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 o3gxzoewxl1x.cp.zomro.com
 0.0.0.0 o68c.sfr.fr
 0.0.0.0 o8.hyatt.com
-0.0.0.0 o920916.ingest.sentry.io
 0.0.0.0 oa515.blog57.tt.omtrdc.net
 0.0.0.0 oaamdev.tt.omtrdc.net
 0.0.0.0 oadz.com
@@ -72232,8 +72232,10 @@
 0.0.0.0 tmobile.tt.omtrdc.net
 0.0.0.0 tmp-logs-metrics.hb.tt.omtrdc.net
 0.0.0.0 tmrhpl.nurse-agent.com
+0.0.0.0 tms-collect.sony.jp
 0.0.0.0 tms-st.cdn.ngenix.net
 0.0.0.0 tms-test.nab.com.au
+0.0.0.0 tms-visitor-service.sony.jp
 0.0.0.0 tms.53.com
 0.0.0.0 tms.betway.com
 0.0.0.0 tms.betwaysatta.com
@@ -79442,6 +79444,7 @@
 0.0.0.0 wwwqamg23.brandusa.tt.omtrdc.net
 0.0.0.0 wwwr3.w.tt.omtrdc.net
 0.0.0.0 wwws3.tt.omtrdc.net
+0.0.0.0 wwwstat.rz.uni-leipzig.de
 0.0.0.0 wwwtesta-wers.fccmc.tt.omtrdc.net
 0.0.0.0 wwww02s.tt.omtrdc.net
 0.0.0.0 wwww2.win.tt.omtrdc.net

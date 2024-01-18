@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 17 Jan 2024 04:25:18 UTC
+# Last converted - Thu, 18 Jan 2024 04:24:39 UTC
 #
 
 0.0.0.0 33across.com
@@ -532,6 +532,7 @@
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 sadobeanalytics.geico.com
+0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-log-inter.youdao.com

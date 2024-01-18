@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 17 Jan 2024 04:25:17 UTC
+# Last converted - Thu, 18 Jan 2024 04:24:37 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -18257,7 +18257,6 @@
 0.0.0.0 dkskbu.demae-can.com
 0.0.0.0 dl-dev.tt.omtrdc.net
 0.0.0.0 dl.r3set.life
-0.0.0.0 dl.reg.163.com
 0.0.0.0 dlabiznesu.pracuj.pl
 0.0.0.0 dlesjf.jutarnji.hr
 0.0.0.0 dlinsuranceservicesl.tt.omtrdc.net
@@ -48762,6 +48761,7 @@
 0.0.0.0 intactfinancialcorpo.tt.omtrdc.net
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 intake-lr.com
 0.0.0.0 intarget.ru
 0.0.0.0 intbafxiry.atresmedia.hb.tt.omtrdc.net
 0.0.0.0 intechservices.actonservice.com
@@ -63039,6 +63039,7 @@
 0.0.0.0 sayyac.net
 0.0.0.0 sazeraccompany.tt.omtrdc.net
 0.0.0.0 sb.mynewplace.com
+0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 sb6.tt.omtrdc.net
 0.0.0.0 sbcomniture.focus.de

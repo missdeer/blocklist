@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 24 Jan 2024 04:25:35 UTC
+# Last converted - Thu, 25 Jan 2024 04:25:21 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -14731,6 +14731,7 @@
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d90z5o386dhs7.cloudfront.net
+0.0.0.0 d9jj3mjthpub.cloudfront.net
 0.0.0.0 da.bodenhaus.de
 0.0.0.0 da.freo.nl
 0.0.0.0 da.hornbach.at

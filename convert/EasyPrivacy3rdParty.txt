@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 25 Jan 2024 04:25:23 UTC
+# Last converted - Fri, 26 Jan 2024 04:24:35 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -124,6 +124,7 @@
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.pagefly.io
+0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pixels.ai

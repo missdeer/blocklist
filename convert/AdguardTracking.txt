@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 25 Jan 2024 04:25:21 UTC
+# Last converted - Fri, 26 Jan 2024 04:24:29 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8254,6 +8254,7 @@
 0.0.0.0 analytics.nordea.fi
 0.0.0.0 analytics.nordea.no
 0.0.0.0 analytics.nordea.se
+0.0.0.0 analytics.nova.foxsports.com
 0.0.0.0 analytics.nrg.com
 0.0.0.0 analytics.nrgprotects.com
 0.0.0.0 analytics.octaglobal.com
@@ -8265,6 +8266,7 @@
 0.0.0.0 analytics.ovative.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.oyorooms.com
+0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.partcommunity.com
 0.0.0.0 analytics.peraichi.com
 0.0.0.0 analytics.pgncs.notion.so
@@ -8399,6 +8401,7 @@
 0.0.0.0 analytics.theinstitutes.org
 0.0.0.0 analytics.thenest.com
 0.0.0.0 analytics.thenewslens.com
+0.0.0.0 analytics.theta360.com
 0.0.0.0 analytics.tiendaenoferta.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tio.ch
@@ -18354,6 +18357,7 @@
 0.0.0.0 dmp.citiservi.es
 0.0.0.0 dmp.eland-tech.com
 0.0.0.0 dmp.sbermarketing.ru
+0.0.0.0 dmp.truoptik.com
 0.0.0.0 dmpcloud.net
 0.0.0.0 dmpmetrics.rcsmetrics.it
 0.0.0.0 dmpprof.com
@@ -50974,6 +50978,7 @@
 0.0.0.0 l936.expressnews.com
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 la.idgenterprise.com
+0.0.0.0 lab.analyticspodium.com
 0.0.0.0 lab.sensilia.com
 0.0.0.0 lab.tt.omtrdc.net
 0.0.0.0 labdishpurchasingcorporation.hb-api.tt.omtrdc.net
@@ -52792,6 +52797,7 @@
 0.0.0.0 log.hitsteps.com
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.iflytek.com
+0.0.0.0 log.ifood.tv
 0.0.0.0 log.intellimize.co
 0.0.0.0 log.invodo.com
 0.0.0.0 log.isnssdk.com
@@ -61629,6 +61635,7 @@
 0.0.0.0 pre2-upgrades.tt.omtrdc.net
 0.0.0.0 preaccountsit.tt.omtrdc.net
 0.0.0.0 prealc.apfepl01.tt.omtrdc.net
+0.0.0.0 prebid-log.getpublica.com
 0.0.0.0 precisioncounter.com
 0.0.0.0 predataclient.b-cdn.net
 0.0.0.0 predatasrv.com

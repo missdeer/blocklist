@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 26 Jan 2024 04:24:31 UTC
+# Last converted - Sat, 27 Jan 2024 04:21:07 UTC
 #
 
 0.0.0.0 33across.com
@@ -274,6 +274,7 @@
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.betterhelp.com
+0.0.0.0 events.character.ai
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
@@ -520,6 +521,7 @@
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 reporting.aatkit.com
+0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 26 Jan 2024 04:24:29 UTC
+# Last converted - Sat, 27 Jan 2024 04:21:13 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -11067,7 +11067,6 @@
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beacon.carfax.com
-0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 beacon.digima.com
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.ehow.com
@@ -44981,6 +44980,7 @@
 0.0.0.0 events.cardsmobile.ru
 0.0.0.0 events.careallies.com
 0.0.0.0 events.centex.com
+0.0.0.0 events.character.ai
 0.0.0.0 events.cigna.com
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.coface.com
@@ -60012,6 +60012,8 @@
 0.0.0.0 ozkkuy.fabianafilippi.com
 0.0.0.0 ozvlyz.justmusic.de
 0.0.0.0 p-analytics.life
+0.0.0.0 p-aw2-adapt-beacon.awsprodops.movetv.com
+0.0.0.0 p-cg64-slinganalytics.movetv.com
 0.0.0.0 p-events.ivideosmart.com
 0.0.0.0 p-log.ykimg.com
 0.0.0.0 p-td.com
@@ -60903,7 +60905,9 @@
 0.0.0.0 pdmsmrt.chevrolet.com
 0.0.0.0 pdmsmrt.gmc.com
 0.0.0.0 pdmsmrt.gmccanada.ca
+0.0.0.0 pds.gmarket.co.kr
 0.0.0.0 pdsgaj.piquadro.com
+0.0.0.0 pdsssl.gmarket.co.kr
 0.0.0.0 pdx-pixie178.tt.omtrdc.net
 0.0.0.0 pdzutf.sftworks.jp
 0.0.0.0 pe-gw.canary.tt.omtrdc.net
@@ -62766,6 +62770,7 @@
 0.0.0.0 reporting.autographapp.me
 0.0.0.0 reports-tsi.tangerine.io
 0.0.0.0 reports.koalametrics.com
+0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 repository.cbs.hb-api.tt.omtrdc.net
 0.0.0.0 reppify.actonservice.com
 0.0.0.0 reproasetttrk.com
@@ -74250,7 +74255,6 @@
 0.0.0.0 tr.n.kinder.fr
 0.0.0.0 tr.n.nutella.fr
 0.0.0.0 tr.n.tic-tac.fr
-0.0.0.0 tr.namu.wiki
 0.0.0.0 tr.nati02d.espmp-aufr.net
 0.0.0.0 tr.nespresso.com
 0.0.0.0 tr.nespresso.mailsservices.com
@@ -78152,6 +78156,7 @@
 0.0.0.0 utorrent-pro-torrent-app.en.tt.omtrdc.net
 0.0.0.0 utrera.treker.fun
 0.0.0.0 uts.auction.co.kr
+0.0.0.0 uts.gmarket.co.kr
 0.0.0.0 utsssl.auction.co.kr
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uttarakhand.tt.omtrdc.net

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 29 Jan 2024 04:22:12 UTC
+# Last converted - Tue, 30 Jan 2024 04:21:58 UTC
 #
 
 0.0.0.0 33across.com
@@ -149,6 +149,7 @@
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 autotrack.studyquicks.com
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 banner.appsflyer.com
@@ -287,6 +288,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
@@ -363,6 +365,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.apkomega.com
@@ -371,6 +374,7 @@
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.down61.com
+0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
@@ -577,6 +581,7 @@
 0.0.0.0 stats.grafana.org
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net

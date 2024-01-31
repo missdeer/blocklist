@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 30 Jan 2024 04:21:58 UTC
+# Last converted - Wed, 31 Jan 2024 04:22:57 UTC
 #
 
 0.0.0.0 33across.com
@@ -116,7 +116,6 @@
 0.0.0.0 api.bytebrew.io
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 api.gameanalytics.com
-0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.miui.security.xiaomi.com
@@ -323,7 +322,6 @@
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 iemiq.com
 0.0.0.0 ilyonanalytics.herokuapp.com
-0.0.0.0 imp.apprevolve.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com

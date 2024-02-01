@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 31 Jan 2024 04:22:54 UTC
+# Last converted - Thu, 01 Feb 2024 04:24:03 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -9486,6 +9486,7 @@
 0.0.0.0 applies.statics.tt.omtrdc.net
 0.0.0.0 applink-pse.edr.tt.omtrdc.net
 0.0.0.0 applog-ru-sg.us.tt.omtrdc.net
+0.0.0.0 applog.ssgdfs.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.ucdns.uc.cn
 0.0.0.0 applog.zaycev.net
@@ -14820,6 +14821,7 @@
 0.0.0.0 dacotasouth.trekkeeee.fun
 0.0.0.0 dacounter.com
 0.0.0.0 dadi.technology
+0.0.0.0 dadispapi.gmarket.co.kr
 0.0.0.0 dadtbgt.tt.hb-api.tt.omtrdc.net
 0.0.0.0 dadultswim.hb-api.tt.omtrdc.net
 0.0.0.0 daegu.roachh.space
@@ -19232,6 +19234,7 @@
 0.0.0.0 eflnrbfejw.thissubdomainshouldonlyresolveifwildcard.aem.hb.tt.omtrdc.net
 0.0.0.0 efoodlove.e-food.gr
 0.0.0.0 efplso.epost.go.kr
+0.0.0.0 efreecode.com
 0.0.0.0 eftelingactie.tt.omtrdc.net
 0.0.0.0 efuxqe.tatilbudur.com
 0.0.0.0 eg06.prod.cloud.prod.cloud.tt.omtrdc.net
@@ -59012,6 +59015,7 @@
 0.0.0.0 montana.trekkeeee.space
 0.0.0.0 montelena-rcv.auction.co.kr
 0.0.0.0 montelena-rcv.gmarket.co.kr
+0.0.0.0 montelena.auction.co.kr
 0.0.0.0 montemoronovo-api.info.tt.omtrdc.net
 0.0.0.0 montenegro.trekkeeee.space
 0.0.0.0 montilla.treker.fun
@@ -63871,6 +63875,7 @@
 0.0.0.0 report.mitsubishicars.com
 0.0.0.0 report.oewa.at
 0.0.0.0 report2.iciba.com
+0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.autographapp.me
 0.0.0.0 reports-tsi.tangerine.io
@@ -79300,6 +79305,7 @@
 0.0.0.0 utrera.treker.fun
 0.0.0.0 uts.auction.co.kr
 0.0.0.0 uts.gmarket.co.kr
+0.0.0.0 utsgw.auction.co.kr
 0.0.0.0 utsssl.auction.co.kr
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uttarakhand.tt.omtrdc.net

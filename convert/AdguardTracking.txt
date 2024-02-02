@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 01 Feb 2024 04:24:03 UTC
+# Last converted - Fri, 02 Feb 2024 04:23:21 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -7091,7 +7091,6 @@
 0.0.0.0 affiliate04.tt.omtrdc.net
 0.0.0.0 affiliateedge.eu
 0.0.0.0 affiliateold.firma20.cz
-0.0.0.0 affiliates-pro.com
 0.0.0.0 affiliates.adinternet.cz
 0.0.0.0 affiliates.cdkeys.com
 0.0.0.0 affiliates.genealogybank.com
@@ -14175,7 +14174,6 @@
 0.0.0.0 counter.yandro.ru
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 counter1.fc2.com
-0.0.0.0 counter160.com
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 counter24.luxnet.ua
 0.0.0.0 counter27.ch
@@ -14775,6 +14773,7 @@
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
+0.0.0.0 d3nn82uaxijpm6.cloudfront.net
 0.0.0.0 d3nq5jrakcyw1w.cloudfront.net
 0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
@@ -48599,6 +48598,7 @@
 0.0.0.0 hkj8.evobanco.com
 0.0.0.0 hkpbt01.tt.omtrdc.net
 0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
+0.0.0.0 hkrpg-log-upload.mihoyo.com
 0.0.0.0 hkskqs.belvilla.fr
 0.0.0.0 hktb.tt.omtrdc.net
 0.0.0.0 hktracker.hankookilbo.com
@@ -62554,7 +62554,6 @@
 0.0.0.0 pm.eu.viatrisconnect.it
 0.0.0.0 pm.pmu.fr
 0.0.0.0 pm0.net
-0.0.0.0 pm14.com
 0.0.0.0 pm239coop.tt.omtrdc.net
 0.0.0.0 pmbox.biz
 0.0.0.0 pmi.tt.omtrdc.net
@@ -75902,7 +75901,6 @@
 0.0.0.0 trace.zhiyan.tencent-cloud.net
 0.0.0.0 trace21.dsb-ebusiness.com
 0.0.0.0 tracelog.www.alibaba.com
-0.0.0.0 tracelytics.com
 0.0.0.0 traceprof.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 traceworks.com
@@ -82038,7 +82036,6 @@
 0.0.0.0 ygecho.wenz.de
 0.0.0.0 ygmpia.worten.pt
 0.0.0.0 ygopvz.windsorstore.com
-0.0.0.0 ygsm.com
 0.0.0.0 ygsoeu.size.co.uk
 0.0.0.0 ygtfgu.casamundo.nl
 0.0.0.0 ygxqjz.intersport.fi

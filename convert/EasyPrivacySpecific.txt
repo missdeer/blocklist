@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 01 Feb 2024 04:24:08 UTC
+# Last converted - Fri, 02 Feb 2024 04:23:22 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -157,6 +157,7 @@
 0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
+0.0.0.0 content22.citibankonline.com
 0.0.0.0 content22.online.citi.com
 0.0.0.0 conversion.mooncard.co
 0.0.0.0 copilot-telemetry.githubusercontent.com

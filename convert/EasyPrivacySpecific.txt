@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 02 Feb 2024 04:23:22 UTC
+# Last converted - Sat, 03 Feb 2024 04:21:44 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -266,6 +266,7 @@
 0.0.0.0 geoip.hmageo.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geolocation.forbes.com
+0.0.0.0 gg.vevor.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmetrics.getbeamer.com
@@ -454,6 +455,7 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 rvo-cohesion.healthline.com
+0.0.0.0 s.gofile.io
 0.0.0.0 s.infogram.com
 0.0.0.0 s.wayfair.com
 0.0.0.0 saa.insideedition.com

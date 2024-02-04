@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 03 Feb 2024 04:21:45 UTC
+# Last converted - Sun, 04 Feb 2024 04:21:44 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -97,7 +97,6 @@
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.growthphysics.com
 0.0.0.0 analytics.gvim.mobi
-0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.jazel.net
 0.0.0.0 analytics.jst.ai
@@ -156,10 +155,8 @@
 0.0.0.0 analytics.threedeepmarketing.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tout.com
-0.0.0.0 analytics.tribeca.vidavee.com
 0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.unilogcorp.com
-0.0.0.0 analytics.urx.io
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
@@ -169,7 +166,6 @@
 0.0.0.0 analytics.websolute.it
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.witglobal.net
-0.0.0.0 analytics.worldtable.co
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yext-static.com
 0.0.0.0 analytics.ynap.biz
@@ -179,7 +175,6 @@
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticssec.overwolf.com
-0.0.0.0 analyze.full-marke.com
 0.0.0.0 antillephone.com
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 ape-tagit.timeinc.net
@@ -307,6 +302,7 @@
 0.0.0.0 collect.rebelmouse.io
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.usefathom.com
+0.0.0.0 collect.verify.lnearn.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-api.frspecifics.com
 0.0.0.0 collector-soompi.viki.io
@@ -442,6 +438,7 @@
 0.0.0.0 d2wa5sea6guof0.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 d2z0bn1jv8xwtk.cloudfront.net
 0.0.0.0 d2zue0pgsssbc6.cloudfront.net
 0.0.0.0 d31y97ze264gaa.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
@@ -462,6 +459,7 @@
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
+0.0.0.0 d3nn82uaxijpm6.cloudfront.net
 0.0.0.0 d3oodlxb1rw3kg.cloudfront.net
 0.0.0.0 d3pi0tys5sdysl.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
@@ -484,7 +482,6 @@
 0.0.0.0 data.eetech.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.hicloud.com
-0.0.0.0 data.imakenews.com
 0.0.0.0 data.minute.ly
 0.0.0.0 data.nexxt.com
 0.0.0.0 data.queryly.com
@@ -741,7 +738,6 @@
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.dpa.com
 0.0.0.0 log.go.com
-0.0.0.0 log.invodo.com
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.olark.com
@@ -1084,7 +1080,6 @@
 0.0.0.0 stats.shopify.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.topofblogs.com
-0.0.0.0 stats.twistage.com
 0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.varrando.com
 0.0.0.0 stats.viddler.com
@@ -1171,7 +1166,6 @@
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
 0.0.0.0 targeting.voxus.tv
-0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.goodlifefitness.com
 0.0.0.0 telemetry.phenixrts.com
@@ -1221,7 +1215,6 @@
 0.0.0.0 track.mp4.center
 0.0.0.0 track.mycliplister.com
 0.0.0.0 track.nopaperforms.com
-0.0.0.0 track.pnicnik.live
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.qoof.com
 0.0.0.0 track.realtimeboard.com
@@ -1261,7 +1254,6 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
-0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.ssl0d.com
@@ -1374,7 +1366,6 @@
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verify.authorize.net
-0.0.0.0 verify.lnearn.com
 0.0.0.0 verify.safesigned.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videoevents.outbrain.com

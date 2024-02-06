@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 05 Feb 2024 04:24:15 UTC
+# Last converted - Tue, 06 Feb 2024 04:22:07 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -331,7 +331,6 @@
 0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.jampp.com
-0.0.0.0 cdn.mobilefuse.com
 0.0.0.0 cdn2.auditude.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdp.cloud.unity3d.com
@@ -564,6 +563,7 @@
 0.0.0.0 mobilebanner.ru
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
+0.0.0.0 mobilefuse.com
 0.0.0.0 mobimagic.com
 0.0.0.0 mobon.com
 0.0.0.0 mobondhrd.appspot.com

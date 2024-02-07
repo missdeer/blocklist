@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 06 Feb 2024 04:22:07 UTC
+# Last converted - Wed, 07 Feb 2024 04:22:58 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -508,6 +508,7 @@
 0.0.0.0 kusuriyasan.org
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 l3op.info
+0.0.0.0 lacunads.com
 0.0.0.0 launcher.us.yeshen.com
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 leadboltads.net
@@ -685,6 +686,7 @@
 0.0.0.0 rqmob.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb.appbid.com
+0.0.0.0 rtblab.net
 0.0.0.0 ruuaqkw.com
 0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s.adx.opera.com

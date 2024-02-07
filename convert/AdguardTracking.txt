@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 06 Feb 2024 04:22:09 UTC
+# Last converted - Wed, 07 Feb 2024 04:22:57 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -8025,6 +8025,7 @@
 0.0.0.0 analytics-beacon.p.uliza.jp
 0.0.0.0 analytics-bskyb.hb-api.tt.omtrdc.net
 0.0.0.0 analytics-cdiscount.com
+0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-coletor-site.ojc.com.br
 0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-egain.com
@@ -8222,6 +8223,7 @@
 0.0.0.0 analytics.gestore.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gewaterheater.com
+0.0.0.0 analytics.githubassets.com
 0.0.0.0 analytics.gnetworks.xyz
 0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
@@ -77980,8 +77982,10 @@
 0.0.0.0 toad.ettiennevorster.co.za
 0.0.0.0 toast-nde.tt.omtrdc.net
 0.0.0.0 tobapplog.ctobsnssdk.com
+0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 tobinsolutions.wi.tt.omtrdc.net
 0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 tobykitten51.tt.omtrdc.net
 0.0.0.0 tocdsk.hifiklubben.de
 0.0.0.0 tock.weg.plus
@@ -78018,6 +78022,7 @@
 0.0.0.0 tomkat.tt.omtrdc.net
 0.0.0.0 tommybahamagroupinc.tt.omtrdc.net
 0.0.0.0 tompoon-md.tt.omtrdc.net
+0.0.0.0 tongjiniao.com
 0.0.0.0 tonguepoint01.noro.tt.omtrdc.net
 0.0.0.0 tonylin1227.tt.omtrdc.net
 0.0.0.0 toolbox.toolbox-stg.tt.omtrdc.net
@@ -80603,6 +80608,7 @@
 0.0.0.0 tracker.wordstream.com
 0.0.0.0 tracker.xgen.dev
 0.0.0.0 tracker.yolo247.com
+0.0.0.0 trackerapi.ebxcdn.com
 0.0.0.0 trackerapi.service.echobox.com
 0.0.0.0 trackerhqu.com
 0.0.0.0 trackernew.ulivetv.net
@@ -83391,6 +83397,7 @@
 0.0.0.0 voiture-sport.tt.omtrdc.net
 0.0.0.0 vojqalfp330f4ngr.com.insight.tt.hb-fa-stage.tt.omtrdc.net
 0.0.0.0 vojqalfp330f4ngr.insight.tt.hb-fa-stage.tt.omtrdc.net
+0.0.0.0 volceapplog.com
 0.0.0.0 vole.contemporaryartlibrary.org
 0.0.0.0 vole.nettskaperne.no
 0.0.0.0 vole.noteapps.info

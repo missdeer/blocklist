@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 07 Feb 2024 04:22:57 UTC
+# Last converted - Thu, 08 Feb 2024 04:23:35 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -75052,6 +75052,7 @@
 0.0.0.0 stats.geobox.app
 0.0.0.0 stats.gerard.fun
 0.0.0.0 stats.gesund-vital-lebensfreude.com
+0.0.0.0 stats.getaim.org
 0.0.0.0 stats.getdoks.org
 0.0.0.0 stats.gethyas.com
 0.0.0.0 stats.getpickaxe.com
@@ -77211,6 +77212,7 @@
 0.0.0.0 tctm.co
 0.0.0.0 tcvseghrxk.133rtl.hb.tt.omtrdc.net
 0.0.0.0 tcwkhywunj.251nbcstreaming.hb.tt.omtrdc.net
+0.0.0.0 tcx-beacon.docs.aws.dev
 0.0.0.0 tczew2.chat.tt.omtrdc.net
 0.0.0.0 tczulp.econea.cz
 0.0.0.0 td573.com

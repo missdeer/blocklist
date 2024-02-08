@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 07 Feb 2024 04:22:52 UTC
+# Last converted - Thu, 08 Feb 2024 04:23:27 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -424,6 +424,7 @@
 0.0.0.0 rankhit.china.com
 0.0.0.0 ras.yahoo.com
 0.0.0.0 rba-screen.healthsafe-id.com
+0.0.0.0 react-admin-telemetry.marmelab.com
 0.0.0.0 rec.banggood.com
 0.0.0.0 relay.fiverr.com
 0.0.0.0 reports.tunein.com

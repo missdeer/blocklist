@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 08 Feb 2024 04:23:35 UTC
+# Last converted - Fri, 09 Feb 2024 04:22:16 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -66321,6 +66321,7 @@
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 publishflow.com
+0.0.0.0 pubperf.com
 0.0.0.0 pubstr.acs.org
 0.0.0.0 pubstr.acspubs.org
 0.0.0.0 pubstr.chemrxiv.org

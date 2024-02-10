@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 09 Feb 2024 04:22:16 UTC
+# Last converted - Sat, 10 Feb 2024 04:23:22 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -12741,6 +12741,7 @@
 0.0.0.0 cepheid.tt.omtrdc.net
 0.0.0.0 cerdmann.com
 0.0.0.0 cerebosbrands.tt.omtrdc.net
+0.0.0.0 cerebro.edna.yahoo.net
 0.0.0.0 ceridianhcm.tt.omtrdc.net
 0.0.0.0 cerionnano.actonservice.com
 0.0.0.0 certifica.com
@@ -59667,6 +59668,7 @@
 0.0.0.0 mds.ricoh.ie
 0.0.0.0 mds.ricoh.it
 0.0.0.0 mds.ricoh.no
+0.0.0.0 mdstats.info
 0.0.0.0 mdugiz.jdsports.de
 0.0.0.0 mdws.1stchoicesavings.ca
 0.0.0.0 mdws.advancesavings.ca
@@ -63137,6 +63139,7 @@
 0.0.0.0 no-reply.yuca.live
 0.0.0.0 no.tt.omtrdc.net
 0.0.0.0 no7company.tt.omtrdc.net
+0.0.0.0 noa.yahoo.com
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 nocaadobefpc.optus.com.au
 0.0.0.0 node.aibeacon.jp
@@ -83735,6 +83738,7 @@
 0.0.0.0 wbtrkk.teufelaudio.it
 0.0.0.0 wbtrkk.teufelaudio.nl
 0.0.0.0 wbtrkk.teufelaudio.pl
+0.0.0.0 wc.yahoodns.net
 0.0.0.0 wcar72.tt.omtrdc.net
 0.0.0.0 wcbfr.adultpages.nl
 0.0.0.0 wcbnl.adultpages.nl

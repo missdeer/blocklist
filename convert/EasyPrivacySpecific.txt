@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 10 Feb 2024 04:23:23 UTC
+# Last converted - Sun, 11 Feb 2024 04:22:52 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -237,7 +237,6 @@
 0.0.0.0 fdt.kraken.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 firebaselogging.googleapis.com
-0.0.0.0 fp.heavybit.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
@@ -479,7 +478,6 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
-0.0.0.0 stategg.cdngeek.com
 0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
@@ -618,7 +616,6 @@
 0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 vg247-uk.vg247.com
 0.0.0.0 views.arabnews.com
-0.0.0.0 views.asura.gg
 0.0.0.0 views.asurascans.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w-profiling.cibc.com

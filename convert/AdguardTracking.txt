@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 11 Feb 2024 04:22:48 UTC
+# Last converted - Mon, 12 Feb 2024 04:23:04 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -13689,6 +13689,7 @@
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.szlcsc.com
+0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.trendmd.com
 0.0.0.0 collector.tt.omtrdc.net
 0.0.0.0 collector.vhx.tv

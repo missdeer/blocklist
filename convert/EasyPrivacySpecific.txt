@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 11 Feb 2024 04:22:52 UTC
+# Last converted - Mon, 12 Feb 2024 04:23:06 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -141,6 +141,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
+0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com

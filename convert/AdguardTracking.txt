@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 13 Feb 2024 04:22:07 UTC
+# Last converted - Wed, 14 Feb 2024 04:23:10 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -14172,6 +14172,7 @@
 0.0.0.0 citithidvn.tt.omtrdc.net
 0.0.0.0 citizensbank.tt.omtrdc.net
 0.0.0.0 citizensclimate.actonservice.com
+0.0.0.0 citrusad.net
 0.0.0.0 citynationalbank.tt.omtrdc.net
 0.0.0.0 cityofhope-d1.tt.tt.omtrdc.net
 0.0.0.0 cityofhope.tt.omtrdc.net
@@ -85317,6 +85318,7 @@
 0.0.0.0 track.actionsaude.fun
 0.0.0.0 track.adabra.com
 0.0.0.0 track.adchx.de
+0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adherellc.com
 0.0.0.0 track.adspire.io

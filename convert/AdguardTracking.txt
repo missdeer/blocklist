@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 14 Feb 2024 04:23:10 UTC
+# Last converted - Thu, 15 Feb 2024 04:23:28 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -2102,6 +2102,7 @@
 0.0.0.0 a.chdist.com
 0.0.0.0 a.conferencecall.com
 0.0.0.0 a.ddli.jp
+0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 a.deutschehospitality.com
 0.0.0.0 a.easyazon.com
 0.0.0.0 a.ehc.com
@@ -55383,6 +55384,7 @@
 0.0.0.0 getstatistics.se
 0.0.0.0 getstats.org
 0.0.0.0 gettoknow.skookum.com
+0.0.0.0 getui.com
 0.0.0.0 getyourdreamz.com
 0.0.0.0 gez.io
 0.0.0.0 gezaehlt.de
@@ -71230,6 +71232,7 @@
 0.0.0.0 pixel.europapress.net
 0.0.0.0 pixel.ex.co
 0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.ionos.com
@@ -72047,6 +72050,7 @@
 0.0.0.0 pt-br.tokyoghoul.tt.omtrdc.net
 0.0.0.0 pt.appirits.com
 0.0.0.0 pt.balluff.com
+0.0.0.0 pt.wisernotify.com
 0.0.0.0 ptarmigan.bridal-hair-and-accessories-now.com
 0.0.0.0 ptarmigan.codebycorey.com
 0.0.0.0 ptarmigan.goudieworks.co
@@ -74517,6 +74521,7 @@
 0.0.0.0 script.opentracker.net
 0.0.0.0 scriptil.com
 0.0.0.0 scripts-repo.reelevant.com
+0.0.0.0 scripts.jixie.media
 0.0.0.0 scripts21.com
 0.0.0.0 scriptshead.com
 0.0.0.0 scripttags.jst.ai
@@ -85318,7 +85323,6 @@
 0.0.0.0 track.actionsaude.fun
 0.0.0.0 track.adabra.com
 0.0.0.0 track.adchx.de
-0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adherellc.com
 0.0.0.0 track.adspire.io

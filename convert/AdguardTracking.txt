@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 15 Feb 2024 04:23:28 UTC
+# Last converted - Fri, 16 Feb 2024 04:22:04 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -71163,6 +71163,7 @@
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.mg.apexpay.org
 0.0.0.0 ping.naturadapt.com
+0.0.0.0 ping.paidy.com
 0.0.0.0 ping.resoluteoil.com
 0.0.0.0 pingagenow.com
 0.0.0.0 pingback.giphy.com
@@ -80663,6 +80664,7 @@
 0.0.0.0 statistiek.rijksoverheid.nl
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistik.apartments-tirolerhaus.at
+0.0.0.0 statistik.changing-cities.org
 0.0.0.0 statistik.komputerkampus.com
 0.0.0.0 statistika.lv
 0.0.0.0 statistiques.email.retoursdeservicesresidentielsbell.ca

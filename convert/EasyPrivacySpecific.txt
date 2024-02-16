@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 15 Feb 2024 04:23:24 UTC
+# Last converted - Fri, 16 Feb 2024 04:22:07 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -180,10 +180,10 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 df.infra.shopee.ph
 0.0.0.0 dii.bankaust.com.au
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
+0.0.0.0 dot.nonolive.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 dtag.breadfinancial.com
@@ -591,6 +591,7 @@
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
+0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
@@ -605,7 +606,6 @@
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 ua.indianexpress.com
-0.0.0.0 ubt.tracking.shopee.ph
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
 0.0.0.0 umami.wakarimasen.moe

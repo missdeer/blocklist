@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 16 Feb 2024 04:22:04 UTC
+# Last converted - Sat, 17 Feb 2024 04:25:07 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -75369,6 +75369,7 @@
 0.0.0.0 sit-metrics.nab.com.au
 0.0.0.0 sit-smetrics.nab.com.au
 0.0.0.0 site-azp.slgnt.eu
+0.0.0.0 site-config.com
 0.0.0.0 site-kaiseki-tool.com
 0.0.0.0 site-stats.supernotes.app
 0.0.0.0 site-submit.com.ua

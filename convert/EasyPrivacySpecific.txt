@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 18 Feb 2024 04:21:53 UTC
+# Last converted - Mon, 19 Feb 2024 04:23:05 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -36,6 +36,7 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 analytics.designspiration.com
+0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com

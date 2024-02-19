@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 18 Feb 2024 04:21:51 UTC
+# Last converted - Mon, 19 Feb 2024 04:22:59 UTC
 #
 
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
@@ -9154,6 +9154,7 @@
 0.0.0.0 analytics.cartoonnetworkasia.com
 0.0.0.0 analytics.cartoonnetworkindia.com
 0.0.0.0 analytics.cartoonnetworkmena.com
+0.0.0.0 analytics.castel.jp
 0.0.0.0 analytics.cdf.cl
 0.0.0.0 analytics.cdn.live
 0.0.0.0 analytics.ceneo.pl
@@ -53968,6 +53969,7 @@
 0.0.0.0 event.impression-neo.naver.com
 0.0.0.0 event.instiengage.com
 0.0.0.0 event.jma.or.jp
+0.0.0.0 event.lib.visumo.io
 0.0.0.0 event.mail.dreamcargiveaways.co.uk
 0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.nafas.co.id

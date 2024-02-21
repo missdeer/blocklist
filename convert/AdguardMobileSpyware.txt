@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 20 Feb 2024 04:24:52 UTC
+# Last converted - Wed, 21 Feb 2024 04:22:42 UTC
 #
 
 0.0.0.0 33across.com
@@ -465,6 +465,7 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 npario-inc.net
 0.0.0.0 nrc.tapas.net
 0.0.0.0 ntracker-collector.naver.com
@@ -696,6 +697,7 @@
 0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 wompanalytics.azurewebsites.net

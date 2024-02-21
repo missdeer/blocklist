@@ -1,9 +1,10 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 20 Feb 2024 04:24:59 UTC
+# Last converted - Wed, 21 Feb 2024 04:22:40 UTC
 #
 
+0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
 0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
 0.0.0.0 0--skitch--0.tt.omtrdc.net
 0.0.0.0 0-2-83.tt.omtrdc.net
@@ -21537,6 +21538,7 @@
 0.0.0.0 elcaminohospital.hrm.healthgrades.com
 0.0.0.0 elconfidencialdigital.actonservice.com
 0.0.0.0 eldersrural.tt.omtrdc.net
+0.0.0.0 eldoradottfha.dataplane.rudderstack.com
 0.0.0.0 elearning-mboxedge37-old.tt.omtrdc.net
 0.0.0.0 elector.trekkww.fun
 0.0.0.0 electricity2.tokyu-ps.jp
@@ -73679,6 +73681,7 @@
 0.0.0.0 mammal.robholmes.app
 0.0.0.0 mammothmountainskiar.tt.omtrdc.net
 0.0.0.0 manage.tt.omtrdc.net
+0.0.0.0 manage.turing.pe%2Fanalytics%2Fopen%2F
 0.0.0.0 manage7sc.tt.tt.omtrdc.net
 0.0.0.0 managedaccounts.nvenergy.com
 0.0.0.0 managedaccounts.pacificpower.net
@@ -76262,6 +76265,7 @@
 0.0.0.0 metrics.anthem.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.api.yle.fi
+0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.argenta.be
 0.0.0.0 metrics.argenta.eu
 0.0.0.0 metrics.argos.co.uk
@@ -79410,6 +79414,7 @@
 0.0.0.0 nossl.basco.com
 0.0.0.0 nosslomniture.dupontregistry.com
 0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 notice-tmo.notice.assurancewireless.com
 0.0.0.0 notices.regis.edu
 0.0.0.0 notices.rei.com
@@ -85661,6 +85666,7 @@
 0.0.0.0 securemetrics.nbnco.com.au
 0.0.0.0 securemetrics.syf.com
 0.0.0.0 securemetrics.synchronybusiness.com
+0.0.0.0 securemvt.apple.com
 0.0.0.0 securemvt.apple.com.cn
 0.0.0.0 securepaths.com
 0.0.0.0 secureschlnx.tt.omtrdc.net
@@ -92902,6 +92908,7 @@
 0.0.0.0 support2.flex.com
 0.0.0.0 support3.flex.com
 0.0.0.0 supportingyou.uat.bankline.tt.omtrdc.net
+0.0.0.0 supportmetrics.apple.com
 0.0.0.0 surfcounters.com
 0.0.0.0 surkve.oceane.com.br
 0.0.0.0 survey-staging.mazda.com.au
@@ -93728,6 +93735,7 @@
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.ask1.co
 0.0.0.0 t1.e1.bwlegal.co.uk
+0.0.0.0 t1.mp1.tripadvisor.com
 0.0.0.0 t1.musthird.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
@@ -97735,6 +97743,7 @@
 0.0.0.0 tracking.afffcompensation.com
 0.0.0.0 tracking.affiliateclub.cz
 0.0.0.0 tracking.agora.io
+0.0.0.0 tracking.ai.rakuten.co.jp
 0.0.0.0 tracking.aifsabroad.com
 0.0.0.0 tracking.air-worldwide.com
 0.0.0.0 tracking.aldi-international.com
@@ -98853,6 +98862,7 @@
 0.0.0.0 trk.datacenterworld.com
 0.0.0.0 trk.debtfreehelpline.ca
 0.0.0.0 trk.dechoker.com
+0.0.0.0 trk.decido.io
 0.0.0.0 trk.deliveranceads.com
 0.0.0.0 trk.deliveryredirect.com
 0.0.0.0 trk.delma.hu
@@ -101082,6 +101092,7 @@
 0.0.0.0 wealthcarecapital.actonservice.com
 0.0.0.0 weare.ballymoregroup.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 weatherbillcom-tyo.comcbsinteractiveinc.tt.omtrdc.net
 0.0.0.0 weatherbillcom.tt.omtrdc.net
 0.0.0.0 weaver-gr-athena-preview.tt.omtrdc.net

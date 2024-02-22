@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 21 Feb 2024 04:22:40 UTC
+# Last converted - Thu, 22 Feb 2024 04:21:56 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9347,6 +9347,7 @@
 0.0.0.0 analytics.avis.de
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.awhr.com
+0.0.0.0 analytics.b2.ai
 0.0.0.0 analytics.banksneveraskthat.com
 0.0.0.0 analytics.basistheory.com
 0.0.0.0 analytics.bauermedia.sk

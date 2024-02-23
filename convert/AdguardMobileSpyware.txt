@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 22 Feb 2024 04:22:00 UTC
+# Last converted - Fri, 23 Feb 2024 04:21:42 UTC
 #
 
 0.0.0.0 33across.com
@@ -98,6 +98,7 @@
 0.0.0.0 analytics.rover.io
 0.0.0.0 analytics.seekxr.com
 0.0.0.0 analytics.snaptube.app
+0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andmlb.kshwtj.com
@@ -630,6 +631,7 @@
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
+0.0.0.0 track.starmakerstudios.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn

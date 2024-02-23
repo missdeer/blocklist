@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 22 Feb 2024 04:21:56 UTC
+# Last converted - Fri, 23 Feb 2024 04:21:48 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9752,6 +9752,7 @@
 0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.stanby.com
 0.0.0.0 analytics.starlink.com
+0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.streamfab.
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
@@ -97335,6 +97336,7 @@
 0.0.0.0 track.sptk-track.com
 0.0.0.0 track.ss-relief.org
 0.0.0.0 track.stage2data.info
+0.0.0.0 track.starmakerstudios.com
 0.0.0.0 track.starsandstripessociety.com
 0.0.0.0 track.stat.pet
 0.0.0.0 track.stillserenity.com

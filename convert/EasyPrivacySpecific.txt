@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 23 Feb 2024 04:21:43 UTC
+# Last converted - Sat, 24 Feb 2024 04:22:21 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -98,6 +98,7 @@
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
+0.0.0.0 capital.com
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cfa.fidelity.com

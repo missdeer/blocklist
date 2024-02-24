@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 23 Feb 2024 04:21:48 UTC
+# Last converted - Sat, 24 Feb 2024 04:22:20 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -7857,6 +7857,7 @@
 0.0.0.0 adwstats.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx.com.ru
+0.0.0.0 adx.promo
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxnna98.tt.omtrdc.net
 0.0.0.0 adxnnaalolaa.tt.omtrdc.net
@@ -9283,6 +9284,7 @@
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-coletor-site.ojc.com.br
+0.0.0.0 analytics-conomi.line.me
 0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-events.inshorts.com
@@ -9804,6 +9806,7 @@
 0.0.0.0 analytics.tokosia.com
 0.0.0.0 analytics.tondach.pl
 0.0.0.0 analytics.top10-charts.com
+0.0.0.0 analytics.totalprosports.com
 0.0.0.0 analytics.touchnote.io
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.toyotaforklift.com
@@ -63541,6 +63544,7 @@
 0.0.0.0 events.blackboard.com
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.busuu.com
+0.0.0.0 events.caffeine.tv
 0.0.0.0 events.cardsmobile.ru
 0.0.0.0 events.careallies.com
 0.0.0.0 events.centex.com
@@ -90119,6 +90123,7 @@
 0.0.0.0 soomlas.tt.tt.omtrdc.net
 0.0.0.0 sop-dvl-compensation-func.tt.omtrdc.net
 0.0.0.0 sophus3.com
+0.0.0.0 sopr-api.cian.ru
 0.0.0.0 soptimize.southwest.com
 0.0.0.0 sorgenia.it.d3.sc.tt.omtrdc.net
 0.0.0.0 sorgenia.tt.omtrdc.net

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 23 Feb 2024 04:21:49 UTC
+# Last converted - Sat, 24 Feb 2024 04:22:22 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -836,6 +836,7 @@
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 pap.qualityunit.com
 0.0.0.0 partners.etoro.com
+0.0.0.0 pbjs-stream.bydata.com
 0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.hsforms.com
@@ -1341,6 +1342,7 @@
 0.0.0.0 verify.authorize.net
 0.0.0.0 verify.safesigned.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 video-analytics-api.cloudinary.com
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vortex.data.microsoft.com

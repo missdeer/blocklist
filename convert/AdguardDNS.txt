@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Sat, 24 Feb 2024 04:22:20 UTC
+# Last converted - Sun, 25 Feb 2024 04:23:38 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -184,6 +184,7 @@
 0.0.0.0 10090dfs.com
 0.0.0.0 100widgets.com
 0.0.0.0 1017.cn
+0.0.0.0 1017167188.rsc.cdn77.org
 0.0.0.0 101m3.com
 0.0.0.0 1024mzs.pw
 0.0.0.0 103092804.com
@@ -213,7 +214,9 @@
 0.0.0.0 113-bca.online
 0.0.0.0 1130482418.rsc.cdn77.org
 0.0.0.0 113aa22d76.com
+0.0.0.0 1147571014.rsc.cdn77.org
 0.0.0.0 116bea31bf.com
+0.0.0.0 1171766178.rsc.cdn77.org
 0.0.0.0 1173384488.rsc.cdn77.org
 0.0.0.0 1187386545.rsc.cdn77.org
 0.0.0.0 1187531871.rsc.cdn77.org
@@ -268,6 +271,7 @@
 0.0.0.0 1433024343.rsc.cdn77.org
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1445112467.rsc.cdn77.org
+0.0.0.0 1476351501.rsc.cdn77.org
 0.0.0.0 1477803098.rsc.cdn77.org
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 1493c7cc8b.com
@@ -291,6 +295,7 @@
 0.0.0.0 16-merchant-s.com
 0.0.0.0 1647871863.rsc.cdn77.org
 0.0.0.0 1656002483.rsc.cdn77.org
+0.0.0.0 1665091311.rsc.cdn77.org
 0.0.0.0 1675450967.rsc.cdn77.org
 0.0.0.0 1680292335.rsc.cdn77.org
 0.0.0.0 1687097253.rsc.cdn77.org
@@ -316,7 +321,9 @@
 0.0.0.0 1821z.website
 0.0.0.0 184c4i95p.de
 0.0.0.0 1851120889.rsc.cdn77.org
+0.0.0.0 1851933582.rsc.cdn77.org
 0.0.0.0 1857964468.rsc.cdn77.org
+0.0.0.0 1859033409.rsc.cdn77.org
 0.0.0.0 1874562524.rsc.cdn77.org
 0.0.0.0 18788fdb24.com
 0.0.0.0 188aaa.us
@@ -333,6 +340,7 @@
 0.0.0.0 194b7af8c3.com
 0.0.0.0 19515bia.de
 0.0.0.0 19528681.com
+0.0.0.0 1957370781.rsc.cdn77.org
 0.0.0.0 1969321160.rsc.cdn77.org
 0.0.0.0 1990tu.com
 0.0.0.0 1991482557.rsc.cdn77.org
@@ -941,6 +949,7 @@
 0.0.0.0 4kmovies.online
 0.0.0.0 4l903.com
 0.0.0.0 4link.it
+0.0.0.0 4lke.online
 0.0.0.0 4luckyf.com
 0.0.0.0 4mlhn1ocg4.com
 0.0.0.0 4oney.com
@@ -5304,6 +5313,7 @@
 0.0.0.0 ammunitionconsiderinstitution.com
 0.0.0.0 amnew.net
 0.0.0.0 amnoctowlan.club
+0.0.0.0 amnruvbmeoqp.com
 0.0.0.0 amnsreiuojy.ru
 0.0.0.0 amntx1.net
 0.0.0.0 amoad.com
@@ -6658,6 +6668,7 @@
 0.0.0.0 arpxs.com
 0.0.0.0 arqsafhutlam.com
 0.0.0.0 arquilavaan.com
+0.0.0.0 arqvm.cn
 0.0.0.0 arqznlwzkkaev.top
 0.0.0.0 arqznlwzkkjla.top
 0.0.0.0 arragouts.com
@@ -10509,6 +10520,7 @@
 0.0.0.0 bxevkphcx.com
 0.0.0.0 bxikceucv.com
 0.0.0.0 bxjhlhk.xyz
+0.0.0.0 bxmpcfzlllej.com
 0.0.0.0 bxnxdlb.xyz
 0.0.0.0 bxoiksm.xyz
 0.0.0.0 bxpjpkldxrsss.xyz
@@ -15932,6 +15944,7 @@
 0.0.0.0 ddxolb.xyz
 0.0.0.0 ddyipu.com
 0.0.0.0 ddylxccl.xyz
+0.0.0.0 ddzswov1e84sp.cloudfront.net
 0.0.0.0 de-ads.de
 0.0.0.0 de-ner-mi-nis4.info
 0.0.0.0 de.as.pptv.com
@@ -18573,6 +18586,7 @@
 0.0.0.0 edutechlearners.com
 0.0.0.0 edverys.buzz
 0.0.0.0 edvfwlacluo.com
+0.0.0.0 edvjvadg.com
 0.0.0.0 edvrfjrrxk.com
 0.0.0.0 edvruqmrjvlg.com
 0.0.0.0 edvxgqx.com
@@ -23494,6 +23508,7 @@
 0.0.0.0 gluttonybuzzingtroubled.com
 0.0.0.0 gluwhoas.com
 0.0.0.0 glvhvesvnp.com
+0.0.0.0 glwcxdq.com
 0.0.0.0 glxrubskce.com
 0.0.0.0 glxtest.site
 0.0.0.0 glycylsrapped.com
@@ -27041,6 +27056,7 @@
 0.0.0.0 impenetrableauthorslimbs.com
 0.0.0.0 imperativecapitaltraitor.com
 0.0.0.0 imperativetheirs.com
+0.0.0.0 imperialbattervideo.com
 0.0.0.0 imperialtense.com
 0.0.0.0 impertinentwishing.com
 0.0.0.0 imperturbableawesome.com
@@ -30372,6 +30388,7 @@
 0.0.0.0 ktnukmtsbfko.com
 0.0.0.0 ktnwxhjv.xyz
 0.0.0.0 ktobedirectu.xyz
+0.0.0.0 ktoioo.xyz
 0.0.0.0 ktqiyjojiya.com
 0.0.0.0 ktrackdata.com
 0.0.0.0 ktrfzka.com
@@ -32665,6 +32682,7 @@
 0.0.0.0 lunio.net
 0.0.0.0 lunyfallace.com
 0.0.0.0 lunylarynx.uno
+0.0.0.0 luofk.xyz
 0.0.0.0 luolitang.com
 0.0.0.0 lupininulster.com
 0.0.0.0 lupvaqvfeka.com
@@ -37976,6 +37994,7 @@
 0.0.0.0 offerwall.site
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 offfurreton.com
+0.0.0.0 offhandpump.com
 0.0.0.0 offhdgatyooum.com
 0.0.0.0 office.ad1.ru
 0.0.0.0 officerolivehaughty.com
@@ -38486,6 +38505,7 @@
 0.0.0.0 onzeage.cfd
 0.0.0.0 onznwiocrrim.com
 0.0.0.0 oo00.biz
+0.0.0.0 oobitsou.net
 0.0.0.0 oobuwjnlljbah.com
 0.0.0.0 oocxefrgn.com
 0.0.0.0 oodnaturedf.xyz
@@ -38849,6 +38869,7 @@
 0.0.0.0 oskiwood.com
 0.0.0.0 oskxpvmnalfb.com
 0.0.0.0 oslbahk.top
+0.0.0.0 oslcypxrrpod.com
 0.0.0.0 osm-onead.cdn.hinet.net
 0.0.0.0 osmanlikaraite.com
 0.0.0.0 osmatecosh.com
@@ -39640,6 +39661,7 @@
 0.0.0.0 partion-ricism.xyz
 0.0.0.0 partlytrouble.com
 0.0.0.0 partner-ads.com
+0.0.0.0 partner-app.softwareselect.com
 0.0.0.0 partner-earning.com
 0.0.0.0 partner.accesstrade.vn
 0.0.0.0 partner.become.co.jp
@@ -39830,6 +39852,7 @@
 0.0.0.0 pbhjohrx.xyz
 0.0.0.0 pbhrwhehnyibit.com
 0.0.0.0 pbid.iforex.com
+0.0.0.0 pbjs-stream.bydata.com
 0.0.0.0 pbjs.sskzlabs.com
 0.0.0.0 pblcpush.com
 0.0.0.0 pblinq.com
@@ -40159,6 +40182,7 @@
 0.0.0.0 perseverancekaleidoscopefinance.com
 0.0.0.0 perseverancewash.com
 0.0.0.0 persevered.com
+0.0.0.0 perseverehang.com
 0.0.0.0 persevereindirect.com
 0.0.0.0 perseverevoice.com
 0.0.0.0 persia.exchange
@@ -40844,6 +40868,7 @@
 0.0.0.0 pjyvgdpvjp.com
 0.0.0.0 pjzgggywd.com
 0.0.0.0 pjzmbhf.cn
+0.0.0.0 pjzxdl.xyz
 0.0.0.0 pk910324e.com
 0.0.0.0 pkeeper3.ru
 0.0.0.0 pketred.com
@@ -43209,6 +43234,7 @@
 0.0.0.0 qqohtssdp.com
 0.0.0.0 qqqqbdma.com
 0.0.0.0 qqqwes.com
+0.0.0.0 qqurzfi.com
 0.0.0.0 qquubyoknj.com
 0.0.0.0 qqvlbzlbqenbk.top
 0.0.0.0 qqvlsr.icu
@@ -44881,6 +44907,7 @@
 0.0.0.0 rhombusads.com
 0.0.0.0 rhpjzjqhgz.com
 0.0.0.0 rhsorga.com
+0.0.0.0 rhtysfkaqle.com
 0.0.0.0 rhubarbraise.com
 0.0.0.0 rhudsplm.com
 0.0.0.0 rhufmdelxa.com
@@ -48035,6 +48062,7 @@
 0.0.0.0 sixsigmatraffic.com
 0.0.0.0 sizeilksohs.com
 0.0.0.0 siziermamas.com
+0.0.0.0 sjaaquj.cn
 0.0.0.0 sjalipa.cn
 0.0.0.0 sjbaiduadv1.redou.com
 0.0.0.0 sjbgyak.cn
@@ -48216,6 +48244,7 @@
 0.0.0.0 slingpic.com
 0.0.0.0 slingshot.io
 0.0.0.0 slinkyfoliot.com
+0.0.0.0 slippersphoto.com
 0.0.0.0 slipperspinchingsyntax.com
 0.0.0.0 slipperswallpaper.com
 0.0.0.0 slippery-bed.pro
@@ -49294,6 +49323,7 @@
 0.0.0.0 srwfwllymprt.com
 0.0.0.0 srxy.xyz
 0.0.0.0 srzirmlql.com
+0.0.0.0 srzpsbf.xyz
 0.0.0.0 srzzohlms.com
 0.0.0.0 ss.azuremagazine.com
 0.0.0.0 ss.musthird.com
@@ -51410,6 +51440,7 @@
 0.0.0.0 tbli.ir
 0.0.0.0 tbm09.com
 0.0.0.0 tbmwkwbdcryfhb.xyz
+0.0.0.0 tbpot.com
 0.0.0.0 tbppfktchj.com
 0.0.0.0 tbradshedm.org
 0.0.0.0 tbsjkaorxwuchyb.com
@@ -56552,6 +56583,7 @@
 0.0.0.0 veilsuccessfully.com
 0.0.0.0 veinletunapart.com
 0.0.0.0 veinteractive.com
+0.0.0.0 veipcwjeupr.com
 0.0.0.0 veitgov.cc
 0.0.0.0 vekroata.net
 0.0.0.0 vel7.xyz
@@ -56798,6 +56830,7 @@
 0.0.0.0 video-adblocker.com
 0.0.0.0 video-ads-module.ad-tech.nbcuni.com
 0.0.0.0 video-ads.a2z.com
+0.0.0.0 video-analytics-api.cloudinary.com
 0.0.0.0 video-people.com
 0.0.0.0 video-play.ru
 0.0.0.0 video-serve.com
@@ -58320,6 +58353,7 @@
 0.0.0.0 waufooke.com
 0.0.0.0 waughtsquint.com
 0.0.0.0 waugique.net
+0.0.0.0 wauloumu.net
 0.0.0.0 waunsgraphs.website
 0.0.0.0 wauroufu.net
 0.0.0.0 waushaup.com
@@ -58386,6 +58420,7 @@
 0.0.0.0 wbupbv.com
 0.0.0.0 wbusiness.fr
 0.0.0.0 wbuurzutrhmlsz.com
+0.0.0.0 wbvfj.xyz
 0.0.0.0 wbvjhlaljp.com
 0.0.0.0 wbzfybvl.com
 0.0.0.0 wcadlvruvrq.xyz
@@ -60326,6 +60361,7 @@
 0.0.0.0 xn--shopmllutv-cx3e.vn
 0.0.0.0 xn--shoptienzombe-mw2g.vn
 0.0.0.0 xn--shptruongstar-4w2g.com
+0.0.0.0 xn--wgvp78a61swpe6zdozj.cn
 0.0.0.0 xn--wxtr9fwyxk9c.club
 0.0.0.0 xn--xhq9mt12cf5v.shop
 0.0.0.0 xn--xhq9mt12cf5v.top
@@ -60648,6 +60684,7 @@
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yads.yjtag.yahoo.co.jp
 0.0.0.0 yaefddu.com
+0.0.0.0 yaeigtmhvsibf.com
 0.0.0.0 yafabu.uno
 0.0.0.0 yafmqibivbuu.com
 0.0.0.0 yahuu.org
@@ -60729,6 +60766,7 @@
 0.0.0.0 ydbbbegf.xyz
 0.0.0.0 ydbmeagwyakdfl.com
 0.0.0.0 yddbysa.xyz
+0.0.0.0 yddjmpjo.xyz
 0.0.0.0 ydenknowled.com
 0.0.0.0 ydevelelasticals.info
 0.0.0.0 ydfavbj.com
@@ -61964,6 +62002,7 @@
 0.0.0.0 zusepe.xyz
 0.0.0.0 zutcqppwm.com
 0.0.0.0 zuugfj.cn
+0.0.0.0 zuvbzl.xyz
 0.0.0.0 zuyejecgb.com
 0.0.0.0 zuzodoad.com
 0.0.0.0 zv.7vid.net

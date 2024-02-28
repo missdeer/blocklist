@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 27 Feb 2024 04:22:39 UTC
+# Last converted - Wed, 28 Feb 2024 04:23:36 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -155,6 +155,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 adsapi.snapchat.com
+0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
 0.0.0.0 adsbynimbus.com
 0.0.0.0 adsdk.vrvm.com

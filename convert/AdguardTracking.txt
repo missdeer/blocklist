@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 27 Feb 2024 04:22:42 UTC
+# Last converted - Wed, 28 Feb 2024 04:23:33 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9367,6 +9367,7 @@
 0.0.0.0 analytics.angelina-fieber.com
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.api.justeattakeaway.com
+0.0.0.0 analytics.app.funnelish.com
 0.0.0.0 analytics.appsbnet.com.br
 0.0.0.0 analytics.appservice.tech
 0.0.0.0 analytics.archive.org
@@ -19618,6 +19619,7 @@
 0.0.0.0 data.qaegift.giftcards.com
 0.0.0.0 data.qamailing.mcafee.com
 0.0.0.0 data.qamarketing.giftcards.com
+0.0.0.0 data.r.pl
 0.0.0.0 data.resources.ringcentral.com
 0.0.0.0 data.rewards.riteaid.com
 0.0.0.0 data.ricaud.com
@@ -65322,6 +65324,7 @@
 0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.nafas.co.id
 0.0.0.0 event.ortec.com
+0.0.0.0 event.platform.tunein.com
 0.0.0.0 event.raise3d.cn
 0.0.0.0 event.scimo.io
 0.0.0.0 event.seatradecruiseevents.com
@@ -65387,6 +65390,7 @@
 0.0.0.0 events.ferrari.com
 0.0.0.0 events.flagship.io
 0.0.0.0 events.forddirectdealers.com
+0.0.0.0 events.funnelish.com
 0.0.0.0 events.getsitectrl.com
 0.0.0.0 events.glory-global.com
 0.0.0.0 events.gogoair.com
@@ -85615,6 +85619,7 @@
 0.0.0.0 reports-mboxedge34-old.tt.omtrdc.net
 0.0.0.0 reports-tsi.tangerine.io
 0.0.0.0 reports.koalametrics.com
+0.0.0.0 reports.tunein.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 repos.mboxedge37-alb.tt.omtrdc.net
 0.0.0.0 repository.cbs.hb-api.tt.omtrdc.net

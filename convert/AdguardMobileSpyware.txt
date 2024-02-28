@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 27 Feb 2024 04:22:35 UTC
+# Last converted - Wed, 28 Feb 2024 04:23:36 UTC
 #
 
 0.0.0.0 33across.com
@@ -70,6 +70,7 @@
 0.0.0.0 analytics.300624.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.any.do
+0.0.0.0 analytics.app.funnelish.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dns-shop.ru
@@ -277,6 +278,7 @@
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.character.ai
 0.0.0.0 events.claspws.tv
+0.0.0.0 events.funnelish.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.lbesecapi.com
@@ -419,7 +421,6 @@
 0.0.0.0 m.vpadn.com
 0.0.0.0 mathtag.com
 0.0.0.0 mazu.sec.miui.com
-0.0.0.0 measuread.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 metok.sys.miui.com
@@ -638,7 +639,6 @@
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.departapp.com
-0.0.0.0 tracker.dianshige.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.neodatagroup.com

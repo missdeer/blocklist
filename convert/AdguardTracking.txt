@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 29 Feb 2024 04:22:27 UTC
+# Last converted - Fri, 01 Mar 2024 04:23:41 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9280,6 +9280,7 @@
 0.0.0.0 analy1.dtnnetwork.be
 0.0.0.0 analyse.hinemos.info
 0.0.0.0 analysis.afreecatv.com
+0.0.0.0 analysis.aws.locondo.jp
 0.0.0.0 analysis.fi
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analysis.wangtwothree.com

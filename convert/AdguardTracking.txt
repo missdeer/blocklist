@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 01 Mar 2024 04:23:41 UTC
+# Last converted - Sat, 02 Mar 2024 04:22:46 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -85320,6 +85320,7 @@
 0.0.0.0 rectrack.optimum-performance.de
 0.0.0.0 recv-entry.tbs.co.jp
 0.0.0.0 recv-jnn.tbs.co.jp
+0.0.0.0 recv.tbs.co.jp
 0.0.0.0 red.alchemy-of-nature.com
 0.0.0.0 red.blissy.com
 0.0.0.0 red.bollsen.fr
@@ -87262,7 +87263,6 @@
 0.0.0.0 sciencerevenue.com
 0.0.0.0 scienzepolitiche.aulaweb.tt.omtrdc.net
 0.0.0.0 scinatusestertrk.com
-0.0.0.0 scis.tbs.co.jp
 0.0.0.0 scispg.smu.edu.sg
 0.0.0.0 scjlpq.navitime.co.jp
 0.0.0.0 scm.tt.omtrdc.net
@@ -99983,6 +99983,7 @@
 0.0.0.0 tracking.ftitechnology.com
 0.0.0.0 tracking.fullsail.edu
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.game8.jp
 0.0.0.0 tracking.gartner.com
 0.0.0.0 tracking.gelia.com
@@ -101811,7 +101812,6 @@
 0.0.0.0 ukmnlp.techbang.com
 0.0.0.0 ukri.innovateuk.org
 0.0.0.0 uktgg.dev-tester.com
-0.0.0.0 ukw.jp
 0.0.0.0 ukzjce.idus.com
 0.0.0.0 ukzlatvtdy.kihxuxuebc.test.att.hb.tt.omtrdc.net
 0.0.0.0 ulclick.ru

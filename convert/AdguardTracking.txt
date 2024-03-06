@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 05 Mar 2024 04:23:48 UTC
+# Last converted - Wed, 06 Mar 2024 04:22:16 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -13415,6 +13415,7 @@
 0.0.0.0 bosversen.tt.omtrdc.net
 0.0.0.0 bot.tt.omtrdc.net
 0.0.0.0 botevgrad.treker.fun
+0.0.0.0 botfaqtor.ru
 0.0.0.0 botscanner.com
 0.0.0.0 botsvisit.com
 0.0.0.0 bouazza.treker.fun
@@ -66581,6 +66582,7 @@
 0.0.0.0 get.ukg.mx
 0.0.0.0 get.ukg.nl
 0.0.0.0 get.viral-trends.info
+0.0.0.0 get4click.ru
 0.0.0.0 getafe.treker.fun
 0.0.0.0 getbackstory.com
 0.0.0.0 getbeacon.io
@@ -72192,6 +72194,7 @@
 0.0.0.0 leads.randyburg.com
 0.0.0.0 leadsius.com
 0.0.0.0 leadsmonitor.io
+0.0.0.0 leady.com
 0.0.0.0 leafmedia.io
 0.0.0.0 learn.aiu.edu.au
 0.0.0.0 learn.altsourcesoftware.com
@@ -102721,6 +102724,7 @@
 0.0.0.0 w3counter.com
 0.0.0.0 w3n.llbean.com
 0.0.0.0 w4.air-worldwide.com
+0.0.0.0 w4h5ae.ru
 0.0.0.0 w55c.net
 0.0.0.0 w7.berlin.de
 0.0.0.0 w740.newstimes.com

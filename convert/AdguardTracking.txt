@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 06 Mar 2024 04:22:16 UTC
+# Last converted - Thu, 07 Mar 2024 04:22:23 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -65075,6 +65075,7 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
+0.0.0.0 event-router.olympics.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event-tracking.deliverr.com
@@ -74721,6 +74722,7 @@
 0.0.0.0 lyxfra.shopee.com.my
 0.0.0.0 lyypsy.unisportstore.se
 0.0.0.0 lyzgzyxdhz.aarp.hb.tt.omtrdc.net
+0.0.0.0 lz-pub-ads.com
 0.0.0.0 lzcwbt.schuhcenter.de
 0.0.0.0 lzjsfu.hobobags.com
 0.0.0.0 lzl4v1l6ttkiz8jk.tt.omtrdc.net
@@ -85089,6 +85091,7 @@
 0.0.0.0 rec.detik.com
 0.0.0.0 rec72.tt.tt.omtrdc.net
 0.0.0.0 receipts.dutchbros.com
+0.0.0.0 receive.wmcdp.io
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 receiver.eigene.io
 0.0.0.0 receiver.habby.mobi

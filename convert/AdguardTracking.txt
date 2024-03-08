@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 07 Mar 2024 04:22:23 UTC
+# Last converted - Fri, 08 Mar 2024 04:22:47 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -1617,6 +1617,8 @@
 0.0.0.0 3mobileuk.tt.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 3mobileuk.tt.omtrdc.net
 0.0.0.0 3mw.store.tt.omtrdc.net
+0.0.0.0 3p-geo.yahoo.com
+0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 3plworldwide.actonservice.com
 0.0.0.0 3qmcpe17ho.hb-api.tt.omtrdc.net
 0.0.0.0 3rdphloorproductions.tt.omtrdc.net
@@ -7722,6 +7724,7 @@
 0.0.0.0 adoftheyear.com
 0.0.0.0 adolfojucio.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 adoradesign.hb-fa-dev.tt.omtrdc.net
+0.0.0.0 adoric-om.com
 0.0.0.0 adoric.com
 0.0.0.0 adosante.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 adost-sc.tt.tt.omtrdc.net
@@ -10157,6 +10160,7 @@
 0.0.0.0 apacvpn.tt.omtrdc.net
 0.0.0.0 apbspeakers.actonservice.com
 0.0.0.0 apc.-np.tt.omtrdc.net
+0.0.0.0 apcdp.apnews.com
 0.0.0.0 apcerpharma.actonservice.com
 0.0.0.0 apcinfo.motorolasolutions.com
 0.0.0.0 apcinfo.vertexstandard.com
@@ -13209,8 +13213,6 @@
 0.0.0.0 blsoof.wirwinzer.de
 0.0.0.0 blti.next.tt.omtrdc.net
 0.0.0.0 blue-rocket.actonservice.com
-0.0.0.0 blue.fox8.com
-0.0.0.0 blue.thehill.com
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluecore.com
@@ -95480,6 +95482,7 @@
 0.0.0.0 t.sports.ru
 0.0.0.0 t.ssp.hinet.net
 0.0.0.0 t.statement.nowpensions.com
+0.0.0.0 t.streetsblog.org
 0.0.0.0 t.strokeawareness.com
 0.0.0.0 t.subsidy-qualification.com
 0.0.0.0 t.syosetu.org

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 09 Mar 2024 04:21:37 UTC
+# Last converted - Sun, 10 Mar 2024 04:23:44 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -73946,6 +73946,7 @@
 0.0.0.0 lizard.juststeveking.uk
 0.0.0.0 lizard.priorart.dev
 0.0.0.0 ljavphpbml.255.110.143pluralsight.hb.tt.omtrdc.net
+0.0.0.0 ljc.coupang.com
 0.0.0.0 ljqpvo.hardrock.com
 0.0.0.0 ljyc.tt.omtrdc.net
 0.0.0.0 ljyipz.nugnes1920.com

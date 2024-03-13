@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 12 Mar 2024 07:20:08 UTC
+# Last converted - Wed, 13 Mar 2024 04:22:09 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9743,6 +9743,7 @@
 0.0.0.0 analytics.pipelife.ro
 0.0.0.0 analytics.pipelife.rs
 0.0.0.0 analytics.pipelife.se
+0.0.0.0 analytics.pixels.ai
 0.0.0.0 analytics.plaid.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.plumbworld.co.uk
@@ -9756,6 +9757,7 @@
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.projectcarmen.com
 0.0.0.0 analytics.proxer.me
+0.0.0.0 analytics.purelovers.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
 0.0.0.0 analytics.qoqa.ninja
@@ -13944,6 +13946,7 @@
 0.0.0.0 caderonline.bu.edu
 0.0.0.0 cadessavoie-code.tt.tt.omtrdc.net
 0.0.0.0 cadfiomxrv._tcp.abc.hb.tt.omtrdc.net
+0.0.0.0 cadmus.script.ac
 0.0.0.0 cadreon.com
 0.0.0.0 caf.actonservice.com
 0.0.0.0 cafe-log.myshoplus.com
@@ -16405,6 +16408,7 @@
 0.0.0.0 cre8media.actonservice.com
 0.0.0.0 create.encore-mx.com
 0.0.0.0 create.encoreglobal.com
+0.0.0.0 create.lidstatic.com
 0.0.0.0 creationagency.actonservice.com
 0.0.0.0 creative-paving.tt.omtrdc.net
 0.0.0.0 creative.adcreative.cloud
@@ -66031,6 +66035,7 @@
 0.0.0.0 fp.kalevavakuutus.fi
 0.0.0.0 fp.mandatumlife.fi
 0.0.0.0 fp.mandatumtrader.fi
+0.0.0.0 fp.techinasia.com
 0.0.0.0 fpa-api.adweek.com
 0.0.0.0 fpa-api.arstechnica.com
 0.0.0.0 fpa-cdn.adweek.com
@@ -66737,6 +66742,7 @@
 0.0.0.0 globalfinancingfacility.hb.tt.omtrdc.net
 0.0.0.0 globallearningsystems.actonservice.com
 0.0.0.0 globalmed.actonservice.com
+0.0.0.0 globalservices.conde.digital
 0.0.0.0 globalsolutions.risk.lexisnexis.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 globase.com
@@ -72753,6 +72759,7 @@
 0.0.0.0 link.disneydining.com
 0.0.0.0 link.disneyfanatic.com
 0.0.0.0 link.disneytips.com
+0.0.0.0 link.dissh.com%2Fmo%2F
 0.0.0.0 link.diynetwork.com
 0.0.0.0 link.dl-online.com
 0.0.0.0 link.doandroidsdance.com
@@ -78227,6 +78234,7 @@
 0.0.0.0 metrics.cdiscount.com
 0.0.0.0 metrics.cedars-sinai.org
 0.0.0.0 metrics.cellcept.com
+0.0.0.0 metrics.ceneo.pl
 0.0.0.0 metrics.census.gov
 0.0.0.0 metrics.centurylink.com
 0.0.0.0 metrics.cgu.com.au

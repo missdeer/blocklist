@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 14 Mar 2024 04:22:10 UTC
+# Last converted - Fri, 15 Mar 2024 04:23:29 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -6867,6 +6867,7 @@
 0.0.0.0 accumula.actonservice.com
 0.0.0.0 accumulatively-netherlander-unhypnotised.s3.us-west-004.tt.omtrdc.net
 0.0.0.0 accuquote.tt.omtrdc.net
+0.0.0.0 accuratecoal.com
 0.0.0.0 accuride.actonservice.com
 0.0.0.0 accutrain.actonservice.com
 0.0.0.0 accuzip.actonservice.com

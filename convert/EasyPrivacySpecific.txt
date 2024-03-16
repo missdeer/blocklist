@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 15 Mar 2024 04:23:24 UTC
+# Last converted - Sat, 16 Mar 2024 04:23:49 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -30,12 +30,14 @@
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-wcms.joins.net
 0.0.0.0 analytics-zone-1.api.leadfamly.com
+0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.cookiefirst.dev
+0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.faceitanalytics.com
@@ -219,6 +221,7 @@
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventlog.jackpot.de
+0.0.0.0 events-ingestion.services.gorgias.com
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com

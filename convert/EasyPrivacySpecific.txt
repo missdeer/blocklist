@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 17 Mar 2024 04:22:27 UTC
+# Last converted - Mon, 18 Mar 2024 04:22:23 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -196,11 +196,13 @@
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
+0.0.0.0 e.quizlet.com
 0.0.0.0 ea.epochbase.com
 0.0.0.0 ec.thredup.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ejlytics.editorji.com
+0.0.0.0 el.quizlet.com
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
 0.0.0.0 engagement.feedly.com

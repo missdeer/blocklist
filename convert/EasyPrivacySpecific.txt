@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 Mar 2024 04:22:23 UTC
+# Last converted - Tue, 19 Mar 2024 04:23:06 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -595,6 +595,7 @@
 0.0.0.0 track.netzero.net
 0.0.0.0 track.sodapdf.com
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.ttsave.app
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 tracker.affiliate.iqbroker.com
 0.0.0.0 tracker.nbcuas.com

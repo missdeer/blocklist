@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 19 Mar 2024 04:23:07 UTC
+# Last converted - Wed, 20 Mar 2024 04:24:23 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -858,5 +858,6 @@
 0.0.0.0 zflfoy.buzz
 0.0.0.0 zflfoy.xyz
 0.0.0.0 zflylg.buzz
+0.0.0.0 zgzxs.weathercn.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 zzhengre.com

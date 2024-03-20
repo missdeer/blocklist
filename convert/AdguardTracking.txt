@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 19 Mar 2024 04:23:10 UTC
+# Last converted - Wed, 20 Mar 2024 04:24:22 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -11334,6 +11334,7 @@
 0.0.0.0 ast-en.adp.ca
 0.0.0.0 ast-fr.adp.ca
 0.0.0.0 ast.red.asp.appirits.com
+0.0.0.0 ast.techbook.de
 0.0.0.0 astaging.tt.omtrdc.net
 0.0.0.0 astajos-pdx-0.dev.egress.channel-assembly.elemental.tt.omtrdc.net
 0.0.0.0 astapi.tt.omtrdc.net
@@ -14196,6 +14197,7 @@
 0.0.0.0 cdn-ra.rockcontent.com
 0.0.0.0 cdn-redirector.glopal.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 cdn.ad-platform.jmty.jp
 0.0.0.0 cdn.adsquirrel.ai
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.arcstudiopro.com
@@ -67439,6 +67441,7 @@
 0.0.0.0 msr.p-antiaging.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.tiktok.com
+0.0.0.0 mssdk.bytedance.com
 0.0.0.0 mstat.acestream.net
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 msufcu.actonservice.com

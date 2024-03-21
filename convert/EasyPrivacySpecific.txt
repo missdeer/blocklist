@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 20 Mar 2024 04:24:27 UTC
+# Last converted - Thu, 21 Mar 2024 04:23:57 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -176,6 +176,7 @@
 0.0.0.0 d.skk.moe
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 d276.ourmidland.com
+0.0.0.0 d401.dollartree.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
@@ -280,11 +281,13 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
 0.0.0.0 gotie.tunein.com
+0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 gurgle.spiceworks.com
 0.0.0.0 h-bid.com
+0.0.0.0 h031.familydollar.com
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h559.stamfordadvocate.com
 0.0.0.0 health-metrics-api.setapp.com

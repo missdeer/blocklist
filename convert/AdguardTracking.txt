@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 20 Mar 2024 04:24:22 UTC
+# Last converted - Thu, 21 Mar 2024 04:23:52 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -7895,6 +7895,7 @@
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx.com.ru
 0.0.0.0 adx.promo
+0.0.0.0 adxcel-ec2.com
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxwxw.kp.ru
 0.0.0.0 adxzju.penti.com
@@ -9219,6 +9220,7 @@
 0.0.0.0 analytics-secure.dollargeneral.com
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 analytics-sm.com
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics-ssl.allconnect.com
 0.0.0.0 analytics-ssl.bradyid.com
@@ -10106,6 +10108,7 @@
 0.0.0.0 api-gateway-ap-stg-va2-a.infra.tt.omtrdc.net
 0.0.0.0 api-gateway-dc-stg-02-a.infra.tt.omtrdc.net
 0.0.0.0 api-gateway-eks.or.us1.otl.deployment.tt.omtrdc.net
+0.0.0.0 api-gtm.grubhub.com
 0.0.0.0 api-ih2.hm.erc.tt.omtrdc.net
 0.0.0.0 api-insights-mobi.tipjar.tt.omtrdc.net
 0.0.0.0 api-insights.demo.tt.omtrdc.net
@@ -11656,6 +11659,7 @@
 0.0.0.0 auth-mboxedge37-alb.tt.omtrdc.net
 0.0.0.0 auth-or2-internal-control.services.tt.omtrdc.net
 0.0.0.0 auth-qa.hbf-qa.plat-qa.tt.omtrdc.net
+0.0.0.0 auth-srv.launchthatapps.com
 0.0.0.0 auth.api.h1-pmgt.ac.tt.omtrdc.net
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 auth.biocompiegne.ubilab.me
@@ -16803,6 +16807,7 @@
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
+0.0.0.0 d401.dollartree.com
 0.0.0.0 d41.co
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d54c14bdaccess.tt.omtrdc.net
@@ -52620,6 +52625,7 @@
 0.0.0.0 event.getblue.io
 0.0.0.0 event.grassicpas.com
 0.0.0.0 event.hackle.io
+0.0.0.0 event.havasedge.com
 0.0.0.0 event.hket.com
 0.0.0.0 event.impression-neo.naver.com
 0.0.0.0 event.instiengage.com
@@ -55011,6 +55017,7 @@
 0.0.0.0 greentubeiesgmbh.tt.omtrdc.net
 0.0.0.0 greif.actonservice.com
 0.0.0.0 grfz.de
+0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gridsight3butor.tt.omtrdc.net
 0.0.0.0 gridsum.com
 0.0.0.0 gridsumdissector.com
@@ -55234,6 +55241,7 @@
 0.0.0.0 h.cloudengage.com
 0.0.0.0 h.seznam.cz
 0.0.0.0 h00c.sfr.fr
+0.0.0.0 h031.familydollar.com
 0.0.0.0 h135-207-183-21.tt.omtrdc.net
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h5.eagllwin.com
@@ -57163,6 +57171,7 @@
 0.0.0.0 imjdmq.emcasa.com
 0.0.0.0 imjsfy.allbeauty.com
 0.0.0.0 imjxso.bristol.nl
+0.0.0.0 imk.neweggimages.com
 0.0.0.0 immanalytics.com
 0.0.0.0 immunocap.thermofisher.com
 0.0.0.0 immunocorp.actonservice.com
@@ -73195,6 +73204,7 @@
 0.0.0.0 s.usenix.org
 0.0.0.0 s.vucko.co
 0.0.0.0 s.waterloochronicle.ca
+0.0.0.0 s.wayfair.com
 0.0.0.0 s.wellandtribune.ca
 0.0.0.0 s.wheels.ca
 0.0.0.0 s.yorkregion.com
@@ -81974,6 +81984,7 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tag.goadopt.io
 0.0.0.0 tag.hariken.co
+0.0.0.0 tag.havasedge.com
 0.0.0.0 tag.imagino.com
 0.0.0.0 tag.minimaid.co.jp
 0.0.0.0 tag.nifty.com

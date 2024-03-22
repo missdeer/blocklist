@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 21 Mar 2024 04:23:57 UTC
+# Last converted - Fri, 22 Mar 2024 04:22:09 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -346,6 +346,7 @@
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 mcc-tags.cisco.com
+0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
@@ -421,6 +422,7 @@
 0.0.0.0 plenty.vidio.com
 0.0.0.0 pm.dailykos.com
 0.0.0.0 pm.geniusmonkey.com
+0.0.0.0 pog.com
 0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app

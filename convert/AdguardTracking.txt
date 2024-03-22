@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 21 Mar 2024 04:23:52 UTC
+# Last converted - Fri, 22 Mar 2024 04:22:08 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -10108,7 +10108,6 @@
 0.0.0.0 api-gateway-ap-stg-va2-a.infra.tt.omtrdc.net
 0.0.0.0 api-gateway-dc-stg-02-a.infra.tt.omtrdc.net
 0.0.0.0 api-gateway-eks.or.us1.otl.deployment.tt.omtrdc.net
-0.0.0.0 api-gtm.grubhub.com
 0.0.0.0 api-ih2.hm.erc.tt.omtrdc.net
 0.0.0.0 api-insights-mobi.tipjar.tt.omtrdc.net
 0.0.0.0 api-insights.demo.tt.omtrdc.net
@@ -82108,6 +82107,7 @@
 0.0.0.0 tapir.lindahlstudios.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
+0.0.0.0 taplytics-umami.grubhub.com
 0.0.0.0 taplytics.com
 0.0.0.0 taps.io
 0.0.0.0 tapstat.ru

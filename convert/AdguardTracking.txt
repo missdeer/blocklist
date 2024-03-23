@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 22 Mar 2024 04:22:08 UTC
+# Last converted - Sat, 23 Mar 2024 04:23:44 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -10638,6 +10638,7 @@
 0.0.0.0 app.poconoraceway.com
 0.0.0.0 app.portland5.com
 0.0.0.0 app.post.vertafore.com
+0.0.0.0 app.posthog.com
 0.0.0.0 app.ppacri.org
 0.0.0.0 app.profile.purina.com
 0.0.0.0 app.prsoftware.vocus.com
@@ -58685,6 +58686,7 @@
 0.0.0.0 jcdecaux-recrute.tt.omtrdc.net
 0.0.0.0 jch-monitoring-test.sx.cloud.tt.omtrdc.net
 0.0.0.0 jcimgi.bestcuckoo.co.kr
+0.0.0.0 jcpclick.com
 0.0.0.0 jcpenney.tt.omtrdc.net
 0.0.0.0 jcpjfyikk.dogbonemarket.com
 0.0.0.0 jcplzp.lancel.com
@@ -71168,7 +71170,6 @@
 0.0.0.0 postfoxentertainment.hb-api.tt.omtrdc.net
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
-0.0.0.0 posthog.com
 0.0.0.0 posthog.tarnkappe.info
 0.0.0.0 postman.www-testuni.tt.omtrdc.net
 0.0.0.0 postmaster.bannersnack.com

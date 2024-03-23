@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 22 Mar 2024 04:22:11 UTC
+# Last converted - Sat, 23 Mar 2024 04:23:41 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -464,7 +464,6 @@
 0.0.0.0 i.singular.net
 0.0.0.0 i.skimresources.com
 0.0.0.0 i16-tb.isnssdk.com
-0.0.0.0 i18n-pglstatp.com
 0.0.0.0 i2ad.jp
 0.0.0.0 iad.appboy.com
 0.0.0.0 iads.unity3d.com

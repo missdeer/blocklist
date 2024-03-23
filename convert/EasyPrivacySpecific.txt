@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 22 Mar 2024 04:22:09 UTC
+# Last converted - Sat, 23 Mar 2024 04:23:45 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -178,6 +178,7 @@
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d401.dollartree.com
 0.0.0.0 d810.mysanantonio.com
+0.0.0.0 dabu.askmediagroup.com
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.torry.io

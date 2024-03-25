@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 24 Mar 2024 04:24:48 UTC
+# Last converted - Mon, 25 Mar 2024 04:24:40 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -64613,6 +64613,7 @@
 0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.aksorn.com
 0.0.0.0 matomo.shoppersguide.com.ph
+0.0.0.0 matomo.similarweb.io
 0.0.0.0 matomo.unicaf.org
 0.0.0.0 matrix.hbo.com
 0.0.0.0 matrix42.actonservice.com

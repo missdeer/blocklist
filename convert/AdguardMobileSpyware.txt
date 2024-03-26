@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 25 Mar 2024 04:24:43 UTC
+# Last converted - Tue, 26 Mar 2024 04:23:22 UTC
 #
 
 0.0.0.0 33across.com
@@ -348,6 +348,7 @@
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 kr-col-ext.nelo.navercorp.com
 0.0.0.0 krxd.net
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launches.appsflyersdk.com

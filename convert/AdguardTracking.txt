@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 26 Mar 2024 04:23:19 UTC
+# Last converted - Wed, 27 Mar 2024 04:25:34 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -75189,6 +75189,7 @@
 0.0.0.0 singlife.tt.omtrdc.net
 0.0.0.0 sinkou.tireshop.com.br
 0.0.0.0 sinmo.chasecenter.com
+0.0.0.0 sioa.chewy.com
 0.0.0.0 sip.einvoice.tt.omtrdc.net
 0.0.0.0 sipulo.katies.com.au
 0.0.0.0 sirdata.io

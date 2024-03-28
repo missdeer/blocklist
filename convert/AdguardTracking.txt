@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 27 Mar 2024 04:25:34 UTC
+# Last converted - Thu, 28 Mar 2024 04:22:24 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -55047,6 +55047,7 @@
 0.0.0.0 greed-qa.tt.omtrdc.net
 0.0.0.0 greenbaypackersinc.tt.omtrdc.net
 0.0.0.0 greenbeacon.actonservice.com
+0.0.0.0 greenbids.ai
 0.0.0.0 greencharge.actonservice.com
 0.0.0.0 greendot.tt.omtrdc.net
 0.0.0.0 greenes-ppp.arabek.tt.omtrdc.net
@@ -61844,6 +61845,7 @@
 0.0.0.0 lognormal.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logrhythmcommunity.tt.omtrdc.net
+0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
@@ -85818,6 +85820,7 @@
 0.0.0.0 track.metodoflerte.shop
 0.0.0.0 track.mg.seguroselroble.com
 0.0.0.0 track.midway.run
+0.0.0.0 track.migattenogokui.com
 0.0.0.0 track.mightyuninstaller.com
 0.0.0.0 track.miro.com
 0.0.0.0 track.mituo.cn

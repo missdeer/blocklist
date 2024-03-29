@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 28 Mar 2024 04:22:24 UTC
+# Last converted - Fri, 29 Mar 2024 04:23:21 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -15420,6 +15420,7 @@
 0.0.0.0 collector.tt.omtrdc.net
 0.0.0.0 collector.vhx.tv
 0.0.0.0 collector.wawlabs.com
+0.0.0.0 collector.xhofficial.com
 0.0.0.0 collector.xhwide1.com
 0.0.0.0 collector1.afreecatv.com
 0.0.0.0 collector1.xhamster.com

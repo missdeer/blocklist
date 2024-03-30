@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 29 Mar 2024 04:23:21 UTC
+# Last converted - Sat, 30 Mar 2024 04:22:03 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -15402,6 +15402,7 @@
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
 0.0.0.0 collector.leaddyno.com
+0.0.0.0 collector.lunalabs.io
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.mediator.media
 0.0.0.0 collector.megaxh.com

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Sun, 31 Mar 2024 04:24:58 UTC
+# Last converted - Mon, 01 Apr 2024 04:23:52 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -847,6 +847,7 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 3p8801.co
+0.0.0.0 3q1lsj.cn
 0.0.0.0 3qfe1gfa.de
 0.0.0.0 3questionsgetthegirl.com
 0.0.0.0 3redlightfix.com
@@ -961,6 +962,7 @@
 0.0.0.0 4wfe3.icu
 0.0.0.0 4wnet.com
 0.0.0.0 4wnetwork.com
+0.0.0.0 4wu3gf.cn
 0.0.0.0 5-internads-7.com
 0.0.0.0 5-n-appmobile.com
 0.0.0.0 5.ccutu.com
@@ -3681,6 +3683,7 @@
 0.0.0.0 adsimilis.com
 0.0.0.0 adsinimages.com
 0.0.0.0 adsinstant.com
+0.0.0.0 adsinteractive-794b.kxcdn.com
 0.0.0.0 adsixmedia.fr
 0.0.0.0 adsjumbo.com
 0.0.0.0 adskape.ru
@@ -4231,6 +4234,7 @@
 0.0.0.0 aec40f9e073ba6.com
 0.0.0.0 aeea61a72f.com
 0.0.0.0 aeeg5idiuenbi7erger.com
+0.0.0.0 aeeonmaill.com
 0.0.0.0 aeeonmart.com
 0.0.0.0 aefeeqdlnh.com
 0.0.0.0 aeffe3nhrua5hua.com
@@ -5246,6 +5250,7 @@
 0.0.0.0 amabarbery.website
 0.0.0.0 amactycelyyvahc.com
 0.0.0.0 amadbfk.shop
+0.0.0.0 amadbfk.vip
 0.0.0.0 amadesa.com
 0.0.0.0 amads.fun
 0.0.0.0 amads.xyz
@@ -7166,6 +7171,7 @@
 0.0.0.0 atpansagean.com
 0.0.0.0 atpawniarda.com
 0.0.0.0 atpfowtcbsedv.xyz
+0.0.0.0 atqa11.com
 0.0.0.0 atrack.avplayer.com
 0.0.0.0 atraff.com
 0.0.0.0 atraichuor.com
@@ -11543,6 +11549,7 @@
 0.0.0.0 cdj-dap.s3-ap-northeast-1.amazonaws.com
 0.0.0.0 cdkcaxxjyyb.xyz
 0.0.0.0 cdkke.xyz
+0.0.0.0 cdmgac.xyz
 0.0.0.0 cdmjur.xyz
 0.0.0.0 cdmnlxtu.xyz
 0.0.0.0 cdn-99-pic.cc
@@ -14552,6 +14559,7 @@
 0.0.0.0 cskhdienmayxanh.com
 0.0.0.0 cskhdienmayxanhvn.com
 0.0.0.0 cskhmayxanh.com
+0.0.0.0 cskhmbcanhan.com
 0.0.0.0 cskhxacminhtaikhoangarena-vn.com
 0.0.0.0 cslbahf.top
 0.0.0.0 csmads.gameclick.vn
@@ -17104,9 +17112,11 @@
 0.0.0.0 dich-vu-the-cashback-vib.com
 0.0.0.0 dich-vu-the-ez-vpbank.com
 0.0.0.0 dich-vu-the-kt3-vib.com
+0.0.0.0 dich-vu-the-vdiamond-vib.com
 0.0.0.0 dich-vu-the-vdiamond-vpbank.com
 0.0.0.0 dich-vu-the-vvip-vpb.com
 0.0.0.0 dich-vu-update-vpbank.com
+0.0.0.0 dich-vu-vip3-vib.com
 0.0.0.0 dicheeph.com
 0.0.0.0 dichoabs.net
 0.0.0.0 dichvu-chuyentien24h.000webhostapp.com
@@ -17121,8 +17131,10 @@
 0.0.0.0 dichvucong.kgov.net
 0.0.0.0 dichvucong.lgov.net
 0.0.0.0 dichvucong.tgovn.cc
+0.0.0.0 dichvucong.tkgov.com
 0.0.0.0 dichvucong.vgovn.net
 0.0.0.0 dichvucong.xgovn.net
+0.0.0.0 dichvucong.zlgov.com
 0.0.0.0 dichvucong.zvgov.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
@@ -18822,6 +18834,7 @@
 0.0.0.0 e007499ca9.com
 0.0.0.0 e0a79821ec.com
 0.0.0.0 e0e5bc8f81.com
+0.0.0.0 e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 0.0.0.0 e1cd662960.com
 0.0.0.0 e1eacb6f88.com
 0.0.0.0 e2078be122.com
@@ -20382,6 +20395,7 @@
 0.0.0.0 eudoxia-myr.com
 0.0.0.0 eudstudio.com
 0.0.0.0 eue.d-teknoloji.com.tr
+0.0.0.0 eufk22.com
 0.0.0.0 eugenearsonmeanwhile.com
 0.0.0.0 euizhltcd6ih.com
 0.0.0.0 eukova.com
@@ -25944,6 +25958,10 @@
 0.0.0.0 hdjthzg.cn
 0.0.0.0 hdpdrandpd.xyz
 0.0.0.0 hdpreview.com
+0.0.0.0 hdsaison-app.vip
+0.0.0.0 hdsaison-com.cc
+0.0.0.0 hdsaison-hi.cc
+0.0.0.0 hdsaison-vn.cc
 0.0.0.0 hdsaison-vn.com
 0.0.0.0 hdsaisonvn.com
 0.0.0.0 hdshapvscudndgy.xyz
@@ -26610,6 +26628,7 @@
 0.0.0.0 hmyuokltxplqwfa.com
 0.0.0.0 hn1l.online
 0.0.0.0 hn1l.site
+0.0.0.0 hnalzlu.top
 0.0.0.0 hncadh.com
 0.0.0.0 hnfnjn.xyz
 0.0.0.0 hnifdlau.top
@@ -27001,6 +27020,7 @@
 0.0.0.0 hprofits.com
 0.0.0.0 hpsvgbrlqa.com
 0.0.0.0 hptcwtmzuj.com
+0.0.0.0 hptyp.icu
 0.0.0.0 hpuxrycfvo.com
 0.0.0.0 hpvl2kb.icu
 0.0.0.0 hpy88yu.com
@@ -27282,6 +27302,7 @@
 0.0.0.0 hvpard.xyz
 0.0.0.0 hvpguevleand.com
 0.0.0.0 hvrnjftl.com
+0.0.0.0 hvxrvef.xyz
 0.0.0.0 hw-ot-ad.a.yximgs.com
 0.0.0.0 hw0.com.cn
 0.0.0.0 hwa.his.huawei.com
@@ -38352,6 +38373,7 @@
 0.0.0.0 nization.com
 0.0.0.0 nizvimq.com
 0.0.0.0 njejgoscqmcqn.com
+0.0.0.0 njenlz.cn
 0.0.0.0 njfwjnpuq.com
 0.0.0.0 njfxmqvonppwq.com
 0.0.0.0 njhvalu.cn
@@ -42683,6 +42705,7 @@
 0.0.0.0 pmssrv.mercadolibre.com.ve
 0.0.0.0 pmssrv.mercadolivre.com.br
 0.0.0.0 pmtkhcr.com
+0.0.0.0 pmtrkp.icu
 0.0.0.0 pmweb.com.br
 0.0.0.0 pmxalz.xyz
 0.0.0.0 pmxyzqm.com
@@ -42802,6 +42825,7 @@
 0.0.0.0 policeair.com
 0.0.0.0 policecaravanallure.com
 0.0.0.0 policemanspectrum.com
+0.0.0.0 policeonline.club
 0.0.0.0 policityseriod.info
 0.0.0.0 policycounsel.org
 0.0.0.0 poliesgoral.com
@@ -43395,6 +43419,7 @@
 0.0.0.0 prespurmaness.com
 0.0.0.0 pressedbackfireseason.com
 0.0.0.0 pressingequation.com
+0.0.0.0 pressit.cn
 0.0.0.0 pressize.com
 0.0.0.0 pressizer.net
 0.0.0.0 pressyour.com
@@ -47589,6 +47614,7 @@
 0.0.0.0 ryeffwlcleer.com
 0.0.0.0 ryepublisher.com
 0.0.0.0 rygfjv.com
+0.0.0.0 ryhkft.xyz
 0.0.0.0 rykwyoaeaamhykw.com
 0.0.0.0 ryminos.com
 0.0.0.0 rympsxilkdqywd.com
@@ -49492,6 +49518,7 @@
 0.0.0.0 shoppe81.vip
 0.0.0.0 shoppe85.vip
 0.0.0.0 shoppee-sale-vn.tk
+0.0.0.0 shoppeemall.net
 0.0.0.0 shoppeflashsale.online
 0.0.0.0 shoppeg.com
 0.0.0.0 shopperapproved.com
@@ -53237,6 +53264,7 @@
 0.0.0.0 taichinhcaptoc.com
 0.0.0.0 taichinhhbaotin.com
 0.0.0.0 taichinhhoangkim.com
+0.0.0.0 taichinhmb.com
 0.0.0.0 taichinhtamanphat.com
 0.0.0.0 taichinhthongminh.online
 0.0.0.0 taichinhvantin.net
@@ -53564,6 +53592,8 @@
 0.0.0.0 tdjdpyrt.xyz
 0.0.0.0 tdk.petsplace.nl
 0.0.0.0 tdkd01.com
+0.0.0.0 tdkd02.com
+0.0.0.0 tdkd03.com
 0.0.0.0 tdljuuw.xyz
 0.0.0.0 tdlyfz.xyz
 0.0.0.0 tdmd.us
@@ -54461,6 +54491,7 @@
 0.0.0.0 tiki98.com
 0.0.0.0 tiki9833.com
 0.0.0.0 tikia.vip
+0.0.0.0 tikib.vip
 0.0.0.0 tikibihu.com
 0.0.0.0 tikictv.com
 0.0.0.0 tikictv1.com
@@ -59038,6 +59069,7 @@
 0.0.0.0 vib.chamsockhachang-tructuyen-the.online
 0.0.0.0 vib.chamsockhachang-tructuyen.online
 0.0.0.0 vib.chamsockhachhang-tructuyen-the-visa.com
+0.0.0.0 vib.chamsocthekhachang-tructuyen.com.vn
 0.0.0.0 vib.khach-hang-the-tructuyen.com
 0.0.0.0 vib.khach-hang-the-tructuyen.online
 0.0.0.0 vib.mobi
@@ -59827,6 +59859,7 @@
 0.0.0.0 vn-vp.xyz
 0.0.0.0 vn.btaynguyenfood.com
 0.0.0.0 vn11268shp.com
+0.0.0.0 vn11568p.com
 0.0.0.0 vn119shop.com
 0.0.0.0 vn168d.com
 0.0.0.0 vn22647shp.com
@@ -59840,6 +59873,7 @@
 0.0.0.0 vn66954shp.com
 0.0.0.0 vn6932shp.com
 0.0.0.0 vn765.com
+0.0.0.0 vn85548s.com
 0.0.0.0 vn88631p.com
 0.0.0.0 vn88khuyenmai.life
 0.0.0.0 vn88khuyenmai.site
@@ -63641,6 +63675,7 @@
 0.0.0.0 ywg.jobui.com
 0.0.0.0 ywgpkjg.com
 0.0.0.0 ywhowascryin.com
+0.0.0.0 ywhws.cn
 0.0.0.0 ywopyohpihnkppc.xyz
 0.0.0.0 ywronwasthetron.com
 0.0.0.0 ywrvpmapjcg.xyz

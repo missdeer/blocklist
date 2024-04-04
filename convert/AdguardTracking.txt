@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 03 Apr 2024 04:23:59 UTC
+# Last converted - Thu, 04 Apr 2024 04:24:48 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -14221,6 +14221,7 @@
 0.0.0.0 cdjhcf.hometogo.es
 0.0.0.0 cdld-center.actonservice.com
 0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn-ra.rockcontent.com
 0.0.0.0 cdn-redirector.glopal.com
 0.0.0.0 cdn-settings.appsflyersdk.com
@@ -16580,6 +16581,7 @@
 0.0.0.0 cutegerara.tt.omtrdc.net
 0.0.0.0 cux.io
 0.0.0.0 cv-match.sharebase.jp
+0.0.0.0 cv-tracker.stanby.com
 0.0.0.0 cv.2jikaikun.com
 0.0.0.0 cv.a-cial.com
 0.0.0.0 cv.a-hikkoshi.com
@@ -63416,6 +63418,7 @@
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.e-himart.co.kr
 0.0.0.0 logging.goodgamestudios.com
+0.0.0.0 logging.h3z.jp
 0.0.0.0 logging.prefixbox.com
 0.0.0.0 logging.pw.adn.cloud
 0.0.0.0 loggly.cheatsheet.com
@@ -72381,7 +72384,6 @@
 0.0.0.0 perr.l-err.biz
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
-0.0.0.0 personaclick.com
 0.0.0.0 personalizedlinks.robly.com
 0.0.0.0 personyze.com
 0.0.0.0 persorgamtrk.com
@@ -83777,6 +83779,7 @@
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.itsehoitoapteekki.fi
 0.0.0.0 t.iuhoosiers.com
+0.0.0.0 t.iwara.tv
 0.0.0.0 t.janieandjack.com
 0.0.0.0 t.jmusports.com
 0.0.0.0 t.junoassurance.com

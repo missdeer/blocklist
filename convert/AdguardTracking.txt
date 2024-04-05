@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 04 Apr 2024 04:24:48 UTC
+# Last converted - Fri, 05 Apr 2024 04:26:28 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9147,6 +9147,7 @@
 0.0.0.0 amphibian.tboa.club
 0.0.0.0 amplifongroup.tt.omtrdc.net
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 amplitude.chess.com
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 ampserviceslimited.tt.omtrdc.net
@@ -66283,6 +66284,7 @@
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.aksorn.com
+0.0.0.0 matomo.cloudfront.similarweb.io
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io
 0.0.0.0 matomo.unicaf.org
@@ -73804,6 +73806,7 @@
 0.0.0.0 r13.tt.omtrdc.net
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r2r.utas.edu.au
+0.0.0.0 r451.jamanetwork.com
 0.0.0.0 r4nds.absorba.com
 0.0.0.0 r541.houstonchronicle.com
 0.0.0.0 r7ls.net

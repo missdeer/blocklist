@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 05 Apr 2024 04:26:29 UTC
+# Last converted - Sat, 06 Apr 2024 04:23:55 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -477,6 +477,7 @@
 0.0.0.0 search.anonymous.ads.brave.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
+0.0.0.0 sjc.cloud.optable.co
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
@@ -525,7 +526,6 @@
 0.0.0.0 statsegg.cdngeek.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 substation.confection.io
-0.0.0.0 svc.eu01.miro.com
 0.0.0.0 svc2.sc.com
 0.0.0.0 szrpr.raen.com
 0.0.0.0 t.9gag.com

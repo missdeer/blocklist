@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 07 Apr 2024 04:24:33 UTC
+# Last converted - Mon, 08 Apr 2024 04:23:55 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -150,6 +150,7 @@
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.taoxh.life
+0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
@@ -178,6 +179,7 @@
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d401.dollartree.com
+0.0.0.0 d712.theinformation.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 dabu.askmediagroup.com
 0.0.0.0 data.allstate.com

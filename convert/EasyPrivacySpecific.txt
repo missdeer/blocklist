@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 09 Apr 2024 04:24:16 UTC
+# Last converted - Wed, 10 Apr 2024 04:22:28 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -346,6 +346,7 @@
 0.0.0.0 loglady.kiwi.com
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logs.naukri.com
+0.0.0.0 logs.netflix.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
@@ -418,6 +419,7 @@
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 pl.letsblock.it
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 09 Apr 2024 04:24:14 UTC
+# Last converted - Wed, 10 Apr 2024 04:22:27 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -11401,6 +11401,7 @@
 0.0.0.0 asto-sc.tt.tt.omtrdc.net
 0.0.0.0 astorga.treker.fun
 0.0.0.0 astra-beta.corp.tt.omtrdc.net
+0.0.0.0 astral.nicovideo.jp
 0.0.0.0 astrazenecauklimited.tt.omtrdc.net
 0.0.0.0 astro-way.com
 0.0.0.0 astrogated.monzodiorite.uno
@@ -64933,6 +64934,7 @@
 0.0.0.0 log.dance
 0.0.0.0 log.dav.edu.vn
 0.0.0.0 log.down61.com
+0.0.0.0 log.dpa.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.dzen.ru

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 10 Apr 2024 04:22:28 UTC
+# Last converted - Thu, 11 Apr 2024 04:22:48 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -285,7 +285,6 @@
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cltgtstor001.blob.core.windows.net
-0.0.0.0 cmp.datasign.co
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cnt.trvdp.com

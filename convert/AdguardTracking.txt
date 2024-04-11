@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 10 Apr 2024 04:22:27 UTC
+# Last converted - Thu, 11 Apr 2024 04:22:51 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -15199,7 +15199,6 @@
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.audi.be
 0.0.0.0 cmp.cupra.be
-0.0.0.0 cmp.datasign.co
 0.0.0.0 cmp.dieteren.be
 0.0.0.0 cmp.dieterengroup.com
 0.0.0.0 cmp.microlino.be
@@ -58481,7 +58480,6 @@
 0.0.0.0 h-i63hluy-development-xewkss.tt.omtrdc.net
 0.0.0.0 h.2free-it-srv-shop-videocom.hb-api.tt.omtrdc.net
 0.0.0.0 h.cloudengage.com
-0.0.0.0 h.seznam.cz
 0.0.0.0 h00c.sfr.fr
 0.0.0.0 h031.familydollar.com
 0.0.0.0 h135-207-183-21.tt.omtrdc.net
@@ -85858,6 +85856,7 @@
 0.0.0.0 tags.hickies.eu
 0.0.0.0 tags.igeo.com.bo
 0.0.0.0 tags.kone.com
+0.0.0.0 tags.qortex.ai
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.wyndhamhotels.com

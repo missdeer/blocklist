@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 11 Apr 2024 04:22:48 UTC
+# Last converted - Fri, 12 Apr 2024 04:25:19 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -360,6 +360,7 @@
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-reporting.cloudflare.com
+0.0.0.0 csp.secureserver.net
 0.0.0.0 csr.onet.pl
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
@@ -561,6 +562,7 @@
 0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
+0.0.0.0 events.api.secureserver.net
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audiate.me
 0.0.0.0 events.brightline.tv

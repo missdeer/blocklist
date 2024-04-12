@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 11 Apr 2024 04:22:49 UTC
+# Last converted - Fri, 12 Apr 2024 04:25:17 UTC
 #
 
 0.0.0.0 33across.com
@@ -170,7 +170,6 @@
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 c.bigmir.net
-0.0.0.0 c.data.mob.com
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 carfax.sc.omtrdc.net
@@ -418,7 +417,6 @@
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 lp4.io
-0.0.0.0 m.data.mob.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 mathtag.com
 0.0.0.0 mazu.sec.miui.com

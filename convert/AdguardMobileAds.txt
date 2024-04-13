@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 12 Apr 2024 04:25:12 UTC
+# Last converted - Sat, 13 Apr 2024 04:20:41 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -668,6 +668,7 @@
 0.0.0.0 promotion.polarisoffice.com
 0.0.0.0 promotionad.nvcam.net
 0.0.0.0 pssvc.iqzone.com
+0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 pub1.co
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnative.info

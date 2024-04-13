@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 12 Apr 2024 04:25:16 UTC
+# Last converted - Sat, 13 Apr 2024 04:20:34 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -331,6 +331,7 @@
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
 0.0.0.0 lists.ccmbg.com
+0.0.0.0 lms.roblox.com
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log.china.cn
 0.0.0.0 log.genyt.net

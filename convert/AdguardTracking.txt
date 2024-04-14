@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 13 Apr 2024 04:20:37 UTC
+# Last converted - Sun, 14 Apr 2024 04:53:39 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -9591,6 +9591,7 @@
 0.0.0.0 analytics.nova.foxsports.com
 0.0.0.0 analytics.nrg.com
 0.0.0.0 analytics.nrgprotects.com
+0.0.0.0 analytics.oceanengine.com
 0.0.0.0 analytics.octaglobal.com
 0.0.0.0 analytics.omniscientai.com
 0.0.0.0 analytics.onedio.com

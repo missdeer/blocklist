@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 16 Apr 2024 04:23:25 UTC
+# Last converted - Wed, 17 Apr 2024 04:24:22 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -8320,6 +8320,7 @@
 0.0.0.0 apolloint.tt.omtrdc.net
 0.0.0.0 apollomunich.tt.omtrdc.net
 0.0.0.0 app-analytics-ru.huami.com
+0.0.0.0 app-analytics-services.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-sji24.tt.omtrdc.net
@@ -11043,6 +11044,7 @@
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.mediatradecraft.com
 0.0.0.0 cdn.memo.co
+0.0.0.0 cdn.mircheigeshoa.com
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.p.analitik.bik.gov.tr
 0.0.0.0 cdn.pranmcpkx.com
@@ -17270,6 +17272,7 @@
 0.0.0.0 ebtrk1.com
 0.0.0.0 ebtxxz.travellink.se
 0.0.0.0 ebwupu.superbrightleds.com
+0.0.0.0 ebxcdn.com
 0.0.0.0 ec-concier.com
 0.0.0.0 ec-dishpurchasingcorporation.hb-api.tt.omtrdc.net
 0.0.0.0 ec-sc.tt.tt.omtrdc.net
@@ -46112,6 +46115,7 @@
 0.0.0.0 foxtel.tt.omtrdc.net
 0.0.0.0 foxtel337.tt.tt.omtrdc.net
 0.0.0.0 foxtinfo.foxt.com
+0.0.0.0 fp-cdn.azureedge.net
 0.0.0.0 fp.kakaku.com
 0.0.0.0 fp.kalevavakuutus.fi
 0.0.0.0 fp.mandatum.fi
@@ -61109,6 +61113,7 @@
 0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 prod.toad-sj.tt.omtrdc.net
 0.0.0.0 prod.tt.omtrdc.net
+0.0.0.0 prod.uidapi.com
 0.0.0.0 prod5-2.tt.omtrdc.net
 0.0.0.0 prodclk.prodentimonline.live
 0.0.0.0 proditor.sparda.de

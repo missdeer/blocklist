@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 16 Apr 2024 04:23:28 UTC
+# Last converted - Wed, 17 Apr 2024 04:24:24 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -818,6 +818,7 @@
 0.0.0.0 upsight.com
 0.0.0.0 usekahuna.com
 0.0.0.0 usp1.baidu.com
+0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 valshara.com
 0.0.0.0 velti.com
 0.0.0.0 veta.naver.com

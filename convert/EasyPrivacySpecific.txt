@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 16 Apr 2024 04:23:26 UTC
+# Last converted - Wed, 17 Apr 2024 04:24:26 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -97,6 +97,7 @@
 0.0.0.0 bup.bankofamerica.com
 0.0.0.0 c.arstechnica.com
 0.0.0.0 c.fingerprint.com
+0.0.0.0 c.gq.com
 0.0.0.0 c.newyorker.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
@@ -446,6 +447,7 @@
 0.0.0.0 pxl.indeed.com
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 qc.arstechnica.com
+0.0.0.0 qc.gq.com
 0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.vogue.com
 0.0.0.0 qc.wired.com

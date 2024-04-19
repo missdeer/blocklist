@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 18 Apr 2024 04:23:01 UTC
+# Last converted - Fri, 19 Apr 2024 04:22:50 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -5749,6 +5749,7 @@
 0.0.0.0 account-origin-lva.e1-spint.tt.omtrdc.net
 0.0.0.0 account-origin-lva.x0-spint.tt.omtrdc.net
 0.0.0.0 account-pro-dr2-a.hb-api.tt.omtrdc.net
+0.0.0.0 account.beauty
 0.0.0.0 account.c-int-np.tt.omtrdc.net
 0.0.0.0 account.dev.industry.tt.omtrdc.net
 0.0.0.0 accountancy.bppeloqua.com
@@ -5810,6 +5811,7 @@
 0.0.0.0 acksrc.chip.de
 0.0.0.0 acl.stayfriends.de
 0.0.0.0 aclimaduarte.hb-fa-dev.tt.omtrdc.net
+0.0.0.0 aclog.itmedia.co.jp
 0.0.0.0 aclu.tt.omtrdc.net
 0.0.0.0 aclu41a.tt.tt.omtrdc.net
 0.0.0.0 acm-ws.hb-fa-dev.tt.omtrdc.net
@@ -9760,6 +9762,7 @@
 0.0.0.0 bandicoot.mohit.dev
 0.0.0.0 bandicoot.p0.design
 0.0.0.0 bandicoot.sigerr.org
+0.0.0.0 bank.charity
 0.0.0.0 bank.svb.com
 0.0.0.0 bankinter.tt.omtrdc.net
 0.0.0.0 bankofamerica.tt.omtrdc.net
@@ -11610,6 +11613,7 @@
 0.0.0.0 clickstream.cresendo.net
 0.0.0.0 clicktale-abnamro.tt.tt.omtrdc.net
 0.0.0.0 clicktale.net
+0.0.0.0 clickthis.photo
 0.0.0.0 clicktracks.com
 0.0.0.0 clickzs.com
 0.0.0.0 clickzzs.nl
@@ -12728,6 +12732,8 @@
 0.0.0.0 cruntn.receno.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryo.socialblade.com
+0.0.0.0 cryp-o.online
+0.0.0.0 crypto-o.click
 0.0.0.0 cs.budgetwellnessguard.com
 0.0.0.0 cs.coopeservidores.fi.cr
 0.0.0.0 cs.happycustomer.io
@@ -12851,6 +12857,7 @@
 0.0.0.0 customer-email.getfeedback.com
 0.0.0.0 customer-engagement.verintsystemsinc.com
 0.0.0.0 customer.antarestech.com
+0.0.0.0 customer.autos
 0.0.0.0 customer.hippo.com
 0.0.0.0 customer.io
 0.0.0.0 customer.io.mxtoolbox.com
@@ -12885,6 +12892,7 @@
 0.0.0.0 customermail.theia.com.br
 0.0.0.0 customers-capitalbank-jo-877029.p06.elqsandbox.com
 0.0.0.0 customerservice.tt.omtrdc.net
+0.0.0.0 customersupport.click
 0.0.0.0 customize.titanfactorydirect.com
 0.0.0.0 cux.io
 0.0.0.0 cv-match.sharebase.jp
@@ -45651,6 +45659,7 @@
 0.0.0.0 fbywsl.wuerzburger-jobanzeiger.de
 0.0.0.0 fc-id.sensic.net
 0.0.0.0 fc-rohoznik.tt.omtrdc.net
+0.0.0.0 fc.itmedia.co.jp
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fcaemea.tt.omtrdc.net
 0.0.0.0 fcanafta.hb.tt.omtrdc.net
@@ -48281,6 +48290,7 @@
 0.0.0.0 hoverfly.papercrowns.com
 0.0.0.0 hoverfly.winchdesign.cn
 0.0.0.0 hovnec.biovancia.com
+0.0.0.0 hoxha.nieuwspaal.network
 0.0.0.0 hoyxmg.deporvillage.com
 0.0.0.0 hpbrqr.daihatsu.co.jp
 0.0.0.0 hpcduz.shoemall.com
@@ -48665,6 +48675,7 @@
 0.0.0.0 image.thermoscientific.com
 0.0.0.0 image.tt.omtrdc.net
 0.0.0.0 imagehost.pics
+0.0.0.0 imagehub.fun
 0.0.0.0 imagenes.ubmmexico.com
 0.0.0.0 imagens.conteudo.algartelecom.com.br
 0.0.0.0 images.a.flukebiomedical.com
@@ -49174,6 +49185,8 @@
 0.0.0.0 images1.test.de
 0.0.0.0 images2.verizonconnect.com
 0.0.0.0 images3.verizonconnect.com
+0.0.0.0 imagestash.pics
+0.0.0.0 imagevault.cloud
 0.0.0.0 imagine.ricoh.nl
 0.0.0.0 imail.webull.com
 0.0.0.0 imap.avadacom.com
@@ -53019,6 +53032,7 @@
 0.0.0.0 lobster.justunderwear.com
 0.0.0.0 lobster.tonebleed.com
 0.0.0.0 localytics.com
+0.0.0.0 location.cyou
 0.0.0.0 lockstocktrk.com
 0.0.0.0 lockview.cn
 0.0.0.0 locust.ausrebellion.earth
@@ -54375,6 +54389,7 @@
 0.0.0.0 manufacturing.autodeskcommunications.com
 0.0.0.0 manulifefinancial.tt.omtrdc.net
 0.0.0.0 manyavar.tt.omtrdc.net
+0.0.0.0 map-s.online
 0.0.0.0 mapadaobra.tt.omtrdc.net
 0.0.0.0 maper.info
 0.0.0.0 maplesoftinc.tt.omtrdc.net
@@ -54385,6 +54400,7 @@
 0.0.0.0 mapp.jysk.nl
 0.0.0.0 mapp.peacocks.co.uk
 0.0.0.0 mapp.yesstyle.com
+0.0.0.0 mapss.icu
 0.0.0.0 mar199.tt.omtrdc.net
 0.0.0.0 maratonweb20.tt.omtrdc.net
 0.0.0.0 marchfoxentertainment.hb-api.tt.omtrdc.net
@@ -57994,6 +58010,9 @@
 0.0.0.0 mykplan.tt.omtrdc.net
 0.0.0.0 mylockerqa-2.vpn.tt.omtrdc.net
 0.0.0.0 mylpl.tt.omtrdc.net
+0.0.0.0 mymap.icu
+0.0.0.0 mymap.quest
+0.0.0.0 mymassive.pics
 0.0.0.0 myms.tt.tt.omtrdc.net
 0.0.0.0 mynavi.tt.omtrdc.net
 0.0.0.0 mynewcounter.com
@@ -58003,7 +58022,9 @@
 0.0.0.0 mypa-in-prop.americanexpress.com
 0.0.0.0 mypage-old.tt.omtrdc.net
 0.0.0.0 mypagerank.net
+0.0.0.0 mypicparade.pics
 0.0.0.0 myprivate.pics
+0.0.0.0 myprivate.yachts
 0.0.0.0 myprofile.panasonic.eu
 0.0.0.0 myprogrammingguide.tt.omtrdc.net
 0.0.0.0 myreferer.com
@@ -60434,7 +60455,9 @@
 0.0.0.0 photobook.tt.omtrdc.net
 0.0.0.0 photography.hursey.com
 0.0.0.0 photorank.me
+0.0.0.0 photospace.life
 0.0.0.0 photovault.pics
+0.0.0.0 photovault.store
 0.0.0.0 php-router-ethos.hb-fa-dev.tt.omtrdc.net
 0.0.0.0 phpdoc.tt.omtrdc.net
 0.0.0.0 phpstat.com
@@ -60452,10 +60475,13 @@
 0.0.0.0 piclick.kr
 0.0.0.0 picot.tt.omtrdc.net
 0.0.0.0 pics36.tt.tt.omtrdc.net
+0.0.0.0 picshare.hair
+0.0.0.0 picshare.mom
 0.0.0.0 picshost.pics
 0.0.0.0 pictet-eetp.tt.tt.omtrdc.net
 0.0.0.0 pictet.tt.omtrdc.net
 0.0.0.0 pictetasset.tt.omtrdc.net
+0.0.0.0 picturestash.mom
 0.0.0.0 piddme.buyma.com
 0.0.0.0 pig.civicplatform.org
 0.0.0.0 pig.curtisherbert.com
@@ -63433,6 +63459,7 @@
 0.0.0.0 screenshare.pics
 0.0.0.0 screenshot.best
 0.0.0.0 screenshots.goguardian.com
+0.0.0.0 screensnaps.top
 0.0.0.0 scribe.wongnai.com
 0.0.0.0 scripps-cartp.tt.tt.omtrdc.net
 0.0.0.0 scripps.tt.omtrdc.net
@@ -64026,6 +64053,7 @@
 0.0.0.0 shareasale.com
 0.0.0.0 sharecare.tt.omtrdc.net
 0.0.0.0 sharetemp-exchangedns.tt.omtrdc.net
+0.0.0.0 sharevault.cloud
 0.0.0.0 shark.codeswitch.be
 0.0.0.0 shark.getplayback.com
 0.0.0.0 shark.rockyourlife.de
@@ -74400,6 +74428,7 @@
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker-rec.smart-bdash.com
+0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker.112odsj.com
 0.0.0.0 tracker.1232sdf.com
 0.0.0.0 tracker.123heldo.com
@@ -74438,6 +74467,7 @@
 0.0.0.0 tracker.durasite.net
 0.0.0.0 tracker.eyeforpharma.com
 0.0.0.0 tracker.fengkongcloud.com
+0.0.0.0 tracker.gamemonkey.org
 0.0.0.0 tracker.gleanview.com
 0.0.0.0 tracker.gpcdn.pl
 0.0.0.0 tracker.hdtvcloud.com
@@ -78979,6 +79009,7 @@
 0.0.0.0 xtazfx.50factory.com
 0.0.0.0 xtractor.no
 0.0.0.0 xtremline.com
+0.0.0.0 xtube.chat
 0.0.0.0 xtxwva.intersport.com.tr
 0.0.0.0 xuc.monteleone.fr
 0.0.0.0 xudmrz.conforama.fr

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 19 Apr 2024 04:22:50 UTC
+# Last converted - Sat, 20 Apr 2024 04:24:29 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -53078,6 +53078,7 @@
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.bntrace.com
 0.0.0.0 log.bunjang.co.kr
+0.0.0.0 log.classting.com
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.collectaction.com
@@ -69564,6 +69565,7 @@
 0.0.0.0 stats.revloq.com
 0.0.0.0 stats.rideinpeace.ie
 0.0.0.0 stats.rightourhistoryhawaii.com
+0.0.0.0 stats.rip
 0.0.0.0 stats.robotika.ax
 0.0.0.0 stats.rocketvalidator.com
 0.0.0.0 stats.roderickduenas.com
@@ -76069,6 +76071,7 @@
 0.0.0.0 ubrihx.allbirds.jp
 0.0.0.0 ubsag.tt.omtrdc.net
 0.0.0.0 ubt-sin.tripcdn.com
+0.0.0.0 ubt.tracking.shopee.
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 ubvsjh.pointtown.com
 0.0.0.0 ubyjor.distrelec.ch

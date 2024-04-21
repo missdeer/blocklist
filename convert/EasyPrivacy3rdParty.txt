@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 20 Apr 2024 04:24:26 UTC
+# Last converted - Sun, 21 Apr 2024 04:25:50 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -27,6 +27,7 @@
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsolutions.com
+0.0.0.0 affiliate-api.raptive.com
 0.0.0.0 affiliates.minglematch.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aksb-a.akamaihd.net
@@ -754,7 +755,6 @@
 0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
-0.0.0.0 logs.viadata.store
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 lps.qantas.com
@@ -1238,6 +1238,7 @@
 0.0.0.0 tracker.keywordintent.com
 0.0.0.0 tracker.marinsoftware.com
 0.0.0.0 tracker.mrpfd.com
+0.0.0.0 tracker.myth.dev
 0.0.0.0 tracker.myyschool.xyz
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com

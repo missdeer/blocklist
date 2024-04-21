@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 20 Apr 2024 04:24:29 UTC
+# Last converted - Sun, 21 Apr 2024 04:25:59 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -11059,6 +11059,7 @@
 0.0.0.0 cdn.sgmntfy.com
 0.0.0.0 cdn.smlog.co.kr
 0.0.0.0 cdn.sophi.io
+0.0.0.0 cdn.sov.stream
 0.0.0.0 cdn.sppoints.xyz
 0.0.0.0 cdn.stat-track.com
 0.0.0.0 cdn.teleportapi.com
@@ -61177,6 +61178,7 @@
 0.0.0.0 progaming.monster
 0.0.0.0 progenealogists.com.ssl.sc.tt.omtrdc.net
 0.0.0.0 program.biocitia.eu
+0.0.0.0 programmatica.com
 0.0.0.0 progressivedev.actonservice.com
 0.0.0.0 progressresidentiall.tt.omtrdc.net
 0.0.0.0 progrexionasginc.tt.omtrdc.net

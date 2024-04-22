@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 21 Apr 2024 04:25:55 UTC
+# Last converted - Mon, 22 Apr 2024 04:23:42 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -101,6 +101,7 @@
 0.0.0.0 c.newyorker.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
+0.0.0.0 c.vanityfair.com
 0.0.0.0 c.vogue.com
 0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
@@ -451,6 +452,7 @@
 0.0.0.0 qc.arstechnica.com
 0.0.0.0 qc.gq.com
 0.0.0.0 qc.newyorker.com
+0.0.0.0 qc.vanityfair.com
 0.0.0.0 qc.vogue.com
 0.0.0.0 qc.wired.com
 0.0.0.0 qfp.intuit.com

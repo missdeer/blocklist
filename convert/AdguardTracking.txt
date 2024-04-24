@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 23 Apr 2024 04:24:19 UTC
+# Last converted - Wed, 24 Apr 2024 04:23:03 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -48138,7 +48138,6 @@
 0.0.0.0 m.sm.princess.com
 0.0.0.0 m.smartmatch.email
 0.0.0.0 m.smb.info.shutterstock.com
-0.0.0.0 m.stripe.com
 0.0.0.0 m.swiftstart.net
 0.0.0.0 m.topschooljobs.org
 0.0.0.0 m.transfix.io
@@ -71576,6 +71575,7 @@
 0.0.0.0 y-track.com
 0.0.0.0 y.getmorelocalhelp.com
 0.0.0.0 y.ksl.com
+0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 y1.arte.tv
 0.0.0.0 y4e04gql5o1b.www.nookgaming.com
 0.0.0.0 y653.theridgefieldpress.com

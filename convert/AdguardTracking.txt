@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 26 Apr 2024 04:22:49 UTC
+# Last converted - Sat, 27 Apr 2024 04:22:22 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -7906,6 +7906,7 @@
 0.0.0.0 antelope.targetinternet.com
 0.0.0.0 antelope.u3a.com.au
 0.0.0.0 anti-cheat.info
+0.0.0.0 antillephone.com
 0.0.0.0 antirifytrk.com
 0.0.0.0 antispam.mg.razock.com
 0.0.0.0 antispam.qof.happycustomer.io
@@ -41186,6 +41187,7 @@
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashadengine.com
 0.0.0.0 flashplayerfeedback.adobe.com
+0.0.0.0 flask.us.nextdoor.com
 0.0.0.0 flat101emeaptrsd.tt.omtrdc.net
 0.0.0.0 flavors.firmenich.com
 0.0.0.0 flcounter.com
@@ -55038,6 +55040,7 @@
 0.0.0.0 prod.tracking.refinitiv.com
 0.0.0.0 prod.tt.omtrdc.net
 0.0.0.0 prod.uidapi.com
+0.0.0.0 prodalet.ru
 0.0.0.0 prodclk.prodentimonline.live
 0.0.0.0 proditor.sparda.de
 0.0.0.0 prodmp.ru

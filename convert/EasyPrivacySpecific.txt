@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 27 Apr 2024 04:22:18 UTC
+# Last converted - Sun, 28 Apr 2024 04:22:38 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -574,6 +574,7 @@
 0.0.0.0 t.zulily.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t570.wiltonbulletin.com
+0.0.0.0 t810.ctpost.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging.steelseries.com
 0.0.0.0 tags.aljazeera.com

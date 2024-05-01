@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 30 Apr 2024 04:24:15 UTC
+# Last converted - Wed, 01 May 2024 04:23:31 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -8518,6 +8518,7 @@
 0.0.0.0 analytics.valheimgamer.com
 0.0.0.0 analytics.vanilla-project.guide
 0.0.0.0 analytics.vedantu.com
+0.0.0.0 analytics.verfacto.com
 0.0.0.0 analytics.verizonwireless.com
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginaustralia.com
@@ -44409,6 +44410,7 @@
 0.0.0.0 eurocounter.com
 0.0.0.0 eurofins-labazur-bretagne.ubilab.me
 0.0.0.0 europagerank.com
+0.0.0.0 europe-west1-sonorous-dragon-276210.cloudfunctions.net
 0.0.0.0 europe.tt.omtrdc.net
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
@@ -53497,6 +53499,7 @@
 0.0.0.0 mailx.carte-gr.total.fr
 0.0.0.0 mailx.ubilab.me
 0.0.0.0 maintenant.votre-succes.online
+0.0.0.0 mainting-minues.xyz
 0.0.0.0 maisviagens.tt.omtrdc.net
 0.0.0.0 makbti.bandofboats.com
 0.0.0.0 makeawish.tt.omtrdc.net

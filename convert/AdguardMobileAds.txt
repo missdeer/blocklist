@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 01 May 2024 04:23:22 UTC
+# Last converted - Thu, 02 May 2024 04:24:10 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -265,6 +265,7 @@
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
 0.0.0.0 appshelf.ttpsdk.info
+0.0.0.0 appsrv.display.io
 0.0.0.0 apptornado.com
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 aqi.wd.amberweather.com

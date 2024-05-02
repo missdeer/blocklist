@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 01 May 2024 04:23:31 UTC
+# Last converted - Thu, 02 May 2024 04:24:12 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -44902,6 +44902,7 @@
 0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 feliz.data.tm-awx.com
 0.0.0.0 femaleathlete1.blog.tt.omtrdc.net
+0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fenixcargo.tt.omtrdc.net
 0.0.0.0 feqbqn.rent.com
 0.0.0.0 ferank.fr
@@ -52623,6 +52624,7 @@
 0.0.0.0 lp.smartbusiness.samsung.com
 0.0.0.0 lp.solutions.cegos.it
 0.0.0.0 lp.sophos.com
+0.0.0.0 lp.spac.me
 0.0.0.0 lp.strayer.edu
 0.0.0.0 lp.suamelhormemoria.com.br
 0.0.0.0 lp.suavidaperfeita.com.br
@@ -57563,8 +57565,6 @@
 0.0.0.0 mtm.walls.io
 0.0.0.0 mtoxtg.tezenis.com
 0.0.0.0 mtp.spaces.im
-0.0.0.0 mtp.spaces.ru
-0.0.0.0 mtp.spcs.me
 0.0.0.0 mtrace.qq.com
 0.0.0.0 mtrack.nl
 0.0.0.0 mtracking.com
@@ -61737,6 +61737,7 @@
 0.0.0.0 realsolutions.americanexpress.se
 0.0.0.0 realsrv.com
 0.0.0.0 realtime-profiling.datarize.ai
+0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 realtimely.io
 0.0.0.0 realtimewebstats.net
 0.0.0.0 realtors.eq.delwebb.com
@@ -69803,6 +69804,7 @@
 0.0.0.0 stats.in-tuition.net
 0.0.0.0 stats.incoming.co
 0.0.0.0 stats.increasinglyfunctional.com
+0.0.0.0 stats.indianpornempire.com
 0.0.0.0 stats.indyhall.org
 0.0.0.0 stats.infoboard.de
 0.0.0.0 stats.innoq.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 02 May 2024 04:24:07 UTC
+# Last converted - Fri, 03 May 2024 04:24:54 UTC
 #
 
 0.0.0.0 33across.com
@@ -367,6 +367,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.apk.v-mate.mobi

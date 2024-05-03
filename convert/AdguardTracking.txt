@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 02 May 2024 04:24:12 UTC
+# Last converted - Fri, 03 May 2024 04:25:01 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -49158,6 +49158,7 @@
 0.0.0.0 ingdirectit.tt.omtrdc.net
 0.0.0.0 ingest.do.brainsland.com
 0.0.0.0 ingest.make.rvapps.io
+0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingrammicro.tt.omtrdc.net
 0.0.0.0 ingredients.firmenich.com
 0.0.0.0 ingredionincorporate.tt.omtrdc.net
@@ -52200,6 +52201,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adap.tv
 0.0.0.0 log.adtimaserver.vn
@@ -52299,6 +52301,7 @@
 0.0.0.0 log.snow.me
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.strm.yandex.ru
+0.0.0.0 log.suumo.jp
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.tf.co.kr
@@ -52385,6 +52388,7 @@
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs.51cto.com
+0.0.0.0 logs.8thwall.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 logs.datadoghq.com
@@ -63937,6 +63941,7 @@
 0.0.0.0 seehits.com
 0.0.0.0 seek.tt.omtrdc.net
 0.0.0.0 seek.uwa.edu.au
+0.0.0.0 segment-api.goodrx.com
 0.0.0.0 segment-cdn.producthunt.com
 0.0.0.0 segment.com
 0.0.0.0 segment.io
@@ -64180,6 +64185,7 @@
 0.0.0.0 sgekapkipo.aem.hb.tt.omtrdc.net
 0.0.0.0 sgikrg.3dcart.com
 0.0.0.0 sgmailgun.sessiongirls.com
+0.0.0.0 sgmcdn.racingpost.com
 0.0.0.0 sgms.greatschools.org
 0.0.0.0 sgsb.aba.com
 0.0.0.0 sgtm.fashionunited.
@@ -80146,6 +80152,7 @@
 0.0.0.0 zimbra.ubilab.me
 0.0.0.0 zimmerbiomet.tt.omtrdc.net
 0.0.0.0 zimmerinc.tt.omtrdc.net
+0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 zipstat.dk

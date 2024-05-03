@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 02 May 2024 04:24:13 UTC
+# Last converted - Fri, 03 May 2024 04:25:02 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -691,5 +691,6 @@
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 z737.thestar.com
 0.0.0.0 za.qeeq.com
+0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zion.qbo.intuit.com

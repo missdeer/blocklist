@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 03 May 2024 04:25:01 UTC
+# Last converted - Sat, 04 May 2024 04:25:04 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -7864,6 +7864,7 @@
 0.0.0.0 amersc.actonservice.com
 0.0.0.0 amersfoort.treker.fun
 0.0.0.0 amersports.tt.omtrdc.net
+0.0.0.0 amethyst.zappos.com
 0.0.0.0 ametrics.finn.no
 0.0.0.0 ametrics.hb.tt.omtrdc.net
 0.0.0.0 ametrics.lumen.com
@@ -47420,6 +47421,7 @@
 0.0.0.0 htmgrl.jollyroom.no
 0.0.0.0 htqfxh.vuch.cz
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 https.mailer.thecaistore.com
 0.0.0.0 https.newsletter.thedecorkart.com
 0.0.0.0 httr.redskins.com
@@ -64264,6 +64266,7 @@
 0.0.0.0 sichere-verbindung.offizielle-gewinnspiele.com
 0.0.0.0 sichere-verbindung.offizielles-angebot.com
 0.0.0.0 sichuan.treker.fun
+0.0.0.0 sid.nordstrom.com
 0.0.0.0 sidney.trekkeeee.space
 0.0.0.0 siemens.tt.omtrdc.net
 0.0.0.0 sietle.trekkeeee.fun

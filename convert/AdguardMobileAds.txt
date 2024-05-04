@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 03 May 2024 04:24:54 UTC
+# Last converted - Sat, 04 May 2024 04:25:02 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -456,6 +456,7 @@
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 httpool.com
+0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 huntmad.com
 0.0.0.0 hw-ot-ad.a.yximgs.com
 0.0.0.0 hybird.rayjump.com

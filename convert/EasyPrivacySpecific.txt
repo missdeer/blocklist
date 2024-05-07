@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 06 May 2024 04:24:52 UTC
+# Last converted - Tue, 07 May 2024 04:24:53 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -403,6 +403,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 p.minds.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com

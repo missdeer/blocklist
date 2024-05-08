@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 07 May 2024 04:24:53 UTC
+# Last converted - Wed, 08 May 2024 04:22:09 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1166,6 +1166,7 @@
 0.0.0.0 telemetry.goodlifefitness.com
 0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
+0.0.0.0 telemetry.smartframe.io
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.vtex.com
@@ -1251,6 +1252,7 @@
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.services.vaix.ai
+0.0.0.0 tracker.smartframe.io
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.ssl0d.com
 0.0.0.0 tracker.timesgroup.com

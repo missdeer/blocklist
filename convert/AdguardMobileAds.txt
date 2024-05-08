@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 07 May 2024 04:24:50 UTC
+# Last converted - Wed, 08 May 2024 04:22:12 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -543,6 +543,7 @@
 0.0.0.0 mcoreads.com
 0.0.0.0 med-api.admost.com
 0.0.0.0 medialand.ru
+0.0.0.0 mediation.unity3d.com
 0.0.0.0 meendocash.com
 0.0.0.0 metamx.com
 0.0.0.0 mfadsrvr.com
@@ -615,7 +616,6 @@
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 numbers.md
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
-0.0.0.0 o-iab.mediation.unity3d.com
 0.0.0.0 ob.leap.app
 0.0.0.0 oclasrv.com
 0.0.0.0 oconner.biz

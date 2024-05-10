@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 09 May 2024 04:27:18 UTC
+# Last converted - Fri, 10 May 2024 04:23:48 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -68051,6 +68051,7 @@
 0.0.0.0 stk.scletrk.com
 0.0.0.0 stliom.vidaxl.cz
 0.0.0.0 stlog.d.dmkt-sp.jp
+0.0.0.0 stlog.dmarket.docomo.ne.jp
 0.0.0.0 stlstcapvwa01.stage-ent.stage-ent.stage.tt.omtrdc.net
 0.0.0.0 stmetrics.bbva.com.ar
 0.0.0.0 stmetrics.bbva.com.co

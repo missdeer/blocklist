@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 12 May 2024 04:24:30 UTC
+# Last converted - Mon, 13 May 2024 04:25:02 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -49933,6 +49933,7 @@
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
+0.0.0.0 logger.torimochi-ad.net
 0.0.0.0 logger.tv.telstra.com.au
 0.0.0.0 logger.tvchosun.com
 0.0.0.0 logger.virgul.com

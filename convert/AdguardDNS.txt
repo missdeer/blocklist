@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Tue, 14 May 2024 04:23:32 UTC
+# Last converted - Wed, 15 May 2024 04:24:55 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8682,6 +8682,7 @@
 0.0.0.0 beacon.klm.com
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
+0.0.0.0 beacon.nc-net.or.jp
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.qq.com
@@ -11288,6 +11289,7 @@
 0.0.0.0 ca548318cc.com
 0.0.0.0 ca72472d7aee.com
 0.0.0.0 ca9246.xyz
+0.0.0.0 caa2c4.xyz
 0.0.0.0 caaie.xyz
 0.0.0.0 caajol.icu
 0.0.0.0 caanalytics.com
@@ -26143,6 +26145,7 @@
 0.0.0.0 gusleelurg.top
 0.0.0.0 gussame.com
 0.0.0.0 gussbkpr.website
+0.0.0.0 gussiessmutchy.com
 0.0.0.0 gussimsosurvey.space
 0.0.0.0 gustdertrum.com
 0.0.0.0 gustilyoblate.uno
@@ -33510,6 +33513,7 @@
 0.0.0.0 lhbrkotf.xyz
 0.0.0.0 lhdlbp.xyz
 0.0.0.0 lhdmihaby.xyz
+0.0.0.0 lhe-beacon.team-rec.jp
 0.0.0.0 lhecbmq.com
 0.0.0.0 lheoutn.com
 0.0.0.0 lhgwcvw.cn
@@ -37809,6 +37813,7 @@
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mqqxkkenfws.com
 0.0.0.0 mqrupjsm.xyz
+0.0.0.0 mqsjzm.cn
 0.0.0.0 mqsnce.xyz
 0.0.0.0 mquawbxc.com
 0.0.0.0 mqxnid.cn
@@ -46804,6 +46809,7 @@
 0.0.0.0 qwoyfys.com
 0.0.0.0 qwrwawwmblwbb.top
 0.0.0.0 qwrwawwmblybj.top
+0.0.0.0 qwsanan.top
 0.0.0.0 qwtag.com
 0.0.0.0 qwvqbeqwbrabj.top
 0.0.0.0 qwvvoaykyrbj.top

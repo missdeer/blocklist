@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 14 May 2024 04:23:40 UTC
+# Last converted - Wed, 15 May 2024 04:24:53 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -10355,6 +10355,7 @@
 0.0.0.0 beacon.itmedia.jp
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beacon.lycos.com
+0.0.0.0 beacon.nc-net.or.jp
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.qq.com
@@ -45391,6 +45392,7 @@
 0.0.0.0 lhasalimited.actonservice.com
 0.0.0.0 lhcivu.dekbed-discounter.nl
 0.0.0.0 lhdidz.successories.com
+0.0.0.0 lhe-beacon.team-rec.jp
 0.0.0.0 lhevhb.hjgreek.com
 0.0.0.0 lhewdj.fnac.pt
 0.0.0.0 lhinsights.com

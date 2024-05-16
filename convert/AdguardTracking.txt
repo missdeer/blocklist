@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 15 May 2024 04:24:53 UTC
+# Last converted - Thu, 16 May 2024 04:20:35 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -66898,6 +66898,7 @@
 0.0.0.0 temail.tonybet.lv
 0.0.0.0 temails.productnotice.thomsonreuters.com
 0.0.0.0 temasekpolytechnic.tt.omtrdc.net
+0.0.0.0 temp.twicomi.com
 0.0.0.0 tempatwisatasekitar.tt.omtrdc.net
 0.0.0.0 tempstaff.tt.omtrdc.net
 0.0.0.0 temptation.ad.nl

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 16 May 2024 04:20:35 UTC
+# Last converted - Fri, 17 May 2024 04:24:28 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -53459,6 +53459,7 @@
 0.0.0.0 nxslink.yourbasin.com
 0.0.0.0 nxslink.yourerie.com
 0.0.0.0 nxwniq.aboutyou.ie
+0.0.0.0 ny77jj.washingtonpost.com
 0.0.0.0 nyctrl32.com
 0.0.0.0 nycwfz.kigili.com
 0.0.0.0 nyhed.danskespil.dk
@@ -63285,6 +63286,7 @@
 0.0.0.0 sponsored.com
 0.0.0.0 spoods.rce.veeseo.com
 0.0.0.0 spoonbill.shawnprice.com
+0.0.0.0 spoor-api.ft.com
 0.0.0.0 sporing.vessi.no
 0.0.0.0 sportsmanguide.tt.omtrdc.net
 0.0.0.0 sportsnet.ca.ssl.sc.tt.omtrdc.net
@@ -71940,6 +71942,7 @@
 0.0.0.0 ultund.misterspex.nl
 0.0.0.0 ulvnnuysex.32.17.241crackle.hb.tt.omtrdc.net
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
+0.0.0.0 umami.is
 0.0.0.0 umazvs.raybiotech.com
 0.0.0.0 umbel.com
 0.0.0.0 umdlbn.globetrotter.de

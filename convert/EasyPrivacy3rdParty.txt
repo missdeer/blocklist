@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 17 May 2024 04:24:32 UTC
+# Last converted - Sat, 18 May 2024 04:24:03 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -853,6 +853,7 @@
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 pap.qualityunit.com
+0.0.0.0 parallax.askmediagroup.com
 0.0.0.0 partners.etoro.com
 0.0.0.0 pbjs-stream.bydata.com
 0.0.0.0 pegasus.unifygroup.com
@@ -937,6 +938,7 @@
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.stripe.com
 0.0.0.0 ramp.purch.com
+0.0.0.0 rampjs-cdn.system1.com
 0.0.0.0 rc.vtex.com.br
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 realm.hearst3pcc.com
@@ -1175,6 +1177,7 @@
 0.0.0.0 telemetry.vtex.com
 0.0.0.0 test.takedwn.ws
 0.0.0.0 timejs.game.163.com
+0.0.0.0 tk.pathmonk.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com

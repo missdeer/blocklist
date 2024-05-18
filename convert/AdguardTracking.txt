@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 17 May 2024 04:24:28 UTC
+# Last converted - Sat, 18 May 2024 04:24:06 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -8181,6 +8181,7 @@
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dealmoon.com
+0.0.0.0 analytics.denimdream.com
 0.0.0.0 analytics.developer.riotgames.com
 0.0.0.0 analytics.digitalpfizer.com
 0.0.0.0 analytics.directenergy.ca
@@ -13078,6 +13079,7 @@
 0.0.0.0 count.nuanyuehanxing.com
 0.0.0.0 count.rin.ru
 0.0.0.0 count.rtl.de
+0.0.0.0 count.sibbo.net
 0.0.0.0 count24.de
 0.0.0.0 countar.de
 0.0.0.0 countby.com
@@ -50084,6 +50086,8 @@
 0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.aksorn.com
 0.0.0.0 matomo.cloudfront.similarweb.io
+0.0.0.0 matomo.menshealth.de
+0.0.0.0 matomo.motorpresse.de
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io
 0.0.0.0 matomo.unicaf.org
@@ -58897,6 +58901,7 @@
 0.0.0.0 sensorsdata.cn
 0.0.0.0 sentifi.com
 0.0.0.0 sentiment.icis.com
+0.0.0.0 sentinelbi.com
 0.0.0.0 sentry.eks.hoyoverse.com
 0.0.0.0 sentry01.zerg.rambler.ru
 0.0.0.0 seo-master.net

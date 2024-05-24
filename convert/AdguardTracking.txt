@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 23 May 2024 04:24:12 UTC
+# Last converted - Fri, 24 May 2024 04:25:18 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3830,6 +3830,7 @@
 0.0.0.0 analytics.verfacto.com
 0.0.0.0 analytics.verizon.com
 0.0.0.0 analytics.verizonwireless.com
+0.0.0.0 analytics.vg
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginaustralia.com
 0.0.0.0 analytics.virginmobileusa.com
@@ -5787,6 +5788,7 @@
 0.0.0.0 c4tw.net
 0.0.0.0 c615.denverpost.com
 0.0.0.0 c75jfa9x96.www.bolighub.dk
+0.0.0.0 c950.chronicle.com
 0.0.0.0 c993.westport-news.com
 0.0.0.0 ca-api.cafe24data.com
 0.0.0.0 ca.clubavantages.net
@@ -7963,6 +7965,7 @@
 0.0.0.0 d1stxfv94hrhia.cloudfront.net
 0.0.0.0 d1tprjo2w7krrh.cloudfront.net
 0.0.0.0 d1tracker.ru
+0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 d1uy7uzra011au.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
@@ -31698,6 +31701,7 @@
 0.0.0.0 forbes.realclearpolitics.com
 0.0.0.0 force24.co.uk
 0.0.0.0 forecast.lemonde.fr
+0.0.0.0 forecast.nouvelobs.com
 0.0.0.0 forensics1000.com
 0.0.0.0 foreseeresults.com
 0.0.0.0 forex.americanexpress.com

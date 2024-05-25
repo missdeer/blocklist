@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 24 May 2024 04:25:18 UTC
+# Last converted - Sat, 25 May 2024 04:24:07 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3408,6 +3408,7 @@
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 analytics.corusent.com
+0.0.0.0 analytics.cosmonova.net
 0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.crea.ca
 0.0.0.0 analytics.cycleworld.com
@@ -3482,6 +3483,7 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.gewaterheater.com
 0.0.0.0 analytics.githubassets.com
+0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.gnetworks.xyz
 0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
@@ -31964,7 +31966,6 @@
 0.0.0.0 fulmar.net.anwalt.de
 0.0.0.0 fun-hits.com
 0.0.0.0 fun.healthybenefitstoday.com
-0.0.0.0 functionalclam.com
 0.0.0.0 fundraising.centuryresources.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 funneld.com
@@ -38412,6 +38413,7 @@
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.tf.co.kr
 0.0.0.0 log.tiktokv.com
+0.0.0.0 log.tossinvest.com
 0.0.0.0 log.tpns.gz2.tencent.com
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.trackingio.com
@@ -44788,6 +44790,7 @@
 0.0.0.0 oracle.marketingcube.com.au
 0.0.0.0 oracle.samedayhealth.info
 0.0.0.0 oracleinfinity.io
+0.0.0.0 orangeclickmedia.com
 0.0.0.0 oranges88.com
 0.0.0.0 orangutan.equaliteam.com
 0.0.0.0 orangutan.renovare.org
@@ -46335,6 +46338,7 @@
 0.0.0.0 pqlmae.lamaisonduchocolat.co.jp
 0.0.0.0 pqn7.cheque-dejeuner.fr
 0.0.0.0 pqrede.fiatprofessional.com
+0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr-chart.com
 0.0.0.0 pr-chart.de
 0.0.0.0 pr-linktausch.de

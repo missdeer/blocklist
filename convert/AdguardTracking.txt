@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 26 May 2024 04:26:44 UTC
+# Last converted - Mon, 27 May 2024 04:25:32 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -5129,6 +5129,7 @@
 0.0.0.0 backlink-test.de
 0.0.0.0 backlinkdino.de
 0.0.0.0 backoffice.verintsystemsinc.com
+0.0.0.0 backstory.ebay.
 0.0.0.0 bacon.getcarro.com
 0.0.0.0 badger.pager.app
 0.0.0.0 badwolf.open-election-compass.com
@@ -11994,6 +11995,7 @@
 0.0.0.0 edgeadx.net
 0.0.0.0 edgedc.falabella.com
 0.0.0.0 edgeresolver001-bgp-02-sin6.net.mydays.de
+0.0.0.0 edgetrksvc.ebay.
 0.0.0.0 edgrmtracking.com
 0.0.0.0 ediemidnightzombies.com
 0.0.0.0 edigitalsurvey.com

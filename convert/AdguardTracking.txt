@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 28 May 2024 04:26:32 UTC
+# Last converted - Wed, 29 May 2024 04:26:17 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3675,6 +3675,7 @@
 0.0.0.0 analytics.qualcomm.com
 0.0.0.0 analytics.qualityquestions.co
 0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.qushad.com
 0.0.0.0 analytics.ramiyer.io
 0.0.0.0 analytics.ramiyer.me
 0.0.0.0 analytics.ratioform.ch
@@ -6051,6 +6052,7 @@
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdp.vemt.com
 0.0.0.0 cdrive.compellent.com
+0.0.0.0 ce.x-opt.io
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
 0.0.0.0 ceggfe.msc-kreuzfahrten.de
@@ -11436,6 +11438,7 @@
 0.0.0.0 doporuc.hopsej.cz
 0.0.0.0 doporuc.konferenceryba.cz
 0.0.0.0 doporucim.zjistitcenu.cz
+0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
 0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 dormouse.consentkit.com
@@ -34034,6 +34037,7 @@
 0.0.0.0 hyybul.kaskus.co.id
 0.0.0.0 hzeetn.natalie.mu
 0.0.0.0 hzoouw.s-re.jp
+0.0.0.0 hzstats.com
 0.0.0.0 hzuheh.palcloset.jp
 0.0.0.0 hzymxd.nocibe.fr
 0.0.0.0 hzzyhl.jobs.ch
@@ -36564,6 +36568,7 @@
 0.0.0.0 ladybug.paulstovell.com
 0.0.0.0 laidback.laidbacklondon.com
 0.0.0.0 lake.joongang.co.kr
+0.0.0.0 lake.studydrive.net
 0.0.0.0 lakerspreferences.gleague.nba.com
 0.0.0.0 lakerspreferences.nba.com
 0.0.0.0 lamprey.carolcassar.com
@@ -46296,6 +46301,7 @@
 0.0.0.0 plausible.regex.help
 0.0.0.0 plausible.retune.de
 0.0.0.0 plausible.sbw.org
+0.0.0.0 plausible.scimago.es
 0.0.0.0 plausible.shadygrovepca.org
 0.0.0.0 plausible.simplelogin.io
 0.0.0.0 plausible.srijn.net
@@ -63763,5 +63769,6 @@
 0.0.0.0 zzaoea.costacrociere.it
 0.0.0.0 zzqyxd.smartpozyczka.pl
 0.0.0.0 zzsqqx.shopjapan.co.jp
+0.0.0.0 |esv2.com
 0.0.0.0 |mailgun.org
 0.0.0.0 |piwik.

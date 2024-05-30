@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 29 May 2024 04:26:14 UTC
+# Last converted - Thu, 30 May 2024 04:28:57 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -642,6 +642,7 @@
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com
+0.0.0.0 tracking.rocketleague.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.unrealengine.com
@@ -674,6 +675,7 @@
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 w3-reporting.reddit.com
+0.0.0.0 w6.chabad.org
 0.0.0.0 w740.newstimes.com
 0.0.0.0 wa.childrensplace.com
 0.0.0.0 wa.gmx.co.uk

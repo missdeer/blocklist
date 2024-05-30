@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 29 May 2024 04:26:16 UTC
+# Last converted - Thu, 30 May 2024 04:28:54 UTC
 #
 
 0.0.0.0 33across.com
@@ -101,6 +101,7 @@
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
+0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andmlb.kshwtj.com
 0.0.0.0 android-stat.acestream.net
@@ -483,6 +484,7 @@
 0.0.0.0 onthe.io
 0.0.0.0 open.oneplus.net
 0.0.0.0 openstat.net
+0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com
 0.0.0.0 pangle-b.io
@@ -510,6 +512,7 @@
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 puds.ucweb.com
+0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 px.ucweb.com
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 quantcount.com

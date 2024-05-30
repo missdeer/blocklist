@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 29 May 2024 04:26:17 UTC
+# Last converted - Thu, 30 May 2024 04:28:52 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3861,6 +3861,7 @@
 0.0.0.0 analytics.wienerberger.se
 0.0.0.0 analytics.wienerberger.si
 0.0.0.0 analytics.wienerberger.sk
+0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.winter.ink
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.wrc.nic.in
@@ -6851,6 +6852,7 @@
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.babybus.com
 0.0.0.0 collect.banggood.com
+0.0.0.0 collect.biomedcentral.com
 0.0.0.0 collect.blishtech.co
 0.0.0.0 collect.cap.ch
 0.0.0.0 collect.elvia.ch
@@ -31155,6 +31157,7 @@
 0.0.0.0 epnfoq.cyberpowersystem.co.uk
 0.0.0.0 epost.linasmatkasse.se
 0.0.0.0 eproof.com
+0.0.0.0 eproof.drudgereport.com
 0.0.0.0 eps-analyzer.de
 0.0.0.0 epwa.europarl.europa.eu
 0.0.0.0 eq-beacon.stream.co.jp
@@ -44889,6 +44892,7 @@
 0.0.0.0 openmonitor.alipay.com
 0.0.0.0 openrate.aweber.com
 0.0.0.0 openstat.net
+0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 opentracker.net
 0.0.0.0 opentracking.ru
 0.0.0.0 openvenue.com
@@ -46779,6 +46783,7 @@
 0.0.0.0 purpose.maxizoo.fr
 0.0.0.0 purpose.maxizoo.ie
 0.0.0.0 purpose.maxizoo.pl
+0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 push2check.com
 0.0.0.0 putphc.zuhre.com.tr

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 30 May 2024 04:28:52 UTC
+# Last converted - Fri, 31 May 2024 04:26:12 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -5768,6 +5768,7 @@
 0.0.0.0 c4tracking01.com
 0.0.0.0 c4tw.net
 0.0.0.0 c615.denverpost.com
+0.0.0.0 c677.wisn.com
 0.0.0.0 c950.chronicle.com
 0.0.0.0 c993.westport-news.com
 0.0.0.0 ca-api.cafe24data.com
@@ -11669,7 +11670,9 @@
 0.0.0.0 e2.thedailybeast.com
 0.0.0.0 e20d8e38992b.o3n.io
 0.0.0.0 e2e.mashable.com
+0.0.0.0 e459.kcci.com
 0.0.0.0 e5obq1v261.www.lurkit.com
+0.0.0.0 e993.wlky.com
 0.0.0.0 ea.armandthiery.fr
 0.0.0.0 ea.assuronline.com
 0.0.0.0 ea.auchantelecom.fr
@@ -31650,6 +31653,7 @@
 0.0.0.0 f164.sheltonherald.com
 0.0.0.0 f1in5ezgvh-dsn.net.mydays.de
 0.0.0.0 f2.voyage-prive.com
+0.0.0.0 f361.wvtm13.com
 0.0.0.0 f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
 0.0.0.0 f4cebacks.com
 0.0.0.0 f775.thehour.com
@@ -33310,6 +33314,7 @@
 0.0.0.0 gzlxvg.papy.co.jp
 0.0.0.0 h.cloudengage.com
 0.0.0.0 h00c.sfr.fr
+0.0.0.0 h019.wtae.com
 0.0.0.0 h031.familydollar.com
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h5.eagllwin.com
@@ -35972,6 +35977,7 @@
 0.0.0.0 j.northbeam.io
 0.0.0.0 j.uralweb.ru
 0.0.0.0 j158.hearstmediact.com
+0.0.0.0 j178.wmur.com
 0.0.0.0 j198.registercitizen.com
 0.0.0.0 j2i0.mathon.fr
 0.0.0.0 j927.statnews.com
@@ -36257,6 +36263,7 @@
 0.0.0.0 k.voyageursdumonde.ca
 0.0.0.0 k.voyageursdumonde.ch
 0.0.0.0 k.voyageursdumonde.fr
+0.0.0.0 k030.koco.com
 0.0.0.0 k2.market-search.online
 0.0.0.0 k50.ru
 0.0.0.0 ka.ilius.net
@@ -39239,6 +39246,7 @@
 0.0.0.0 m4zoxtrcea1k.controlconceptsusa.com
 0.0.0.0 m6c4t9vmqarj.www.cefirates.com
 0.0.0.0 m6r.eu
+0.0.0.0 m886.kmbc.com
 0.0.0.0 ma.a3.se
 0.0.0.0 ma.axiomatics.com
 0.0.0.0 ma.betterbusiness.se
@@ -45179,6 +45187,7 @@
 0.0.0.0 p543.inquirer.com
 0.0.0.0 p593.seattlepi.com
 0.0.0.0 p5mcwdbu.ginzo-buy.jp
+0.0.0.0 p769.wgal.com
 0.0.0.0 p7h1silo3f.app.cainthus.com
 0.0.0.0 pa-oa.com
 0.0.0.0 pa-stats.encore.dev
@@ -45941,6 +45950,7 @@
 0.0.0.0 pear.ca-eko-globetrotter.fr
 0.0.0.0 pear.youzful-by-ca.fr
 0.0.0.0 peards.zevvle.com
+0.0.0.0 pearldiver.io
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pecukirom.com
 0.0.0.0 peerius.com
@@ -46836,6 +46846,7 @@
 0.0.0.0 q.happycustomer.io
 0.0.0.0 q.nasdaq.com
 0.0.0.0 q4l5gz6lqog6.www.eventus.io
+0.0.0.0 q511.wpbf.com
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 qa-babylink.zola.com
 0.0.0.0 qa-events-schema.viacom.tech
@@ -47047,6 +47058,7 @@
 0.0.0.0 r.superhuman.com
 0.0.0.0 r.tylercourtney.com
 0.0.0.0 r1ztni.oui.sncf
+0.0.0.0 r255.wmtw.com
 0.0.0.0 r2r.utas.edu.au
 0.0.0.0 r451.jamanetwork.com
 0.0.0.0 r4nds.absorba.com
@@ -48104,6 +48116,7 @@
 0.0.0.0 s4e8.cascades.com
 0.0.0.0 s5sender.usertesting.com
 0.0.0.0 s615419487.sc.origins.en25.com
+0.0.0.0 s811.ketv.com
 0.0.0.0 s861531437.sc.origins.en25.com
 0.0.0.0 sa.adidas.ae
 0.0.0.0 sa.adidas.be
@@ -56274,6 +56287,7 @@
 0.0.0.0 t4e.sainsburys.co.uk
 0.0.0.0 t4ft.de
 0.0.0.0 t570.wiltonbulletin.com
+0.0.0.0 t733.wjcl.com
 0.0.0.0 t7baxp1xmw00.boxoffice.adventuretix.com
 0.0.0.0 t8.mailperformance.com
 0.0.0.0 t810.ctpost.com
@@ -61080,6 +61094,7 @@
 0.0.0.0 trout.openfpl.com
 0.0.0.0 trout.travelmassive.com
 0.0.0.0 trout.unicornplatform.com
+0.0.0.0 trovo-tag.com
 0.0.0.0 troyan.needler.space
 0.0.0.0 trpkktzakr.easyjet.com.cpanel.net.easyjet.com
 0.0.0.0 trpzjj.hrkgame.com
@@ -61232,12 +61247,15 @@
 0.0.0.0 u.landing.ni.com
 0.0.0.0 u.vw-driveeasy.com
 0.0.0.0 u.zhugeapi.net
+0.0.0.0 u082.wapt.com
 0.0.0.0 u0crsrah75fy.camberlion.com
 0.0.0.0 u566.chron.com
+0.0.0.0 u578.wlwt.com
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 u939.colgate.com
+0.0.0.0 u999.wcvb.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uaas.yandex.ru
 0.0.0.0 uac.khan.co.kr
@@ -61598,6 +61616,7 @@
 0.0.0.0 v.oney.es
 0.0.0.0 v.oui.sncf
 0.0.0.0 v.shopify.com
+0.0.0.0 v066.wxii12.com
 0.0.0.0 v1.business-search.online
 0.0.0.0 v1.market-search.online
 0.0.0.0 v1.newsearches.online
@@ -61607,6 +61626,7 @@
 0.0.0.0 v2.business-search.online
 0.0.0.0 v2.market-search.online
 0.0.0.0 v2.newsearches.online
+0.0.0.0 v225.ksbw.com
 0.0.0.0 v3.fstats.xyz
 0.0.0.0 v3.market-search.online
 0.0.0.0 v3cdn.net
@@ -62039,6 +62059,7 @@
 0.0.0.0 vzynem.lamporochljus.se
 0.0.0.0 w.ilfattoquotidiano.it
 0.0.0.0 w020.newmilfordspectrum.com
+0.0.0.0 w110.kcra.com
 0.0.0.0 w1jesu6.package12.com
 0.0.0.0 w3-reporting-nel.reddit.com
 0.0.0.0 w3-reporting.reddit.com
@@ -63346,6 +63367,7 @@
 0.0.0.0 y.getmorelocalhelp.com
 0.0.0.0 y.ksl.com
 0.0.0.0 y.one.impact-ad.jp
+0.0.0.0 y000.wyff4.com
 0.0.0.0 y1.arte.tv
 0.0.0.0 y4e04gql5o1b.www.nookgaming.com
 0.0.0.0 y653.theridgefieldpress.com

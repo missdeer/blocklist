@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Thu, 30 May 2024 04:28:57 UTC
+# Last converted - Fri, 31 May 2024 04:26:07 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -204,7 +204,6 @@
 0.0.0.0 advertur.ru
 0.0.0.0 advil.waze.com
 0.0.0.0 advombat.ru
-0.0.0.0 adwods.com
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 adx-tk.rayjump.com
@@ -572,7 +571,6 @@
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mobilefuse.com
-0.0.0.0 mobon.com
 0.0.0.0 mobondhrd.appspot.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 mobpowertech.com

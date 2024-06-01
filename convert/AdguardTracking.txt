@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 31 May 2024 04:26:12 UTC
+# Last converted - Sat, 01 Jun 2024 04:24:47 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -335,6 +335,7 @@
 0.0.0.0 a013.com
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 a1.api.bbc.com
+0.0.0.0 a11ybar.com
 0.0.0.0 a1webstrategy.com
 0.0.0.0 a3.ogt.jp
 0.0.0.0 a7e.monnierfreres.de
@@ -47932,6 +47933,7 @@
 0.0.0.0 rum-metrics.bunny.net
 0.0.0.0 rum.conde.io
 0.0.0.0 rum.condenastdigital.com
+0.0.0.0 rum.corewebvitals.io
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumanalytics.com
 0.0.0.0 rumstat.cdnvideo.ru
@@ -60348,6 +60350,7 @@
 0.0.0.0 trackside.redbull.racing
 0.0.0.0 tracksmart.se
 0.0.0.0 tracksrv.zdf.de
+0.0.0.0 trackszn.median.eu
 0.0.0.0 trackuity.com
 0.0.0.0 trackv-test.esearchvision.com
 0.0.0.0 trackvoluum.com

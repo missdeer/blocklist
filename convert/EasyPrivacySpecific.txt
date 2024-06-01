@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 31 May 2024 04:26:15 UTC
+# Last converted - Sat, 01 Jun 2024 04:24:42 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -503,6 +503,7 @@
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 sofa.bankofamerica.com
+0.0.0.0 sofire.terabox.app
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com

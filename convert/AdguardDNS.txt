@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Fri, 31 May 2024 04:26:15 UTC
+# Last converted - Sat, 01 Jun 2024 04:24:44 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -57,6 +57,7 @@
 0.0.0.0 06a21eff24.com
 0.0.0.0 06e293435c.com
 0.0.0.0 070880.com
+0.0.0.0 072551.xyz
 0.0.0.0 072c4580e8.com
 0.0.0.0 0760571ca9.com
 0.0.0.0 079301eaff0975107716716fd1cb0dcd.com
@@ -294,8 +295,10 @@
 0.0.0.0 1437953666.rsc.cdn77.org
 0.0.0.0 1441085683.rsc.cdn77.org
 0.0.0.0 1473763790.rsc.cdn77.org
+0.0.0.0 1482434718.rsc.cdn77.org
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 1492697327.rsc.cdn77.org
+0.0.0.0 1498195232.rsc.cdn77.org
 0.0.0.0 14cpoff22.de
 0.0.0.0 14f72e5e3d.com
 0.0.0.0 14fa20230523.live
@@ -369,6 +372,7 @@
 0.0.0.0 1aqi93ml4.de
 0.0.0.0 1b14e0ee42d5e195c9aa1a2f5b42c710.com
 0.0.0.0 1b264a0ca0.com
+0.0.0.0 1b32caa655.com
 0.0.0.0 1b3tmfcbq.de
 0.0.0.0 1b8873d66e.com
 0.0.0.0 1b969cef84d93b43.com
@@ -552,6 +556,7 @@
 0.0.0.0 231dasda3dsd.aniyae.com
 0.0.0.0 234f6ce965.com
 0.0.0.0 23dhj4q.com
+0.0.0.0 23oct2023.site
 0.0.0.0 24-7-vidientu.com
 0.0.0.0 24-7bank.com
 0.0.0.0 24-sportnews.com
@@ -1258,6 +1263,7 @@
 0.0.0.0 6pal.consobaby.com
 0.0.0.0 6ped2nd3yp.com
 0.0.0.0 6qu5dcmyumtw.com
+0.0.0.0 6rn05mmbct.ru
 0.0.0.0 6sc.co
 0.0.0.0 6slb0.cyou
 0.0.0.0 6snjvxkawrtolv2x.pro
@@ -1801,6 +1807,7 @@
 0.0.0.0 a1.zhanzhang.net
 0.0.0.0 a11d3c1b4d.com
 0.0.0.0 a11k.com
+0.0.0.0 a11ybar.com
 0.0.0.0 a14net.com
 0.0.0.0 a14refresh.com
 0.0.0.0 a14tdsa.com
@@ -1943,6 +1950,7 @@
 0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 ab93t2kc.de
 0.0.0.0 ab97114bda.com
+0.0.0.0 abadit5rckb.com
 0.0.0.0 abamatoyer.com
 0.0.0.0 abandonrecommendationwars.com
 0.0.0.0 abange.com
@@ -9508,6 +9516,7 @@
 0.0.0.0 bfgacxuooced.com
 0.0.0.0 bfgtfxd.com
 0.0.0.0 bfjk360.com
+0.0.0.0 bfjsliv.top
 0.0.0.0 bfjszxzfvf.com
 0.0.0.0 bflybplr.xyz
 0.0.0.0 bfmio.com
@@ -9652,6 +9661,7 @@
 0.0.0.0 biemedia.com
 0.0.0.0 biettainhimua2.wixsite.com
 0.0.0.0 biettaitihonvietnam2021.weebly.com
+0.0.0.0 bifnosblfdpslg.xyz
 0.0.0.0 biforinslogs.life
 0.0.0.0 biftoast.com
 0.0.0.0 bifyeldv.top
@@ -12235,6 +12245,7 @@
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.logsnag.com
 0.0.0.0 cdn.matomo.cloud
+0.0.0.0 cdn.mcnn.pl
 0.0.0.0 cdn.mdigital.co.il
 0.0.0.0 cdn.mediatradecraft.com
 0.0.0.0 cdn.memo.co
@@ -13076,6 +13087,7 @@
 0.0.0.0 cision.com
 0.0.0.0 cisiwa.site
 0.0.0.0 ciststoquets.space
+0.0.0.0 citadelpathstatue.com
 0.0.0.0 citatumpity.com
 0.0.0.0 citi-vietnam.com
 0.0.0.0 citivay.org
@@ -15969,6 +15981,7 @@
 0.0.0.0 d1jwpd11ofhd5g.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
+0.0.0.0 d1k8mqc61fowi.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1ktmtailsv07c.cloudfront.net
@@ -17231,6 +17244,7 @@
 0.0.0.0 dblks.net
 0.0.0.0 dbnsd2viud.xyz
 0.0.0.0 dbnwlp.xyz
+0.0.0.0 dbnxlpbtoqec.com
 0.0.0.0 dbplygoi.com
 0.0.0.0 dbpxivi.xyz
 0.0.0.0 dbqlghadltookjo.xyz
@@ -17900,6 +17914,7 @@
 0.0.0.0 dffrahax.com
 0.0.0.0 dfg6.top
 0.0.0.0 dfgbalon.com
+0.0.0.0 dfgfdffg.cn
 0.0.0.0 dfgpifa.com
 0.0.0.0 dfgwer.com
 0.0.0.0 dfgymtx.icu
@@ -18961,6 +18976,7 @@
 0.0.0.0 doo6pwib3qngu.cloudfront.net
 0.0.0.0 doo9gpa5xdov2.cloudfront.net
 0.0.0.0 doobaupu.xyz
+0.0.0.0 doobuphoo.com
 0.0.0.0 doochoor.xyz
 0.0.0.0 doodlelegitimatebracelet.com
 0.0.0.0 doodoaru.net
@@ -21359,6 +21375,7 @@
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.twyn.com
+0.0.0.0 et5k413t.rest
 0.0.0.0 etahub.com
 0.0.0.0 etapescaisse.com
 0.0.0.0 etarg.ru
@@ -22543,6 +22560,7 @@
 0.0.0.0 fccinteractive.com
 0.0.0.0 fccomvn.com
 0.0.0.0 fcdqlnmsoi.com
+0.0.0.0 fcepahafyq.com
 0.0.0.0 fcgmoas.cn
 0.0.0.0 fcgxidqwcx.xyz
 0.0.0.0 fcharacaena.com
@@ -22940,6 +22958,7 @@
 0.0.0.0 fiercedental.com
 0.0.0.0 fiercefacetwidely.com
 0.0.0.0 fiercequips.com
+0.0.0.0 fieryinjure.com
 0.0.0.0 fierymint.com
 0.0.0.0 fierysolemncow.com
 0.0.0.0 fieslobwg.com
@@ -25679,6 +25698,7 @@
 0.0.0.0 glurdoat.com
 0.0.0.0 glursihi.net
 0.0.0.0 gluteinavarch.com
+0.0.0.0 glutenmuttsensuous.com
 0.0.0.0 gluttonstayaccomplishment.com
 0.0.0.0 gluttonybrand.com
 0.0.0.0 gluttonybuzzingtroubled.com
@@ -26774,6 +26794,7 @@
 0.0.0.0 gxpvnveyqowm.com
 0.0.0.0 gxqjvuhsk.com
 0.0.0.0 gxqzz.7766.org
+0.0.0.0 gxtmsmni.com
 0.0.0.0 gxuhoeynwghjd.com
 0.0.0.0 gxvaunase.com
 0.0.0.0 gxvpfppyktgaeo.com
@@ -27799,6 +27820,7 @@
 0.0.0.0 himselfthoughtless.com
 0.0.0.0 himselves.com
 0.0.0.0 himselvesobr.club
+0.0.0.0 himunpracticalwh.info
 0.0.0.0 hinaprecent.info
 0.0.0.0 hinavvogha.com
 0.0.0.0 hindervoting.com
@@ -28087,6 +28109,7 @@
 0.0.0.0 hoisquit.buzz
 0.0.0.0 hokarsoud.com
 0.0.0.0 hokierloopy.digital
+0.0.0.0 holahupa.com
 0.0.0.0 holdenthusiastichalt.com
 0.0.0.0 holder.com.ua
 0.0.0.0 holdhostel.space
@@ -33084,6 +33107,7 @@
 0.0.0.0 kpyerxzn.xyz
 0.0.0.0 kq6lwk3m9g.ru
 0.0.0.0 kqbrgl.icu
+0.0.0.0 kqduogttdmryguw.com
 0.0.0.0 kqhi97lf.de
 0.0.0.0 kqiivrxlal.xyz
 0.0.0.0 kqjpipl.com
@@ -33338,6 +33362,7 @@
 0.0.0.0 kycxhgrp.xyz
 0.0.0.0 kydzfldt.xyz
 0.0.0.0 kyefakwa.com
+0.0.0.0 kyemwo.xyz
 0.0.0.0 kygcfvtjrawv.com
 0.0.0.0 kygfocnbvlaa.com
 0.0.0.0 kygftx.xyz
@@ -33647,6 +33672,7 @@
 0.0.0.0 latheendsmoo.com
 0.0.0.0 lathilusted.top
 0.0.0.0 latinchiniks.digital
+0.0.0.0 latinwayy.com
 0.0.0.0 latkelotong.top
 0.0.0.0 latonaheyday.space
 0.0.0.0 latrinehelves.com
@@ -42888,6 +42914,7 @@
 0.0.0.0 overzubatan.com
 0.0.0.0 ovfjiktdr.com
 0.0.0.0 ovfvkfc.xyz
+0.0.0.0 ovgjveaokedo.xyz
 0.0.0.0 ovgzbnjj.com
 0.0.0.0 ovhacmobpval.com
 0.0.0.0 ovhkfewhyqiz.com
@@ -43822,6 +43849,7 @@
 0.0.0.0 peeringinvasion.com
 0.0.0.0 peerius.com
 0.0.0.0 peesopit.net
+0.0.0.0 peesteso.xyz
 0.0.0.0 peethach.com
 0.0.0.0 peethobo.com
 0.0.0.0 peevishaboriginalzinc.com
@@ -44013,6 +44041,7 @@
 0.0.0.0 persianrank.ir
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
+0.0.0.0 persicrejolt.com
 0.0.0.0 persistarcticthese.com
 0.0.0.0 persistbrittle.com
 0.0.0.0 perso.aws.arc.pub
@@ -46546,6 +46575,7 @@
 0.0.0.0 pubianmending.space
 0.0.0.0 pubimageboard.com
 0.0.0.0 publi.atresmediapublicidad.com
+0.0.0.0 publi.elliberal.com.ar
 0.0.0.0 public-gcs.subiz-cdn.com
 0.0.0.0 public.adgger.jp
 0.0.0.0 public.porn.fr
@@ -47553,6 +47583,7 @@
 0.0.0.0 queergatewayeasier.com
 0.0.0.0 queersodadults.com
 0.0.0.0 queersynonymlunatic.com
+0.0.0.0 queerygenets.com
 0.0.0.0 queiajowan.com
 0.0.0.0 quellaplentyresolute.com
 0.0.0.0 quellbustle.com
@@ -47814,6 +47845,7 @@
 0.0.0.0 r.z3.fm
 0.0.0.0 r023m83skv5v.com
 0.0.0.0 r0wa9z6t8t.ru
+0.0.0.0 r1.ati.su
 0.0.0.0 r20.club
 0.0.0.0 r202cop.xyz
 0.0.0.0 r255.wmtw.com
@@ -48151,6 +48183,7 @@
 0.0.0.0 rczudr.xyz
 0.0.0.0 rd-cdnp.name
 0.0.0.0 rd.alice.it
+0.0.0.0 rdairclewestoratesa.info
 0.0.0.0 rdbd.xsread.com
 0.0.0.0 rdbousn.cn
 0.0.0.0 rddsjx.xyz
@@ -50626,6 +50659,7 @@
 0.0.0.0 satirevegetableshaw.com
 0.0.0.0 satisfactionretirechatterbox.com
 0.0.0.0 satisfactorilyfigured.com
+0.0.0.0 satisfied-tour.pro
 0.0.0.0 satoripedary.com
 0.0.0.0 sattiewitter.top
 0.0.0.0 saturatecats.com
@@ -50970,6 +51004,8 @@
 0.0.0.0 sda.seesaa.jp
 0.0.0.0 sda.seksohub.com
 0.0.0.0 sda.tamdiem247.com
+0.0.0.0 sdarot-il.org
+0.0.0.0 sdarot.cc
 0.0.0.0 sdarotil.top
 0.0.0.0 sdasasyydd.com
 0.0.0.0 sdata.wiley.com
@@ -54887,6 +54923,7 @@
 0.0.0.0 stimtavy.net
 0.0.0.0 stimulateartificial.com
 0.0.0.0 stimulatemosque.com
+0.0.0.0 stimulatinggrocery.pro
 0.0.0.0 stingeantonia.com
 0.0.0.0 stinglackingrent.com
 0.0.0.0 stingystoopedsuccession.com
@@ -59106,6 +59143,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 trackstracker.com
 0.0.0.0 tracksystem.online
+0.0.0.0 trackszn.median.eu
 0.0.0.0 tracktds.com
 0.0.0.0 tracktds.live
 0.0.0.0 tracktilldeath.club
@@ -60619,6 +60657,7 @@
 0.0.0.0 umqiapzsc.com
 0.0.0.0 umqqfyqkjlxrh.xyz
 0.0.0.0 umrstfl.cn
+0.0.0.0 umtudo.com
 0.0.0.0 umuotov.com
 0.0.0.0 umvibwqrumfqk.com
 0.0.0.0 umwiba.com
@@ -61088,6 +61127,7 @@
 0.0.0.0 upstandingmoscow.com
 0.0.0.0 upstats.ru
 0.0.0.0 upstory.it
+0.0.0.0 upsups.click
 0.0.0.0 upsweephalms.com
 0.0.0.0 upswingmethyl.com
 0.0.0.0 upta16theu.cfd
@@ -61316,6 +61356,7 @@
 0.0.0.0 usvkfwth.xyz
 0.0.0.0 uswardwot.com
 0.0.0.0 usxuyr.icu
+0.0.0.0 usyliet.top
 0.0.0.0 usylkoifiwa.com
 0.0.0.0 ut.gamersyde.com
 0.0.0.0 ut13r.online
@@ -62203,6 +62244,7 @@
 0.0.0.0 vexedkindergarten.com
 0.0.0.0 vexevutus.com
 0.0.0.0 vexilorath.com
+0.0.0.0 vexolinu.com
 0.0.0.0 vextjoexig.com
 0.0.0.0 vezetmne.ru
 0.0.0.0 vezizey.xyz
@@ -64279,6 +64321,7 @@
 0.0.0.0 webstats.pixcell.ch
 0.0.0.0 webstats.sapo.pt
 0.0.0.0 webstats.thaindian.com
+0.0.0.0 webstats1.com
 0.0.0.0 webstats4u.com
 0.0.0.0 webtalking.ru
 0.0.0.0 webteam.co.il
@@ -64996,6 +65039,7 @@
 0.0.0.0 wkpewkejefefhm.com
 0.0.0.0 wkpfgjbmd.com
 0.0.0.0 wkqcnkstso.com
+0.0.0.0 wkqqdchbbz.com
 0.0.0.0 wkrcbszi.xyz
 0.0.0.0 wkrhel.icu
 0.0.0.0 wkuave.com
@@ -65522,6 +65566,7 @@
 0.0.0.0 wurfl.io
 0.0.0.0 wurqaz.com
 0.0.0.0 wuruigroup.com
+0.0.0.0 wurwhydimo.com
 0.0.0.0 wussucko.com
 0.0.0.0 wutcifjtapa.com
 0.0.0.0 wutienitme247.info
@@ -65576,6 +65621,7 @@
 0.0.0.0 wwgqqq.com
 0.0.0.0 wwhnjrg.com
 0.0.0.0 wwhsxwow.xyz
+0.0.0.0 wwicnmksxd.com
 0.0.0.0 wwija.com
 0.0.0.0 wwjtdjj.cn
 0.0.0.0 wwkedpbh4lwdmq16okwhiteiim9nwpds2.com
@@ -66367,6 +66413,7 @@
 0.0.0.0 xwagtyhujov.com
 0.0.0.0 xwcfvvnegv.com
 0.0.0.0 xwcumrmfkdkbv.com
+0.0.0.0 xwdjnj.xyz
 0.0.0.0 xwdplfo.com
 0.0.0.0 xwdsp.com
 0.0.0.0 xwlidjauhdxzx.com
@@ -66578,6 +66625,7 @@
 0.0.0.0 ycctxwachqke.com
 0.0.0.0 yceml.net
 0.0.0.0 ycgkol.icu
+0.0.0.0 ycgmnpp.icu
 0.0.0.0 ycgy8888.com
 0.0.0.0 ychkujj.cn
 0.0.0.0 yclost.com

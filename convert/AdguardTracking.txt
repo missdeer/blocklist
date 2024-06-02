@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 01 Jun 2024 04:24:47 UTC
+# Last converted - Sun, 02 Jun 2024 04:25:49 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -58917,6 +58917,7 @@
 0.0.0.0 track.mail.respond.io
 0.0.0.0 track.mail.upcoach.com
 0.0.0.0 track.mailer.kiwischools.co.nz
+0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mailgun.hosteeva.com
 0.0.0.0 track.mailing.auctiontime.com
 0.0.0.0 track.mailing.controller.com

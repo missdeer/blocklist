@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 04 Jun 2024 04:24:34 UTC
+# Last converted - Wed, 05 Jun 2024 04:27:26 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3670,6 +3670,7 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.plumbworld.co.uk
 0.0.0.0 analytics.pnc.com
+0.0.0.0 analytics.poferries.com
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.polaris.com
 0.0.0.0 analytics.pollardwater.com

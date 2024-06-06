@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 05 Jun 2024 04:27:26 UTC
+# Last converted - Thu, 06 Jun 2024 04:24:51 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -6889,6 +6889,7 @@
 0.0.0.0 collect.nature.com
 0.0.0.0 collect.rtl.lu
 0.0.0.0 collect.serious.li
+0.0.0.0 collect.stepstone.co.uk
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collect.vans.com.cn
 0.0.0.0 collect2.allianz.ch

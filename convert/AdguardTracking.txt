@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 06 Jun 2024 04:24:51 UTC
+# Last converted - Fri, 07 Jun 2024 04:26:21 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -2057,6 +2057,7 @@
 0.0.0.0 ad.bench.utorrent.com
 0.0.0.0 ad.buzzinsite.com
 0.0.0.0 ad.crystalclearoptions.com
+0.0.0.0 ad.dl.mz.de
 0.0.0.0 ad.dreamachieveinspiretoday.com
 0.0.0.0 ad.droptheknow.com
 0.0.0.0 ad.duttak.com
@@ -30342,7 +30343,6 @@
 0.0.0.0 felidae.mysuperportal.com
 0.0.0.0 felidae.theforeignarchitect.com
 0.0.0.0 felix.data.tm-awx.com
-0.0.0.0 feliz.data.tm-awx.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 feppiu.systemaction.es
 0.0.0.0 feqbqn.rent.com
@@ -41107,6 +41107,7 @@
 0.0.0.0 metrics.stockhead.com.au
 0.0.0.0 metrics.store.irobot.com
 0.0.0.0 metrics.strategiccoach.com
+0.0.0.0 metrics.streaks.jp
 0.0.0.0 metrics.striderite.com
 0.0.0.0 metrics.strokeawareness.com
 0.0.0.0 metrics.stubhub.co.uk
@@ -55642,6 +55643,7 @@
 0.0.0.0 topmalaysia.com
 0.0.0.0 topofblogs.com
 0.0.0.0 topsite.lv
+0.0.0.0 topspin.npo.nl
 0.0.0.0 topstat.com
 0.0.0.0 torbit.com
 0.0.0.0 toro-tags.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 07 Jun 2024 04:26:21 UTC
+# Last converted - Sat, 08 Jun 2024 04:25:24 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3530,6 +3530,7 @@
 0.0.0.0 analytics.joincambridge.com
 0.0.0.0 analytics.jslib.win
 0.0.0.0 analytics.jst.ai
+0.0.0.0 analytics.junia.ai
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.karakuri.ai
@@ -6065,6 +6066,7 @@
 0.0.0.0 cdn.teleportapi.com
 0.0.0.0 cdn.tercept.com
 0.0.0.0 cdn.topmind.io
+0.0.0.0 cdn.track.olx.com.br
 0.0.0.0 cdn.trackclicks.info
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.userleap.com
@@ -38131,6 +38133,7 @@
 0.0.0.0 managedaccounts.pacificpower.net
 0.0.0.0 managedaccounts.rockymountainpower.net
 0.0.0.0 manager.met.vgwort.de
+0.0.0.0 manalyticshub.com
 0.0.0.0 manatee.biodom.bio
 0.0.0.0 manatee.creativepassport.net
 0.0.0.0 mandant.net.anwalt.de
@@ -45161,6 +45164,7 @@
 0.0.0.0 pxgpnp.angara.com
 0.0.0.0 pxi.pub
 0.0.0.0 pxjkbj.bostonproper.com
+0.0.0.0 pxl.knam.pro
 0.0.0.0 pxl.retaku.net
 0.0.0.0 pxlctl.elpais.com
 0.0.0.0 pxmzlk.redfin.com

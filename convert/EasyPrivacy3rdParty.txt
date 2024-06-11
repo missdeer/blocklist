@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 10 Jun 2024 04:28:06 UTC
+# Last converted - Tue, 11 Jun 2024 04:26:26 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -39,6 +39,7 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
+0.0.0.0 anal.sataniskwijt.be
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
@@ -72,6 +73,7 @@
 0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cmn.com
+0.0.0.0 analytics.code.dccouncil.gov
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.contentexchange.me
 0.0.0.0 analytics.convertlanguage.com
@@ -342,6 +344,7 @@
 0.0.0.0 count.carrierzone.com
 0.0.0.0 count.me.uk
 0.0.0.0 count.paycounter.com
+0.0.0.0 count.vidsrc.pro
 0.0.0.0 count.xxxssk.com
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cam-content.com
@@ -652,6 +655,10 @@
 0.0.0.0 gleam.io
 0.0.0.0 go.activengage.com
 0.0.0.0 go.toutapp.com
+0.0.0.0 goat.hepicgamerz.com
+0.0.0.0 goat.nhimmeo.cf
+0.0.0.0 goat.skeetstats.xyz
+0.0.0.0 goat.tailspace.net
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gtmfsstatic.getgoogletagmanager.com
@@ -1028,6 +1035,7 @@
 0.0.0.0 ssr.streamrail.net
 0.0.0.0 st.cdnco.us
 0.0.0.0 st.linkfire.com
+0.0.0.0 st.mapleranks.com
 0.0.0.0 staging-pt.ispot.tv
 0.0.0.0 starman.fathomdns.com
 0.0.0.0 stas.outbrain.com
@@ -1051,9 +1059,11 @@
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-messages.gifs.com
 0.0.0.0 stats-newyork1.bloxcms.com
+0.0.0.0 stats.afrocave.com
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
+0.0.0.0 stats.boringproxy.io
 0.0.0.0 stats.bradmax.com
 0.0.0.0 stats.callnowbutton.com
 0.0.0.0 stats.cmcigroup.com
@@ -1065,6 +1075,7 @@
 0.0.0.0 stats.fomo.com
 0.0.0.0 stats.gifs.com
 0.0.0.0 stats.heyoya.com
+0.0.0.0 stats.how.wtf
 0.0.0.0 stats.inergizedigitalmedia.com
 0.0.0.0 stats.itweb.co.za
 0.0.0.0 stats.kaltura.com

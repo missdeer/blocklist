@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 11 Jun 2024 04:26:26 UTC
+# Last converted - Wed, 12 Jun 2024 04:25:10 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -29826,6 +29826,7 @@
 0.0.0.0 geo.met.vgwort.de
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.query.yahoo.com
+0.0.0.0 geo.wpforms.com
 0.0.0.0 geo.xcel.io
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geobeacon.ign.com

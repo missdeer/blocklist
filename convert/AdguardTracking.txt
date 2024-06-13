@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 12 Jun 2024 04:25:10 UTC
+# Last converted - Thu, 13 Jun 2024 04:25:35 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -43810,6 +43810,7 @@
 0.0.0.0 plausible.nickmazuk.com
 0.0.0.0 plausible.nmyvsn.net
 0.0.0.0 plausible.nuqu.org
+0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.promlens.com
 0.0.0.0 plausible.prufit.co
 0.0.0.0 plausible.pumpkint.com

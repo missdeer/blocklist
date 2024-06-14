@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 13 Jun 2024 04:25:35 UTC
+# Last converted - Fri, 14 Jun 2024 04:25:12 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -31376,6 +31376,7 @@
 0.0.0.0 houseandgarden.e.aremedia.com.au
 0.0.0.0 houseandgarden.e.bauer-media.com.au
 0.0.0.0 houston-content.cresa.com
+0.0.0.0 houston.advgo.net
 0.0.0.0 hoverfly.1pageimpact.com.au
 0.0.0.0 hoverfly.cdengine.co.uk
 0.0.0.0 hoverfly.dailyblocks.tv
@@ -36218,6 +36219,7 @@
 0.0.0.0 logs.juspay.in
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.ntvplus.tv
+0.0.0.0 logs.openbank.com
 0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.spilgames.com
@@ -39012,6 +39014,7 @@
 0.0.0.0 mercadeo.promerica.fi.cr
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercent.com
+0.0.0.0 merchant-center-analytics.goog
 0.0.0.0 merchant-mail.neosurf.com
 0.0.0.0 mercury.coupang.com
 0.0.0.0 mergle.berwham.site

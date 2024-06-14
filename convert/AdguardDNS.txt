@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Thu, 13 Jun 2024 04:25:32 UTC
+# Last converted - Fri, 14 Jun 2024 04:25:11 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -203,6 +203,7 @@
 0.0.0.0 101m3.com
 0.0.0.0 102320fef81194c7b0c7c6bbe64d845d.com
 0.0.0.0 1024mzs.pw
+0.0.0.0 1028images.com
 0.0.0.0 103092804.com
 0.0.0.0 103bees.com
 0.0.0.0 1048358656.rsc.cdn77.org
@@ -1058,6 +1059,7 @@
 0.0.0.0 530d4fe852707f9c754106c40642dbba.com
 0.0.0.0 532xcxypmpnp.com
 0.0.0.0 536fbeeea4.com
+0.0.0.0 537images1.com
 0.0.0.0 539f346355.com
 0.0.0.0 53c2dtzsj7t1.top
 0.0.0.0 53ynh.xyz
@@ -1283,6 +1285,7 @@
 0.0.0.0 71ec0646e6.com
 0.0.0.0 722cba612c.com
 0.0.0.0 7253d56acf.com
+0.0.0.0 7299tu75.cc
 0.0.0.0 729drainer.com
 0.0.0.0 72hdgb5o.de
 0.0.0.0 73-j-pinnable.com
@@ -1419,6 +1422,7 @@
 0.0.0.0 82b5cc6199.com
 0.0.0.0 82zcb.icu
 0.0.0.0 8353e36c2a.com
+0.0.0.0 835images1.com
 0.0.0.0 83u7q.top
 0.0.0.0 845d6bbf60.com
 0.0.0.0 847h7f51.de
@@ -12009,6 +12013,7 @@
 0.0.0.0 cc954a8da8.com
 0.0.0.0 cca63f7d30.com
 0.0.0.0 ccaahdancza.com
+0.0.0.0 ccccc67kkkkk.com
 0.0.0.0 cccpmo.com
 0.0.0.0 ccdneniusruhebl.com
 0.0.0.0 ccdrofvofrfkqah.com
@@ -15992,6 +15997,7 @@
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
 0.0.0.0 d1zjpzpoh45wtm.cloudfront.net
 0.0.0.0 d1zjr9cc2zx7cg.cloudfront.net
+0.0.0.0 d1zoi2q7y0e4d.cloudfront.net
 0.0.0.0 d1zrs4deyai5xm.cloudfront.net
 0.0.0.0 d1zw85ny9dtn37.cloudfront.net
 0.0.0.0 d1zw8evbrw553l.cloudfront.net
@@ -34920,6 +34926,7 @@
 0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.ntvplus.tv
+0.0.0.0 logs.openbank.com
 0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.sanchoikns.vn
@@ -36778,6 +36785,7 @@
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercatos.ru
 0.0.0.0 mercent.com
+0.0.0.0 merchant-center-analytics.goog
 0.0.0.0 merchenta.com
 0.0.0.0 mercialtaver.club
 0.0.0.0 mercifulsurveysurpass.com
@@ -37119,6 +37127,7 @@
 0.0.0.0 migimsas.net
 0.0.0.0 mignished-sility.com
 0.0.0.0 mignonsniper.com
+0.0.0.0 migo011.top
 0.0.0.0 migopwrajhca.com
 0.0.0.0 migrantacknowledged.com
 0.0.0.0 migrantfarewellmoan.com
@@ -59385,6 +59394,7 @@
 0.0.0.0 tuoitre24h.info
 0.0.0.0 tuoizbtl.xyz
 0.0.0.0 tuotianxia.top
+0.0.0.0 tupian6666.com
 0.0.0.0 tuplzt.xyz
 0.0.0.0 tupwiwm.com
 0.0.0.0 tuqizi.uno
@@ -60865,6 +60875,7 @@
 0.0.0.0 uu1.3gu.com
 0.0.0.0 uu11881.com
 0.0.0.0 uu22002.com
+0.0.0.0 uu22112.com
 0.0.0.0 uu22332.com
 0.0.0.0 uu22662.com
 0.0.0.0 uu3192uu.com
@@ -60894,6 +60905,7 @@
 0.0.0.0 uunfybw.cn
 0.0.0.0 uuoizbtl.xyz
 0.0.0.0 uuudqhialb.com
+0.0.0.0 uuuutp.com
 0.0.0.0 uuuzuu.xyz
 0.0.0.0 uuvzmba.cn
 0.0.0.0 uuxfznnf.xyz
@@ -65597,6 +65609,7 @@
 0.0.0.0 xn--shopmllutv-cx3e.vn
 0.0.0.0 xn--shoptienzombe-mw2g.vn
 0.0.0.0 xn--shptruongstar-4w2g.com
+0.0.0.0 xn--w9q675dm1p7em.net
 0.0.0.0 xn--wgvp78a61swpe6zdozj.cn
 0.0.0.0 xn--xhq326apqhcx0d.cn
 0.0.0.0 xn--zw0autp42d.cn
@@ -65825,6 +65838,7 @@
 0.0.0.0 xwugjjomnhuuxq.com
 0.0.0.0 xwvnhe.cn
 0.0.0.0 xwxqdfmlsgir.com
+0.0.0.0 xx3691b.com
 0.0.0.0 xxbeyqowtdjgqr.com
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxcpsqquegwmi.com
@@ -65868,6 +65882,7 @@
 0.0.0.0 xxxvipporno.com
 0.0.0.0 xxxvjmp.com
 0.0.0.0 xxxwebtraffic.com
+0.0.0.0 xxxx68xxxx.com
 0.0.0.0 xxxxxxxx.jp
 0.0.0.0 xxyolk.com
 0.0.0.0 xy33.smallable.com

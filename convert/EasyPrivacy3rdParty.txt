@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 15 Jun 2024 04:26:06 UTC
+# Last converted - Sun, 16 Jun 2024 04:24:30 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -28,6 +28,7 @@
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsolutions.com
+0.0.0.0 adv-analytics-collector.videograph.ai
 0.0.0.0 affiliate-api.raptive.com
 0.0.0.0 affiliates.minglematch.com
 0.0.0.0 akatracking.esearchvision.com

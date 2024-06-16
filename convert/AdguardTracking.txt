@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 15 Jun 2024 04:26:05 UTC
+# Last converted - Sun, 16 Jun 2024 04:24:29 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -44318,6 +44318,7 @@
 0.0.0.0 pwkrakanmet.met.gov.my
 0.0.0.0 pwrlkyotm.com
 0.0.0.0 pwtftm.shingaku.mynavi.jp
+0.0.0.0 px.adfulplatform.com
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.gfycat.com

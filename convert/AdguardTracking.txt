@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 19 Jun 2024 04:25:43 UTC
+# Last converted - Thu, 20 Jun 2024 04:24:23 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -52094,6 +52094,7 @@
 0.0.0.0 stattrax.com
 0.0.0.0 statun.com
 0.0.0.0 statuncore.com
+0.0.0.0 status.techtarget.itmedia.co.jp
 0.0.0.0 statuscake.com
 0.0.0.0 statwup.huya.com
 0.0.0.0 statwup.nimo.tv

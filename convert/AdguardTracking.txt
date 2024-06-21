@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 20 Jun 2024 04:24:23 UTC
+# Last converted - Fri, 21 Jun 2024 04:25:37 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3724,6 +3724,7 @@
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.soluforce.com
 0.0.0.0 analytics.sona-mira.co.jp
+0.0.0.0 analytics.sonjj.com
 0.0.0.0 analytics.southpointcasino.com
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.spark.co.nz
@@ -4772,6 +4773,7 @@
 0.0.0.0 au-partners.ingrammicro.com
 0.0.0.0 au.interface.com
 0.0.0.0 au.mywd.com
+0.0.0.0 au1.qualtrics.com
 0.0.0.0 aucqdk.autodoc.es
 0.0.0.0 auctiveltrk.com
 0.0.0.0 aud.ayvens.com

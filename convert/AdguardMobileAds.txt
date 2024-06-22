@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 21 Jun 2024 04:25:32 UTC
+# Last converted - Sat, 22 Jun 2024 04:24:17 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -694,6 +694,7 @@
 0.0.0.0 rtblab.net
 0.0.0.0 ruuaqkw.com
 0.0.0.0 s-adx.op-mobile.opera.com
+0.0.0.0 s-odx.oleads.com
 0.0.0.0 s.adx.opera.com
 0.0.0.0 s.hisp.in
 0.0.0.0 s3.ttpsdk.info

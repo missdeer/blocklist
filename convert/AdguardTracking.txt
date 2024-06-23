@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 22 Jun 2024 04:24:13 UTC
+# Last converted - Sun, 23 Jun 2024 04:24:08 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -34438,7 +34438,6 @@
 0.0.0.0 levexis.com
 0.0.0.0 lewis.gct.com
 0.0.0.0 lexip.4pcdn.de
-0.0.0.0 lexip.4players.de
 0.0.0.0 lexity.com
 0.0.0.0 lexvek.gap.ae
 0.0.0.0 leynqj.newport.se
@@ -43167,7 +43166,6 @@
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.4pcdn.de
-0.0.0.0 pixel.4players.de
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
@@ -52298,7 +52296,6 @@
 0.0.0.0 submit.vaisala.com
 0.0.0.0 submitnet.net
 0.0.0.0 subnarcotic.stockaded.uno
-0.0.0.0 subpixel.4players.de
 0.0.0.0 subs.newsprogram.org
 0.0.0.0 subscribe.adpinfo.com
 0.0.0.0 subscribe.dnv.com

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Mon, 24 Jun 2024 04:25:10 UTC
+# Last converted - Tue, 25 Jun 2024 04:24:48 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -1280,6 +1280,7 @@
 0.0.0.0 6likosy.com
 0.0.0.0 6pal.consobaby.com
 0.0.0.0 6ped2nd3yp.com
+0.0.0.0 6pznpz.com
 0.0.0.0 6qu5dcmyumtw.com
 0.0.0.0 6rn05mmbct.ru
 0.0.0.0 6sc.co
@@ -4801,6 +4802,7 @@
 0.0.0.0 afoaglux.com
 0.0.0.0 afodreet.net
 0.0.0.0 afootwitword.com
+0.0.0.0 afopr.cn
 0.0.0.0 afosseel.net
 0.0.0.0 afp.ai
 0.0.0.0 afp.chinanews.com
@@ -6677,7 +6679,6 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bytebrew.io
-0.0.0.0 api.cazamba.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 api.country.is
 0.0.0.0 api.data-analytics.pokemon.com
@@ -6711,6 +6712,7 @@
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.pubfinity.com
+0.0.0.0 api.sardine.ai
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
@@ -6728,6 +6730,7 @@
 0.0.0.0 api.valista.io
 0.0.0.0 api.widget.zalo.me
 0.0.0.0 api.wipmania.com
+0.0.0.0 api168168.com
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.boclinkads.com
 0.0.0.0 api2.branch.io
@@ -8401,6 +8404,8 @@
 0.0.0.0 baifen.music.baidu.com
 0.0.0.0 baifendian.com
 0.0.0.0 baijav.com
+0.0.0.0 baijs02.xyz
+0.0.0.0 baijs03.xyz
 0.0.0.0 baikalize.com
 0.0.0.0 bailedgatheringmirth.com
 0.0.0.0 bailedperiodic.com
@@ -8876,6 +8881,7 @@
 0.0.0.0 bd11.nipic.com
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd4travel.com
+0.0.0.0 bd51static.com
 0.0.0.0 bd5a57.xyz
 0.0.0.0 bd742.com
 0.0.0.0 bd888.qizuang.com
@@ -12053,6 +12059,7 @@
 0.0.0.0 cayrtgavy.xyz
 0.0.0.0 cayucaoidwlfe.com
 0.0.0.0 cayusesalaite.top
+0.0.0.0 cazamba.com
 0.0.0.0 cazibiukiyoe.com
 0.0.0.0 cb-content.com
 0.0.0.0 cb.baidu.com
@@ -15156,6 +15163,7 @@
 0.0.0.0 creptdeservedprofanity.com
 0.0.0.0 cresfpho2ntesepapillo3.com
 0.0.0.0 cresivetanach.com
+0.0.0.0 cresqoirz.com
 0.0.0.0 cressbank.com
 0.0.0.0 crestfallenwall.com
 0.0.0.0 crestfidubank.com
@@ -18778,6 +18786,7 @@
 0.0.0.0 dnn4px252i5wx.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnnwebuxps.com
+0.0.0.0 dnpalh.xyz
 0.0.0.0 dnpnemyntetpj.com
 0.0.0.0 dnre5xkn2r25r.cloudfront.net
 0.0.0.0 dns-clientinfo.cbsivideo.com
@@ -19060,6 +19069,7 @@
 0.0.0.0 douhooke.net
 0.0.0.0 doujs01.xyz
 0.0.0.0 doujs02.xyz
+0.0.0.0 doujs03.xyz
 0.0.0.0 doukoula.com
 0.0.0.0 doumuleet.net
 0.0.0.0 douoblelimpup.com
@@ -22055,6 +22065,7 @@
 0.0.0.0 eyfivnokubyhmy.xyz
 0.0.0.0 eyharae.com
 0.0.0.0 eyhcervzexp.com
+0.0.0.0 eyislow.top
 0.0.0.0 eyjouer.com
 0.0.0.0 eyjvq.xyz
 0.0.0.0 eylepgswsnyyd.com
@@ -25933,6 +25944,7 @@
 0.0.0.0 google-ads.hara.vn
 0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
+0.0.0.0 google-js-01.xyz
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
@@ -32219,7 +32231,6 @@
 0.0.0.0 kaqhfijxlkbfa.xyz
 0.0.0.0 kar-sentry.karnameh.com
 0.0.0.0 karafutem.com
-0.0.0.0 karanpc.com
 0.0.0.0 karayarillock.cam
 0.0.0.0 kargo.com
 0.0.0.0 karlhalved.com
@@ -36641,6 +36652,7 @@
 0.0.0.0 mcfstats.com
 0.0.0.0 mcgtrack.herokuapp.com
 0.0.0.0 mci1.co.kr
+0.0.0.0 mcighme.icu
 0.0.0.0 mcinyaqeaeyrhf.com
 0.0.0.0 mcizas.com
 0.0.0.0 mckensecuryr.info
@@ -37600,6 +37612,7 @@
 0.0.0.0 miu78.me
 0.0.0.0 miuo.cloud
 0.0.0.0 miveci.uno
+0.0.0.0 miwfkm.xyz
 0.0.0.0 miwllmo.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixandfun.com
@@ -40667,6 +40680,7 @@
 0.0.0.0 noureewo.com
 0.0.0.0 nourishinghorny.com
 0.0.0.0 nourishmentrespective.com
+0.0.0.0 nouveau-digital.com
 0.0.0.0 nouveaulain.com
 0.0.0.0 nouvhidtxryveg.com
 0.0.0.0 nov.evmenov37.ru
@@ -46966,6 +46980,7 @@
 0.0.0.0 qdlyqbpzfkl.com
 0.0.0.0 qdmil.com
 0.0.0.0 qdogpcfgejgc.com
+0.0.0.0 qdoshby.top
 0.0.0.0 qdotzfy.com
 0.0.0.0 qdprapwflpvxpyl.com
 0.0.0.0 qdrmui.com
@@ -50162,6 +50177,7 @@
 0.0.0.0 s.autopilotapp.com
 0.0.0.0 s.baomoi.xdn.vn
 0.0.0.0 s.beop.io
+0.0.0.0 s.cartbooster.io
 0.0.0.0 s.clicktex.ru
 0.0.0.0 s.cntqk.com
 0.0.0.0 s.cntqk.vn

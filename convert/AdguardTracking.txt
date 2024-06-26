@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 25 Jun 2024 04:24:45 UTC
+# Last converted - Wed, 26 Jun 2024 04:26:36 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -4084,6 +4084,7 @@
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-websystems.landing.ni.com
 0.0.0.0 api.acquirewithus.com
+0.0.0.0 api.ad-platform.jmty.jp
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.all-internet.jp

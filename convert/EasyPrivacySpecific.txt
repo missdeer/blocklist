@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 26 Jun 2024 04:26:38 UTC
+# Last converted - Thu, 27 Jun 2024 04:28:03 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -28,6 +28,7 @@
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-proxy.springboard.com
+0.0.0.0 analytics-server.arras.cx
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-wcms.joins.net
 0.0.0.0 analytics-zone-1.api.leadfamly.com

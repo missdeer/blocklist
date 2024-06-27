@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 26 Jun 2024 04:26:36 UTC
+# Last converted - Thu, 27 Jun 2024 04:28:07 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -6978,7 +6978,6 @@
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.ghostery.net
-0.0.0.0 collector-pxfqtaw5et.px-client.net
 0.0.0.0 collector-statistics.nhn-commerce.com
 0.0.0.0 collector.betway.be
 0.0.0.0 collector.betway.com
@@ -28121,6 +28120,7 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event-tracking.deliverr.com
+0.0.0.0 event.api.drift.com
 0.0.0.0 event.boozallen.com
 0.0.0.0 event.chitai-gorod.ru
 0.0.0.0 event.collector.scopely.io
@@ -37931,6 +37931,7 @@
 0.0.0.0 matomo.cloudfront.similarweb.io
 0.0.0.0 matomo.menshealth.de
 0.0.0.0 matomo.motorpresse.de
+0.0.0.0 matomo.promobil.de
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io
 0.0.0.0 matomo.unicaf.org
@@ -38460,6 +38461,7 @@
 0.0.0.0 metrics.antena3.com
 0.0.0.0 metrics.anthem.com
 0.0.0.0 metrics.apartments.com
+0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.api.yle.fi
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.argenta.be
@@ -42741,6 +42743,7 @@
 0.0.0.0 pixel.ipinfo.io
 0.0.0.0 pixel.lilystyle.ai
 0.0.0.0 pixel.locker2.com
+0.0.0.0 pixel.mintigo.com
 0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.nur.kz
 0.0.0.0 pixel.pcworld.com
@@ -53398,6 +53401,7 @@
 0.0.0.0 target.zinia.com
 0.0.0.0 targetab.metrobyt-mobile.com
 0.0.0.0 targetfuel.com
+0.0.0.0 targeting.api.drift.com
 0.0.0.0 targeting.tbt.arcpublishing.com
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 targetlr.adobe.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 27 Jun 2024 04:28:07 UTC
+# Last converted - Fri, 28 Jun 2024 04:25:05 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -38373,6 +38373,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-broker.prod.p.tf1.fr
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
+0.0.0.0 metrics-fe-na1.hubspot.com
 0.0.0.0 metrics-go.experian.com
 0.0.0.0 metrics-ieeexplore.ieee.org
 0.0.0.0 metrics-logger.spot.im
@@ -38530,6 +38531,7 @@
 0.0.0.0 metrics.beveragedaily.com
 0.0.0.0 metrics.beyondwords.io
 0.0.0.0 metrics.bhf.org.uk
+0.0.0.0 metrics.biddertmz.com
 0.0.0.0 metrics.biletino.com
 0.0.0.0 metrics.billmelater.com
 0.0.0.0 metrics.biocompare.com
@@ -38724,6 +38726,7 @@
 0.0.0.0 metrics.dollargeneral.com
 0.0.0.0 metrics.dominos.com.tr
 0.0.0.0 metrics.donaldson.com
+0.0.0.0 metrics.doppiostreams.com
 0.0.0.0 metrics.dreamvacationweek.com
 0.0.0.0 metrics.drklein.de
 0.0.0.0 metrics.droidsc.natwest.com
@@ -38930,6 +38933,7 @@
 0.0.0.0 metrics.ifc.org
 0.0.0.0 metrics.iij.ad.jp
 0.0.0.0 metrics.ikea.com
+0.0.0.0 metrics.imdb.a2z.com
 0.0.0.0 metrics.industryweek.com
 0.0.0.0 metrics.inet.fi
 0.0.0.0 metrics.infiniti.com
@@ -40006,6 +40010,7 @@
 0.0.0.0 model1.hedgeye.com
 0.0.0.0 model2.hedgeye.com
 0.0.0.0 modernus.is
+0.0.0.0 moduleanalysis.aliexpress.com
 0.0.0.0 mohamed.net.anwalt.de
 0.0.0.0 mokuz.ru
 0.0.0.0 mole.bteam.co

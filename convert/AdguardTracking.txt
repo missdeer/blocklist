@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 28 Jun 2024 04:25:05 UTC
+# Last converted - Sat, 29 Jun 2024 04:26:12 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -2489,6 +2489,7 @@
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtlgc.com
+0.0.0.0 adtrack.adleadevent.com
 0.0.0.0 adtrack.alchemy-web.jp
 0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.loracle.jp
@@ -6979,6 +6980,7 @@
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.ghostery.net
 0.0.0.0 collector-statistics.nhn-commerce.com
+0.0.0.0 collector.appconsent.io
 0.0.0.0 collector.betway.be
 0.0.0.0 collector.betway.com
 0.0.0.0 collector.brandify.com
@@ -40911,6 +40913,7 @@
 0.0.0.0 nsmetrics.themercury.com.au
 0.0.0.0 nsmetrics.vogue.com.au
 0.0.0.0 nsstatistics.calphalon.com
+0.0.0.0 nst.trex.media
 0.0.0.0 nstclj.rubylane.com
 0.0.0.0 nsteq.queensland.com
 0.0.0.0 nstracking.com
@@ -42746,6 +42749,7 @@
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.ipinfo.io
+0.0.0.0 pixel.kodixauto.ru
 0.0.0.0 pixel.lilystyle.ai
 0.0.0.0 pixel.locker2.com
 0.0.0.0 pixel.mintigo.com
@@ -43451,6 +43455,7 @@
 0.0.0.0 python.jukejuke.app
 0.0.0.0 pytxsn.najlacnejsisport.sk
 0.0.0.0 pywiia.lfmall.co.kr
+0.0.0.0 pyxis.atp.fox
 0.0.0.0 pyxjkx.springjapan.com
 0.0.0.0 pzajdh.guicheweb.com.br
 0.0.0.0 pzd.rakuten.co.jp
@@ -43687,6 +43692,7 @@
 0.0.0.0 r.popin.cc
 0.0.0.0 r.powuta.com
 0.0.0.0 r.rbc.ru
+0.0.0.0 r.sib2.gardrops.com
 0.0.0.0 r.superhuman.com
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r255.wmtw.com

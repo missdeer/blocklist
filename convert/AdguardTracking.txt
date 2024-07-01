@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 30 Jun 2024 04:24:22 UTC
+# Last converted - Mon, 01 Jul 2024 04:25:28 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -42805,6 +42805,7 @@
 0.0.0.0 pkiawn.konvy.com
 0.0.0.0 pkimbc.bestsecret.com
 0.0.0.0 pkmvjx.my-store.ch
+0.0.0.0 pks-analytics.raenonx.cc
 0.0.0.0 pktbag.flighthub.com
 0.0.0.0 pktytp.membershop.lv
 0.0.0.0 pl-go.experian.com

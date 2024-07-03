@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 02 Jul 2024 04:26:38 UTC
+# Last converted - Wed, 03 Jul 2024 04:25:01 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -55886,6 +55886,7 @@
 0.0.0.0 track.amazewindows.com
 0.0.0.0 track.amazinggracepro.com
 0.0.0.0 track.amazinghonestreviews.com
+0.0.0.0 track.amebame.com
 0.0.0.0 track.americanlifenow.com
 0.0.0.0 track.americansassistances.org
 0.0.0.0 track.americansongwriter.com
@@ -56081,6 +56082,7 @@
 0.0.0.0 track.floraxil.com
 0.0.0.0 track.floraxiloficial.com
 0.0.0.0 track.floraxiloriginal.fun
+0.0.0.0 track.fluffyfalcon.com
 0.0.0.0 track.foire-deparis.com
 0.0.0.0 track.followdreamdrivedomain.com
 0.0.0.0 track.foreverideal.com

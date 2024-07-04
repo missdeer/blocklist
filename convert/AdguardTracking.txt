@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 03 Jul 2024 04:25:01 UTC
+# Last converted - Thu, 04 Jul 2024 04:25:06 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -8249,6 +8249,7 @@
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 daraz.com
+0.0.0.0 dash.zintrack.com
 0.0.0.0 dashboard.io
 0.0.0.0 dasych.drmartypets.com
 0.0.0.0 data-0034231193.apps.iocnt.de
@@ -45050,6 +45051,7 @@
 0.0.0.0 revi.rcs.it
 0.0.0.0 review.teradata.com
 0.0.0.0 revolvermaps.com
+0.0.0.0 revotas.com
 0.0.0.0 revprotect.com
 0.0.0.0 rewardtv.com
 0.0.0.0 reydrj.kozaczek.pl

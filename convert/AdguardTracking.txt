@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 04 Jul 2024 04:25:06 UTC
+# Last converted - Fri, 05 Jul 2024 04:27:08 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3550,6 +3550,7 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.freemake.com
+0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.fs-bdash.com
 0.0.0.0 analytics.futuro360.com
 0.0.0.0 analytics.gamedatacrunch.com
@@ -6517,6 +6518,7 @@
 0.0.0.0 click.redditmail.com
 0.0.0.0 click.redtrk.hotusnews.com
 0.0.0.0 click.reply.energeticnlp.com
+0.0.0.0 click.revolut.com
 0.0.0.0 click.riseyourrealm.com
 0.0.0.0 click.rollouki.com
 0.0.0.0 click.rooferstopprogression.com
@@ -14915,6 +14917,7 @@
 0.0.0.0 email.bisontrails.co
 0.0.0.0 email.bissellcentre.org
 0.0.0.0 email.bistromd.com
+0.0.0.0 email.bitbank.cc
 0.0.0.0 email.bitcoincasino.io
 0.0.0.0 email.bitcoincasino.us
 0.0.0.0 email.bitcoincasinoaff.com
@@ -29830,6 +29833,7 @@
 0.0.0.0 giraffe.talktalent.com
 0.0.0.0 giraffe.viatorci.com
 0.0.0.0 git.now-wec.monster
+0.0.0.0 github.com%2Fnotifications%2Fbeacon%2F
 0.0.0.0 givoiq.nichiigakkan-careerplus.jp
 0.0.0.0 gixmo.dk
 0.0.0.0 gizsyj.thegrommet.com
@@ -34171,6 +34175,7 @@
 0.0.0.0 lfapbe.quiksilver.co.jp
 0.0.0.0 lfbowp.talisa.com
 0.0.0.0 lfercl.tcb-beauty.net
+0.0.0.0 lfmetrics.loyalfans.com
 0.0.0.0 lfmhcb.sefamerve.com
 0.0.0.0 lfn.lfg.com
 0.0.0.0 lfov.net
@@ -35319,6 +35324,7 @@
 0.0.0.0 link.redbookmag.com
 0.0.0.0 link.redfeatherromance.com
 0.0.0.0 link.redonline.co.uk
+0.0.0.0 link.redsift.com%2Fe%2Fo%2F
 0.0.0.0 link.reesesbookclub.com
 0.0.0.0 link.regcompliancewatch.com
 0.0.0.0 link.regissalons.com
@@ -36768,6 +36774,7 @@
 0.0.0.0 magpie.phil.dev
 0.0.0.0 magshop.e.aremedia.co.nz
 0.0.0.0 magshop.e.aremedia.com.au
+0.0.0.0 mail-count.matsui.co.jp
 0.0.0.0 mail-customer.cremedelacreme.io
 0.0.0.0 mail-link.nofluffjobs.com
 0.0.0.0 mail-link.wearpact.com

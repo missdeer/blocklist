@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 05 Jul 2024 04:27:08 UTC
+# Last converted - Sat, 06 Jul 2024 04:25:06 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -43343,6 +43343,7 @@
 0.0.0.0 pdsssl.gmarket.co.kr
 0.0.0.0 pduwvp.chanti.dk
 0.0.0.0 pdzutf.sftworks.jp
+0.0.0.0 peach-analytics.vercel.app
 0.0.0.0 peacock.psych.help
 0.0.0.0 peafowl.projectstrackt.dev
 0.0.0.0 peak.happy-healthy-lives.com
@@ -44355,6 +44356,7 @@
 0.0.0.0 qnwkbv.bestsecret.nl
 0.0.0.0 qnzczf.idc-otsuka.jp
 0.0.0.0 qoairs.scholl-shoes.com
+0.0.0.0 qobuz.surveysparrow.com
 0.0.0.0 qohlsl.drawer.fr
 0.0.0.0 qoijertneio.com
 0.0.0.0 qonwdq.helmexpress.com
@@ -51025,6 +51027,7 @@
 0.0.0.0 sruk.srglobal.com
 0.0.0.0 srv.mail.suresitter.com
 0.0.0.0 srv.stackadapt.com
+0.0.0.0 srvr.dmvs-apac.com
 0.0.0.0 srvtrck.com
 0.0.0.0 ss.azuremagazine.com
 0.0.0.0 ss.musthird.com
@@ -58474,6 +58477,7 @@
 0.0.0.0 tweetdeck.net.anwalt.de
 0.0.0.0 twin-iq.kickfire.com
 0.0.0.0 twistairclub.net.anwalt.de
+0.0.0.0 twitter.com%2Fscribe%2Fibis%3Ft%3D
 0.0.0.0 twiz.wizaly.co.uk
 0.0.0.0 twiz.wizaly.fr
 0.0.0.0 twjobq.sixt.com

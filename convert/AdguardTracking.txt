@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 07 Jul 2024 04:24:27 UTC
+# Last converted - Mon, 08 Jul 2024 04:26:56 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3307,6 +3307,7 @@
 0.0.0.0 anaconda.venturearc.io
 0.0.0.0 anaconda.webitizeicts.com
 0.0.0.0 anaconda.zephyrus.gg
+0.0.0.0 anal.doubledouble.top
 0.0.0.0 analitits.com
 0.0.0.0 analoganalytics.com
 0.0.0.0 analy.qq.com

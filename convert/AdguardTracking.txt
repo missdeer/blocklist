@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 09 Jul 2024 04:25:07 UTC
+# Last converted - Wed, 10 Jul 2024 04:26:36 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -3340,6 +3340,7 @@
 0.0.0.0 anaconda.webitizeicts.com
 0.0.0.0 anaconda.zephyrus.gg
 0.0.0.0 anal.doubledouble.top
+0.0.0.0 anal.sataniskwijt.be
 0.0.0.0 analitits.com
 0.0.0.0 analoganalytics.com
 0.0.0.0 analy.qq.com
@@ -3511,6 +3512,8 @@
 0.0.0.0 analytics.cnfanart.com
 0.0.0.0 analytics.cnnchile.com
 0.0.0.0 analytics.cocolog-nifty.com
+0.0.0.0 analytics.code.dccouncil.gov
+0.0.0.0 analytics.code.dccouncil.us
 0.0.0.0 analytics.code.illusion.jp
 0.0.0.0 analytics.codeforscience.org
 0.0.0.0 analytics.codeskulptor.org
@@ -3664,6 +3667,7 @@
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 analytics.lasegunda.ecn.cl
 0.0.0.0 analytics.launch.bz
+0.0.0.0 analytics.law.cityofsanmateo.org
 0.0.0.0 analytics.lekumo.jp
 0.0.0.0 analytics.lendio.com
 0.0.0.0 analytics.lexisnexisrisk.com
@@ -6547,6 +6551,7 @@
 0.0.0.0 click.email.krutikolesa.ru
 0.0.0.0 click.email.moydevice.ru
 0.0.0.0 click.email.revealme.vip
+0.0.0.0 click.email.vimeo.com
 0.0.0.0 click.emails.paypal.com
 0.0.0.0 click.execrank.com
 0.0.0.0 click.extern.com
@@ -7448,6 +7453,7 @@
 0.0.0.0 consulting.mcgladrey.com
 0.0.0.0 consumer.equifax.com
 0.0.0.0 consumer.inform.equifax.com
+0.0.0.0 contacapre.bortox.it
 0.0.0.0 contact-us.adp.ca
 0.0.0.0 contact.abc-companies.com
 0.0.0.0 contact.adaptavist.com
@@ -7687,6 +7693,7 @@
 0.0.0.0 count.rin.ru
 0.0.0.0 count.rtl.de
 0.0.0.0 count.sibbo.net
+0.0.0.0 count.vidsrc.pro
 0.0.0.0 count24.de
 0.0.0.0 countar.de
 0.0.0.0 countby.com
@@ -35839,6 +35846,7 @@
 0.0.0.0 emailcio.catercow.com
 0.0.0.0 emailcio.izzigaming.com.br
 0.0.0.0 emailcio.prolific.co
+0.0.0.0 emailcontent.rockstargames.com
 0.0.0.0 emailcustomer.b.energy
 0.0.0.0 emailcustomerio.gorgias.io
 0.0.0.0 emailcx.aotmp.com
@@ -35894,6 +35902,7 @@
 0.0.0.0 emcalliance.vmware.com
 0.0.0.0 emdlqs.longtallsally.com
 0.0.0.0 emea-go.experian.com
+0.0.0.0 emea.focusvision.com%2Ftracker%2F
 0.0.0.0 emea.juniper.net
 0.0.0.0 emea.kollmorgen.com
 0.0.0.0 emediatrack.com
@@ -36811,6 +36820,7 @@
 0.0.0.0 fiko.cpm-toohigh.click
 0.0.0.0 fiko2.skin-squad.click
 0.0.0.0 fiksu.com
+0.0.0.0 files.fm%2Fl%2Femail-pix
 0.0.0.0 files.info.posteitaliane.it
 0.0.0.0 files.urlinsgroup.com
 0.0.0.0 filitrac.com
@@ -38144,10 +38154,15 @@
 0.0.0.0 go2.ringcentral.com
 0.0.0.0 go5.global.toshiba
 0.0.0.0 goat.aicontentdojo.com
+0.0.0.0 goat.hepicgamerz.com
 0.0.0.0 goat.kunalslab.com
 0.0.0.0 goat.purposevisionfuture.com
+0.0.0.0 goat.skeetstats.xyz
+0.0.0.0 goat.tailspace.net
 0.0.0.0 goat.vrds.app
+0.0.0.0 goat1.nhimmeo.cf
 0.0.0.0 goatcounter.com
+0.0.0.0 goatcounter.gamecraft.it
 0.0.0.0 goazlf.mytoys.de
 0.0.0.0 gobeyond.superiorgroup.com
 0.0.0.0 gocertiport.pearsonvue.com
@@ -60269,6 +60284,7 @@
 0.0.0.0 st.hbrd.io
 0.0.0.0 st.iceportal.de
 0.0.0.0 st.img-bahn.de
+0.0.0.0 st.mapleranks.com
 0.0.0.0 st.mashable.com
 0.0.0.0 st.mazdausa.com
 0.0.0.0 st.newyorklife.com
@@ -60648,6 +60664,8 @@
 0.0.0.0 stats.bookingbuddy.com
 0.0.0.0 stats.bookingbuddy.eu
 0.0.0.0 stats.booncon.com
+0.0.0.0 stats.boredkevin.com
+0.0.0.0 stats.boringproxy.io
 0.0.0.0 stats.boscabeatha.ie
 0.0.0.0 stats.bostonedtech.org
 0.0.0.0 stats.breathly.app
@@ -60872,6 +60890,7 @@
 0.0.0.0 stats.homepage-2021.askmiso-dev.com
 0.0.0.0 stats.homestow.com
 0.0.0.0 stats.honeywell.com
+0.0.0.0 stats.how.wtf
 0.0.0.0 stats.hpz-scharnhausen.de
 0.0.0.0 stats.htmlcsstoimage.com
 0.0.0.0 stats.htp.org
@@ -60905,6 +60924,7 @@
 0.0.0.0 stats.isthispoisonivy.website
 0.0.0.0 stats.ivs.rocks
 0.0.0.0 stats.jackwhiting.co.uk
+0.0.0.0 stats.jakebailey.dev
 0.0.0.0 stats.jamesevers.co.uk
 0.0.0.0 stats.jamesilesantiques.com
 0.0.0.0 stats.jamhouse.app
@@ -60916,6 +60936,7 @@
 0.0.0.0 stats.jhsheridan.com
 0.0.0.0 stats.jjude.com
 0.0.0.0 stats.joaopedro.dev
+0.0.0.0 stats.johanneswienke.de
 0.0.0.0 stats.jotex.se
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.jsbible.com
@@ -60941,6 +60962,7 @@
 0.0.0.0 stats.kroger.com
 0.0.0.0 stats.kryptoslogic.com
 0.0.0.0 stats.ks-labs.de
+0.0.0.0 stats.ksr.onl
 0.0.0.0 stats.kyushoku2050.org
 0.0.0.0 stats.labibli.com
 0.0.0.0 stats.lag-avtal.se
@@ -60971,6 +60993,7 @@
 0.0.0.0 stats.loitersquad.net
 0.0.0.0 stats.lord.io
 0.0.0.0 stats.lptracker.ru
+0.0.0.0 stats.lspeed.org
 0.0.0.0 stats.lstfnd.de
 0.0.0.0 stats.ltdhunt.com
 0.0.0.0 stats.luieremmer.net
@@ -61022,6 +61045,7 @@
 0.0.0.0 stats.motion-effect.com
 0.0.0.0 stats.motorcyclepartsireland.ie
 0.0.0.0 stats.mrtnvh.com
+0.0.0.0 stats.msol.io
 0.0.0.0 stats.mt.com
 0.0.0.0 stats.multiplelenses.com
 0.0.0.0 stats.multiply.cloud

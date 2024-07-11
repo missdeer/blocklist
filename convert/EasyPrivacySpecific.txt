@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 10 Jul 2024 04:26:42 UTC
+# Last converted - Thu, 11 Jul 2024 04:27:32 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -362,6 +362,7 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va.tiktokv.com
@@ -402,6 +403,7 @@
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
+0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onesignal.com
@@ -497,6 +499,7 @@
 0.0.0.0 s.gofile.io
 0.0.0.0 s.infogram.com
 0.0.0.0 s.wayfair.com
+0.0.0.0 sa.uswitch.com
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
@@ -574,6 +577,7 @@
 0.0.0.0 t.pagesix.com
 0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
+0.0.0.0 t.poki.io
 0.0.0.0 t.regionsjob.com
 0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk

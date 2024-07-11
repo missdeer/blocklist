@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 10 Jul 2024 04:26:37 UTC
+# Last converted - Thu, 11 Jul 2024 04:27:36 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -731,6 +731,7 @@
 0.0.0.0 l.sharethis.com
 0.0.0.0 l.typesquare.com
 0.0.0.0 la-sync.taboola.com
+0.0.0.0 lambda-url.us-east-1.on.aws
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
 0.0.0.0 lciapi.ninthdecimal.com
@@ -1146,6 +1147,7 @@
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
 0.0.0.0 t.enuygun.com
+0.0.0.0 t.fullres.net
 0.0.0.0 t.ghostboard.io
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org

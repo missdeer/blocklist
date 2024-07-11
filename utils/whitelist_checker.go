@@ -33,6 +33,13 @@ var (
 		contains(`mozilla`),
 		suffix(`bitcanna.io`),
 		suffix(`jsdelivr.net`),
+		contains(`alibaba`),
+		contains(`alidns`),
+		contains(`alicdn`),
+		contains(`alipay`),
+		contains(`tbcache`),
+		contains(`taobao`),
+		contains(`hzshudian`),
 	}
 )
 

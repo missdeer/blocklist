@@ -5,6 +5,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"regexp"
 	"sort"
 	"strings"
 	"time"
@@ -47,6 +48,7 @@ func main() {
 	client := &http.Client{
 		Timeout: time.Second * 60,
 	}
+	validPattern := regexp.MustCompile(`^[a-zA-Z0-9\-_\.]+$`)
 	alldomains := map[string]struct{}{}
 	allexceptions := map[string]struct{}{}
 	for name, list := range lists {
@@ -113,9 +115,19 @@ func main() {
 				}
 			}
 
-			if strings.HasPrefix(filter, "@@") || utils.InWhitelist(filter[2:]) {
+			if strings.HasPrefix(filter, "@@") {
 				exceptions["0.0.0.0 "+filter[2:]] = struct{}{}
 				allexceptions["0.0.0.0 "+filter[2:]] = struct{}{}
+				continue
+			}
+
+			if !validPattern.MatchString(filter) {
+				continue
+			}
+
+			if utils.InWhitelist(filter) {
+				exceptions["0.0.0.0 "+filter] = struct{}{}
+				allexceptions["0.0.0.0 "+filter] = struct{}{}
 				continue
 			}
 

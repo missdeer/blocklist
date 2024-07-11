@@ -1,7 +1,7 @@
 # DD-AD
 #
 # Converted from - https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt
-# Last converted - Thu, 11 Jul 2024 10:26:27 UTC
+# Last converted - Thu, 11 Jul 2024 10:38:13 UTC
 #
 
 0.0.0.0 3p4.cn
@@ -111,6 +111,7 @@
 0.0.0.0 advert.swiftpass.cn
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.yahoo.com
+0.0.0.0 advertising.yandex.ru
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 adx-cn.ads.vungle.com
 0.0.0.0 adx.ads.heytapmobi.com

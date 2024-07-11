@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Thu, 11 Jul 2024 10:26:31 UTC
+# Last converted - Thu, 11 Jul 2024 10:38:08 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -214,7 +214,6 @@
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ali-ad.a.yximgs.com
-0.0.0.0 alicdn.com
 0.0.0.0 alt-ad.mail.ru
 0.0.0.0 am15.net
 0.0.0.0 amanad.adtdp.com
@@ -397,6 +396,7 @@
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 0.0.0.0 e-planning.net
 0.0.0.0 e.apsalar.com
+0.0.0.0 e.qq.com
 0.0.0.0 eltrafiko.com
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se

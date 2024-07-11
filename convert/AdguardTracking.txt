@@ -1,11 +1,9 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 11 Jul 2024 10:26:28 UTC
+# Last converted - Thu, 11 Jul 2024 10:38:11 UTC
 #
 
-0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
-0.0.0.0 %2Ftrack%2Fopen.php%3Fu%3D
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.net.easyjet.com
 0.0.0.0 0186141170.apps.iocnt.de
@@ -95,7 +93,6 @@
 0.0.0.0 3347.wolf-gordon.com
 0.0.0.0 3347.wolfgordon.com
 0.0.0.0 33across.com
-0.0.0.0 33mail.com%2Fpage%2Fopened
 0.0.0.0 348bordeaux.treknew.fun
 0.0.0.0 348lille.treknew.fun
 0.0.0.0 348rennes.treknew.fun
@@ -4324,7 +4321,6 @@
 0.0.0.0 app.foxtheatre.org
 0.0.0.0 app.frbcommunications.org
 0.0.0.0 app.friars.com
-0.0.0.0 app.frontapp.com%2Fapi%2F1%2Fnoauth%2Fcompanies%2Falternstiveto%2Fseen%2Fmsg_
 0.0.0.0 app.gafreedom.com
 0.0.0.0 app.gaincapital.com
 0.0.0.0 app.georgiadogs.com
@@ -7759,7 +7755,6 @@
 0.0.0.0 coyote.txet.ch
 0.0.0.0 cp.cp.twendee.jp
 0.0.0.0 cp.deltadentalwa.com
-0.0.0.0 cp.edison.tech%2Fapi%2Fmailer%2Fm%2Fimg%2F
 0.0.0.0 cp.ir-central.irco.com
 0.0.0.0 cp.phiilu.com
 0.0.0.0 cpanel.hackboard.com
@@ -35863,7 +35858,6 @@
 0.0.0.0 emcalliance.vmware.com
 0.0.0.0 emdlqs.longtallsally.com
 0.0.0.0 emea-go.experian.com
-0.0.0.0 emea.focusvision.com%2Ftracker%2F
 0.0.0.0 emea.juniper.net
 0.0.0.0 emea.kollmorgen.com
 0.0.0.0 emediatrack.com
@@ -36170,7 +36164,6 @@
 0.0.0.0 espmp-cufr.net
 0.0.0.0 espmp-nifr.net
 0.0.0.0 espmp-pofr.net
-0.0.0.0 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 0.0.0.0 esqjac.costakreuzfahrten.de
 0.0.0.0 esqxrp.bonprix-fl.be
 0.0.0.0 essentiallyformeliving.com
@@ -36716,7 +36709,6 @@
 0.0.0.0 fdixsh.platypusshoes.com.au
 0.0.0.0 fdkeip.azafashions.com
 0.0.0.0 fdowic.hoiku.mynavi.jp
-0.0.0.0 fdske.com%2Feo%2F
 0.0.0.0 fdxtbs.meeters.org
 0.0.0.0 fea-cfd.simutechgroup.com
 0.0.0.0 feathr.co
@@ -36780,7 +36772,6 @@
 0.0.0.0 fiko.cpm-toohigh.click
 0.0.0.0 fiko2.skin-squad.click
 0.0.0.0 fiksu.com
-0.0.0.0 files.fm%2Fl%2Femail-pix
 0.0.0.0 files.info.posteitaliane.it
 0.0.0.0 files.urlinsgroup.com
 0.0.0.0 filitrac.com
@@ -37527,7 +37518,6 @@
 0.0.0.0 giraffe.talktalent.com
 0.0.0.0 giraffe.viatorci.com
 0.0.0.0 git.now-wec.monster
-0.0.0.0 github.com%2Fnotifications%2Fbeacon%2F
 0.0.0.0 gitlab.mobiuspace.net.iberostar.com
 0.0.0.0 givoiq.nichiigakkan-careerplus.jp
 0.0.0.0 gixdir.gitionline.com
@@ -38141,7 +38131,6 @@
 0.0.0.0 goneviral.com
 0.0.0.0 goo-access-analytics.appspot.com
 0.0.0.0 goodcounter.org
-0.0.0.0 google-analytics.com
 0.0.0.0 google-pagerank.net
 0.0.0.0 google.trk.oeremil.com
 0.0.0.0 googleadapis.l.google.com
@@ -42356,7 +42345,6 @@
 0.0.0.0 link.disneydining.com
 0.0.0.0 link.disneyfanatic.com
 0.0.0.0 link.disneytips.com
-0.0.0.0 link.dissh.com%2Fmo%2F
 0.0.0.0 link.diynetwork.com
 0.0.0.0 link.dl-online.com
 0.0.0.0 link.doandroidsdance.com
@@ -43097,7 +43085,6 @@
 0.0.0.0 link.redbookmag.com
 0.0.0.0 link.redfeatherromance.com
 0.0.0.0 link.redonline.co.uk
-0.0.0.0 link.redsift.com%2Fe%2Fo%2F
 0.0.0.0 link.reesesbookclub.com
 0.0.0.0 link.regcompliancewatch.com
 0.0.0.0 link.regissalons.com
@@ -43600,7 +43587,6 @@
 0.0.0.0 links.schoolhouse.com
 0.0.0.0 links.shipcamps.com
 0.0.0.0 links.signup.com
-0.0.0.0 links.skillbox.ru%2Fo%2F
 0.0.0.0 links.softwareadvice.com
 0.0.0.0 links.telemundo.com
 0.0.0.0 links.theskimm.com
@@ -44831,7 +44817,6 @@
 0.0.0.0 mailbox.mailbox.tendopay.ph
 0.0.0.0 mailbox.ubilab.me
 0.0.0.0 mailchef.csp.com.cy
-0.0.0.0 mailchimp.com%2Fmctx%2Fopens
 0.0.0.0 maildelivery.dashservers.io
 0.0.0.0 mailer.alkaviva.com
 0.0.0.0 mailer.alliedhousing.com
@@ -44943,7 +44928,6 @@
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 mamka.aviasales.ru
 0.0.0.0 mammal.autoidle.com
-0.0.0.0 manage.turing.pe%2Fanalytics%2Fopen%2F
 0.0.0.0 managedaccounts.nvenergy.com
 0.0.0.0 managedaccounts.pacificpower.net
 0.0.0.0 managedaccounts.rockymountainpower.net
@@ -44998,7 +44982,6 @@
 0.0.0.0 marketing.188weststjames.com
 0.0.0.0 marketing.1970group.com
 0.0.0.0 marketing.1edisource.com
-0.0.0.0 marketing.1password.co%2Ftrk%3Ft%3D
 0.0.0.0 marketing.2016cle.com
 0.0.0.0 marketing.2inspire.com
 0.0.0.0 marketing.3dcadtools.com
@@ -46602,8 +46585,6 @@
 0.0.0.0 mc.admetrica.ru
 0.0.0.0 mc.bruker.com
 0.0.0.0 mc.webvisor.org
-0.0.0.0 mc.yandex.com
-0.0.0.0 mc.yandex.ru
 0.0.0.0 mc2o133jkwu19fv9.net.fidor.de
 0.0.0.0 mcacry.trendhim.it
 0.0.0.0 mcad.mods-clinic.com
@@ -49548,7 +49529,6 @@
 0.0.0.0 news.salon-aps.com
 0.0.0.0 news.salonpiscineparis.com
 0.0.0.0 news.salonreeduca.com
-0.0.0.0 news.samsung.com%2Fus%2F%3Fnoti%3D
 0.0.0.0 news.scbiznews.com
 0.0.0.0 news.scmanufacturingconference.com
 0.0.0.0 news.seatrade-maritime.com
@@ -52694,7 +52674,6 @@
 0.0.0.0 r.kleertjes.com
 0.0.0.0 r.lafamo.com
 0.0.0.0 r.miamano.com
-0.0.0.0 r.ml.reverso.net%2Ftr%2Fop
 0.0.0.0 r.moshimo.com
 0.0.0.0 r.movad.de
 0.0.0.0 r.msn.com
@@ -53437,7 +53416,6 @@
 0.0.0.0 rrznha.lanvin-en-bleu.com
 0.0.0.0 rs-stripe.vox.com
 0.0.0.0 rs.adpinfo.com
-0.0.0.0 rs.mail.ru
 0.0.0.0 rs.realself.com
 0.0.0.0 rs0.co.uk
 0.0.0.0 rs6.net
@@ -54617,7 +54595,6 @@
 0.0.0.0 seahorse.dexterityvisuals.com
 0.0.0.0 seahorse.habitstack.com
 0.0.0.0 seahorseinfo.agilent.com
-0.0.0.0 sealfit.ontraport.net%2Fo%3F
 0.0.0.0 seao.business.samsung.com
 0.0.0.0 search.buzzinstants.com
 0.0.0.0 search.onolm.click
@@ -54895,7 +54872,6 @@
 0.0.0.0 sematext.com
 0.0.0.0 semtracker.de
 0.0.0.0 send.choozle.com
-0.0.0.0 sendfox.com%2Ftrk%2Fopen%2F
 0.0.0.0 sendmoney.americanexpress.co.uk
 0.0.0.0 sendtraffic.com
 0.0.0.0 seniorlifestyles.amica.ca
@@ -66571,8 +66547,6 @@
 0.0.0.0 triggeredmessaging.com
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 triggit.com
-0.0.0.0 tripadvisor.com%2FMptUrl%3Fp%3D
-0.0.0.0 tripadvisor.com%2Fimg%2Fcdsi%2Fpartner%2Ftransparent_pixel
 0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 triton.companyegg.com
 0.0.0.0 trj.valuecommerce.com
@@ -67283,7 +67257,6 @@
 0.0.0.0 tweetdeck.net.anwalt.de
 0.0.0.0 twin-iq.kickfire.com
 0.0.0.0 twistairclub.net.anwalt.de
-0.0.0.0 twitter.com%2Fscribe%2Fibis%3Ft%3D
 0.0.0.0 twiz.wizaly.co.uk
 0.0.0.0 twiz.wizaly.fr
 0.0.0.0 twjobq.sixt.com
@@ -69964,5 +69937,3 @@
 0.0.0.0 zzaoea.costacrociere.it
 0.0.0.0 zzqyxd.smartpozyczka.pl
 0.0.0.0 zzsqqx.shopjapan.co.jp
-0.0.0.0 |esv2.com
-0.0.0.0 |mailgun.org

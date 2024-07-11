@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 11 Jul 2024 10:26:30 UTC
+# Last converted - Thu, 11 Jul 2024 10:38:13 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -479,7 +479,6 @@
 0.0.0.0 ring.staticmoly.me
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
-0.0.0.0 rs.mail.ru
 0.0.0.0 rstat.rockmostbet.com
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 rt.newswire.ca

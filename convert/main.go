@@ -71,7 +71,10 @@ func main() {
 		exceptions := map[string]struct{}{}
 
 		for index, filter := range lines {
-			fmt.Printf("Process %d/%d lines\r", index, len(lines))
+			fmt.Printf("Process %d/%d lines\n", index, len(lines))
+			filter = strings.Replace(filter, "\r", "", -1)
+			filter = strings.Replace(filter, "\n", "", -1)
+
 			if !strings.Contains(filter, ".") ||
 				strings.Contains(filter, "*") ||
 				strings.Contains(filter, "/") ||

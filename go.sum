@@ -1,6 +1,8 @@
-github.com/missdeer/blocklist/utils v0.0.0-20240711095233-cfe7d77016b7 h1:Z6RvsRi+a1c9ut8gXJBhsC+HMjVqmHe/QTtjhN5odIQ=
-github.com/missdeer/blocklist/utils v0.0.0-20240711095233-cfe7d77016b7/go.mod h1:SIVUPhzXNONOeX/HARXpeYpgT40ARgS2Tw1JKp+HX8E=
 github.com/missdeer/golib v1.0.9 h1:SJF/0Wt5g/uwtNZ6qp32dscrPUTa07rvTJdA+W4x49k=
 github.com/missdeer/golib v1.0.9/go.mod h1:gk9WnVU9ewI7D2OilJ1LBH9hQL9OwOURqy9UnjcBOdU=
+golang.org/x/net v0.27.0 h1:5K3Njcw06/l2y9vpGCSdcxWOYHOUk3dVNGDXN+FvAys=
+golang.org/x/net v0.27.0/go.mod h1:dDi0PyhWNoiUOrAS8uXv/vnScO4wnHQO4mj9fn/RytE=
 golang.org/x/sync v0.7.0 h1:YsImfSBoP9QPYL0xyKJPq0gcaJdG3rInoqxTWbfQu9M=
 golang.org/x/sync v0.7.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
+golang.org/x/text v0.16.0 h1:a94ExnEXNtEwYLGJSIUxnWoxoRz/ZcCsV63ROupILh4=
+golang.org/x/text v0.16.0/go.mod h1:GhwF1Be+LQoKShO3cGOHzqOgRrGaYc9AvblQOmPVHnI=

@@ -2,3 +2,5 @@ golang.org/x/net v0.23.0 h1:7EYJ93RZ9vYSZAIb2x3lnuvqO5zneoD6IvWjuhfxjTs=
 golang.org/x/net v0.23.0/go.mod h1:JKghWKKOSdJwpW2GEx0Ja7fmaKnMsbu+MWVZTokSYmg=
 golang.org/x/text v0.14.0 h1:ScX5w1eTa3QqT8oi6+ziP7dTV1S2+ALU0bI+0zXKWiQ=
 golang.org/x/text v0.14.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
+github.com/missdeer/blocklist/utils v0.0.0-20240711095233-cfe7d77016b7 h1:Z6RvsRi+a1c9ut8gXJBhsC+HMjVqmHe/QTtjhN5odIQ=
+github.com/missdeer/blocklist/utils v0.0.0-20240711095233-cfe7d77016b7/go.mod h1:SIVUPhzXNONOeX/HARXpeYpgT40ARgS2Tw1JKp+HX8E=

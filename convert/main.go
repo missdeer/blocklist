@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"os"
 	"sort"
 	"strings"
 	"time"
@@ -136,7 +137,7 @@ func main() {
 			}
 		}
 
-		io.WriteFile(name+".txt", []byte(hosts.String()), 0644)
+		os.WriteFile(name+".txt", []byte(hosts.String()), 0644)
 		fmt.Println(name, "converted to HOSTS file - see", name+".txt")
 	}
 	// 创建一个切片来存储 map 的 keys
@@ -157,6 +158,6 @@ func main() {
 		}
 	}
 
-	io.WriteFile("alldomains.txt", []byte(hosts.String()), 0644)
+	os.WriteFile("alldomains.txt", []byte(hosts.String()), 0644)
 	fmt.Println("all domains converted to HOSTS file - see alldomains.txt")
 }

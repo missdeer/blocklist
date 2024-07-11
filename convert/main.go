@@ -28,7 +28,7 @@ var lists = map[string]string{
 	"EasyPrivacy3rdParty":       "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt",
 	"EasyPrivacyCNAME":          "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific_cname.txt",
 	"YoutubeAds":                "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
-	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/hosts.txt",
+	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
 }
 
 // 定义需要被替换的列表项

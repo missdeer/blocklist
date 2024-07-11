@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 11 Jul 2024 04:27:36 UTC
+# Last converted - Thu, 11 Jul 2024 09:57:31 UTC
 #
 
 0.0.0.0 33across.com
@@ -9,14 +9,11 @@
 0.0.0.0 a.appbaqend.com
 0.0.0.0 ab.servogram.io
 0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 ace.naver.com
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
-0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
-0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adbutler.costco.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfuture.cn
@@ -51,8 +48,6 @@
 0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 am.yahoo.co.jp
-0.0.0.0 amdc.m.taobao.com
-0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 an.batmobi.net
@@ -141,15 +136,12 @@
 0.0.0.0 applogs-v2.pixelfederation.com
 0.0.0.0 applogs.pixelfederation.com
 0.0.0.0 appmetr.com
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 arcspire.io
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 attr.appsflyer.com
-0.0.0.0 audid-api.taobao.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 autotrack.studyquicks.com
@@ -462,7 +454,6 @@
 0.0.0.0 mtrace.qq.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 nativesdks.mparticle.com
-0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 ndct-data.video.iqiyi.com
 0.0.0.0 nelo2-col.linecorp.com
 0.0.0.0 ninja.onap.io
@@ -570,7 +561,6 @@
 0.0.0.0 sngmta.qq.com
 0.0.0.0 snowplow-collector.apartmentlist.io
 0.0.0.0 sq.requestads.com
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.gspaceteam.com
@@ -614,7 +604,6 @@
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
-0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
@@ -673,15 +662,12 @@
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 tunein.adswizz.com
-0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 uc.ucweb.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
@@ -710,7 +696,6 @@
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wsmetrics.batch.com
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 wzrkt.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 yadro.ru

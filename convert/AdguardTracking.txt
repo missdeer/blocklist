@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 11 Jul 2024 04:27:31 UTC
+# Last converted - Thu, 11 Jul 2024 09:57:27 UTC
 #
 
 0.0.0.0 %2F%2Fp.liadm.com%2Fimp%3Fs%3D
@@ -55,7 +55,6 @@
 0.0.0.0 1j2n061x3td.www.digi.no
 0.0.0.0 1k5vz1ejbcx.staging.probemas.com
 0.0.0.0 1kpv4njzilv.community.intersystems.com
-0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 1l-view.my.games
 0.0.0.0 1pel.com
@@ -1879,7 +1878,6 @@
 0.0.0.0 account.beauty
 0.0.0.0 accountancy.bppeloqua.com
 0.0.0.0 accounting.frbservices.org
-0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 accuratecoal.com
 0.0.0.0 ace.naver.com
 0.0.0.0 acecounter.com
@@ -2178,9 +2176,7 @@
 0.0.0.0 ada8.ampleur.jp
 0.0.0.0 adagency.digital
 0.0.0.0 adara.com
-0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
-0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adat.freemail.hu
 0.0.0.0 adb-analytics.live-now.com
 0.0.0.0 adb-secured.kijk.nl
@@ -2334,7 +2330,6 @@
 0.0.0.0 adex.naruko333.jp
 0.0.0.0 adex.predear.com
 0.0.0.0 adfox.ru
-0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adfuture.cn
 0.0.0.0 adg-data.kajicam.com
 0.0.0.0 adgainersolutions.com
@@ -3283,10 +3278,7 @@
 0.0.0.0 ambassador.notsofunnyany.com
 0.0.0.0 ambassadors.childhoodpotential.com
 0.0.0.0 ambercrow.com
-0.0.0.0 amc.yandex.ru
 0.0.0.0 amcgns.giesswein.com
-0.0.0.0 amdc.m.taobao.com
-0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 amer.juniper.net
 0.0.0.0 american.laughingcircuit.click
 0.0.0.0 americasbrandperformancesupport.hilton.com
@@ -4653,9 +4645,6 @@
 0.0.0.0 appmail.castlegroup.com
 0.0.0.0 appmail.rmscloud.com
 0.0.0.0 appmetr.com
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 appmetrica.yandex.net
-0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appointments.covenanthealth.org
 0.0.0.0 appointments.providence.org
 0.0.0.0 appointments.swedish.org
@@ -4981,7 +4970,6 @@
 0.0.0.0 auctiveltrk.com
 0.0.0.0 aud.ayvens.com
 0.0.0.0 aud.banque-france.fr
-0.0.0.0 audid-api.taobao.com
 0.0.0.0 audience-mostread.r7.com
 0.0.0.0 audience.acpm.fr
 0.0.0.0 audience.standardchartered.com.tw
@@ -5082,7 +5070,6 @@
 0.0.0.0 aws-br-cdn.kwai.net.iberostar.com
 0.0.0.0 aws-br-pic.kwai.net.iberostar.com
 0.0.0.0 awsuvx.lavprisvvs.dk
-0.0.0.0 awsync.yandex.ru
 0.0.0.0 awuapj.landwatch.com
 0.0.0.0 aww.e.aremedia.com.au
 0.0.0.0 aww.e.bauer-media.com.au
@@ -6507,7 +6494,6 @@
 0.0.0.0 clb.yahoo.co.jp
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.fivetuesdays.com
-0.0.0.0 clck.yandex.com
 0.0.0.0 clerks.doccheck.com
 0.0.0.0 cleveritics.com
 0.0.0.0 clevi.com
@@ -6982,7 +6968,6 @@
 0.0.0.0 cmail.influence.co
 0.0.0.0 cmail.sportsbet.io
 0.0.0.0 cmail.trapcall.com
-0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmass.massmedian.co.jp
 0.0.0.0 cmcore.com
 0.0.0.0 cmcyne.xoticpc.com
@@ -7119,7 +7104,6 @@
 0.0.0.0 collab.zdravetricko.cz
 0.0.0.0 collaborate.blackboard.com
 0.0.0.0 collarity.com
-0.0.0.0 collect.alipay.com
 0.0.0.0 collect.allianz-technology.ch
 0.0.0.0 collect.allianz.ch
 0.0.0.0 collect.alphastream.io
@@ -11884,7 +11868,6 @@
 0.0.0.0 dmt1-img.canon.jp
 0.0.0.0 dmtag.jp
 0.0.0.0 dmtracker.com
-0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmtry.com
 0.0.0.0 dmuwlm.fonteynspas.com
 0.0.0.0 dmvbpz.swimoutlet.com
@@ -11952,7 +11935,6 @@
 0.0.0.0 doporucim.zjistitcenu.cz
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
-0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 dormouse.consentkit.com
 0.0.0.0 dormouse.nektarium.de
 0.0.0.0 dot.texastribune.org
@@ -11967,7 +11949,6 @@
 0.0.0.0 dovetail-mg.booking.email.ikea.ie
 0.0.0.0 dovetails.happycustomer.io
 0.0.0.0 downeconomywp.advancedtech.com
-0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download.createyournextcustomer.com
 0.0.0.0 download.dnv.com
 0.0.0.0 download.howtosellahouse.info
@@ -14279,9 +14260,6 @@
 0.0.0.0 email.algocademy.com
 0.0.0.0 email.algorithmia.com
 0.0.0.0 email.algwebsites.co.uk
-0.0.0.0 email.alibaba.ir
-0.0.0.0 email.alibaba.wsgparts.com
-0.0.0.0 email.alibabajiaju.com
 0.0.0.0 email.aliceandsmith.com
 0.0.0.0 email.aliceroseaffiliates.com
 0.0.0.0 email.aliciafosterpodiatry.com.au
@@ -28530,7 +28508,6 @@
 0.0.0.0 email.moxa.com
 0.0.0.0 email.moxinocollars.com
 0.0.0.0 email.moywealth.com
-0.0.0.0 email.mozilla.com
 0.0.0.0 email.mp.gojek.com
 0.0.0.0 email.mpbcommodities.com
 0.0.0.0 email.mpd.connectwise.com
@@ -37062,7 +37039,6 @@
 0.0.0.0 fotlindring.com
 0.0.0.0 fouanalytics.com
 0.0.0.0 foundry42.com
-0.0.0.0 fourier.taobao.com
 0.0.0.0 fout.jp
 0.0.0.0 fowl.saulhardman.com
 0.0.0.0 fowl.teamyap.app
@@ -39582,7 +39558,6 @@
 0.0.0.0 images.ime.quintiles.com
 0.0.0.0 images.in.my1961.com
 0.0.0.0 images.info.acelatinamerica.com
-0.0.0.0 images.info.alibabacloud.com
 0.0.0.0 images.info.amexgbt.com
 0.0.0.0 images.info.aviationweek.com
 0.0.0.0 images.info.celum.com
@@ -40761,7 +40736,6 @@
 0.0.0.0 information.lgcns.com
 0.0.0.0 information.remploy.co.uk
 0.0.0.0 information.skillsoft.com
-0.0.0.0 informer.yandex.ru
 0.0.0.0 infos.anz-originator.com.au
 0.0.0.0 infos.anz.com
 0.0.0.0 infos.anz.com.au
@@ -43994,11 +43968,6 @@
 0.0.0.0 logging.prefixbox.com
 0.0.0.0 logging.pw.adn.cloud
 0.0.0.0 loggly.cheatsheet.com
-0.0.0.0 loggw-ex.alipay.com
-0.0.0.0 loggw-exsdk.alipay.com
-0.0.0.0 loggw.alipay.com
-0.0.0.0 loggw.alipay.com.cn
-0.0.0.0 loggw.alipaydns.com
 0.0.0.0 loggychops.paulsmith.site
 0.0.0.0 login.affiliatesit.cz
 0.0.0.0 login.eki-net.com
@@ -48611,7 +48580,6 @@
 0.0.0.0 metrika.kontur.ru
 0.0.0.0 metrika.lookmovie2.to
 0.0.0.0 metrika.myseldon.com
-0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrilo.iora.com.sg
 0.0.0.0 metrilo.my.iora.online
 0.0.0.0 metrilo.pongcheese.co.uk
@@ -49454,7 +49422,6 @@
 0.0.0.0 nbizzi.store.ferrari.com
 0.0.0.0 nbohze.thenorthface.ru
 0.0.0.0 nbrngg.rinkaiseminar.co.jp
-0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 nbyggk.jocee.jp
 0.0.0.0 nc0.co
 0.0.0.0 ncbabz.hometogo.co.uk
@@ -50530,8 +50497,6 @@
 0.0.0.0 openhit.com
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
-0.0.0.0 openmonitor.alipay-eco.com
-0.0.0.0 openmonitor.alipay.com
 0.0.0.0 openrate.aweber.com
 0.0.0.0 openstat.net
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
@@ -52894,7 +52859,6 @@
 0.0.0.0 readertracking.com
 0.0.0.0 readnotify.com
 0.0.0.0 ready.curriculumassociates.com
-0.0.0.0 real-feedback.toros.daum.net
 0.0.0.0 realbusiness.americanexpress.com
 0.0.0.0 realcounter.eu
 0.0.0.0 realcounters.com
@@ -59895,7 +59859,6 @@
 0.0.0.0 ssl-focus.met.vgwort.de
 0.0.0.0 ssl-gala.met.vgwort.de
 0.0.0.0 ssl-golem.met.vgwort.de
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl-handelsblatt.met.vgwort.de
 0.0.0.0 ssl-heise.met.vgwort.de
 0.0.0.0 ssl-idgbusiness.met.vgwort.de
@@ -60409,7 +60372,6 @@
 0.0.0.0 stat.ado.hu
 0.0.0.0 stat.adultium.com
 0.0.0.0 stat.airdroid.com
-0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.alloha.tv
 0.0.0.0 stat.arzamas.academy
 0.0.0.0 stat.bankofthewest.com
@@ -63060,7 +63022,6 @@
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.marketscope.com
 0.0.0.0 telemetry.moveworks.com
-0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.navispherecarrier.com
 0.0.0.0 telemetry.owenscorning.com
@@ -63499,7 +63460,6 @@
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
-0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tnt.yemeksepeti.com
 0.0.0.0 tnxxtx.crepeerase.com
 0.0.0.0 tnz3.carrefour-banque.fr
@@ -63529,9 +63489,7 @@
 0.0.0.0 tools.ricoh.co.uk
 0.0.0.0 tools.ricoh.de
 0.0.0.0 top-bloggers.com
-0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-ro.ro
-0.0.0.0 top-staging.mail.ru
 0.0.0.0 top.hsdn.org
 0.0.0.0 top.list.ru
 0.0.0.0 top.neurofacts.org
@@ -64604,7 +64562,6 @@
 0.0.0.0 trace.rememberapp.co.kr
 0.0.0.0 trace.zhiyan.tencent-cloud.net
 0.0.0.0 trace21.dsb-ebusiness.com
-0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 traceprof.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 traceworks.com
@@ -66086,7 +66043,6 @@
 0.0.0.0 tracking.ma.janssenmedicalcloud.me
 0.0.0.0 tracking.mail.avtovokzaly.ru
 0.0.0.0 tracking.mail.influence.id
-0.0.0.0 tracking.mail.rushtranslate.com
 0.0.0.0 tracking.mail.sertifier.com
 0.0.0.0 tracking.mail.swag.live
 0.0.0.0 tracking.mail.ti.com
@@ -66932,7 +66888,6 @@
 0.0.0.0 trk.lunghealthreview.com
 0.0.0.0 trk.mackayshields.com
 0.0.0.0 trk.magicfashionevents.com
-0.0.0.0 trk.mail.ru,ping
 0.0.0.0 trk.mail.theoddsettlement.com
 0.0.0.0 trk.mailchimp.com
 0.0.0.0 trk.majastockolm.com
@@ -67340,7 +67295,6 @@
 0.0.0.0 tugngs.tui.com
 0.0.0.0 tuna.ajaymantri.com
 0.0.0.0 tunein.adswizz.com
-0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 turkey.codeness.io
 0.0.0.0 turkey.docsy.cloud
 0.0.0.0 turkey.tella.tv
@@ -67430,7 +67384,6 @@
 0.0.0.0 u999.wcvb.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uaaooa.stansberryresearch.com
-0.0.0.0 uaas.yandex.ru
 0.0.0.0 uac.khan.co.kr
 0.0.0.0 uadx.com
 0.0.0.0 uaemarketing.sedgwick.com
@@ -67583,8 +67536,6 @@
 0.0.0.0 umbel.com
 0.0.0.0 umdlbn.globetrotter.de
 0.0.0.0 umdpva.gakumado.mynavi.jp
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umhyck.belvilla.com
 0.0.0.0 umiaob.kireibiz.jp
 0.0.0.0 umn.upmarketnews.com
@@ -69097,7 +69048,6 @@
 0.0.0.0 www-171.aig.com
 0.0.0.0 www-172.aig.com
 0.0.0.0 www-ebis.384.co.jp
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-path.com
 0.0.0.0 www-sadobe.384.co.jp
 0.0.0.0 www-sadobe.anabuki-community.com
@@ -69518,7 +69468,6 @@
 0.0.0.0 xqupwc.emp.at
 0.0.0.0 xqzqdj.mfind.pl
 0.0.0.0 xransv.hometogo.com.au
-0.0.0.0 xray.mail.ru
 0.0.0.0 xrcksn.vvf-villages.fr
 0.0.0.0 xref.io
 0.0.0.0 xrnyhc.alltype.co.kr

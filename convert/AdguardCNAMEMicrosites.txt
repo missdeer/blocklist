@@ -1,7 +1,7 @@
 # AdguardCNAMEMicrosites
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_microsites.txt
-# Last converted - Thu, 11 Jul 2024 04:27:34 UTC
+# Last converted - Thu, 11 Jul 2024 09:57:31 UTC
 #
 
 0.0.0.0 0-10-0-app.agent.datadoghq.com
@@ -8637,7 +8637,6 @@
 0.0.0.0 images.ime.quintiles.com
 0.0.0.0 images.in.my1961.com
 0.0.0.0 images.info.acelatinamerica.com
-0.0.0.0 images.info.alibabacloud.com
 0.0.0.0 images.info.amexgbt.com
 0.0.0.0 images.info.aviationweek.com
 0.0.0.0 images.info.celum.com
@@ -10786,7 +10785,6 @@
 0.0.0.0 rent.trs-rentelco.com
 0.0.0.0 reply.infineon.com
 0.0.0.0 reply.osv.com
-0.0.0.0 request.verisign.com
 0.0.0.0 research.dshb.biology.uiowa.edu
 0.0.0.0 research.gartner.com
 0.0.0.0 research.leads360.com

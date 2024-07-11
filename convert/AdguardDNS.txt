@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Last converted - Thu, 11 Jul 2024 04:27:33 UTC
+# Last converted - Thu, 11 Jul 2024 09:57:29 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -448,7 +448,6 @@
 0.0.0.0 1kfnsra.com
 0.0.0.0 1knhg4mmq.de
 0.0.0.0 1kqfzwd.com
-0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 1l-view.my.games
 0.0.0.0 1l1.cc
@@ -2294,7 +2293,6 @@
 0.0.0.0 accountdolphinframe.com
 0.0.0.0 accountresponsesergeant.com
 0.0.0.0 accruefierceheartache.com
-0.0.0.0 accscdn.m.taobao.com
 0.0.0.0 accumulateboring.com
 0.0.0.0 accuracyswede.com
 0.0.0.0 accuratecoal.com
@@ -2801,9 +2799,7 @@
 0.0.0.0 adaround.net
 0.0.0.0 adarutoad.com
 0.0.0.0 adasdz.cn
-0.0.0.0 adash.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
-0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adasta.it
 0.0.0.0 adat.freemail.hu
@@ -3057,12 +3053,10 @@
 0.0.0.0 adfork.co.kr
 0.0.0.0 adform.com
 0.0.0.0 adform.net
-0.0.0.0 adfox.yandex.ru
 0.0.0.0 adfpoint.com
 0.0.0.0 adframesrc.com
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
-0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adfulplatform.com
 0.0.0.0 adfun.ru
 0.0.0.0 adfurikun.jp
@@ -3851,7 +3845,6 @@
 0.0.0.0 adsdk.com
 0.0.0.0 adsdk.microsoft.com
 0.0.0.0 adsdk.vrvm.com
-0.0.0.0 adsdk.yandex.ru
 0.0.0.0 adsdot.ph
 0.0.0.0 adsee.jp
 0.0.0.0 adsemirate.com
@@ -5326,7 +5319,6 @@
 0.0.0.0 alifeupbrast.com
 0.0.0.0 alightbornbell.com
 0.0.0.0 alignmentflattery.com
-0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimama.com
 0.0.0.0 alime-pic.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 alimonysmuggle.com
@@ -5616,13 +5608,10 @@
 0.0.0.0 ambra.com
 0.0.0.0 ambuizeler.com
 0.0.0.0 ambushharmlessalmost.com
-0.0.0.0 amc.yandex.ru
 0.0.0.0 amcdn.vn
 0.0.0.0 amcmuhu.com
 0.0.0.0 amd.sellingsimplified.net
 0.0.0.0 amdahlasinego.com
-0.0.0.0 amdc.m.taobao.com
-0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 amdfdpuzedih.com
 0.0.0.0 ameedbezique.uno
 0.0.0.0 ameidj.xyz
@@ -6874,8 +6863,6 @@
 0.0.0.0 applovin.com
 0.0.0.0 appmateforbests.com
 0.0.0.0 appmetr.com
-0.0.0.0 appmetrica.yandex.com
-0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appnext.com
 0.0.0.0 appnext.hs.llnwd.net
@@ -7501,7 +7488,6 @@
 0.0.0.0 atala-apw.com
 0.0.0.0 atamansdockize.com
 0.0.0.0 atampharosom.com
-0.0.0.0 atanx.alicdn.com
 0.0.0.0 atas.io
 0.0.0.0 atax.gamespy.com
 0.0.0.0 atax.gamestats.com
@@ -7680,7 +7666,6 @@
 0.0.0.0 audgiqb.cn
 0.0.0.0 audiblereflectionsenterprising.com
 0.0.0.0 audiblysecretaryburied.com
-0.0.0.0 audid-api.taobao.com
 0.0.0.0 audience-mostread.r7.com
 0.0.0.0 audience.acpm.fr
 0.0.0.0 audience.newscgp.com
@@ -7934,8 +7919,6 @@
 0.0.0.0 awaitingutilize.com
 0.0.0.0 awakeclauseunskilled.com
 0.0.0.0 awakeexterior.com
-0.0.0.0 awaps.yandex.net
-0.0.0.0 awaps.yandex.ru
 0.0.0.0 award.sitekeuring.net
 0.0.0.0 awardcynicalintimidating.com
 0.0.0.0 aware-living.pro
@@ -8022,7 +8005,6 @@
 0.0.0.0 awstaticdn.net
 0.0.0.0 awsurveys.com
 0.0.0.0 awswayful.space
-0.0.0.0 awsync.yandex.ru
 0.0.0.0 awtpguxqtf.com
 0.0.0.0 awtqbjylk.com
 0.0.0.0 awugxvrmsdalpx.com
@@ -13190,7 +13172,6 @@
 0.0.0.0 clbjmp.com
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clcassd.com
-0.0.0.0 clck.yandex.com
 0.0.0.0 clcknads.pro
 0.0.0.0 clcknipop.com
 0.0.0.0 clckpbnce.com
@@ -13612,7 +13593,6 @@
 0.0.0.0 cm.baidu.com
 0.0.0.0 cmacnumpcaoe.com
 0.0.0.0 cmadserver.de
-0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmasisrjbgfv.xyz
 0.0.0.0 cmbestsrv.com
 0.0.0.0 cmbmtpjm.xyz
@@ -13889,7 +13869,6 @@
 0.0.0.0 collect-metrics.aquro.com
 0.0.0.0 collect-v6.51.la
 0.0.0.0 collect.adplogger.no
-0.0.0.0 collect.alipay.com
 0.0.0.0 collect.alphastream.io
 0.0.0.0 collect.analyse.lnearn.com
 0.0.0.0 collect.analytics.unity3d.com
@@ -18591,7 +18570,6 @@
 0.0.0.0 dm.pstatp.com
 0.0.0.0 dm.pw0.cn
 0.0.0.0 dm.sanwen.net
-0.0.0.0 dm.taobaojuhuasuan.cn
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm.wenshenxiu.com
 0.0.0.0 dm.zjut.cc
@@ -18655,7 +18633,6 @@
 0.0.0.0 dmtag.jp
 0.0.0.0 dmtgo.upc.biz
 0.0.0.0 dmtracker.com
-0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmtry.com
 0.0.0.0 dmtw0i4zln92b.cloudfront.net
 0.0.0.0 dmuqumodgwm.com
@@ -18904,7 +18881,6 @@
 0.0.0.0 doprodavec.ru
 0.0.0.0 doptik.ru
 0.0.0.0 doraikouor.com
-0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 dorasuther.top
 0.0.0.0 dorimnews.com
 0.0.0.0 dorkingvoust.com
@@ -19005,7 +18981,6 @@
 0.0.0.0 download-adblock360.com
 0.0.0.0 download-alert.com
 0.0.0.0 download-ready.net
-0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download.350.com
 0.0.0.0 download.jword.jp
 0.0.0.0 download.mediaplay.ru
@@ -19751,7 +19726,6 @@
 0.0.0.0 e.channelexco.com
 0.0.0.0 e.htplayground.com
 0.0.0.0 e.metarouter.io
-0.0.0.0 e.qq.com
 0.0.0.0 e.tw.cx
 0.0.0.0 e.viously.com
 0.0.0.0 e.zg-api.com
@@ -23560,7 +23534,6 @@
 0.0.0.0 fountaingreat.com
 0.0.0.0 foupeethaija.com
 0.0.0.0 fouptebu.net
-0.0.0.0 fourier.taobao.com
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 fourteenthcongratulate.com
 0.0.0.0 fourwhenstatistics.com
@@ -24731,7 +24704,6 @@
 0.0.0.0 geo.mattel163.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.mezr.com
-0.0.0.0 geo.mozilla.org
 0.0.0.0 geo.mtvnn.com
 0.0.0.0 geo.perezhilton.com
 0.0.0.0 geo.play.it
@@ -29582,7 +29554,6 @@
 0.0.0.0 informcheck.uno
 0.0.0.0 informedderiderollback.com
 0.0.0.0 informer.link
-0.0.0.0 informer.yandex.ru
 0.0.0.0 informereng.com
 0.0.0.0 informeresapp.com
 0.0.0.0 informers.sinoptik.ua
@@ -34816,11 +34787,6 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loggingservices.tribune.com
 0.0.0.0 loggly.cheatsheet.com
-0.0.0.0 loggw-ex.alipay.com
-0.0.0.0 loggw-exsdk.alipay.com
-0.0.0.0 loggw.alipay.com
-0.0.0.0 loggw.alipay.com.cn
-0.0.0.0 loggw.alipaydns.com
 0.0.0.0 loggyareolas.top
 0.0.0.0 loghutouft.net
 0.0.0.0 logicconfinement.com
@@ -39181,7 +39147,6 @@
 0.0.0.0 nbottkauyy.com
 0.0.0.0 nbr9.xyz
 0.0.0.0 nbrsoqcwgmif.com
-0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 nbstatic.com
 0.0.0.0 nbsxazr.icu
 0.0.0.0 nbtfbb.xyz
@@ -41045,7 +41010,6 @@
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 offerwall.headlines.pw
 0.0.0.0 offerwall.site
-0.0.0.0 offerwall.yandex.net
 0.0.0.0 offfurreton.com
 0.0.0.0 offhandclubhouse.com
 0.0.0.0 offhandpump.com
@@ -41709,8 +41673,6 @@
 0.0.0.0 openlysideline.com
 0.0.0.0 openmindedaching.com
 0.0.0.0 openmindter.com
-0.0.0.0 openmonitor.alipay-eco.com
-0.0.0.0 openmonitor.alipay.com
 0.0.0.0 openrate.aweber.com
 0.0.0.0 openrtb.in
 0.0.0.0 opensdeiseal.com
@@ -47614,7 +47576,6 @@
 0.0.0.0 reager30.com
 0.0.0.0 reajyu.net
 0.0.0.0 real-consequence.pro
-0.0.0.0 real-feedback.toros.daum.net
 0.0.0.0 realbig.media
 0.0.0.0 realclick.co.kr
 0.0.0.0 realclick.vn
@@ -48084,7 +48045,6 @@
 0.0.0.0 relafp.xyz
 0.0.0.0 relaido.jp
 0.0.0.0 relap.io
-0.0.0.0 relap.mail.ru
 0.0.0.0 relappro.com
 0.0.0.0 relatelocateapology.com
 0.0.0.0 relationsquiver.com
@@ -50711,7 +50671,6 @@
 0.0.0.0 sentinelp.com
 0.0.0.0 sentrapromosi.com
 0.0.0.0 sentry.alaatv.com
-0.0.0.0 sentry.alibaba.ir
 0.0.0.0 sentry.arc.io
 0.0.0.0 sentry.bale.sh
 0.0.0.0 sentry.basalam.com
@@ -51744,7 +51703,6 @@
 0.0.0.0 show-review.com
 0.0.0.0 show.everytell.com
 0.0.0.0 show.kc.taotaosou.com
-0.0.0.0 showbiz.mail.ru
 0.0.0.0 showcasead.com
 0.0.0.0 showcasethat.com
 0.0.0.0 showcrack.com
@@ -53528,7 +53486,6 @@
 0.0.0.0 ssgg.chazidian.com
 0.0.0.0 ssindserving.com
 0.0.0.0 sskzlabs.com
-0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl-services.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl2anyone5.com
@@ -53694,7 +53651,6 @@
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.adultium.com
 0.0.0.0 stat.airdroid.com
-0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.arzamas.academy
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.clichehosting.de
@@ -55912,7 +55868,6 @@
 0.0.0.0 tcbcanhan.com
 0.0.0.0 tccbanner.com
 0.0.0.0 tcdyjyrj.com
-0.0.0.0 tce.alicdn.com
 0.0.0.0 tcfgtd.xyz
 0.0.0.0 tcgaqh.icu
 0.0.0.0 tcgjpib.com
@@ -57271,7 +57226,6 @@
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
 0.0.0.0 tns-gallup.dk
-0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tnsmufijcnulqtl.com
 0.0.0.0 tnudztz.com
 0.0.0.0 tnvnnn.xyz
@@ -57423,7 +57377,6 @@
 0.0.0.0 toothtranquilizerdeliverance.com
 0.0.0.0 toovoala.net
 0.0.0.0 top-bloggers.com
-0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-js-metrics.top.my.ua
 0.0.0.0 top-offers1.com
 0.0.0.0 top-performance.best
@@ -57431,7 +57384,6 @@
 0.0.0.0 top-performance.top
 0.0.0.0 top-performance.work
 0.0.0.0 top-ro.ro
-0.0.0.0 top-staging.mail.ru
 0.0.0.0 top.elec.ru
 0.0.0.0 top.hsdn.org
 0.0.0.0 top.list.ru
@@ -57775,7 +57727,6 @@
 0.0.0.0 trace.swaven.com
 0.0.0.0 trace.zhiyan.tencent-cloud.net
 0.0.0.0 trace21.dsb-ebusiness.com
-0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracepath.cc
 0.0.0.0 traceprof.com
 0.0.0.0 tracer.concung.com
@@ -59269,7 +59220,6 @@
 0.0.0.0 tunedecided.com
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 tuneshave.com
-0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 tunisiarivel.top
 0.0.0.0 tunnelbuilder.top
 0.0.0.0 tunovl.xyz
@@ -59632,7 +59582,6 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uaadi.com
 0.0.0.0 uaaftpsy.com
-0.0.0.0 uaas.yandex.ru
 0.0.0.0 uabpuwz.com
 0.0.0.0 uac.khan.co.kr
 0.0.0.0 uadexchange.com
@@ -59967,8 +59916,6 @@
 0.0.0.0 umdgene.com
 0.0.0.0 umebella.com
 0.0.0.0 umekana.ru
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umentrandings.xyz
 0.0.0.0 umescomymanda.info
 0.0.0.0 umexalim.com
@@ -64932,7 +64879,6 @@
 0.0.0.0 wwunnmshmv.xyz
 0.0.0.0 wwvqxqmcvfxwqq.com
 0.0.0.0 www-fb.com
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-icloud.com
 0.0.0.0 www-icloudid.com
 0.0.0.0 www-mfacebook.com.vn
@@ -65581,7 +65527,6 @@
 0.0.0.0 xqwcryh.com
 0.0.0.0 xqzwtvjkjj.com
 0.0.0.0 xragnfrjhiqep.xyz
-0.0.0.0 xray.mail.ru
 0.0.0.0 xrb0owc.icu
 0.0.0.0 xrcembm.cn
 0.0.0.0 xrdqdd.xyz

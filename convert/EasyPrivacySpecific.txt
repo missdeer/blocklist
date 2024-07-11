@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 11 Jul 2024 04:27:32 UTC
+# Last converted - Thu, 11 Jul 2024 09:57:28 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -142,7 +142,6 @@
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt.xhamster.com
-0.0.0.0 collect.alipay.com
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.hollisterco.com
@@ -361,7 +360,6 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
-0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu

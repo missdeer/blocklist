@@ -1,4 +1,4 @@
-package main
+package utils
 
 import (
 	"regexp"
@@ -36,7 +36,7 @@ var (
 	}
 )
 
-func inWhitelist(domain string) bool {
+func InWhitelist(domain string) bool {
 	for _, wl := range whitelist {
 		if wl(domain) {
 			return true

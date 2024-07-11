@@ -2,12 +2,14 @@ package main
 
 import (
 	"fmt"
-	"golang.org/x/net/idna"
-	"io/ioutil"
+	"io"
 	"net/http"
 	"sort"
 	"strings"
 	"time"
+
+	"github.com/missdeer/blocklist/utils"
+	"golang.org/x/net/idna"
 )
 
 // 定义一个映射存储列表名称和链接
@@ -56,7 +58,7 @@ func main() {
 		}
 		defer resp.Body.Close()
 		fmt.Println("Got", name)
-		body, _ := ioutil.ReadAll(resp.Body)
+		body, _ := io.ReadAll(resp.Body)
 		fmt.Println("Got", len(body), "bytes")
 		lines := strings.Split(string(body), "\n")
 		fmt.Println("Splitted to", len(lines), "lines")
@@ -107,7 +109,7 @@ func main() {
 				}
 			}
 
-			if strings.HasPrefix(filter, "@@") {
+			if strings.HasPrefix(filter, "@@") || utils.InWhitelist(filter[2:]) {
 				exceptions["0.0.0.0 "+filter[2:]] = struct{}{}
 				allexceptions["0.0.0.0 "+filter[2:]] = struct{}{}
 				continue
@@ -134,7 +136,7 @@ func main() {
 			}
 		}
 
-		ioutil.WriteFile(name+".txt", []byte(hosts.String()), 0644)
+		io.WriteFile(name+".txt", []byte(hosts.String()), 0644)
 		fmt.Println(name, "converted to HOSTS file - see", name+".txt")
 	}
 	// 创建一个切片来存储 map 的 keys
@@ -148,13 +150,13 @@ func main() {
 
 	var hosts strings.Builder
 	hosts.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy\n# Last converted - %s\n#\n\n", time.Now().Format(time.RFC1123)))
-	
+
 	for _, domain := range keys {
 		if _, ok := allexceptions[domain]; !ok {
 			hosts.WriteString(domain + "\n")
 		}
 	}
 
-	ioutil.WriteFile("alldomains.txt", []byte(hosts.String()), 0644)
+	io.WriteFile("alldomains.txt", []byte(hosts.String()), 0644)
 	fmt.Println("all domains converted to HOSTS file - see alldomains.txt")
 }

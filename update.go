@@ -5,7 +5,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
@@ -14,32 +13,33 @@ import (
 	"sync"
 	"time"
 
+	"github.com/missdeer/blocklist/utils"
 	"github.com/missdeer/golib/semaphore"
 )
 
 var (
 	sourceURLValidatorMap = map[string]lineValidator{
-		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`:            hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/yous/YousList/master/hosts.txt`:                              hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/koala0529/adhost/master/adhosts`:                             hostLine("127.0.0.1"),
-		`https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt`:                         hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/lack006/Android-Hosts-L/master/hosts_files/2016_hosts/AD`:    hostLine("127.0.0.1"),
-		`https://adaway.org/hosts.txt`:                                                                  hostLine("127.0.0.1"),
-		`http://sysctl.org/cameleon/hosts`:                                                              hostLine("127.0.0.1"),
-		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                                  domainListLine(),
-		`https://anti-ad.net/domains.txt`:                                                               domainListLine(),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardTracking.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAMEAds.txt`: hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt`:         hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/yous/YousList/master/hosts.txt`:                           hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/koala0529/adhost/master/adhosts`:                          hostLine("127.0.0.1"),
+		`https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt`:                      hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/lack006/Android-Hosts-L/master/hosts_files/2016_hosts/AD`: hostLine("127.0.0.1"),
+		`https://adaway.org/hosts.txt`:                                                              hostLine("127.0.0.1"),
+		`http://sysctl.org/cameleon/hosts`:                                                          hostLine("127.0.0.1"),
+		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                              domainListLine(),
+		`https://anti-ad.net/domains.txt`:                                                           domainListLine(),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt`:          hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt`:      hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardTracking.txt`:           hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAMEAds.txt`:           hostLine("0.0.0.0"),
 		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAMEClickthroughs.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAMEMicrosites.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAME.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacyCNAME.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacySpecific.txt`: hostLine("0.0.0.0"),
-		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt`: hostLine("0.0.0.0"),
-		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                                 hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAMEMicrosites.txt`:    hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardCNAME.txt`:              hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt`:                hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacyCNAME.txt`:          hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacySpecific.txt`:       hostLine("0.0.0.0"),
+		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt`:       hostLine("0.0.0.0"),
+		`https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts`:                             hostLine("0.0.0.0"),
 	}
 	shortURLs = []string{
 		`db.tt`,
@@ -103,7 +103,7 @@ func existent(domain string) (bool, error) {
 		return true, fmt.Errorf("unexpected status code:%s", resp.Status)
 	}
 
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		log.Println("reading response failed:", domain, err)
 		return true, err
@@ -188,7 +188,7 @@ func process(r io.ReadCloser, validator lineValidator) (domains []string, err er
 		}
 
 		// remove items in white list
-		if inWhitelist(domain) {
+		if utils.InWhitelist(domain) {
 			log.Println("in whitelist:", domain)
 			continue
 		}

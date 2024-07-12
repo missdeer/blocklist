@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 11 Jul 2024 10:38:11 UTC
+# Last converted - Fri, 12 Jul 2024 04:24:40 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -63340,6 +63340,7 @@
 0.0.0.0 tlsalw.platypusshoes.co.nz
 0.0.0.0 tltkpu.jagran.com
 0.0.0.0 tltpyy.saatchiart.com
+0.0.0.0 tm-gta5-prod.ros.rockstargames.com
 0.0.0.0 tm-marketing.wolterskluwer.com
 0.0.0.0 tm.hdmtools.com
 0.0.0.0 tm.jsuol.com.br
@@ -65911,6 +65912,7 @@
 0.0.0.0 tracking.insperity.com
 0.0.0.0 tracking.insta-tool.net
 0.0.0.0 tracking.isielitetraining.com
+0.0.0.0 tracking.iwhop.cn
 0.0.0.0 tracking.janssenmed.cz
 0.0.0.0 tracking.janssenmed.ro
 0.0.0.0 tracking.janssenmed.sk

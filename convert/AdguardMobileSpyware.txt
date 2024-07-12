@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 11 Jul 2024 10:38:08 UTC
+# Last converted - Fri, 12 Jul 2024 04:24:36 UTC
 #
 
 0.0.0.0 33across.com
@@ -649,6 +649,7 @@
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.i2w.io
+0.0.0.0 tracking.iwhop.cn
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Last converted - Thu, 11 Jul 2024 10:38:08 UTC
+# Last converted - Fri, 12 Jul 2024 04:24:42 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -42,6 +42,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
+0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leap.app

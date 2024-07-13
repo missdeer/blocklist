@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 12 Jul 2024 04:24:36 UTC
+# Last converted - Sat, 13 Jul 2024 04:25:01 UTC
 #
 
 0.0.0.0 33across.com
@@ -127,6 +127,7 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
+0.0.0.0 api3.branch.io
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com

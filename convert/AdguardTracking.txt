@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 12 Jul 2024 04:24:40 UTC
+# Last converted - Sat, 13 Jul 2024 04:25:04 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -4211,6 +4211,7 @@
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api2.poperblocker.com
+0.0.0.0 api3.branch.io
 0.0.0.0 apicit.net
 0.0.0.0 apis.4bn.xyz
 0.0.0.0 apiv2.moengage.com
@@ -36469,6 +36470,7 @@
 0.0.0.0 evs.data.ciceksepeti.com
 0.0.0.0 evs.proxy.analytics.shutterstock.com
 0.0.0.0 evs.sgmt.loom.com
+0.0.0.0 evt.24.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 evupmg.olehenriksen.com
@@ -45378,6 +45380,7 @@
 0.0.0.0 marketing.dreamstyleremodeling.com
 0.0.0.0 marketing.driveline.co.nz
 0.0.0.0 marketing.driveulu.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.dryvit.com
 0.0.0.0 marketing.dscdredge.com
 0.0.0.0 marketing.ducenit.com
@@ -48660,6 +48663,7 @@
 0.0.0.0 mi.miliboo.lu
 0.0.0.0 mialbj6.com
 0.0.0.0 michigan.tickets.com
+0.0.0.0 michiganrobotflower.com
 0.0.0.0 micodigo.com
 0.0.0.0 micro.workplaceinvesting.fidelity.com
 0.0.0.0 microanalytics.io
@@ -50117,6 +50121,7 @@
 0.0.0.0 ok.healthfare.us
 0.0.0.0 ok.mysupercoffee.org
 0.0.0.0 ok.nationalreliefcenter.us
+0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 okhwxl.rnainc.jp
 0.0.0.0 oksiqv.styletread.com.au
 0.0.0.0 okt.to
@@ -67413,6 +67418,7 @@
 0.0.0.0 ui.service.belboon.com
 0.0.0.0 uicjnk.gumtree.co.za
 0.0.0.0 uid.mavencoalition.io
+0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uidpcx.planet.fr
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uifesg.modulor.de

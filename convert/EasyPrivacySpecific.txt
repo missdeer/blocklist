@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 14 Jul 2024 04:27:53 UTC
+# Last converted - Mon, 15 Jul 2024 04:28:15 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -155,6 +155,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
+0.0.0.0 collector.quillbot.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
@@ -314,6 +315,7 @@
 0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 imgs.signifyd.com
+0.0.0.0 impressions.svc.abillion.com
 0.0.0.0 improve.tempest.com
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com

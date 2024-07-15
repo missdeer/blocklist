@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 14 Jul 2024 04:27:48 UTC
+# Last converted - Mon, 15 Jul 2024 04:28:06 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -584,6 +584,7 @@
 0.0.0.0 events.flagship.io
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
+0.0.0.0 events.mapbox.com
 0.0.0.0 events.matterport.com
 0.0.0.0 events.medio.com
 0.0.0.0 events.missena.io
@@ -743,6 +744,7 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
+0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 loader.zeroform.com
 0.0.0.0 log-pq.shopfully.cloud

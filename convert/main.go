@@ -78,8 +78,7 @@ func convert(listName string, listUrl string) {
 	domains := map[string]struct{}{}
 	exceptions := map[string]struct{}{}
 
-	for index, filter := range lines {
-		fmt.Printf("Process %d/%d lines\n", index, len(lines))
+	for _, filter := range lines {
 		filter = strings.Replace(filter, "\r", "", -1)
 		filter = strings.Replace(filter, "\n", "", -1)
 
@@ -104,10 +103,8 @@ func convert(listName string, listUrl string) {
 			filter = strings.ReplaceAll(filter, replacement, "")
 		}
 
-		if "soundcloud.com" == filter || "global.ssl.fastly.net" == filter || strings.Contains(filter, "xmlhttprequest") ||
-			strings.Contains(filter, "~") || filter == "" || strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") ||
-			strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") ||
-			strings.HasSuffix(filter, ".jpg") || strings.HasSuffix(filter, ".gif") {
+		if strings.Contains(filter, "~") || filter == "" || strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") ||
+			strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") {
 			continue
 		}
 
@@ -187,6 +184,8 @@ func main() {
 		return true
 	})
 	sort.Strings(allDomains)
+
+	fmt.Println("Got", len(allDomains), "domains in total")
 
 	// 写入hosts文件
 	writeHosts(allDomains)

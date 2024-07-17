@@ -8,6 +8,8 @@ import (
 	"regexp"
 	"sort"
 	"strings"
+	"sync"
+	"sync/atomic"
 	"time"
 
 	"github.com/missdeer/blocklist/utils"
@@ -32,8 +34,15 @@ var lists = map[string]string{
 	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
 }
 
-// 定义需要被替换的列表项
-var replacements = []string{"||", "^third-party", "^", "$third-party", ",third-party", "$all", ",all", "$image", ",image", ",important", "$script", ",script", "$object", ",object", "$popup", ",popup", "$empty", "$object-subrequest", "$document", "$subdocument", ",subdocument", "$ping", "$important", "$badfilter", ",badfilter", "$websocket", "$cookie", "$other"}
+var (
+	// 定义需要被替换的列表项
+	replacements      = []string{"||", "^third-party", "^", "$third-party", ",third-party", "$all", ",all", "$image", ",image", ",important", "$script", ",script", "$object", ",object", "$popup", ",popup", "$empty", "$object-subrequest", "$document", "$subdocument", ",subdocument", "$ping", "$important", "$badfilter", ",badfilter", "$websocket", "$cookie", "$other"}
+	allDomainsMap     = sync.Map{}
+	allDomainCount    = atomic.Int32{}
+	allExceptionsMap  = sync.Map{}
+	allExceptionCount = atomic.Int32{}
+	validPattern      = regexp.MustCompile(`^[a-zA-Z0-9\-_\.]+$`)
+)
 
 func isASCII(s string) bool {
 	for _, c := range s {
@@ -44,147 +53,155 @@ func isASCII(s string) bool {
 	return true
 }
 
-func main() {
+func convert(listName string, listUrl string) {
 	client := &http.Client{
 		Timeout: time.Second * 60,
 	}
-	validPattern := regexp.MustCompile(`^[a-zA-Z0-9\-_\.]+$`)
-	alldomains := map[string]struct{}{}
-	allexceptions := map[string]struct{}{}
-	for name, list := range lists {
-		fmt.Println("Converting", name)
 
-		resp, err := client.Get(list)
-		if err != nil {
-			fmt.Println("error", err)
+	fmt.Println("Converting", listName)
+
+	resp, err := client.Get(listUrl)
+	if err != nil {
+		fmt.Println("error", err)
+		return
+	}
+	defer resp.Body.Close()
+	fmt.Println("Got", listName)
+	body, _ := io.ReadAll(resp.Body)
+	fmt.Println("Got", len(body), "bytes")
+	lines := strings.Split(string(body), "\n")
+	fmt.Println("Splitted to", len(lines), "lines")
+	// HOSTS header
+	var hosts strings.Builder
+	hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from %s\n# Updated at %s\n#\n\n", listName, listUrl, time.Now().Format(time.RFC1123)))
+
+	domains := map[string]struct{}{}
+	exceptions := map[string]struct{}{}
+
+	for index, filter := range lines {
+		fmt.Printf("Process %d/%d lines\n", index, len(lines))
+		filter = strings.Replace(filter, "\r", "", -1)
+		filter = strings.Replace(filter, "\n", "", -1)
+
+		if !strings.Contains(filter, ".") ||
+			strings.Contains(filter, "*") ||
+			strings.Contains(filter, "/") ||
+			strings.Contains(filter, "#") ||
+			strings.Contains(filter, " ") ||
+			strings.Contains(filter, "abp?") ||
+			strings.Contains(filter, "$$") ||
+			strings.Contains(filter, "$@$") {
 			continue
 		}
-		defer resp.Body.Close()
-		fmt.Println("Got", name)
-		body, _ := io.ReadAll(resp.Body)
-		fmt.Println("Got", len(body), "bytes")
-		lines := strings.Split(string(body), "\n")
-		fmt.Println("Splitted to", len(lines), "lines")
-		// HOSTS header
-		var hosts strings.Builder
-		hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from %s\n# Updated at %s\n#\n\n", name, list, time.Now().Format(time.RFC1123)))
 
-		domains := map[string]struct{}{}
-		exceptions := map[string]struct{}{}
-
-		for index, filter := range lines {
-			fmt.Printf("Process %d/%d lines\n", index, len(lines))
-			filter = strings.Replace(filter, "\r", "", -1)
-			filter = strings.Replace(filter, "\n", "", -1)
-
-			if !strings.Contains(filter, ".") ||
-				strings.Contains(filter, "*") ||
-				strings.Contains(filter, "/") ||
-				strings.Contains(filter, "#") ||
-				strings.Contains(filter, " ") ||
-				strings.Contains(filter, "abp?") ||
-				strings.Contains(filter, "$$") ||
-				strings.Contains(filter, "$@$") {
-				continue
-			}
-
-			if strings.Contains(filter, "$domain") && !strings.Contains(filter, "@@") {
-				filter = filter[:strings.Index(filter, "$domain")]
-			} else if strings.Contains(filter, "=") {
-				continue
-			}
-
-			for _, replacement := range replacements {
-				filter = strings.ReplaceAll(filter, replacement, "")
-			}
-
-			if "soundcloud.com" == filter || "global.ssl.fastly.net" == filter || strings.Contains(filter, "xmlhttprequest") ||
-				strings.Contains(filter, "~") || filter == "" || strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") ||
-				strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") ||
-				strings.HasSuffix(filter, ".jpg") || strings.HasSuffix(filter, ".gif") {
-				continue
-			}
-
-			if strings.Contains(filter, ":") {
-				filter = filter[:strings.Index(filter, ":")]
-			}
-
-			if !isASCII(filter) {
-				if ascii, err := idna.ToASCII(filter); err == nil {
-					filter = ascii
-				}
-			}
-
-			if strings.HasPrefix(filter, "@@") {
-				exceptions["0.0.0.0 "+filter[2:]] = struct{}{}
-				allexceptions["0.0.0.0 "+filter[2:]] = struct{}{}
-				continue
-			}
-
-			if !validPattern.MatchString(filter) {
-				continue
-			}
-
-			if utils.InWhitelist(filter) {
-				exceptions["0.0.0.0 "+filter] = struct{}{}
-				allexceptions["0.0.0.0 "+filter] = struct{}{}
-				continue
-			}
-
-			domains["0.0.0.0 "+filter] = struct{}{}
-			alldomains["0.0.0.0 "+filter] = struct{}{}
-		}
-		fmt.Printf("\n")
-		fmt.Println("Got", len(domains), "domains, except", len(exceptions), "ones")
-
-		// 创建一个切片来存储 map 的 keys
-		keys := make([]string, 0, len(domains))
-		for k := range domains {
-			keys = append(keys, k)
+		if strings.Contains(filter, "$domain") && !strings.Contains(filter, "@@") {
+			filter = filter[:strings.Index(filter, "$domain")]
+		} else if strings.Contains(filter, "=") {
+			continue
 		}
 
-		// 使用 sort 包对切片进行排序
-		sort.Strings(keys)
+		for _, replacement := range replacements {
+			filter = strings.ReplaceAll(filter, replacement, "")
+		}
 
-		for _, domain := range keys {
-			if _, ok := exceptions[domain]; !ok {
-				hosts.WriteString(domain + "\n")
+		if "soundcloud.com" == filter || "global.ssl.fastly.net" == filter || strings.Contains(filter, "xmlhttprequest") ||
+			strings.Contains(filter, "~") || filter == "" || strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") ||
+			strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") ||
+			strings.HasSuffix(filter, ".jpg") || strings.HasSuffix(filter, ".gif") {
+			continue
+		}
+
+		if strings.Contains(filter, ":") {
+			filter = filter[:strings.Index(filter, ":")]
+		}
+
+		if !isASCII(filter) {
+			if ascii, err := idna.ToASCII(filter); err == nil {
+				filter = ascii
 			}
 		}
 
-		os.WriteFile(name+".txt", []byte(hosts.String()), 0644)
-		fmt.Println(name, "converted to HOSTS file - see", name+".txt")
+		if strings.HasPrefix(filter, "@@") {
+			exceptions["0.0.0.0 "+filter[2:]] = struct{}{}
+			allExceptionsMap.Store("0.0.0.0 "+filter[2:], struct{}{})
+			allExceptionCount.Add(1)
+			continue
+		}
+
+		if !validPattern.MatchString(filter) {
+			continue
+		}
+
+		if utils.InWhitelist(filter) {
+			exceptions["0.0.0.0 "+filter] = struct{}{}
+			allExceptionsMap.Store("0.0.0.0 "+filter, struct{}{})
+			allExceptionCount.Add(1)
+			continue
+		}
+
+		domains["0.0.0.0 "+filter] = struct{}{}
+		allDomainsMap.Store("0.0.0.0 "+filter, struct{}{})
+		allDomainCount.Add(1)
 	}
+	fmt.Printf("\n")
+	fmt.Println("Got", len(domains), "domains, except", len(exceptions), "ones")
+
 	// 创建一个切片来存储 map 的 keys
-	keys := make([]string, 0, len(alldomains))
-	for k := range alldomains {
+	keys := make([]string, 0, len(domains))
+	for k := range domains {
 		keys = append(keys, k)
 	}
 
 	// 使用 sort 包对切片进行排序
 	sort.Strings(keys)
 
-	sortedDomains := []string{}
 	for _, domain := range keys {
-		if _, ok := allexceptions[domain]; !ok {
-			sortedDomains = append(sortedDomains, domain[8:])
+		if _, ok := exceptions[domain]; !ok {
+			hosts.WriteString(domain + "\n")
 		}
 	}
 
+	os.WriteFile(listName+".txt", []byte(hosts.String()), 0644)
+	fmt.Println(listName, "converted to HOSTS file - see", listName+".txt")
+}
+
+func main() {
+	var wg sync.WaitGroup
+	wg.Add(len(lists))
+	for listName, listUrl := range lists {
+		go func() {
+			convert(listName, listUrl)
+			wg.Done()
+		}()
+	}
+	wg.Wait()
+
+	// 创建一个切片来存储 map 的 keys
+	allDomains := []string{}
+	// convert allDomainsMap to allDomains
+	allDomainsMap.Range(func(key, value interface{}) bool {
+		domain := key.(string)
+		if _, ok := allExceptionsMap.Load(domain); !ok {
+			allDomains = append(allDomains, domain[8:])
+		}
+		return true
+	})
+	sort.Strings(allDomains)
+
 	// 写入hosts文件
-	writeHosts(sortedDomains)
+	writeHosts(allDomains)
 
 	// 写入dnsmasq.conf
-	writeDnsmasqConf(sortedDomains)
+	writeDnsmasqConf(allDomains)
 
 	// 写入SmartDNS配置文件
-	writeSmartDNSConf(sortedDomains)
+	writeSmartDNSConf(allDomains)
 
 	// 写入Surge配置文件
-	writeSurgeConf(sortedDomains)
+	writeSurgeConf(allDomains)
 
 	// 写入Surge2配置文件
-	writeSurge2Conf(sortedDomains)
+	writeSurge2Conf(allDomains)
 }
 
 // 写入hosts文件

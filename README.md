@@ -7,12 +7,13 @@ In [convert](https://github.com/missdeer/blocklist/tree/master/convert) director
 
 All domains (include all domains list in above lists) for popular apps:
 
-| Name | GitHub Raw Link | jsDelivr Mirror |
-| hosts | [hosts](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/hosts) | [hosts](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/hosts) |
-| DNSMasq | [dnsmasq.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/dnsmasq.conf) | [dnsmasq.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/dnsmasq.conf) |
+| Name     | GitHub Raw Link | jsDelivr Mirror |
+|----------|-----------------|-----------------|
+| hosts    | [hosts](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/hosts) | [hosts](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/hosts) |
+| DNSMasq  | [dnsmasq.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/dnsmasq.conf) | [dnsmasq.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/dnsmasq.conf) |
 | SmartDNS | [smartdns.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/smartdns.conf) | [smartdns.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/smartdns.conf) |
-| Surge | [surge.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge.conf) | [surge.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/surge.conf) |
-| Surge2 | [surge2.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge2.conf) | [surge2.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/surge2.conf) |
+| Surge    | [surge.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge.conf) | [surge.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/surge.conf) |
+| Surge2   | [surge2.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge2.conf) | [surge2.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/surge2.conf) |
 
 - [AdGuard Mobile Ads](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardMobileAds.txt) (from [AdGuard](https://github.com/AdguardTeam/FiltersRegistry/blob/master/filters/filter_11_Mobile/filter.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardMobileAds.txt)
 - [AdGuard Mobile Tracking and Spyware](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardMobileSpyware.txt) (from [AdGuard](https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardMobileSpyware.txt)

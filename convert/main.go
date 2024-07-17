@@ -67,7 +67,7 @@ func main() {
 		fmt.Println("Splitted to", len(lines), "lines")
 		// HOSTS header
 		var hosts strings.Builder
-		hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from - %s\n# Last converted - %s\n#\n\n", name, list, time.Now().Format(time.RFC1123)))
+		hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from %s\n# Updated at %s\n#\n\n", name, list, time.Now().Format(time.RFC1123)))
 
 		domains := map[string]struct{}{}
 		exceptions := map[string]struct{}{}
@@ -190,7 +190,7 @@ func main() {
 // 写入hosts文件
 func writeHosts(domains []string) {
 	var hosts strings.Builder
-	hosts.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+	hosts.WriteString(fmt.Sprintf("# All domains blocked\n#\n# Converted from Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Updated at %s\n# Total count: %d\n# Update URL: https://raw.githubusercontent.com/missdeer/blocklist/master/convert/hosts\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
 
 	for _, domain := range domains {
 		hosts.WriteString(fmt.Sprintf("0.0.0.0 %s\n", domain))
@@ -203,7 +203,7 @@ func writeHosts(domains []string) {
 // 写入dnsmasq.conf
 func writeDnsmasqConf(domains []string) {
 	var dnsmasq strings.Builder
-	dnsmasq.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+	dnsmasq.WriteString(fmt.Sprintf("# All domains blocked for DNSMasq\n#\n# Converted from Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Updated at %s\n# Total count: %d\n# Update URL: https://raw.githubusercontent.com/missdeer/blocklist/master/convert/dnsmasq.conf\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
 
 	for _, domain := range domains {
 		dnsmasq.WriteString(fmt.Sprintf("address=/%s/\n", domain))
@@ -216,7 +216,7 @@ func writeDnsmasqConf(domains []string) {
 // 写入SmartDNS配置文件
 func writeSmartDNSConf(domains []string) {
 	var smartdns strings.Builder
-	smartdns.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+	smartdns.WriteString(fmt.Sprintf("# All domains blocked for SmartDNS\n#\n# Converted from Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Updated at %s\n# Total count: %d\n# Update URL: https://raw.githubusercontent.com/missdeer/blocklist/master/convert/smartdns.conf\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
 
 	for _, domain := range domains {
 		smartdns.WriteString("nameserver /" + domain + "/#\n")
@@ -229,7 +229,7 @@ func writeSmartDNSConf(domains []string) {
 // 写入Surge配置文件
 func writeSurgeConf(domains []string) {
 	var surge strings.Builder
-	surge.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+	surge.WriteString(fmt.Sprintf("# All domains blocked for Surge\n#\n# Converted from Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Updated at %s\n# Total count: %d\n# Update URL: https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge.conf\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
 
 	for _, domain := range domains {
 		surge.WriteString(fmt.Sprintf("DOMAIN-SUFFIX,%s\n", domain))
@@ -242,7 +242,7 @@ func writeSurgeConf(domains []string) {
 // 写入Surge2配置文件
 func writeSurge2Conf(domains []string) {
 	var surge2 strings.Builder
-	surge2.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+	surge2.WriteString(fmt.Sprintf("# All domains blocked for Surge2\n#\n# Converted from Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Updated at %s\n# Total count: %d\n# Update URL: https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge2.conf\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
 
 	surge2.WriteString("#DOMAIN-SET,https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge2.conf,REJECT\n")
 	for _, domain := range domains {

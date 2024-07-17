@@ -5,7 +5,7 @@ domain block list, strongly recommended use these lists with [CoreDNS custom bui
 
 In [convert](https://github.com/missdeer/blocklist/tree/master/convert) directory.
 
-All domains (include all domains list in above lists) for popular apps:
+All domains (include all domains list in below lists) for popular apps:
 
 | Name     | GitHub Raw Link | jsDelivr Mirror |
 |----------|-----------------|-----------------|

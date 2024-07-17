@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 16 Jul 2024 04:25:48 UTC
+# Last converted - Wed, 17 Jul 2024 11:21:44 CST
 #
 
 0.0.0.0 100widgets.com
@@ -33,7 +33,6 @@
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 aktion.esprit-club.com
 0.0.0.0 alexandria.marfeelcdn.com
-0.0.0.0 am-vid-events.taboola.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
@@ -211,6 +210,7 @@
 0.0.0.0 bat.bing.net
 0.0.0.0 baxter.olx.org
 0.0.0.0 bc.marfeelcache.com
+0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
@@ -332,7 +332,6 @@
 0.0.0.0 contents-tracking.beop.io
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
-0.0.0.0 convsgmp.taboola.com
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -672,7 +671,6 @@
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
 0.0.0.0 hits.informer.com
-0.0.0.0 hk-trc-events.taboola.com
 0.0.0.0 hktracker.hankookilbo.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hop.clickbank.net
@@ -726,7 +724,6 @@
 0.0.0.0 l.player.ooyala.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 l.typesquare.com
-0.0.0.0 la-sync.taboola.com
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
 0.0.0.0 lciapi.ninthdecimal.com
@@ -836,7 +833,6 @@
 0.0.0.0 nojscontainer.pepperjam.com
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nova.dice.net
-0.0.0.0 nr-events.taboola.com
 0.0.0.0 nr.static.mmcdn.com
 0.0.0.0 ns.rvmkitt.com
 0.0.0.0 nsg.symantec.com
@@ -848,9 +844,9 @@
 0.0.0.0 onetrust.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openxcdn.net
-0.0.0.0 opps.taboola.com
 0.0.0.0 optimeeze.appspot.com
 0.0.0.0 orts.wixawin.com
+0.0.0.0 outbrain.com
 0.0.0.0 p.cquotient.com
 0.0.0.0 p.metrilo.com
 0.0.0.0 p.placed.com
@@ -1122,7 +1118,6 @@
 0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.outbrain.com
-0.0.0.0 sync.taboola.com
 0.0.0.0 system-beta.b-cdn.net
 0.0.0.0 t.360playvid.info
 0.0.0.0 t.91syun.com
@@ -1162,6 +1157,8 @@
 0.0.0.0 t.splicky.com
 0.0.0.0 t.spot.im
 0.0.0.0 t2.t2b.click
+0.0.0.0 taboola.com
+0.0.0.0 taboolasyndication.com
 0.0.0.0 tag-manager.playbuzz.com
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.atom.gamedistribution.com
@@ -1381,7 +1378,6 @@
 0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uim.tifbs.net
 0.0.0.0 units.knotch.it
-0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 urldefense.com
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 usaoptimizedby.increasingly.co
@@ -1397,7 +1393,6 @@
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-analytics-api.cloudinary.com
 0.0.0.0 videoevents.outbrain.com
-0.0.0.0 vidstat.taboola.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vst.sibnet.ru
 0.0.0.0 vstat.borderlessbd.com
@@ -1415,7 +1410,6 @@
 0.0.0.0 webtrack.chd01.com
 0.0.0.0 webtrack.savoysystems.co.uk
 0.0.0.0 webtracker.apicasystem.com
-0.0.0.0 wf.taboola.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widgets.trustedshops.com

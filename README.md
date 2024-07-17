@@ -5,7 +5,14 @@ domain block list, strongly recommended use these lists with [CoreDNS custom bui
 
 In [convert](https://github.com/missdeer/blocklist/tree/master/convert) directory.
 
-Currently includes:
+All domains (include all domains list in above lists) for popular apps:
+
+| Name | GitHub Raw Link | jsDelivr Mirror |
+| hosts | [hosts](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/hosts) | [hosts](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/hosts) |
+| DNSMasq | [dnsmasq.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/dnsmasq.conf) | [dnsmasq.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/dnsmasq.conf) |
+| SmartDNS | [smartdns.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/smartdns.conf) | [smartdns.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/smartdns.conf) |
+| Surge | [surge.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge.conf) | [surge.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/surge.conf) |
+| Surge2 | [surge2.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge2.conf) | [surge2.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/surge2.conf) |
 
 - [AdGuard Mobile Ads](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardMobileAds.txt) (from [AdGuard](https://github.com/AdguardTeam/FiltersRegistry/blob/master/filters/filter_11_Mobile/filter.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardMobileAds.txt)
 - [AdGuard Mobile Tracking and Spyware](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardMobileSpyware.txt) (from [AdGuard](https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardMobileSpyware.txt)
@@ -20,4 +27,3 @@ Currently includes:
 - [AdGuard DNS](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/AdguardDNS.txt) (from [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/AdguardDNS.txt)
 - [Anti-Ad](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/Anti-Ad.txt) (from [Anti-Ad](https://anti-ad.net/domains.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/Anti-Ad.txt)
 - [DD-AD](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/DD-AD.txt) (from [DD-AD](https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt)) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/DD-AD.txt)
-- [All domains](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/alldomains.txt) (include all domains list in above lists) [jsDelivr mirror](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/alldomains.txt)

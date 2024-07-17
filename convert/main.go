@@ -164,15 +164,91 @@ func main() {
 	// 使用 sort 包对切片进行排序
 	sort.Strings(keys)
 
-	var hosts strings.Builder
-	hosts.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n#\n\n", time.Now().Format(time.RFC1123)))
-
+	sortedDomains := []string{}
 	for _, domain := range keys {
 		if _, ok := allexceptions[domain]; !ok {
-			hosts.WriteString(domain + "\n")
+			sortedDomains = append(sortedDomains, domain[8:])
 		}
 	}
 
-	os.WriteFile("alldomains.txt", []byte(hosts.String()), 0644)
-	fmt.Println("all domains converted to HOSTS file - see alldomains.txt")
+	// 写入hosts文件
+	writeHosts(sortedDomains)
+
+	// 写入dnsmasq.conf
+	writeDnsmasqConf(sortedDomains)
+
+	// 写入SmartDNS配置文件
+	writeSmartDNSConf(sortedDomains)
+
+	// 写入Surge配置文件
+	writeSurgeConf(sortedDomains)
+
+	// 写入Surge2配置文件
+	writeSurge2Conf(sortedDomains)
+}
+
+// 写入hosts文件
+func writeHosts(domains []string) {
+	var hosts strings.Builder
+	hosts.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+
+	for _, domain := range domains {
+		hosts.WriteString(fmt.Sprintf("0.0.0.0 %s\n", domain))
+	}
+
+	os.WriteFile("hosts", []byte(hosts.String()), 0644)
+	fmt.Println("all domains converted to HOSTS file - see hosts")
+}
+
+// 写入dnsmasq.conf
+func writeDnsmasqConf(domains []string) {
+	var dnsmasq strings.Builder
+	dnsmasq.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+
+	for _, domain := range domains {
+		dnsmasq.WriteString(fmt.Sprintf("address=/%s/\n", domain))
+	}
+
+	os.WriteFile("dnsmasq.conf", []byte(dnsmasq.String()), 0644)
+	fmt.Println("all domains converted to dnsmasq.conf - see dnsmasq.conf")
+}
+
+// 写入SmartDNS配置文件
+func writeSmartDNSConf(domains []string) {
+	var smartdns strings.Builder
+	smartdns.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+
+	for _, domain := range domains {
+		smartdns.WriteString("nameserver /" + domain + "/#\n")
+	}
+
+	os.WriteFile("smartdns.conf", []byte(smartdns.String()), 0644)
+	fmt.Println("all domains converted to SmartDNS file - see smartdns.conf")
+}
+
+// 写入Surge配置文件
+func writeSurgeConf(domains []string) {
+	var surge strings.Builder
+	surge.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+
+	for _, domain := range domains {
+		surge.WriteString(fmt.Sprintf("DOMAIN-SUFFIX,%s\n", domain))
+	}
+
+	os.WriteFile("surge.conf", []byte(surge.String()), 0644)
+	fmt.Println("all domains converted to Surge file - see surge.conf")
+}
+
+// 写入Surge2配置文件
+func writeSurge2Conf(domains []string) {
+	var surge2 strings.Builder
+	surge2.WriteString(fmt.Sprintf("# All domains\n#\n# Converted from - Anti-Ad/AdGuard/EasyPrivacy/DD-AD\n# Last converted - %s\n# Total count: %d\n#\n\n", time.Now().Format(time.RFC1123), len(domains)))
+
+	surge2.WriteString("#DOMAIN-SET,https://raw.githubusercontent.com/missdeer/blocklist/master/convert/surge2.conf,REJECT\n")
+	for _, domain := range domains {
+		surge2.WriteString(fmt.Sprintf(".%s/\n", domain))
+	}
+
+	os.WriteFile("surge2.conf", []byte(surge2.String()), 0644)
+	fmt.Println("all domains converted to Surge2 file - see surge2.conf")
 }

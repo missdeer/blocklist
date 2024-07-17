@@ -9,7 +9,7 @@ on:
     paths:
       - '.github/workflows/go.yml'
       - convert/*.go
-      - convert/go.*
+      - go.*
 
 jobs:
   build:

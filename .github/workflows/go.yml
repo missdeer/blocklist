@@ -31,7 +31,7 @@ jobs:
         cd convert
         env CGO_ENABLED=0 go build -o convert .
         ./convert
-        cp hosts dlldomains.txt
+        cp hosts alldomains.txt
 
     - name: Set up Git
       env:

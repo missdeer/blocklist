@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 17 Jul 2024 05:45:29 UTC
+# Updated at Thu, 18 Jul 2024 04:26:05 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -244,6 +244,7 @@
 0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 branch.io
 0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0 browser.covatic.io
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 c.amazinglybrilliant.com.au

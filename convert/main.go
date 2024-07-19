@@ -32,6 +32,7 @@ var lists = map[string]string{
 	"EasyPrivacyCNAME":          "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific_cname.txt",
 	"YoutubeAds":                "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
 	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
+	"Blacklist":                 "https://raw.githubusercontent.com/missdeer/blocklist/master/blacklist.lst",
 }
 
 var (

@@ -32,7 +32,7 @@ var lists = map[string]string{
 	"EasyPrivacyCNAME":          "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific_cname.txt",
 	"YoutubeAds":                "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
 	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-	"Blacklist":                 "https://raw.githubusercontent.com/missdeer/blocklist/master/blacklist.lst",
+	"_":                         "https://raw.githubusercontent.com/missdeer/blocklist/master/blacklist.lst",
 }
 
 var (
@@ -159,8 +159,10 @@ func convert(listName string, listUrl string) {
 		}
 	}
 
-	os.WriteFile(listName+".txt", []byte(hosts.String()), 0644)
-	fmt.Println(listName, "converted to HOSTS file - see", listName+".txt")
+	if listName != "_" {
+		os.WriteFile(listName+".txt", []byte(hosts.String()), 0644)
+		fmt.Println(listName, "converted to HOSTS file - see", listName+".txt")
+	}
 }
 
 func main() {

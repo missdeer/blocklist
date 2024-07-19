@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 18 Jul 2024 04:26:05 UTC
+# Updated at Fri, 19 Jul 2024 02:13:11 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -4952,7 +4952,6 @@
 0.0.0.0 api.fuck.education
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gimbal.com
-0.0.0.0 api.instabug.com
 0.0.0.0 api.iterable.com
 0.0.0.0 api.iterative.ly
 0.0.0.0 api.limbik.com
@@ -4963,7 +4962,6 @@
 0.0.0.0 api.realmentor.net
 0.0.0.0 api.reproio.com
 0.0.0.0 api.ryanyao.design
-0.0.0.0 api.sardine.ai
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
@@ -35944,7 +35942,6 @@
 0.0.0.0 eusdbk.philosophyofficial.com
 0.0.0.0 ev.100calorias.com
 0.0.0.0 ev.api.bdg.com
-0.0.0.0 ev.indianexpress.com
 0.0.0.0 ev.kck.st
 0.0.0.0 ev.tpocdm.com
 0.0.0.0 evansville.townsquaremedia.info
@@ -65555,6 +65552,7 @@
 0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 trackgun.alrajhi-capital.com
+0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-api.hotmart.com
 0.0.0.0 tracking-api.passeidireto.com

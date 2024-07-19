@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Thu, 18 Jul 2024 04:26:05 UTC
+# Updated at Fri, 19 Jul 2024 02:13:11 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -5015,6 +5015,7 @@
 0.0.0.0 ahoravideo-schnellvpn.com
 0.0.0.0 ahoravideo-schnellvpn.xyz
 0.0.0.0 ahoxirsy.com
+0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 ahporntube.com
 0.0.0.0 ahpphkc.xyz
 0.0.0.0 ahqpqpdjpj.com
@@ -6704,7 +6705,6 @@
 0.0.0.0 api.greenp.kr
 0.0.0.0 api.grumft.com
 0.0.0.0 api.hi-hi.vip
-0.0.0.0 api.instabug.com
 0.0.0.0 api.iterable.com
 0.0.0.0 api.iterative.ly
 0.0.0.0 api.itpub.cloud
@@ -6725,7 +6725,6 @@
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.pubfinity.com
 0.0.0.0 api.publytics.net
-0.0.0.0 api.sardine.ai
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
@@ -8379,6 +8378,7 @@
 0.0.0.0 baghoorg.xyz
 0.0.0.0 bagiijdjejjcficbaag.world
 0.0.0.0 bagjuxtapose.com
+0.0.0.0 baglanbize.net
 0.0.0.0 baglaubs.com
 0.0.0.0 bagletantle.top
 0.0.0.0 baglezymoses.com
@@ -8413,6 +8413,7 @@
 0.0.0.0 baifaphoa.com
 0.0.0.0 baifen.music.baidu.com
 0.0.0.0 baifendian.com
+0.0.0.0 baijs010.xyz
 0.0.0.0 baijs02.xyz
 0.0.0.0 baijs03.xyz
 0.0.0.0 baijs05.xyz
@@ -19047,6 +19048,7 @@
 0.0.0.0 doujs06.xyz
 0.0.0.0 doujs07.xyz
 0.0.0.0 doujs08.xyz
+0.0.0.0 doujs09.xyz
 0.0.0.0 doukoula.com
 0.0.0.0 doumuleet.net
 0.0.0.0 douoblelimpup.com
@@ -21405,7 +21407,6 @@
 0.0.0.0 euz.net
 0.0.0.0 ev-dating.com
 0.0.0.0 ev.api.bdg.com
-0.0.0.0 ev.indianexpress.com
 0.0.0.0 ev.kck.st
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
@@ -25827,6 +25828,7 @@
 0.0.0.0 google-ads.hara.vn
 0.0.0.0 google-js-01.xyz
 0.0.0.0 google-js-02.xyz
+0.0.0.0 google-js-08.xyz
 0.0.0.0 google-pagerank.net
 0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
@@ -27773,6 +27775,7 @@
 0.0.0.0 hjnjjcw.xyz
 0.0.0.0 hjprhubzqgw.com
 0.0.0.0 hjqdwmekhur.com
+0.0.0.0 hjrcjz.xyz
 0.0.0.0 hjrvsw.info
 0.0.0.0 hjrwwwlqcovom.com
 0.0.0.0 hjshal.com
@@ -58320,6 +58323,7 @@
 0.0.0.0 trackeverything.co
 0.0.0.0 trackfeed.com
 0.0.0.0 trackicollect.ibase.fr
+0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking-amp.vnexpress.net
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 18 Jul 2024 04:26:04 UTC
+# Updated at Fri, 19 Jul 2024 02:13:11 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -213,6 +213,7 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzmobi.com
 0.0.0.0 agent.tamedia.com.tw
+0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 alt-ad.mail.ru

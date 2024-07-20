@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 19 Jul 2024 04:27:43 UTC
+# Updated at Sat, 20 Jul 2024 04:26:47 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6998,6 +6998,7 @@
 0.0.0.0 cdn.counter.dev
 0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
 0.0.0.0 cdn.ddmanager.ru
+0.0.0.0 cdn.defractal.com
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.dsspn.com
 0.0.0.0 cdn.glassboxcdn.com
@@ -54712,6 +54713,7 @@
 0.0.0.0 scmarketing.colliers.com
 0.0.0.0 scmetrics.shell.com
 0.0.0.0 scmetrics.vodafone.it
+0.0.0.0 scmn0di.com
 0.0.0.0 scnd.landsend.co.uk
 0.0.0.0 scnd.landsend.com
 0.0.0.0 scnd.landsend.de

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 21 Jul 2024 04:24:56 UTC
+# Updated at Mon, 22 Jul 2024 01:39:20 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -415,6 +415,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 p.lucida.to
 0.0.0.0 p.minds.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
@@ -445,7 +446,6 @@
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pks-analytics.raenonx.cc
 0.0.0.0 pl.letsblock.it
-0.0.0.0 pl.lucida.to
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
@@ -617,6 +617,7 @@
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 test.torrentfreak.com
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 thtk.temu.com
 0.0.0.0 tif.ionos.com

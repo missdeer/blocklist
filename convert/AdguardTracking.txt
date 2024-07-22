@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 21 Jul 2024 04:24:55 UTC
+# Updated at Mon, 22 Jul 2024 01:39:20 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -13028,6 +13028,7 @@
 0.0.0.0 dateing.club
 0.0.0.0 daten.union-investment.de
 0.0.0.0 datum.appfleet.com
+0.0.0.0 datum.jsdelivr.com
 0.0.0.0 datvantage.com
 0.0.0.0 dav.davrontech.com
 0.0.0.0 daytona.tickets.com
@@ -62918,6 +62919,7 @@
 0.0.0.0 test.shigoto-web.com
 0.0.0.0 test.spring-tns.net
 0.0.0.0 test.thomsonreuters.com
+0.0.0.0 test.torrentfreak.com
 0.0.0.0 test.zeus-wifi.jp
 0.0.0.0 test12345.sfap-qa1.marketingcloudqaops.com
 0.0.0.0 test3-dc.jared.com

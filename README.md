@@ -9,6 +9,7 @@ All domains (include all domains list in below lists) for popular apps:
 
 | Name     | GitHub Raw Link | jsDelivr Mirror |
 |----------|-----------------|-----------------|
+| domains  | [hosts](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/alldomains.txt) | [hosts](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/alldomains.txt) |
 | hosts    | [hosts](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/hosts) | [hosts](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/hosts) |
 | DNSMasq  | [dnsmasq.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/dnsmasq.conf) | [dnsmasq.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/dnsmasq.conf) |
 | SmartDNS | [smartdns.conf](https://raw.githubusercontent.com/missdeer/blocklist/master/convert/smartdns.conf) | [smartdns.conf](https://cdn.jsdelivr.net/gh/missdeer/blocklist@master/convert/smartdns.conf) |

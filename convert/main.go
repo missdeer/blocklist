@@ -190,6 +190,9 @@ func main() {
 
 	fmt.Println("Got", len(allDomains), "domains in total")
 
+	// 写入domains.txt
+	writeDomains(allDomains)
+
 	// 写入hosts文件
 	writeHosts(allDomains)
 
@@ -204,6 +207,17 @@ func main() {
 
 	// 写入Surge2配置文件
 	writeSurge2Conf(allDomains)
+}
+
+// 写入domains.txt
+func writeDomains(domains []string) {
+	var domainList strings.Builder
+	for _, domain := range domains {
+		domainList.WriteString(fmt.Sprintf("%s\n", domain))
+	}
+
+	os.WriteFile("alldomains.txt", []byte(domainList.String()), 0644)
+	fmt.Println("all domains converted to domain list - see alldomains.txt")
 }
 
 // 写入hosts文件

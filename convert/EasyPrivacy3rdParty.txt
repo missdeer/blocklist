@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 22 Jul 2024 04:26:43 UTC
+# Updated at Tue, 23 Jul 2024 04:25:24 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -523,7 +523,6 @@
 0.0.0.0 dnxlgencstz4.cloudfront.net
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-client-events.cbsivideo.com
-0.0.0.0 doppler-config.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
 0.0.0.0 dqif5bl25s0bf.cloudfront.net
@@ -1274,6 +1273,7 @@
 0.0.0.0 tracker.myyschool.xyz
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
+0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.services.vaix.ai

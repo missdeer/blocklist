@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 23 Jul 2024 04:25:24 UTC
+# Updated at Wed, 24 Jul 2024 04:24:56 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -1619,6 +1619,7 @@
 0.0.0.0 a.trivita.com
 0.0.0.0 a.trk2trk.org
 0.0.0.0 a.visiones.net
+0.0.0.0 a.visme.co
 0.0.0.0 a.weareknitters.co.uk
 0.0.0.0 a.weareknitters.com
 0.0.0.0 a.weareknitters.de
@@ -5516,6 +5517,7 @@
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
+0.0.0.0 api.sprig.com
 0.0.0.0 api.telemetry.watchabc.go.com
 0.0.0.0 api.tomi.ai
 0.0.0.0 api.trueaudience.io
@@ -36753,6 +36755,7 @@
 0.0.0.0 events.ferrari.com
 0.0.0.0 events.flagship.io
 0.0.0.0 events.forddirectdealers.com
+0.0.0.0 events.framer.com
 0.0.0.0 events.funnelish.com
 0.0.0.0 events.getsitectrl.com
 0.0.0.0 events.glory-global.com
@@ -41187,6 +41190,7 @@
 0.0.0.0 insightera.com
 0.0.0.0 insightgrit.com
 0.0.0.0 insights-collector.newrelic.com
+0.0.0.0 insights-mxp.coursecareers.com
 0.0.0.0 insights.academy.com
 0.0.0.0 insights.affilimate.com
 0.0.0.0 insights.aiu.edu.au
@@ -61578,6 +61582,7 @@
 0.0.0.0 static.karte.io
 0.0.0.0 static.osalta.eu
 0.0.0.0 static.parsely.com
+0.0.0.0 static.runconverge.com
 0.0.0.0 static.terratraf.io
 0.0.0.0 static.user-red.com
 0.0.0.0 static.whatsapp.net.iberostar.com

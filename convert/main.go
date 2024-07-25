@@ -29,10 +29,12 @@ var lists = map[string]string{
 	"AdguardTracking":           "https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt",
 	"EasyPrivacySpecific":       "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt",
 	"EasyPrivacy3rdParty":       "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt",
-	"EasyPrivacyCNAME":          "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific_cname.txt",
 	"YoutubeAds":                "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
 	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-	"_":                         "https://raw.githubusercontent.com/missdeer/blocklist/master/blacklist.lst",
+	"_1":                        "https://raw.githubusercontent.com/missdeer/blocklist/master/blacklist.lst",
+	"_2":                        "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list",
+	"_3":                        "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list",
+	"_4":                        "https://cdn.jsdelivr.net/gh/johnshall/Shadowrocket-ADBlock-Rules-Forever@master/sr_ad_only.conf",
 }
 
 var (
@@ -67,11 +69,8 @@ func convert(listName string, listUrl string) {
 		return
 	}
 	defer resp.Body.Close()
-	fmt.Println("Got", listName)
 	body, _ := io.ReadAll(resp.Body)
-	fmt.Println("Got", len(body), "bytes")
 	lines := strings.Split(string(body), "\n")
-	fmt.Println("Splitted to", len(lines), "lines")
 	// HOSTS header
 	var hosts strings.Builder
 	hosts.WriteString(fmt.Sprintf("# %s\n#\n# Converted from %s\n# Updated at %s\n#\n\n", listName, listUrl, time.Now().Format(time.RFC1123)))
@@ -105,12 +104,21 @@ func convert(listName string, listUrl string) {
 		}
 
 		if strings.Contains(filter, "~") || filter == "" || strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") ||
-			strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") {
+			strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") ||
+			strings.HasPrefix(filter, "IP-CIDR") || strings.HasPrefix(filter, "DOMAIN-KEYWORD") {
 			continue
 		}
 
 		if strings.Contains(filter, ":") {
 			filter = filter[:strings.Index(filter, ":")]
+		}
+
+		if strings.HasPrefix(filter, "DOMAIN-SUFFIX,") || strings.HasPrefix(filter, "DOMAIN,") {
+			ss := strings.Split(filter, ",")
+			if len(ss) < 2 {
+				continue
+			}
+			filter = ss[1]
 		}
 
 		if !isASCII(filter) {
@@ -141,8 +149,7 @@ func convert(listName string, listUrl string) {
 		allDomainsMap.Store("0.0.0.0 "+filter, struct{}{})
 		allDomainCount.Add(1)
 	}
-	fmt.Printf("\n")
-	fmt.Println("Got", len(domains), "domains, except", len(exceptions), "ones")
+	fmt.Printf("\nGot %d domains, except %d ones from %s with %d bytes & %d lines\n", len(domains), len(exceptions), listName, len(body), len(lines))
 
 	// 创建一个切片来存储 map 的 keys
 	keys := make([]string, 0, len(domains))
@@ -159,7 +166,7 @@ func convert(listName string, listUrl string) {
 		}
 	}
 
-	if listName != "_" {
+	if !strings.HasPrefix(listName, "_") {
 		os.WriteFile(listName+".txt", []byte(hosts.String()), 0644)
 		fmt.Println(listName, "converted to HOSTS file - see", listName+".txt")
 	}

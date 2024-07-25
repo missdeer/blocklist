@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 24 Jul 2024 04:24:56 UTC
+# Updated at Thu, 25 Jul 2024 01:48:14 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6595,6 +6595,7 @@
 0.0.0.0 b2bmarketingsb.swisscom.com
 0.0.0.0 b2bmkt.lge.co.kr
 0.0.0.0 b2c.com
+0.0.0.0 b3mxnuvcer.com
 0.0.0.0 b536mpmxoqxa.www.themoneytizer.com
 0.0.0.0 b5j6itccyluq.nofluffjobs.com
 0.0.0.0 b90.yahoo.co.jp
@@ -6739,6 +6740,7 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.qq.com
+0.0.0.0 beacon.radiko.jp
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.shazam.com
@@ -9858,6 +9860,7 @@
 0.0.0.0 collector.mediator.media
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
+0.0.0.0 collector.plarium.com
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.reelevant.com
 0.0.0.0 collector.retailcrm.pro
@@ -37657,6 +37660,7 @@
 0.0.0.0 g-fallback.whatsapp.net.iberostar.com
 0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 g.ezodn.com
+0.0.0.0 g.ign.com
 0.0.0.0 g.whatsapp.net.iberostar.com
 0.0.0.0 g1be.swisslife-direct.fr
 0.0.0.0 ga-analytics.com

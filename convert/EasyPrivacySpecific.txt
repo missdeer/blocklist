@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 25 Jul 2024 04:28:49 UTC
+# Updated at Fri, 26 Jul 2024 04:25:54 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -175,6 +175,7 @@
 0.0.0.0 content22.citibankonline.com
 0.0.0.0 content22.online.citi.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 count.darkreader.app
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
 0.0.0.0 cpt.itv.com
@@ -617,6 +618,7 @@
 0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.firez.one
+0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 test.torrentfreak.com
 0.0.0.0 tgt.maep.ibm.com

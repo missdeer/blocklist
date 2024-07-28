@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 27 Jul 2024 04:26:26 UTC
+# Updated at Sun, 28 Jul 2024 04:24:27 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -42054,7 +42054,6 @@
 0.0.0.0 kqvtez.watt24.com
 0.0.0.0 kqzbph.zerohedge.com
 0.0.0.0 kqzyfj.com
-0.0.0.0 kr-col-ext.nelo.navercorp.com
 0.0.0.0 kr-go.experian.com
 0.0.0.0 kr.met.vgwort.de
 0.0.0.0 kraken.rambler.ru

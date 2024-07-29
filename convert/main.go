@@ -35,6 +35,7 @@ var lists = map[string]string{
 	"_2":                        "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list",
 	"_3":                        "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list",
 	"_4":                        "https://cdn.jsdelivr.net/gh/johnshall/Shadowrocket-ADBlock-Rules-Forever@master/sr_ad_only.conf",
+	"_5":                        "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list",
 }
 
 var (
@@ -103,10 +104,15 @@ func convert(listName string, listUrl string) {
 			filter = strings.ReplaceAll(filter, replacement, "")
 		}
 
-		if strings.Contains(filter, "~") || filter == "" || strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") ||
+		if strings.Contains(filter, "~") || filter == "" ||
 			strings.HasPrefix(filter, "-") || strings.HasPrefix(filter, "_") || strings.HasPrefix(filter, "!") || strings.HasSuffix(filter, "|") ||
 			strings.HasPrefix(filter, "IP-CIDR") || strings.HasPrefix(filter, "DOMAIN-KEYWORD") {
 			continue
+		}
+
+		if strings.HasPrefix(filter, ".") || strings.HasSuffix(filter, ".") {
+			// remove leading and trailing dots
+			filter = strings.Trim(filter, ".")
 		}
 
 		if strings.Contains(filter, ":") {

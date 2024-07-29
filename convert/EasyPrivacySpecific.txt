@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 28 Jul 2024 04:24:27 UTC
+# Updated at Mon, 29 Jul 2024 04:00:42 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -27,6 +27,7 @@
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 anal.doubledouble.top
+0.0.0.0 analytics-api.dvdfab
 0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-server.arras.cx
@@ -69,6 +70,7 @@
 0.0.0.0 analytics.silktide.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
+0.0.0.0 analytics.ticketmaster
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
@@ -206,6 +208,8 @@
 0.0.0.0 dd.nytimes.com
 0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 deliver.ptgncdn.com
+0.0.0.0 df.infra.shopee
+0.0.0.0 df.infra.sz.shopee
 0.0.0.0 dii.bankaust.com.au
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
@@ -435,6 +439,7 @@
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pingo.staticmoly.me
+0.0.0.0 pixel.archive
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 pixel.convertize.io
@@ -510,6 +515,7 @@
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 servo-report.dvdfab
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 sjc.cloud.optable.co
@@ -610,6 +616,7 @@
 0.0.0.0 target.nejm.org
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 tc.geniusmonkey.com
+0.0.0.0 tccd.douglas
 0.0.0.0 td.airdroid.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telegraph.prd.api.max.com
@@ -681,6 +688,7 @@
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 ua.indianexpress.com
+0.0.0.0 ubt.tracking.shopee
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
 0.0.0.0 umami.wakarimasen.moe

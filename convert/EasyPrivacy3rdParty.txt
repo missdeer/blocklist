@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sun, 28 Jul 2024 04:24:27 UTC
+# Updated at Mon, 29 Jul 2024 04:00:42 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -210,6 +210,7 @@
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
 0.0.0.0 baxter.olx.org
+0.0.0.0 bc.geocities
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.adelphic.com
@@ -1283,6 +1284,7 @@
 0.0.0.0 tracker.ssl0d.com
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.tubecj.com
+0.0.0.0 tracker.twenga
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.wigzopush.com
 0.0.0.0 tracker.wpserveur.net

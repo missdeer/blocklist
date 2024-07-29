@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sun, 28 Jul 2024 04:24:27 UTC
+# Updated at Mon, 29 Jul 2024 04:00:42 UTC
 #
 
 0.0.0.0 33across.com
@@ -307,6 +307,7 @@
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hit.gemius.pl
@@ -351,6 +352,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
@@ -547,6 +549,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdks.stats-locations.com
+0.0.0.0 seller-log-collector.shopee
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sentry.eks.hoyoverse.com

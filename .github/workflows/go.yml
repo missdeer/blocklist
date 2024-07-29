@@ -8,8 +8,8 @@ on:
       - 'master'
     paths:
       - '.github/workflows/go.yml'
-      - convert/*.go
-      - go.*
+      - 'convert/*.go'
+      - 'go.*'
 
 jobs:
   build:

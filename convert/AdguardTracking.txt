@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 30 Jul 2024 04:25:50 UTC
+# Updated at Wed, 31 Jul 2024 04:21:11 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9237,6 +9237,7 @@
 0.0.0.0 api.net.sparhandy.de
 0.0.0.0 api.publytics.net
 0.0.0.0 api.realmentor.net
+0.0.0.0 api.receptivity.io
 0.0.0.0 api.reproio.com
 0.0.0.0 api.ryanyao.design
 0.0.0.0 api.sec.miui.com
@@ -10362,6 +10363,7 @@
 0.0.0.0 baikalize.com
 0.0.0.0 baldeagle.e-ma.re
 0.0.0.0 bam-x.com
+0.0.0.0 banana.le.com
 0.0.0.0 bandborder.com
 0.0.0.0 bandicoot.mohit.dev
 0.0.0.0 bandicoot.p0.design
@@ -11027,6 +11029,7 @@
 0.0.0.0 c.tvpixel.com
 0.0.0.0 c.tyb.xyz
 0.0.0.0 c.webengage.com
+0.0.0.0 c.webp2p.letv.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c.xminz.com
@@ -13353,6 +13356,7 @@
 0.0.0.0 clks.trackthisclicks.com
 0.0.0.0 clkstat.china.cn
 0.0.0.0 cllctr.any.run
+0.0.0.0 cllctr.roistat.com
 0.0.0.0 clnbze.dziennikbaltycki.pl
 0.0.0.0 clnbze.dzienniklodzki.pl
 0.0.0.0 clnbze.dziennikpolski24.pl
@@ -17888,6 +17892,7 @@
 0.0.0.0 dc.kay.com
 0.0.0.0 dc.kayoutlet.com
 0.0.0.0 dc.kfz-steuercheck.de
+0.0.0.0 dc.letv.com
 0.0.0.0 dc.luzygas.ahorraconrepsol.com
 0.0.0.0 dc.madridistas.com
 0.0.0.0 dc.pimenta21.online
@@ -39776,6 +39781,7 @@
 0.0.0.0 fdnyib.biketiresdirect.com
 0.0.0.0 fdowic.hoiku.mynavi.jp
 0.0.0.0 fdxtbs.meeters.org
+0.0.0.0 fe-go.letv.com
 0.0.0.0 fea-cfd.simutechgroup.com
 0.0.0.0 feathr.co
 0.0.0.0 featured.bradyid.com
@@ -57916,6 +57922,7 @@
 0.0.0.0 s-omniture.yell.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s-sitecatalyst.work.shiseido.co.jp
+0.0.0.0 s-webp2p.letv.com
 0.0.0.0 s.360.cn
 0.0.0.0 s.acxiom.com
 0.0.0.0 s.adroll.com
@@ -64016,6 +64023,7 @@
 0.0.0.0 sst.marshalls.com
 0.0.0.0 sst.nab.com.au
 0.0.0.0 sst.subzero-wolf.com
+0.0.0.0 sst.thebanker.com
 0.0.0.0 sst.tjmaxx.tjx.com
 0.0.0.0 sstat.3pagen.at
 0.0.0.0 sstat.detelefoongids.nl
@@ -64454,6 +64462,7 @@
 0.0.0.0 stat.lamy-formation.fr
 0.0.0.0 stat.lamyline.fr
 0.0.0.0 stat.landingpro.pl
+0.0.0.0 stat.le.com
 0.0.0.0 stat.legalintelligence.com
 0.0.0.0 stat.lex.pl
 0.0.0.0 stat.lexhub.tech
@@ -67079,6 +67088,7 @@
 0.0.0.0 telemetry.ruthschris.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.stryker.com
+0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.voxeet.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 31 Jul 2024 04:21:10 UTC
+# Updated at Thu, 01 Aug 2024 04:26:02 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -274,6 +274,7 @@
 0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
 0.0.0.0 fdt.kraken.com
 0.0.0.0 femetrics.grammarly.io
+0.0.0.0 fgn-plausible.serverable.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
@@ -515,6 +516,7 @@
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 services.haaretz.com
 0.0.0.0 servo-report.dvdfab
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 01 Aug 2024 04:26:02 UTC
+# Updated at Fri, 02 Aug 2024 04:28:08 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -244,6 +244,7 @@
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-router.olympics.com
 0.0.0.0 event.evtm.53.com
+0.0.0.0 event.platform.autotrader.com.au
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventlog.jackpot.de
@@ -328,15 +329,18 @@
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 impressions.svc.abillion.com
 0.0.0.0 improve.tempest.com
+0.0.0.0 in.brilliant.org
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingress.linktr.ee
+0.0.0.0 insights-mxp-cdn.coursecareers.com
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 intent.macworld.co.uk
 0.0.0.0 intent.pcworld.idg.com.au
 0.0.0.0 intent.techadvisor.com
 0.0.0.0 internal-analytics.odoo.com
+0.0.0.0 internal-e.posthog.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com

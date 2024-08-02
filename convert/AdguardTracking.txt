@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 01 Aug 2024 04:26:01 UTC
+# Updated at Fri, 02 Aug 2024 04:28:07 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10859,6 +10859,7 @@
 0.0.0.0 brightedge.com
 0.0.0.0 brigitte.met.vgwort.de
 0.0.0.0 brilig.com
+0.0.0.0 brilliantcollector.com
 0.0.0.0 brjjkd.calzedonia.com
 0.0.0.0 broadcast.verwin.com
 0.0.0.0 broker.datazoom.io
@@ -39930,6 +39931,7 @@
 0.0.0.0 fkwc.sfr.fr
 0.0.0.0 fkxlsc.fenix-store.com
 0.0.0.0 fl5dpe.oui.sncf
+0.0.0.0 flag.lab.amplitude.com
 0.0.0.0 flagcounter.com
 0.0.0.0 flamingo.abihome.de
 0.0.0.0 flamingo.apatonsrompus.com
@@ -71773,6 +71775,7 @@
 0.0.0.0 ultund.misterspex.nl
 0.0.0.0 ulutlv.esprit.fr
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
+0.0.0.0 umami.aigenerations.net
 0.0.0.0 umami.is
 0.0.0.0 umazvs.raybiotech.com
 0.0.0.0 umbel.com

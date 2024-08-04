@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 03 Aug 2024 04:25:24 UTC
+# Updated at Sun, 04 Aug 2024 04:28:04 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8403,6 +8403,7 @@
 0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-fe.digital-cloud.medallia.eu
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-ingestion.pbpms.de
 0.0.0.0 analytics-ingestion.production-public.tubi.io
@@ -8851,6 +8852,7 @@
 0.0.0.0 analytics.redbubble.com
 0.0.0.0 analytics.regex101.com
 0.0.0.0 analytics.reliant.com
+0.0.0.0 analytics.rev.iq
 0.0.0.0 analytics.ripped.guide
 0.0.0.0 analytics.rivaliq.com
 0.0.0.0 analytics.robinhood.com
@@ -39215,6 +39217,7 @@
 0.0.0.0 erotop.lv
 0.0.0.0 erp.plex.com
 0.0.0.0 errlogos.umeng.com
+0.0.0.0 error-tracking.reddit.com
 0.0.0.0 ert5.rmcsport.tv
 0.0.0.0 erutinmos.snagajob.com
 0.0.0.0 es-business.vodafone.com
@@ -69970,6 +69973,7 @@
 0.0.0.0 tracking.aupairinamerica.fr
 0.0.0.0 tracking.automotivemastermind.com
 0.0.0.0 tracking.averydennison.com
+0.0.0.0 tracking.aws.judge.me
 0.0.0.0 tracking.bankofalbuquerque.com
 0.0.0.0 tracking.bankofoklahoma.com
 0.0.0.0 tracking.bankoftexas.com
@@ -74436,6 +74440,7 @@
 0.0.0.0 yak.withlindy.com
 0.0.0.0 yamanoha.com
 0.0.0.0 yamm-track.appspot
+0.0.0.0 yatr.ru
 0.0.0.0 yaudience.com
 0.0.0.0 yawxae.footpatrol.com
 0.0.0.0 yaxedj.vkf-renzel.de

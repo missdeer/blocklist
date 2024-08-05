@@ -30,12 +30,6 @@ var lists = map[string]string{
 	"EasyPrivacySpecific":       "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt",
 	"EasyPrivacy3rdParty":       "https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt",
 	"YoutubeAds":                "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
-	"DD-AD":                     "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
-	"_1":                        "https://raw.githubusercontent.com/missdeer/blocklist/master/blacklist.lst",
-	"_2":                        "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanAD.list",
-	"_3":                        "https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/BanProgramAD.list",
-	"_4":                        "https://cdn.jsdelivr.net/gh/johnshall/Shadowrocket-ADBlock-Rules-Forever@master/sr_ad_only.conf",
-	"_5":                        "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/AdGuardSDNSFilter/AdGuardSDNSFilter_Domain.list",
 }
 
 var (

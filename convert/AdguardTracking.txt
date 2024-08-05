@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 04 Aug 2024 04:28:04 UTC
+# Updated at Mon, 05 Aug 2024 04:26:11 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -68033,6 +68033,7 @@
 0.0.0.0 tr.cyprusparadiseestates.com
 0.0.0.0 tr.cypruspremiervacations.com
 0.0.0.0 tr.datanyze.com
+0.0.0.0 tr.dec-connect.decsuite.com
 0.0.0.0 tr.demo.np6.com
 0.0.0.0 tr.designoutlet-contact.fr
 0.0.0.0 tr.devis-companeo.be

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 05 Aug 2024 15:04:50 UTC
+# Updated at Tue, 06 Aug 2024 04:27:37 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -5774,6 +5774,8 @@
 0.0.0.0 a.b.teregaming.com
 0.0.0.0 a.bigtennetwork.com
 0.0.0.0 a.brack.ch
+0.0.0.0 a.callawaygolf.com
+0.0.0.0 a.callawaygolfpreowned.com
 0.0.0.0 a.ddli.jp
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 a.deutschehospitality.com
@@ -5842,6 +5844,7 @@
 0.0.0.0 a.myfidevs.io
 0.0.0.0 a.mygreatrelief.com
 0.0.0.0 a.o2u.jp
+0.0.0.0 a.ogio.com
 0.0.0.0 a.oney.es
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.parfumsclub.de
@@ -5876,6 +5879,7 @@
 0.0.0.0 a.tactics.com
 0.0.0.0 a.telus.com
 0.0.0.0 a.thelocal.com
+0.0.0.0 a.topgolf.com
 0.0.0.0 a.transportgruppen.se
 0.0.0.0 a.trckr.club
 0.0.0.0 a.trivita.com
@@ -7439,6 +7443,7 @@
 0.0.0.0 account.beauty
 0.0.0.0 accountancy.bppeloqua.com
 0.0.0.0 accounting.frbservices.org
+0.0.0.0 accounts-meta-events.outsideonline.com
 0.0.0.0 accrundetrk.cc
 0.0.0.0 accuratecoal.com
 0.0.0.0 ace.naver.com
@@ -8604,6 +8609,51 @@
 0.0.0.0 ainu.intel.la
 0.0.0.0 ainu.intel.pl
 0.0.0.0 aipaistop.insulinsolutionhub.com
+0.0.0.0 aiq-in.applevacations.com
+0.0.0.0 aiq-in.autoweek.com
+0.0.0.0 aiq-in.beachbound.com
+0.0.0.0 aiq-in.bestproducts.com
+0.0.0.0 aiq-in.bicycling.com
+0.0.0.0 aiq-in.caranddriver.com
+0.0.0.0 aiq-in.cheapcaribbean.com
+0.0.0.0 aiq-in.cosmopolitan.com
+0.0.0.0 aiq-in.countryliving.com
+0.0.0.0 aiq-in.delish.com
+0.0.0.0 aiq-in.elle.com
+0.0.0.0 aiq-in.elledecor.com
+0.0.0.0 aiq-in.esquire.com
+0.0.0.0 aiq-in.ext.hp.com
+0.0.0.0 aiq-in.funjet.com
+0.0.0.0 aiq-in.goodhousekeeping.com
+0.0.0.0 aiq-in.harpersbazaar.com
+0.0.0.0 aiq-in.housebeautiful.com
+0.0.0.0 aiq-in.menshealth.com
+0.0.0.0 aiq-in.oprahdaily.com
+0.0.0.0 aiq-in.popularmechanics.com
+0.0.0.0 aiq-in.prevention.com
+0.0.0.0 aiq-in.redbookmag.com
+0.0.0.0 aiq-in.roadandtrack.com
+0.0.0.0 aiq-in.runnersworld.com
+0.0.0.0 aiq-in.seventeen.com
+0.0.0.0 aiq-in.skechers.ca
+0.0.0.0 aiq-in.skechers.co.uk
+0.0.0.0 aiq-in.skechers.com
+0.0.0.0 aiq-in.skechers.de
+0.0.0.0 aiq-in.skechers.es
+0.0.0.0 aiq-in.southwestvacations.com
+0.0.0.0 aiq-in.thepioneerwoman.com
+0.0.0.0 aiq-in.townandcountrymag.com
+0.0.0.0 aiq-in.vacations.united.com
+0.0.0.0 aiq-in.veranda.com
+0.0.0.0 aiq-in.womansday.com
+0.0.0.0 aiq-in.womenshealthmag.com
+0.0.0.0 aiqx.ghostbusters.com
+0.0.0.0 aiqx.sonypictures.com
+0.0.0.0 aiqx.travismathew.ca
+0.0.0.0 aiqx.travismathew.co.uk
+0.0.0.0 aiqx.travismathew.com
+0.0.0.0 aiqx.wheeloffortune.com
+0.0.0.0 aiqx.www.ghostbusters.com
 0.0.0.0 air360tracker.net
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
 0.0.0.0 airpr.com
@@ -9654,6 +9704,8 @@
 0.0.0.0 antvoice.com
 0.0.0.0 antwort.hager.de
 0.0.0.0 anubis.webspecmail.com
+0.0.0.0 anx-staging.learnwithhomer.com
+0.0.0.0 anx.learnwithhomer.com
 0.0.0.0 anytime.digitaljobs.gr
 0.0.0.0 anz7.allianz-voyage.fr
 0.0.0.0 ao-marketing.dbiyes.com
@@ -11296,6 +11348,7 @@
 0.0.0.0 bmail.getventive.com
 0.0.0.0 bman.happycustomer.io
 0.0.0.0 bmjmse.softsurroundings.com
+0.0.0.0 bmkt.bernhardtmoden.de
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
 0.0.0.0 bmnbzt.pool-systems.de
@@ -12538,6 +12591,11 @@
 0.0.0.0 click.e3.daodao.com
 0.0.0.0 click.e3.tripadvisor.cn
 0.0.0.0 click.ealerts.bankofamerica.com
+0.0.0.0 click.easycosmetic.at
+0.0.0.0 click.easycosmetic.be
+0.0.0.0 click.easycosmetic.ch
+0.0.0.0 click.easycosmetic.de
+0.0.0.0 click.easycosmetic.nl
 0.0.0.0 click.ebroadcast.iata.org
 0.0.0.0 click.ecampustours-email.com
 0.0.0.0 click.ecmcnews.org
@@ -15364,6 +15422,7 @@
 0.0.0.0 ctr.tipkingssolution.com
 0.0.0.0 ctr.yourvitalvision.com
 0.0.0.0 ctrkd.ilsole24ore.com
+0.0.0.0 ctrl.guenther.de
 0.0.0.0 cts.trccompanies.com
 0.0.0.0 ctwqxs.autoscout24.at
 0.0.0.0 ctyjsf.cellphones.com.vn
@@ -18195,6 +18254,7 @@
 0.0.0.0 data.dow.com
 0.0.0.0 data.dreambaby.be
 0.0.0.0 data.dreamland.be
+0.0.0.0 data.drhauschka.de
 0.0.0.0 data.e.adobe.com
 0.0.0.0 data.e.bulk.com
 0.0.0.0 data.e.lotteryoffice.com.au
@@ -19544,6 +19604,8 @@
 0.0.0.0 e.mail.yossi-tikshoret.co.il
 0.0.0.0 e.mail.yoursurprise.com
 0.0.0.0 e.mailgun.bravechurch.co
+0.0.0.0 e.mediherz-shop.de
+0.0.0.0 e.medikamente-per-klick.de
 0.0.0.0 e.meridiancm.com
 0.0.0.0 e.metarouter.io
 0.0.0.0 e.mg.setshape.com
@@ -19553,6 +19615,7 @@
 0.0.0.0 e.passfolio.com
 0.0.0.0 e.paycove.io
 0.0.0.0 e.pomonaelectronics.com
+0.0.0.0 e.preisapo.de
 0.0.0.0 e.raytek.com
 0.0.0.0 e.replacementdevicelawsuit.com
 0.0.0.0 e.rudderstack.com
@@ -40237,8 +40300,18 @@
 0.0.0.0 estate-planning.wealthcounsel.com
 0.0.0.0 estore.biscoind.com
 0.0.0.0 estrack.net
+0.0.0.0 esub.autobatterie-markt.de
+0.0.0.0 esub.online-batterien.de
+0.0.0.0 esub.solarspeicher24.de
 0.0.0.0 eswpwi.xlmoto.pl
+0.0.0.0 et.electronic4you.at
+0.0.0.0 et.electronic4you.de
+0.0.0.0 et.electronic4you.hr
+0.0.0.0 et.electronic4you.si
+0.0.0.0 et.juskys.de
+0.0.0.0 et.majdic.at
 0.0.0.0 et.nytimes.com
+0.0.0.0 et.pns24.de
 0.0.0.0 et.rejuvenescenatural.com
 0.0.0.0 et.shopeefood.vn
 0.0.0.0 et.sncf.com
@@ -40266,6 +40339,7 @@
 0.0.0.0 etrigue.com
 0.0.0.0 etrk.gosimpletax.com
 0.0.0.0 ets.easybrain.com
+0.0.0.0 ets.verivox.com
 0.0.0.0 etscampaign.motorola.com
 0.0.0.0 etwovr.underarmour.eu
 0.0.0.0 etyper.com
@@ -40811,6 +40885,7 @@
 0.0.0.0 ferret.jesper.hk
 0.0.0.0 ferret.linksoftwarellc.com
 0.0.0.0 ferret.tailgraph.com
+0.0.0.0 ferthu.seyffer.shop
 0.0.0.0 fespzx.sfr.fr
 0.0.0.0 feuqzl.woolrich.com
 0.0.0.0 fev10.flourishpath.online
@@ -45491,6 +45566,7 @@
 0.0.0.0 jrzgcz.ilromanista.eu
 0.0.0.0 jrzgcz.latinaoggi.eu
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 js.edingershops.de
 0.0.0.0 js.glossom.jp
 0.0.0.0 js.go2sdk.com
 0.0.0.0 js.hsadspixel.net
@@ -45623,6 +45699,7 @@
 0.0.0.0 kantartns.lt
 0.0.0.0 kaocko.swaglift.com
 0.0.0.0 kap.tterpi.com
+0.0.0.0 kapetracking.com
 0.0.0.0 karlovo.nerters.space
 0.0.0.0 katrineholm.innngot.space
 0.0.0.0 kattoremontti.ruukki.com
@@ -51181,6 +51258,7 @@
 0.0.0.0 memelq.acs.org
 0.0.0.0 mengis-linden.org
 0.0.0.0 mennoc.mezlan.com
+0.0.0.0 mensch.ekd.de
 0.0.0.0 meowlytics.bignutty.xyz
 0.0.0.0 mercadeo.promerica.fi.cr
 0.0.0.0 mercadoclics.com
@@ -51204,6 +51282,32 @@
 0.0.0.0 met.vgwort.de
 0.0.0.0 met1.hp.com
 0.0.0.0 met2.hp.com
+0.0.0.0 meta-events.backpacker.com
+0.0.0.0 meta-events.bikereg.com
+0.0.0.0 meta-events.cleaneatingmag.com
+0.0.0.0 meta-events.climbing.com
+0.0.0.0 meta-events.finisherpix.com
+0.0.0.0 meta-events.mycoloradoparks.com
+0.0.0.0 meta-events.mygrandcanyonpark.com
+0.0.0.0 meta-events.myolympicpark.com
+0.0.0.0 meta-events.mysmokymountainpark.com
+0.0.0.0 meta-events.myutahparks.com
+0.0.0.0 meta-events.nationalparktrips.com
+0.0.0.0 meta-events.outside.io
+0.0.0.0 meta-events.outsideonline.com
+0.0.0.0 meta-events.oxygenmag.com
+0.0.0.0 meta-events.pledgereg.com
+0.0.0.0 meta-events.runreg.com
+0.0.0.0 meta-events.skimag.com
+0.0.0.0 meta-events.trailforks.com
+0.0.0.0 meta-events.trailrunnermag.com
+0.0.0.0 meta-events.triathlete.com
+0.0.0.0 meta-events.trireg.com
+0.0.0.0 meta-events.vegetariantimes.com
+0.0.0.0 meta-events.velonews.com
+0.0.0.0 meta-events.womensrunning.com
+0.0.0.0 meta-events.yellowstonepark.com
+0.0.0.0 meta-events.yogajournal.com
 0.0.0.0 metaclk.metanailcomplex.online
 0.0.0.0 metalyzer.com
 0.0.0.0 metc.banfield.com
@@ -52962,6 +53066,7 @@
 0.0.0.0 mkt941.com
 0.0.0.0 mktg.aa.f5.com
 0.0.0.0 mktg.act-on.com
+0.0.0.0 mktg.activemind.legal
 0.0.0.0 mktg.aicipc.com
 0.0.0.0 mktg.bekapublishing.com
 0.0.0.0 mktg.destinationmarketing.org
@@ -53193,7 +53298,11 @@
 0.0.0.0 mqvyob.vidaxl.fi
 0.0.0.0 mqwqas.marketbio.pl
 0.0.0.0 mqzoid.vintorte.com
+0.0.0.0 mr-in.beginlearning.com
+0.0.0.0 mr-in.com
 0.0.0.0 mr-rank.de
+0.0.0.0 mr.homedepot.ca
+0.0.0.0 mr.pinkbike.com
 0.0.0.0 mr.postman.storyworth.com
 0.0.0.0 mrb.upapi.net
 0.0.0.0 mre6.destinia.ma
@@ -53525,6 +53634,7 @@
 0.0.0.0 mytracking.r.media-hd.com
 0.0.0.0 mytracking.supersonicfood.com
 0.0.0.0 mytracking.tgstrack.com
+0.0.0.0 mytrd.orion.at
 0.0.0.0 myusersonline.com
 0.0.0.0 myvehicle.eaton.com
 0.0.0.0 myvisitors.se
@@ -64501,6 +64611,7 @@
 0.0.0.0 sr59t7wbx5.claricelin.com
 0.0.0.0 srb-communique.srb-es.com
 0.0.0.0 srbnxr.blair.com
+0.0.0.0 src.vector.com
 0.0.0.0 srd1-pdx.net.jumia.ci
 0.0.0.0 srepdata.12newsnow.com
 0.0.0.0 srepdata.app.com
@@ -65570,6 +65681,7 @@
 0.0.0.0 stats.bloke.blog
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.bmxdevils.be
+0.0.0.0 stats.bodenverkauf.de
 0.0.0.0 stats.book-rec.com
 0.0.0.0 stats.bookhostels.com
 0.0.0.0 stats.bookingbuddy.co.uk
@@ -65697,6 +65809,7 @@
 0.0.0.0 stats.eedistudio.ie
 0.0.0.0 stats.eightyfourrooms.com
 0.0.0.0 stats.einsvieracht.de
+0.0.0.0 stats.ekd.de
 0.0.0.0 stats.ekomenyong.com
 0.0.0.0 stats.elementary.io
 0.0.0.0 stats.eliteclng.com
@@ -65743,6 +65856,7 @@
 0.0.0.0 stats.flightsphere.com
 0.0.0.0 stats.florianfritz.net
 0.0.0.0 stats.flowphantom.com
+0.0.0.0 stats.folienmarkt.de
 0.0.0.0 stats.fomo.com
 0.0.0.0 stats.franklincovey.com
 0.0.0.0 stats.frantic.im
@@ -65858,6 +65972,7 @@
 0.0.0.0 stats.jun-etan.com
 0.0.0.0 stats.justinwilliams.ca
 0.0.0.0 stats.juttu.be
+0.0.0.0 stats.kaerntnerjobs.at
 0.0.0.0 stats.kaladyaudiology.com
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.katharinascheitz.com
@@ -65929,6 +66044,7 @@
 0.0.0.0 stats.marshfieldresearch.org
 0.0.0.0 stats.martinbetz.eu
 0.0.0.0 stats.martyntaylor.com
+0.0.0.0 stats.maschinenprofi.de
 0.0.0.0 stats.mashword.com
 0.0.0.0 stats.mastermeup.com
 0.0.0.0 stats.masterybits.com
@@ -65952,6 +66068,7 @@
 0.0.0.0 stats.mirror.co.uk
 0.0.0.0 stats.missionrabies.com
 0.0.0.0 stats.moco-comics.com
+0.0.0.0 stats.mopo.de
 0.0.0.0 stats.mos.ru
 0.0.0.0 stats.mostlycoding.com.au
 0.0.0.0 stats.motion-effect.com
@@ -66029,6 +66146,7 @@
 0.0.0.0 stats.philjava.com
 0.0.0.0 stats.photographer.com.au
 0.0.0.0 stats.piaggio.com
+0.0.0.0 stats.pilz.com
 0.0.0.0 stats.pinoymusicstation.com
 0.0.0.0 stats.piplette.co
 0.0.0.0 stats.pitstone.co.uk
@@ -66094,6 +66212,7 @@
 0.0.0.0 stats.roderickduenas.com
 0.0.0.0 stats.rs-online.com
 0.0.0.0 stats.ruhrfestspiele.de
+0.0.0.0 stats.rumundco.de
 0.0.0.0 stats.russellstover.com
 0.0.0.0 stats.rustica.fr
 0.0.0.0 stats.rymawby.com
@@ -66162,6 +66281,7 @@
 0.0.0.0 stats.stacks.org
 0.0.0.0 stats.staging.hex.pm
 0.0.0.0 stats.steepandcheap.com
+0.0.0.0 stats.steirerjobs.at
 0.0.0.0 stats.steuer-soldaten.de
 0.0.0.0 stats.strawberry.rocks
 0.0.0.0 stats.streamhub.io
@@ -66169,6 +66289,7 @@
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.stylight.de
 0.0.0.0 stats.sublimesecurity.com
+0.0.0.0 stats.suedtirolerjobs.it
 0.0.0.0 stats.suenicholls.com
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.suniboy.com
@@ -66209,6 +66330,7 @@
 0.0.0.0 stats.tinkerer.tools
 0.0.0.0 stats.tipser.com
 0.0.0.0 stats.tirexo.blue
+0.0.0.0 stats.tirolerjobs.at
 0.0.0.0 stats.tl8.io
 0.0.0.0 stats.tms-development.com
 0.0.0.0 stats.tms-development.de
@@ -66235,6 +66357,8 @@
 0.0.0.0 stats.tyreso.se
 0.0.0.0 stats.ubiwiz.com
 0.0.0.0 stats.ucheba.ru
+0.0.0.0 stats.umziehen.de
+0.0.0.0 stats.united-domains.de
 0.0.0.0 stats.unka.space
 0.0.0.0 stats.unusualtourist.com
 0.0.0.0 stats.urbanfinn.com
@@ -66273,6 +66397,7 @@
 0.0.0.0 stats.whattopack.com
 0.0.0.0 stats.whenpigsflybbq.com
 0.0.0.0 stats.whereisit5pmrightnow.com
+0.0.0.0 stats.wienerjobs.at
 0.0.0.0 stats.winsim.de
 0.0.0.0 stats.wired.com
 0.0.0.0 stats.wisconsingenomics.org
@@ -67879,7 +68004,31 @@
 0.0.0.0 tctm.co
 0.0.0.0 tcx-beacon.docs.aws.dev
 0.0.0.0 tczulp.econea.cz
+0.0.0.0 td.bestproducts.com
+0.0.0.0 td.bicycling.com
+0.0.0.0 td.caranddriver.com
+0.0.0.0 td.cosmopolitan.com
+0.0.0.0 td.countryliving.com
+0.0.0.0 td.delish.com
+0.0.0.0 td.elle.com
+0.0.0.0 td.elledecor.com
+0.0.0.0 td.esquire.com
+0.0.0.0 td.goodhousekeeping.com
+0.0.0.0 td.harpersbazaar.com
+0.0.0.0 td.housebeautiful.com
+0.0.0.0 td.menshealth.com
+0.0.0.0 td.oprahdaily.com
+0.0.0.0 td.popularmechanics.com
+0.0.0.0 td.prevention.com
+0.0.0.0 td.roadandtrack.com
+0.0.0.0 td.runnersworld.com
+0.0.0.0 td.seventeen.com
+0.0.0.0 td.thepioneerwoman.com
+0.0.0.0 td.townandcountrymag.com
+0.0.0.0 td.veranda.com
 0.0.0.0 td.webspecmail.com
+0.0.0.0 td.womansday.com
+0.0.0.0 td.womenshealthmag.com
 0.0.0.0 td573.com
 0.0.0.0 tda.io
 0.0.0.0 tdaqzz.graviditetskollen.nu
@@ -70054,6 +70203,7 @@
 0.0.0.0 track.deusaprovocante.site
 0.0.0.0 track.dewigghot.site
 0.0.0.0 track.dictionary.com
+0.0.0.0 track.dictum.com
 0.0.0.0 track.dieselecmexchange.com
 0.0.0.0 track.digiklase.lt
 0.0.0.0 track.digitalina.io
@@ -70304,6 +70454,7 @@
 0.0.0.0 track.juninhogreen.com
 0.0.0.0 track.juststarz.com
 0.0.0.0 track.juventudeduradoura.com
+0.0.0.0 track.karlstorz.com
 0.0.0.0 track.katecharm.com
 0.0.0.0 track.keepsmiile.site
 0.0.0.0 track.ketogummiespro.com
@@ -70687,6 +70838,7 @@
 0.0.0.0 track.thedailysmartgoods.com
 0.0.0.0 track.thefunpost.com
 0.0.0.0 track.thegenesis.pro
+0.0.0.0 track.thegundogaffair.com
 0.0.0.0 track.thehealthbeauty.fun
 0.0.0.0 track.thenfollowbestdeals.com
 0.0.0.0 track.thesaurus.com
@@ -74174,6 +74326,7 @@
 0.0.0.0 wa.mail.com
 0.0.0.0 wa.ncr.com
 0.0.0.0 wa.nxp.com
+0.0.0.0 wa.ostermann.eu
 0.0.0.0 wa.personalcreations.com
 0.0.0.0 wa.pjplace.com
 0.0.0.0 wa.planet-wissen.de
@@ -74500,12 +74653,19 @@
 0.0.0.0 webanalytics.logitechg.com
 0.0.0.0 webanalytics.logitechg.com.cn
 0.0.0.0 webanalytics.proff.no
+0.0.0.0 webanalytics.pwc.fr
 0.0.0.0 webanalyticsssl.websense.com
 0.0.0.0 webapp.e-post.smn.no
+0.0.0.0 webaus.dw-shop.de
 0.0.0.0 webc2s.pubgw.yahoo.com
 0.0.0.0 webcasts.de.ni.com
 0.0.0.0 webclicktracker.com
 0.0.0.0 webcompteur.com
+0.0.0.0 webcontr.bet-at-home.com
+0.0.0.0 webcontr.bet-at-home.de
+0.0.0.0 webcontr.l.de
+0.0.0.0 webcontr.ryzon.net
+0.0.0.0 webcontr.synvia.de
 0.0.0.0 webcounter.co.za
 0.0.0.0 webcounter.ws
 0.0.0.0 webdisk.crm.verwin.com
@@ -74901,6 +75061,7 @@
 0.0.0.0 wt.generali.de
 0.0.0.0 wt.generalibewegtdeutschland.de
 0.0.0.0 wt.generalihealthsolutions.de
+0.0.0.0 wt.leitz.org
 0.0.0.0 wt.netze-bw.de
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 wt.vhb.de

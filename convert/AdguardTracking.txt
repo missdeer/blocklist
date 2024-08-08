@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 07 Aug 2024 04:31:17 UTC
+# Updated at Thu, 08 Aug 2024 04:28:22 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -18470,6 +18470,7 @@
 0.0.0.0 data.marketing.super99.com
 0.0.0.0 data.marketing.williamsf1.com
 0.0.0.0 data.marketingbmg.bancobmg.com.br
+0.0.0.0 data.media-lab.ai
 0.0.0.0 data.mediaworld.it
 0.0.0.0 data.member.aware.com.au
 0.0.0.0 data.member.unitedhealthcare.com
@@ -75740,6 +75741,7 @@
 0.0.0.0 ykypoi.casanautica.com.br
 0.0.0.0 ylafwg.greenpoint.pl
 0.0.0.0 ylakmr.expressionscatalog.com
+0.0.0.0 ylog.huya.com
 0.0.0.0 ylog.nimo.tv
 0.0.0.0 ylsjdq.jegs.com
 0.0.0.0 ylsjka.conranshop.jp

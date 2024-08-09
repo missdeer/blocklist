@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 08 Aug 2024 04:28:22 UTC
+# Updated at Fri, 09 Aug 2024 04:26:26 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10031,6 +10031,7 @@
 0.0.0.0 app.kstatesports.com
 0.0.0.0 app.ksuowls.com
 0.0.0.0 app.kuathletics.com
+0.0.0.0 app.kuvio.io
 0.0.0.0 app.lacr.motorolasolutions.com
 0.0.0.0 app.lamy-liaisons.fr
 0.0.0.0 app.leadership.kenblanchard.com
@@ -10255,7 +10256,6 @@
 0.0.0.0 apps.software.netsimplicity.com
 0.0.0.0 appsanalytics.appideas.it
 0.0.0.0 appsflyer-report.honkaiimpact3.com
-0.0.0.0 apptics.zoho.com
 0.0.0.0 apptracker.gamedock.io
 0.0.0.0 apqcjj.celford.com
 0.0.0.0 apqmxf.curama.jp
@@ -56999,6 +56999,7 @@
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pixels.ingbank.com.tr
 0.0.0.0 pixels.livingsocial.com
+0.0.0.0 pixels.spotify.com
 0.0.0.0 pixeltrack.clientgear.com
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com

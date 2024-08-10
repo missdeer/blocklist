@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 09 Aug 2024 04:26:26 UTC
+# Updated at Sat, 10 Aug 2024 04:27:42 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -11046,6 +11046,7 @@
 0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
+0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 beacon.digima.com
@@ -40611,6 +40612,7 @@
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt.24.com
 0.0.0.0 evt.houzz.com
+0.0.0.0 evt.ilovepdf.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 evupmg.olehenriksen.com
 0.0.0.0 evyy.net
@@ -41326,6 +41328,7 @@
 0.0.0.0 fremaks.net
 0.0.0.0 freshcounter.com
 0.0.0.0 freshmarketer.com
+0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 friendbuy.com
 0.0.0.0 frisablestrk.com
 0.0.0.0 frmemail.focusbrands.com

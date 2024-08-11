@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 10 Aug 2024 04:27:42 UTC
+# Updated at Sun, 11 Aug 2024 04:25:56 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -188,6 +188,7 @@
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 customer.homedepot.com
 0.0.0.0 cwt.citywire.info
+0.0.0.0 d.analyticsmania.com
 0.0.0.0 d.skk.moe
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 d276.ourmidland.com
@@ -308,6 +309,7 @@
 0.0.0.0 go.theregister.com
 0.0.0.0 gotie.tunein.com
 0.0.0.0 grgnsht.nzxt.com
+0.0.0.0 gtm.lercio.it
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
@@ -542,7 +544,9 @@
 0.0.0.0 squirrel.malaynahocker.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.plesk.com
+0.0.0.0 ss.esade.edu
 0.0.0.0 ss.photospecialist.co.uk
+0.0.0.0 sst.shopware.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
@@ -575,6 +579,7 @@
 0.0.0.0 stats.wwitv.com
 0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 statsegg.cdngeek.com
+0.0.0.0 stream.corporatefinanceinstitute.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 substation.confection.io
 0.0.0.0 svc2.sc.com
@@ -683,6 +688,7 @@
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 trackr.vivenu.com
 0.0.0.0 trck.coomeet.com
+0.0.0.0 trckng.dainese.com
 0.0.0.0 trcksplt.miro.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com

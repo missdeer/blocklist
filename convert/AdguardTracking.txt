@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 10 Aug 2024 04:27:42 UTC
+# Updated at Sun, 11 Aug 2024 04:25:56 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -15645,6 +15645,7 @@
 0.0.0.0 d-log.tv-asahi.co.jp
 0.0.0.0 d.adlpo.com
 0.0.0.0 d.adtriba.com
+0.0.0.0 d.analyticsmania.com
 0.0.0.0 d.applvn.com
 0.0.0.0 d.deloitte.fr
 0.0.0.0 d.email.forbes.com
@@ -42468,6 +42469,8 @@
 0.0.0.0 gtm.kglteater.dk
 0.0.0.0 gtm.kiwitaxi.com
 0.0.0.0 gtm.korodrogerie.de
+0.0.0.0 gtm.lercio.it
+0.0.0.0 gtm.mandesager.dk
 0.0.0.0 gtm.moneybird.nl
 0.0.0.0 gtm.perfectlybasics.nl
 0.0.0.0 gtm.proff.dk
@@ -56111,6 +56114,7 @@
 0.0.0.0 pages2.rizap.jp
 0.0.0.0 pagesense.com
 0.0.0.0 pagesense.io
+0.0.0.0 pageview.click
 0.0.0.0 pageviews.tray.com.br
 0.0.0.0 paginaseloqua-unisabana-edu-co-1207474081.p04.elqsandbox.com
 0.0.0.0 paginaseloqua.unisabana.edu.co
@@ -60400,10 +60404,27 @@
 0.0.0.0 sgmcdn.racingpost.com
 0.0.0.0 sgms.greatschools.org
 0.0.0.0 sgpimz.glamira.nl
+0.0.0.0 sgtm.anita.com
+0.0.0.0 sgtm.atg.se
+0.0.0.0 sgtm.blume2000.de
+0.0.0.0 sgtm.csas.cz
+0.0.0.0 sgtm.fairmont
 0.0.0.0 sgtm.fashionunited
 0.0.0.0 sgtm.handyhuellen.de
+0.0.0.0 sgtm.kaspersky.de
+0.0.0.0 sgtm.macrolibrarsi.it
+0.0.0.0 sgtm.mapei.com
+0.0.0.0 sgtm.milestonesys.com
+0.0.0.0 sgtm.mycall.no
+0.0.0.0 sgtm.myprotein.jp
+0.0.0.0 sgtm.ookla.com
+0.0.0.0 sgtm.open.ac.uk
 0.0.0.0 sgtm.sefamerve.com
 0.0.0.0 sgtm.simoahava.com
+0.0.0.0 sgtm.tagmanageritalia.it
+0.0.0.0 sgtm.technikboerse.com
+0.0.0.0 sgtm.tennis-point.de
+0.0.0.0 sgtm.yubico.com
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 sgwhvw.alura.com.br
 0.0.0.0 sgwqoz.toddsnyder.com
@@ -64717,6 +64738,7 @@
 0.0.0.0 srvr.dmvs-apac.com
 0.0.0.0 srvtrck.com
 0.0.0.0 ss.azuremagazine.com
+0.0.0.0 ss.esade.edu
 0.0.0.0 ss.musthird.com
 0.0.0.0 ss.webdock.io
 0.0.0.0 ssa.asianfoodnetwork.com
@@ -65038,11 +65060,13 @@
 0.0.0.0 ssp.igaw.io
 0.0.0.0 sspkbf.ragtag.jp
 0.0.0.0 ssrlot.lotoquebec.com
+0.0.0.0 sst.colemanfurniture.com
 0.0.0.0 sst.dell.com
 0.0.0.0 sst.homegoods.com
 0.0.0.0 sst.johnlewis.com
 0.0.0.0 sst.marshalls.com
 0.0.0.0 sst.nab.com.au
+0.0.0.0 sst.shopware.com
 0.0.0.0 sst.subzero-wolf.com
 0.0.0.0 sst.thebanker.com
 0.0.0.0 sst.tjmaxx.tjx.com
@@ -66621,6 +66645,7 @@
 0.0.0.0 stracking.trutv.com
 0.0.0.0 strackingvanrental.vanrental.de
 0.0.0.0 strawberry.basf.com
+0.0.0.0 stream.corporatefinanceinstitute.com
 0.0.0.0 stream.verwin.com
 0.0.0.0 stream3.verwin.com
 0.0.0.0 strikenurse.usnursing.com
@@ -69953,6 +69978,7 @@
 0.0.0.0 tr.votrealarme.securitasdirect.fr
 0.0.0.0 tr.vous.hellobank.fr
 0.0.0.0 tr.wa.wordappeal.com
+0.0.0.0 tr.wbstraining.de
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr.welcome.easyviaggio.com
 0.0.0.0 tr.welcome.easyviajar.com
@@ -71968,6 +71994,8 @@
 0.0.0.0 trckn.earningseekers.com
 0.0.0.0 trckn.globaltradingmarkets.com
 0.0.0.0 trckn.opendealsreport.com
+0.0.0.0 trckng.dainese.com
+0.0.0.0 trckng.web55708.greatnet-hosting.de
 0.0.0.0 trckr.beatconnect.com
 0.0.0.0 trckr.contextualadv.com
 0.0.0.0 trcksp.cordial.io
@@ -73395,6 +73423,7 @@
 0.0.0.0 vi.adviso.ca
 0.0.0.0 vi.trk.virtualvendorvaultxap.com
 0.0.0.0 via.ssl.holdmybeerconsulting.com
+0.0.0.0 viaklera.com
 0.0.0.0 vibeaconstr.onezapp.com
 0.0.0.0 vibsqr.theuiq.com
 0.0.0.0 vicky.tweaknology.org

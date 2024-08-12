@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 11 Aug 2024 04:25:56 UTC
+# Updated at Mon, 12 Aug 2024 04:26:35 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -118,7 +118,9 @@
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cfa.fidelity.com
+0.0.0.0 chronicle.medal.tv
 0.0.0.0 cl.canva.com
+0.0.0.0 cl.t3n.de
 0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 clear.wallapop.com

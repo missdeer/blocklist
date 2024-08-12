@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 11 Aug 2024 04:25:56 UTC
+# Updated at Mon, 12 Aug 2024 04:26:36 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10239,6 +10239,7 @@
 0.0.0.0 apply.official-smartphone-program.com
 0.0.0.0 apply.smartautos2024.shop
 0.0.0.0 apply.smartphone-program.com
+0.0.0.0 applytics.nordvpn.com
 0.0.0.0 appmail.castlegroup.com
 0.0.0.0 appmail.rmscloud.com
 0.0.0.0 appmetr.com

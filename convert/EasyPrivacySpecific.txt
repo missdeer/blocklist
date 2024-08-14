@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 13 Aug 2024 04:26:00 UTC
+# Updated at Wed, 14 Aug 2024 04:26:08 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -439,7 +439,6 @@
 0.0.0.0 perf.mouser.com
 0.0.0.0 performance-logger.minted.com
 0.0.0.0 perr.hola.org
-0.0.0.0 petametrics.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 pf.newegg.com
 0.0.0.0 pftk.temu.com

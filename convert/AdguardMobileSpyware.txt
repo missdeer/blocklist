@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 13 Aug 2024 04:26:00 UTC
+# Updated at Wed, 14 Aug 2024 04:26:08 UTC
 #
 
 0.0.0.0 33across.com
@@ -579,6 +579,7 @@
 0.0.0.0 stats.grafana.org
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stocks-analytics-events.apple.com
@@ -687,6 +688,7 @@
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 viva.api.xiaoying.co
+0.0.0.0 vk-analytics.ru
 0.0.0.0 volceapplog.com
 0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com

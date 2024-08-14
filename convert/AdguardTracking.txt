@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 13 Aug 2024 04:26:00 UTC
+# Updated at Wed, 14 Aug 2024 04:26:08 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -43017,6 +43017,7 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
+0.0.0.0 event-router.chime.com
 0.0.0.0 event-router.olympics.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-stream.spot.im
@@ -68549,6 +68550,7 @@
 0.0.0.0 stats.rumundco.de
 0.0.0.0 stats.russellstover.com
 0.0.0.0 stats.rustica.fr
+0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.rymawby.com
 0.0.0.0 stats.s-zt.at
 0.0.0.0 stats.safeway.com
@@ -69923,6 +69925,7 @@
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
 0.0.0.0 t2email.22bet.com
+0.0.0.0 t3.cdnpure.com
 0.0.0.0 t3e.firstchoice.co.uk
 0.0.0.0 t4e.sainsburys.co.uk
 0.0.0.0 t4ft.de
@@ -76730,6 +76733,7 @@
 0.0.0.0 vizury.com
 0.0.0.0 vizzit.se
 0.0.0.0 vjjgpt.diamond.jp
+0.0.0.0 vk-analytics.ru
 0.0.0.0 vkbvny.ddanzi.com
 0.0.0.0 vkbvny.fow.kr
 0.0.0.0 vkbvny.lovecharm.co.kr

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 14 Aug 2024 04:26:08 UTC
+# Updated at Thu, 15 Aug 2024 04:26:00 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -53,7 +53,6 @@
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.inquisitr.com
 0.0.0.0 analytics.kaggle.io
-0.0.0.0 analytics.kooapp.com
 0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.maxroll.gg
 0.0.0.0 analytics.ml.homedepot.ca
@@ -66,7 +65,6 @@
 0.0.0.0 analytics.productreview.com.au
 0.0.0.0 analytics.qogita.com
 0.0.0.0 analytics.realestate.com.au
-0.0.0.0 analytics.send.cm
 0.0.0.0 analytics.silktide.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
@@ -79,14 +77,12 @@
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
-0.0.0.0 api.privacyguides.net
 0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b629.electronicdesign.com
-0.0.0.0 barnes.send.cm
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beacon.dropbox.com
@@ -139,7 +135,6 @@
 0.0.0.0 cmp.lepoint.fr
 0.0.0.0 cmp.netzwelt.de
 0.0.0.0 cmp.nouvelobs.com
-0.0.0.0 cmp.tech426.com
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 cnt.hd21.com
@@ -183,7 +178,6 @@
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
 0.0.0.0 cpt.itv.com
-0.0.0.0 crayfish.thingelstad.com
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crumbs.robinhood.com
 0.0.0.0 cryo.socialblade.com
@@ -203,7 +197,6 @@
 0.0.0.0 data.torry.io
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.maisonsdumonde.com
-0.0.0.0 datadome.patreon.com
 0.0.0.0 datum.jsdelivr.com
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
@@ -216,7 +209,6 @@
 0.0.0.0 dii.bankaust.com.au
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
-0.0.0.0 dot.nonolive.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 dtag.breadfinancial.com
@@ -251,7 +243,6 @@
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventlog.jackpot.de
-0.0.0.0 events-ingestion.services.gorgias.com
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
@@ -304,12 +295,12 @@
 0.0.0.0 geolocation.forbes.com
 0.0.0.0 gg.vevor.com
 0.0.0.0 gj.mmstat.com
+0.0.0.0 glassbox-hlx-igw.bankofamerica.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmetrics.getbeamer.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
-0.0.0.0 gotie.tunein.com
 0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gtm.lercio.it
 0.0.0.0 gtm.wise.com
@@ -371,7 +362,6 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
-0.0.0.0 log.v.ssp.yahoo.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger007.cam4.com
@@ -414,7 +404,6 @@
 0.0.0.0 mr.homedepot.ca
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 mstm.motorsport.com
-0.0.0.0 n26-trusted.n26.com
 0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
@@ -430,7 +419,6 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
-0.0.0.0 p.lucida.to
 0.0.0.0 p.minds.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
@@ -514,7 +502,6 @@
 0.0.0.0 rtds.progressive.com
 0.0.0.0 rum.api.intuit.com
 0.0.0.0 rum.condenastdigital.com
-0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 rvo-cohesion.healthline.com
 0.0.0.0 s.gofile.io
@@ -532,7 +519,6 @@
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
-0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 sofire.terabox.app
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
@@ -556,7 +542,6 @@
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 statistics.streamdav.com
-0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.calcalist.co.il
 0.0.0.0 stats.codeur.com
@@ -568,7 +553,6 @@
 0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.mempool.space
 0.0.0.0 stats.newsweek.com
-0.0.0.0 stats.pstream.net
 0.0.0.0 stats.qwant.com
 0.0.0.0 stats.sandberg.world
 0.0.0.0 stats.searchftps.net
@@ -597,7 +581,6 @@
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.ionos.com
-0.0.0.0 t.iwara.tv
 0.0.0.0 t.jossandmain.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.nypost.com
@@ -610,7 +593,6 @@
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.y8.com
-0.0.0.0 t.zulily.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t570.wiltonbulletin.com
 0.0.0.0 t810.ctpost.com
@@ -640,7 +622,6 @@
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.tradingview.com
-0.0.0.0 test.torrentfreak.com
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 thtk.temu.com
 0.0.0.0 tif.ionos.com
@@ -733,6 +714,7 @@
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv
+0.0.0.0 xp.apple.com
 0.0.0.0 y738.nhregister.com
 0.0.0.0 y820.darientimes.com
 0.0.0.0 y900.greenwichtime.com

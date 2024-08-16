@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 15 Aug 2024 04:26:00 UTC
+# Updated at Fri, 16 Aug 2024 04:26:17 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -15993,6 +15993,8 @@
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.ghostery.net
+0.0.0.0 collector-pxebumdlwe.px-cdn.net
+0.0.0.0 collector-pxebumdlwe.px-cloud.net
 0.0.0.0 collector-statistics.nhn-commerce.com
 0.0.0.0 collector.appconsent.io
 0.0.0.0 collector.betway.be
@@ -42727,6 +42729,7 @@
 0.0.0.0 engage.us.victorinsurance.com
 0.0.0.0 engage2demand.cisco.com
 0.0.0.0 engagefront.theweathernetwork.com
+0.0.0.0 engagements.appsflyer.com
 0.0.0.0 engagemetrics.cisco.com
 0.0.0.0 engagetosell.com
 0.0.0.0 engageya.com
@@ -61625,6 +61628,7 @@
 0.0.0.0 s2564.sc.origins.en25.com
 0.0.0.0 s28.avadacom.com
 0.0.0.0 s29.webspecmail.com
+0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.haan.ai
 0.0.0.0 s2whyufxmzam.chatpay.com.br
 0.0.0.0 s3-analytics-events.easybrain.com
@@ -75923,6 +75927,7 @@
 0.0.0.0 view.3arena.net
 0.0.0.0 view.a.e.monashcollege.edu.au
 0.0.0.0 view.absolutesoftware-email.com
+0.0.0.0 view.adjust.com
 0.0.0.0 view.aeroplan.points.com
 0.0.0.0 view.agent.thehartford.com
 0.0.0.0 view.airmalta-mail.com

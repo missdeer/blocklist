@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 16 Aug 2024 04:26:16 UTC
+# Updated at Sat, 17 Aug 2024 04:27:33 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -12,6 +12,7 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 ab-machine.forbes.com
+0.0.0.0 ab.chatgpt.com
 0.0.0.0 ab.fanatical.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
@@ -422,6 +423,7 @@
 0.0.0.0 p.minds.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
+0.0.0.0 papi.stylar.ai
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 pcp.coupert.com
 0.0.0.0 perf.mouser.com

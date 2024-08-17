@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 16 Aug 2024 04:26:17 UTC
+# Updated at Sat, 17 Aug 2024 04:27:34 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -43667,6 +43667,7 @@
 0.0.0.0 fna.fnainsurance.com
 0.0.0.0 fnahpq.thbaker.co.uk
 0.0.0.0 fnajvu.framingsuccess.com
+0.0.0.0 fndrsp.net
 0.0.0.0 fnfhgj.secretsales.com
 0.0.0.0 fngwdl.allheart.com
 0.0.0.0 fnlvhy.wowma.jp
@@ -47778,6 +47779,7 @@
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipfrom.com
 0.0.0.0 ipgeaif.blairmacintyre.me
+0.0.0.0 ipgeolocation.abstractapi.com
 0.0.0.0 ipgrabber.ru
 0.0.0.0 ipgraber.ru
 0.0.0.0 iphufr.circleline.com
@@ -56454,6 +56456,7 @@
 0.0.0.0 nsc.ulsterbank.co.uk
 0.0.0.0 nsc.ulsterbank.com
 0.0.0.0 nsc.ulsterbank.ie
+0.0.0.0 nsclick.baidu.com
 0.0.0.0 nscmetrics.shell.com
 0.0.0.0 nsedgj.bonprix.de
 0.0.0.0 nsm.dell.com
@@ -59736,6 +59739,8 @@
 0.0.0.0 pos.baidu.com
 0.0.0.0 posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com
 0.0.0.0 posgrados.unisabana.edu.co
+0.0.0.0 positional-bucket.com
+0.0.0.0 positional.ai
 0.0.0.0 possibilities.theajinetwork.com
 0.0.0.0 posst.co
 0.0.0.0 post-log.pushwoosh.com
@@ -62925,6 +62930,7 @@
 0.0.0.0 sgkazt.xlmoto.de
 0.0.0.0 sglobalid3.click.s11.sfmc-osl.com
 0.0.0.0 sgmcdn.racingpost.com
+0.0.0.0 sgmnt.beacons.ai
 0.0.0.0 sgms.greatschools.org
 0.0.0.0 sgpimz.glamira.nl
 0.0.0.0 sgs.1897pentagram.com
@@ -68038,6 +68044,7 @@
 0.0.0.0 stats.brennholzauktion.com
 0.0.0.0 stats.briskoda.net
 0.0.0.0 stats.broddin.be
+0.0.0.0 stats.browsertrix.com
 0.0.0.0 stats.brumtechtapas.co.uk
 0.0.0.0 stats.buddiy.net
 0.0.0.0 stats.bungeefit.co.uk
@@ -72464,6 +72471,7 @@
 0.0.0.0 trace.bounce.17track.net
 0.0.0.0 trace.events
 0.0.0.0 trace.insead.edu
+0.0.0.0 trace.mjyx.com
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rememberapp.co.kr
@@ -72907,6 +72915,7 @@
 0.0.0.0 track.kodland.org
 0.0.0.0 track.ktplay.com
 0.0.0.0 track.kueez.com
+0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.leadhit.io
 0.0.0.0 track.leadhit.ru
 0.0.0.0 track.leadsense.com

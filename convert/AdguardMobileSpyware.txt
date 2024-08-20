@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 19 Aug 2024 04:25:53 UTC
+# Updated at Tue, 20 Aug 2024 04:30:25 UTC
 #
 
 0.0.0.0 33across.com
@@ -258,7 +258,6 @@
 0.0.0.0 ets.easybrain.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-search.jorte.com
-0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com

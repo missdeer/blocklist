@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Tue, 20 Aug 2024 04:30:26 UTC
+# Updated at Wed, 21 Aug 2024 04:27:13 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6632,7 +6632,6 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
-0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.airtrack.jp
 0.0.0.0 app.amazon-line.com
@@ -7925,7 +7924,6 @@
 0.0.0.0 ayaghlq.com
 0.0.0.0 ayahspollent.top
 0.0.0.0 ayarkkyjrmqzw.top
-0.0.0.0 aybereklam.com
 0.0.0.0 ayboll.com
 0.0.0.0 aybvfvlyrtbskvy.com
 0.0.0.0 aycalfcwwgf.com
@@ -8231,6 +8229,7 @@
 0.0.0.0 baijs06.xyz
 0.0.0.0 baijs07.shop
 0.0.0.0 baijs07.xyz
+0.0.0.0 baijs08.shop
 0.0.0.0 baijs08.xyz
 0.0.0.0 baikalize.com
 0.0.0.0 bailedgatheringmirth.com
@@ -14260,7 +14259,6 @@
 0.0.0.0 counter.web.money
 0.0.0.0 counter.webmart.de
 0.0.0.0 counter.websiteout.net
-0.0.0.0 counter.wikiwiki.jp
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 counter1.fc2.com
 0.0.0.0 counter2.blog.livedoor.com
@@ -16201,6 +16199,7 @@
 0.0.0.0 daartads.com
 0.0.0.0 daast.digitalbox.ru
 0.0.0.0 dab.rus-km.ru
+0.0.0.0 dabajd.xyz
 0.0.0.0 dabblercissies.com
 0.0.0.0 dable.io
 0.0.0.0 daboovip.xyz
@@ -18304,6 +18303,7 @@
 0.0.0.0 doujs06.xyz
 0.0.0.0 doujs07.shop
 0.0.0.0 doujs07.xyz
+0.0.0.0 doujs08.shop
 0.0.0.0 doujs08.xyz
 0.0.0.0 doujs09.xyz
 0.0.0.0 doukoula.com
@@ -20808,7 +20808,6 @@
 0.0.0.0 exactdrive.com
 0.0.0.0 exactsag.com
 0.0.0.0 exacttarget.api.mashery.com
-0.0.0.0 exacttarget.com
 0.0.0.0 exad.smi2.ru
 0.0.0.0 exaggeratekindnessvocal.com
 0.0.0.0 exaleprn.com
@@ -26211,6 +26210,7 @@
 0.0.0.0 hewokhn.com
 0.0.0.0 hewomenentail.com
 0.0.0.0 hewonderfulst.info
+0.0.0.0 hewrutu.top
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hexapinow.xyz
 0.0.0.0 hexcvb.xyz
@@ -30463,6 +30463,7 @@
 0.0.0.0 jyjbdwox.com
 0.0.0.0 jyjhjopmq.com
 0.0.0.0 jyjmpatmgk.com
+0.0.0.0 jyjrbz.xyz
 0.0.0.0 jylgvkxgfy.com
 0.0.0.0 jynginedoddle.top
 0.0.0.0 jynp9m209p.com
@@ -31057,6 +31058,7 @@
 0.0.0.0 kjubky.xyz
 0.0.0.0 kjuftmdofmsrhq.com
 0.0.0.0 kjvaqbyebqarl.top
+0.0.0.0 kjxhd.cn
 0.0.0.0 kjyouhp.com
 0.0.0.0 kkacrgx.icu
 0.0.0.0 kkbbjtfp.xyz
@@ -31621,7 +31623,6 @@
 0.0.0.0 kzzwi.com
 0.0.0.0 l-fb.co
 0.0.0.0 l-iw.de
-0.0.0.0 l.bfmtv.com
 0.0.0.0 l.da-te.jp
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ffsagami.com
@@ -35613,6 +35614,7 @@
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixpo.com
 0.0.0.0 mixtraff.com
+0.0.0.0 miycoc.xyz
 0.0.0.0 miyqoyyazdal.com
 0.0.0.0 mizensdisney.com
 0.0.0.0 mizonevn.shop
@@ -38118,6 +38120,7 @@
 0.0.0.0 ningdblukzqp.com
 0.0.0.0 ningme.ru
 0.0.0.0 ninja.akamaized.net
+0.0.0.0 ninja.data.olxcdn.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninkorant.online
 0.0.0.0 ninnycoastal.com

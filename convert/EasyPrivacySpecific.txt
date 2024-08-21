@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 20 Aug 2024 04:30:25 UTC
+# Updated at Wed, 21 Aug 2024 04:27:13 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -667,6 +667,7 @@
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com
+0.0.0.0 tracking.peopleareeverything.com
 0.0.0.0 tracking.rocketleague.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com

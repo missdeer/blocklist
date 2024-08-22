@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 21 Aug 2024 04:27:13 UTC
+# Updated at Thu, 22 Aug 2024 04:27:38 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8268,6 +8268,7 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.fishtrack.com
 0.0.0.0 analytics.floridatravellife.com
+0.0.0.0 analytics.floris.amsterdam
 0.0.0.0 analytics.fontanka.ru
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.formstack.com
@@ -14150,7 +14151,6 @@
 0.0.0.0 counter.web.money
 0.0.0.0 counter.websiteout.net
 0.0.0.0 counter.websitevoice.com
-0.0.0.0 counter.wikiwiki.jp
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 counter1.fc2.com
@@ -38087,7 +38087,6 @@
 0.0.0.0 ewygto.swanicoco.co.kr
 0.0.0.0 exactag.com
 0.0.0.0 exacttarget.api.mashery.com
-0.0.0.0 exacttarget.com
 0.0.0.0 exapxl.de
 0.0.0.0 exbujk.glamood.com
 0.0.0.0 exc.ns.nl
@@ -43167,7 +43166,6 @@
 0.0.0.0 kzsicw.tvtoday.de
 0.0.0.0 kzsisc.3.dk
 0.0.0.0 kzutbh.takeappeal.com
-0.0.0.0 l.bfmtv.com
 0.0.0.0 l.da-te.jp
 0.0.0.0 l.deindeal.ch
 0.0.0.0 l.dm.casio.info
@@ -55653,6 +55651,7 @@
 0.0.0.0 sciencerevenue.com
 0.0.0.0 scispg.smu.edu.sg
 0.0.0.0 scjlpq.navitime.co.jp
+0.0.0.0 scmetrics.exacttarget.com
 0.0.0.0 scmetrics.shell.com
 0.0.0.0 scmetrics.vodafone.it
 0.0.0.0 scmn0di.com
@@ -61773,6 +61772,7 @@
 0.0.0.0 success.vertigis.com
 0.0.0.0 success.vertigisstudio.com
 0.0.0.0 successfultogether.co.uk
+0.0.0.0 suchanalytik.hideandsec.sh
 0.0.0.0 suchmaschinen-ranking-hits.de
 0.0.0.0 sucmetrics.hypovereinsbank.de
 0.0.0.0 sucmetrics.unicredit.de
@@ -63069,6 +63069,7 @@
 0.0.0.0 teach.graduateprogram.org
 0.0.0.0 teacher.1897pentagram.com
 0.0.0.0 tealand.cmcm.com
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 team.moxtra.com
 0.0.0.0 team.pieces.app

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 21 Aug 2024 04:27:13 UTC
+# Updated at Thu, 22 Aug 2024 04:27:38 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -12,7 +12,6 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 ab-machine.forbes.com
-0.0.0.0 ab.chatgpt.com
 0.0.0.0 ab.fanatical.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
@@ -261,6 +260,7 @@
 0.0.0.0 events2.www.edenfantasys.com
 0.0.0.0 evs.icy-lake.kickstarter.com
 0.0.0.0 evs.sgmt.loom.com
+0.0.0.0 exp.notion.so
 0.0.0.0 exr-mms.expertreviews.co.uk
 0.0.0.0 f.cdngeek.com
 0.0.0.0 f362.nola.com

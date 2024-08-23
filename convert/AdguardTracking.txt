@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 22 Aug 2024 04:27:38 UTC
+# Updated at Fri, 23 Aug 2024 04:26:49 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8584,6 +8584,7 @@
 0.0.0.0 analytics.uwindsor.ca
 0.0.0.0 analytics.uxmetrics.com
 0.0.0.0 analytics.valheimgamer.com
+0.0.0.0 analytics.valotool.com
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.verfacto.com
 0.0.0.0 analytics.verizon.com

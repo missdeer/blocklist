@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 22 Aug 2024 04:27:38 UTC
+# Updated at Fri, 23 Aug 2024 04:26:50 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -453,6 +453,7 @@
 0.0.0.0 pks-analytics.raenonx.cc
 0.0.0.0 pl.letsblock.it
 0.0.0.0 plausible.bots.gg
+0.0.0.0 plausible.corsme.com
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.safing.io

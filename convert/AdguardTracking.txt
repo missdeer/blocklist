@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 23 Aug 2024 04:26:49 UTC
+# Updated at Sat, 24 Aug 2024 04:26:01 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8461,6 +8461,7 @@
 0.0.0.0 analytics.qualityquestions.co
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.qushad.com
+0.0.0.0 analytics.raenonx.cc
 0.0.0.0 analytics.ramiyer.io
 0.0.0.0 analytics.ramiyer.me
 0.0.0.0 analytics.ravanallc.com
@@ -8592,6 +8593,7 @@
 0.0.0.0 analytics.vg
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginaustralia.com
+0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.vpplayer.tech
 0.0.0.0 analytics.waifu2x.org
@@ -13743,6 +13745,7 @@
 0.0.0.0 conferences.cigna.com
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confiaen.legalitas.com
+0.0.0.0 confiant-integrations.net
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config.jpush.cn
 0.0.0.0 config.safedk.com
@@ -45819,6 +45822,7 @@
 0.0.0.0 lps-info.arval.com
 0.0.0.0 lps.qantas.com
 0.0.0.0 lpse.avadacom.com
+0.0.0.0 lptag.liveperson.net
 0.0.0.0 lpuqtu.propertyfinder.bh
 0.0.0.0 lpvgnb.mingwangknits.com
 0.0.0.0 lpx.qantas.com
@@ -47749,6 +47753,7 @@
 0.0.0.0 measure.ly
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
+0.0.0.0 measuring-pixel-service.alza.cz
 0.0.0.0 mec.hilton.com
 0.0.0.0 med.avycaz.com
 0.0.0.0 med.dalvance.com
@@ -53066,6 +53071,7 @@
 0.0.0.0 plausible.nuqu.org
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.promlens.com
+0.0.0.0 plausible.pronouns.cc
 0.0.0.0 plausible.prufit.co
 0.0.0.0 plausible.pumpkint.com
 0.0.0.0 plausible.quantumcomputingexplained.com
@@ -53499,6 +53505,7 @@
 0.0.0.0 provizia.mimulo.sk
 0.0.0.0 provizia.vitalitypradlo.sk
 0.0.0.0 proviznisystem.kanclir.cz
+0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 0.0.0.0 proxy.webspecmail.com
 0.0.0.0 proxy3.avadacom.com
 0.0.0.0 prtracker.com
@@ -56225,6 +56232,7 @@
 0.0.0.0 sezixz.officesupply.com
 0.0.0.0 sf.blogsbrasilonline.org
 0.0.0.0 sf14g.com
+0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sfa.webspecmail.com
 0.0.0.0 sfajfu.boulanger.com
 0.0.0.0 sfcv.chinavi-shop.jp
@@ -56483,6 +56491,7 @@
 0.0.0.0 skins.1897pentagram.com
 0.0.0.0 sklep.avadacom.com
 0.0.0.0 skroutza.skroutz.gr
+0.0.0.0 sks.mrkhub.com
 0.0.0.0 skunk.dwa.li
 0.0.0.0 skunk.gameworkersolidarity.com
 0.0.0.0 skyglue.com
@@ -63151,7 +63160,6 @@
 0.0.0.0 teraes.hgreg.com
 0.0.0.0 teralog.techhub.co.kr
 0.0.0.0 termite.queerburners.org
-0.0.0.0 terms.internet.apps.samsung.com
 0.0.0.0 tern.daffy.org
 0.0.0.0 tern.xebel.co
 0.0.0.0 test-ad.lucia-c.com
@@ -66645,6 +66653,7 @@
 0.0.0.0 travian.1897pentagram.com
 0.0.0.0 travian.alalikexpress.com
 0.0.0.0 trax.quicksaveusa.com
+0.0.0.0 traxex.gannettdigital.com
 0.0.0.0 trbuod.megalos.co.jp
 0.0.0.0 trc.caravas.jp
 0.0.0.0 trc.evoheat.shop
@@ -67690,6 +67699,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 umami.aigenerations.net
 0.0.0.0 umami.is
+0.0.0.0 umami.subdavis.com
 0.0.0.0 umbel.com
 0.0.0.0 umn.upmarketnews.com
 0.0.0.0 ums.1897pentagram.com

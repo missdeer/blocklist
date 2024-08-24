@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 23 Aug 2024 04:26:49 UTC
+# Updated at Sat, 24 Aug 2024 04:26:01 UTC
 #
 
 0.0.0.0 33across.com
@@ -496,6 +496,7 @@
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
 0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 profiler-collector.wshareit.com
+0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 0.0.0.0 prugskh.com
 0.0.0.0 prugskh.net
 0.0.0.0 psi.lbesecapi.com
@@ -551,6 +552,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
 0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg01.rayjump.com
@@ -601,7 +603,6 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
-0.0.0.0 terms.internet.apps.samsung.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net

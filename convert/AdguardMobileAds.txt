@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Sat, 24 Aug 2024 04:26:01 UTC
+# Updated at Sun, 25 Aug 2024 04:27:05 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -816,6 +816,7 @@
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ultraadserver.com
 0.0.0.0 umbel.com
+0.0.0.0 umphek.com
 0.0.0.0 unicume.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 upsight.com

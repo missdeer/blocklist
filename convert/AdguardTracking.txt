@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 25 Aug 2024 04:27:06 UTC
+# Updated at Mon, 26 Aug 2024 04:27:31 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10904,6 +10904,7 @@
 0.0.0.0 cart.moseasia.com
 0.0.0.0 cart.webspecmail.com
 0.0.0.0 carts.guru
+0.0.0.0 cartx.cloud
 0.0.0.0 cas2.moseasia.com
 0.0.0.0 casalemedia.com
 0.0.0.0 cascadion.thermo.com

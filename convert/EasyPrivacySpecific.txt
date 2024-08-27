@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 26 Aug 2024 04:27:32 UTC
+# Updated at Tue, 27 Aug 2024 04:29:20 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -411,6 +411,8 @@
 0.0.0.0 net.haier.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noodle.backmarket.io
+0.0.0.0 nr-data.noelleeming.co.nz
+0.0.0.0 nr.noelleeming.co.nz
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com

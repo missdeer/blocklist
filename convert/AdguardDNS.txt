@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Tue, 27 Aug 2024 04:29:21 UTC
+# Updated at Wed, 28 Aug 2024 04:27:17 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -2241,6 +2241,7 @@
 0.0.0.0 accustomedinaccessible.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acdcmarimo.com
+0.0.0.0 acdf115.cn
 0.0.0.0 acdn01.vidox.net
 0.0.0.0 acdn923132475.com
 0.0.0.0 acdnpro.com
@@ -44669,6 +44670,7 @@
 0.0.0.0 qetskupch581.shop
 0.0.0.0 qetskupyka61.shop
 0.0.0.0 qeuckn.icu
+0.0.0.0 qewruty.top
 0.0.0.0 qewylqmaqezzj.top
 0.0.0.0 qezehqcicx.com
 0.0.0.0 qfaaokr.icu

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 27 Aug 2024 04:29:20 UTC
+# Updated at Wed, 28 Aug 2024 04:27:17 UTC
 #
 
 0.0.0.0 33across.com
@@ -323,6 +323,7 @@
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 insight.ucweb.com
+0.0.0.0 insights.zennioptical.com
 0.0.0.0 installtracker.com
 0.0.0.0 installtracker.unityads.unity3d.com
 0.0.0.0 int.akisinn.info

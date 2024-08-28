@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 27 Aug 2024 04:29:21 UTC
+# Updated at Wed, 28 Aug 2024 04:27:17 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -40732,6 +40732,7 @@
 0.0.0.0 insights.prophet.com
 0.0.0.0 insights.sport1.de
 0.0.0.0 insights.squintopera.com
+0.0.0.0 insights.zennioptical.com
 0.0.0.0 insightseries.redbull.racing
 0.0.0.0 insigit.com
 0.0.0.0 insignia.usanowdaily.com
@@ -54392,6 +54393,7 @@
 0.0.0.0 services.bionika-digital.ru
 0.0.0.0 services.blackboard.com
 0.0.0.0 services.brightline.tv
+0.0.0.0 services.haaretz.com
 0.0.0.0 services.princes-trust.org.uk
 0.0.0.0 services.releasepoint.com
 0.0.0.0 services.sdiapi.com
@@ -63262,6 +63264,7 @@
 0.0.0.0 track.hujiang.com
 0.0.0.0 track.hukitchen.com
 0.0.0.0 track.hvacrentals.ca
+0.0.0.0 track.hydro.online
 0.0.0.0 track.hypnovy.com
 0.0.0.0 track.iam.cash
 0.0.0.0 track.icowhide.com

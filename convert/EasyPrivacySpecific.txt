@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 28 Aug 2024 04:27:17 UTC
+# Updated at Thu, 29 Aug 2024 04:27:06 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -516,6 +516,7 @@
 0.0.0.0 s.wayfair.com
 0.0.0.0 sa.uswitch.com
 0.0.0.0 saa.insideedition.com
+0.0.0.0 sapi.tremendous.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
 0.0.0.0 services.haaretz.com

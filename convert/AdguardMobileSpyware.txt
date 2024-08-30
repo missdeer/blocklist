@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 29 Aug 2024 04:27:06 UTC
+# Updated at Fri, 30 Aug 2024 04:27:51 UTC
 #
 
 0.0.0.0 33across.com
@@ -53,6 +53,7 @@
 0.0.0.0 an.batmobi.net
 0.0.0.0 analy.qq.com
 0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analysis.vesync.com
 0.0.0.0 analysys.cn
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
@@ -393,6 +394,7 @@
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
+0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logend.cookpad.com

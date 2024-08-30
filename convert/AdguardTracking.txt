@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 29 Aug 2024 04:27:06 UTC
+# Updated at Fri, 30 Aug 2024 04:27:51 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6975,6 +6975,7 @@
 0.0.0.0 analysis.aws.locondo.jp
 0.0.0.0 analysis.fi
 0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analysis.vesync.com
 0.0.0.0 analysis.wangtwothree.com
 0.0.0.0 analysys.cn
 0.0.0.0 analytic-client.cuntempire.com
@@ -12599,6 +12600,7 @@
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.statowl.com
+0.0.0.0 collector.superwall.me
 0.0.0.0 collector.szlcsc.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.trendmd.com
@@ -36204,6 +36206,7 @@
 0.0.0.0 esqjac.costakreuzfahrten.de
 0.0.0.0 esqxrp.bonprix-fl.be
 0.0.0.0 ess.moseasia.com
+0.0.0.0 essential-apps-analytics.herokuapp.com
 0.0.0.0 essentiallyformeliving.com
 0.0.0.0 essmnx.edreams.ch
 0.0.0.0 estadisticasgratis.com
@@ -43999,6 +44002,7 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log1.wtlogin.qq.com
+0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
@@ -63891,6 +63895,7 @@
 0.0.0.0 tracker.gamemonkey.org
 0.0.0.0 tracker.gleanview.com
 0.0.0.0 tracker.gpcdn.pl
+0.0.0.0 tracker.grupanya.com
 0.0.0.0 tracker.hdtvcloud.com
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.insurads.com

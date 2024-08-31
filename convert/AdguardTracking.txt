@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 30 Aug 2024 04:27:51 UTC
+# Updated at Sat, 31 Aug 2024 04:27:49 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10129,6 +10129,7 @@
 0.0.0.0 chipmunk.sqltoapi.com
 0.0.0.0 chkgdb.trendhim.com
 0.0.0.0 chocolate.webspecmail.com
+0.0.0.0 chocolatine.apexlegendsstatus.com
 0.0.0.0 choose.adelaide.edu.au
 0.0.0.0 chordivestrk.com
 0.0.0.0 choymp.pooldawg.com
@@ -10463,6 +10464,7 @@
 0.0.0.0 click.consult.clstjean.be
 0.0.0.0 click.contact.alaska.edu
 0.0.0.0 click.contact.ethnikiasfalistiki.gr
+0.0.0.0 click.contact.kamalaharris.com
 0.0.0.0 click.contact.qbcc.qld.gov.au
 0.0.0.0 click.contact.southbendclinic.com
 0.0.0.0 click.contact.stores-discount.com
@@ -36267,6 +36269,7 @@
 0.0.0.0 etwovr.underarmour.eu
 0.0.0.0 etyper.com
 0.0.0.0 etznkn.ec-store.net
+0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-survey.com
 0.0.0.0 eu.business.samsung.com
 0.0.0.0 eu.cignaglobalhealth.com
@@ -48713,6 +48716,7 @@
 0.0.0.0 octopus.evobend.com
 0.0.0.0 octopus.hans-hornberger.de
 0.0.0.0 octopus.katrinebrandborg.dk
+0.0.0.0 octotracking.com
 0.0.0.0 ocular.mydealz.de
 0.0.0.0 ocwlhv.ecid.com.br
 0.0.0.0 odb.outbrain.com
@@ -51755,6 +51759,7 @@
 0.0.0.0 prod.fennec.atp.fox
 0.0.0.0 prod.nitrosniffer.ottogroup.io
 0.0.0.0 prod.report.nacustomerexperience.citi.com
+0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 prod.tracking.refinitiv.com
 0.0.0.0 prod.uidapi.com
 0.0.0.0 prodalet.ru
@@ -68220,6 +68225,7 @@
 0.0.0.0 x.healthlabinstitute.com
 0.0.0.0 x.sexhd.pics
 0.0.0.0 x.timesunion.com
+0.0.0.0 x.trvdp.com
 0.0.0.0 x2.moseasia.com
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com

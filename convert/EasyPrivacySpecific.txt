@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 31 Aug 2024 04:27:47 UTC
+# Updated at Sun, 01 Sep 2024 04:28:38 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -410,6 +410,7 @@
 0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
+0.0.0.0 no88kks.infinityscans.net
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 nr-data.noelleeming.co.nz
@@ -417,7 +418,6 @@
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
-0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onesignal.com
@@ -519,7 +519,6 @@
 0.0.0.0 sapi.tremendous.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
-0.0.0.0 services.haaretz.com
 0.0.0.0 servo-report.dvdfab
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
@@ -533,6 +532,7 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sp.cargurus.co.uk
 0.0.0.0 sp.ecosia.org
+0.0.0.0 sp.pcoptimum.ca
 0.0.0.0 sp.welcometothejungle.com
 0.0.0.0 spectrum.gettyimages.com
 0.0.0.0 spt.ahram.org.eg

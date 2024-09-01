@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 31 Aug 2024 04:27:48 UTC
+# Updated at Sun, 01 Sep 2024 04:28:38 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -132,6 +132,7 @@
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pixels.ai
+0.0.0.0 analytics.plasmic.app
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
@@ -259,6 +260,7 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -954,6 +956,7 @@
 0.0.0.0 s.beop.io
 0.0.0.0 s.logsss.com
 0.0.0.0 s.srvsynd.com
+0.0.0.0 s.vibe.co
 0.0.0.0 sa.scorpion.co
 0.0.0.0 scanverify.com
 0.0.0.0 scout.us2.salesloft.com
@@ -1139,6 +1142,7 @@
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.myplay.com
+0.0.0.0 tag.pearldiver.io
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.statshop.fr

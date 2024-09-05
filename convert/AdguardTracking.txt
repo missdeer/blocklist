@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 04 Sep 2024 04:27:41 UTC
+# Updated at Thu, 05 Sep 2024 04:28:03 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -11037,6 +11037,7 @@
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdnstats-a.akamaihd.net
 0.0.0.0 cdnstr.com
+0.0.0.0 cdnweb2analytics.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdp.vemt.com
 0.0.0.0 cdrive.compellent.com
@@ -17511,6 +17512,7 @@
 0.0.0.0 data.t.epost.dnb.no
 0.0.0.0 data.t.worldvision.ca
 0.0.0.0 data.thepointsguy.com
+0.0.0.0 data.tm-awx.com
 0.0.0.0 data.tmail.northeast.aaa.com
 0.0.0.0 data.todoalicante.es
 0.0.0.0 data.transaction.giftcards.com
@@ -38055,7 +38057,6 @@
 0.0.0.0 felidae.mmm.page
 0.0.0.0 felidae.mysuperportal.com
 0.0.0.0 felidae.theforeignarchitect.com
-0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 feppiu.systemaction.es
 0.0.0.0 fepvrd.bathandbodyworks.com.sa
@@ -49290,6 +49291,7 @@
 0.0.0.0 notify.eset.com
 0.0.0.0 notify.notificationsafe.com
 0.0.0.0 notifyvisitors.com
+0.0.0.0 notix.io
 0.0.0.0 notuch.efor.com.tr
 0.0.0.0 noushe.zevvle.com
 0.0.0.0 novedades.telecomfibercorp.com.ar
@@ -52733,6 +52735,7 @@
 0.0.0.0 pub.ownerservices.onstar.com
 0.0.0.0 pub.personalloans.discover.com
 0.0.0.0 pub.personalwealthmanagement.citi.com
+0.0.0.0 pub.pixels.ai
 0.0.0.0 pub.playeagleridge-email.com
 0.0.0.0 pub.press.trivago.com
 0.0.0.0 pub.probeauty.makeupforever.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 05 Sep 2024 04:28:03 UTC
+# Updated at Fri, 06 Sep 2024 04:27:03 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6834,6 +6834,7 @@
 0.0.0.0 ad-spire.net
 0.0.0.0 ad-srv-track.com
 0.0.0.0 ad.320320.net
+0.0.0.0 ad.aceplanet.co.kr
 0.0.0.0 ad.activatedmindstoday.com
 0.0.0.0 ad.aim-universe.co.jp
 0.0.0.0 ad.allknowingpro.com
@@ -7050,6 +7051,7 @@
 0.0.0.0 adj.st
 0.0.0.0 adku.co
 0.0.0.0 adku.com
+0.0.0.0 adlc-exchange.toast.com
 0.0.0.0 adm.adminstrumentengineering.com.au
 0.0.0.0 adm.avadacom.com
 0.0.0.0 adm2.moseasia.com
@@ -42299,6 +42301,7 @@
 0.0.0.0 join.stratfor.com
 0.0.0.0 join.zendesk.com
 0.0.0.0 join02.informamarkets.com
+0.0.0.0 joinmassive.com
 0.0.0.0 joinmy.site
 0.0.0.0 joinsai.securitiesamerica.com
 0.0.0.0 jojo.pablo-nutello.art
@@ -47518,6 +47521,7 @@
 0.0.0.0 metrics.calimera.com
 0.0.0.0 metrics.calvinklein.us
 0.0.0.0 metrics.calwater.com
+0.0.0.0 metrics.camsoda.com
 0.0.0.0 metrics.cancer.gov
 0.0.0.0 metrics.capitalone.com
 0.0.0.0 metrics.care.com
@@ -51894,7 +51898,6 @@
 0.0.0.0 personyze.com
 0.0.0.0 perzonalization.com
 0.0.0.0 petal.calyxflowers.com
-0.0.0.0 petametrics.com
 0.0.0.0 pevftg.shopee.sg
 0.0.0.0 peyqvn.falke.com
 0.0.0.0 pf.intuit.com
@@ -62433,6 +62436,7 @@
 0.0.0.0 tnz3.carrefour-banque.fr
 0.0.0.0 to.getnitropack.com
 0.0.0.0 to.profileinc.com
+0.0.0.0 to.torrentfreak.com
 0.0.0.0 to.tryrevivelifestylebook.com
 0.0.0.0 to.tryreviveskylifestyle.com
 0.0.0.0 toad.alalikexpress.com
@@ -64425,6 +64429,7 @@
 0.0.0.0 track1.avplayer.com
 0.0.0.0 track1.embrogift.com
 0.0.0.0 track1.noflgame.com
+0.0.0.0 track2.tprg.ru
 0.0.0.0 track2.trbo.com
 0.0.0.0 trackad.cz
 0.0.0.0 trackalyzer.com
@@ -64434,6 +64439,7 @@
 0.0.0.0 trackcommon.hujiang.com
 0.0.0.0 trackconsole.com
 0.0.0.0 trackdb.go3.tv
+0.0.0.0 trackdesk.com
 0.0.0.0 trackdiscovery.net
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net

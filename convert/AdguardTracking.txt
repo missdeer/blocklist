@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 06 Sep 2024 04:27:03 UTC
+# Updated at Sat, 07 Sep 2024 04:27:13 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -44999,6 +44999,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.particlenews.com
+0.0.0.0 log.pdfreaders.net
 0.0.0.0 log.perfecttitspics.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pipeline.datarize.io

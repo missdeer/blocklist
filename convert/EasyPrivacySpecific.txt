@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 06 Sep 2024 04:27:03 UTC
+# Updated at Sat, 07 Sep 2024 04:27:13 UTC
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -553,6 +553,7 @@
 0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.calcalist.co.il
+0.0.0.0 stats.chromatone.center
 0.0.0.0 stats.codeur.com
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch

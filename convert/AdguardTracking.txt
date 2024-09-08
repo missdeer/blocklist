@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 07 Sep 2024 04:27:13 UTC
+# Updated at Sun, 08 Sep 2024 04:26:40 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -44939,6 +44939,7 @@
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bandi.so
 0.0.0.0 log.baomoi.com
+0.0.0.0 log.bloodppressure.info
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.bntrace.com
 0.0.0.0 log.bunjang.co.kr

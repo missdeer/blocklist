@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 10 Sep 2024 04:27:42 UTC
+# Updated at Wed, 11 Sep 2024 04:30:32 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -43504,6 +43504,7 @@
 0.0.0.0 jinju.glerny.space
 0.0.0.0 jinx.skullctf.com
 0.0.0.0 jirafe.com
+0.0.0.0 jitsu.ixbt.com
 0.0.0.0 jiujpc.asgoodasnew.fr
 0.0.0.0 jixie.io
 0.0.0.0 jjcypx.vrai.com

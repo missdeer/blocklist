@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 11 Sep 2024 04:30:32 UTC
+# Updated at Thu, 12 Sep 2024 04:29:07 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10286,6 +10286,7 @@
 0.0.0.0 api.receptivity.io
 0.0.0.0 api.reproio.com
 0.0.0.0 api.ryanyao.design
+0.0.0.0 api.sail-personalize.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
@@ -46318,6 +46319,7 @@
 0.0.0.0 logistics.osmworldwide.com
 0.0.0.0 loglady.publicbroadcasting.net
 0.0.0.0 lognormal.net
+0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs.51cto.com
@@ -60872,6 +60874,7 @@
 0.0.0.0 stats.albert-kropp-gmbh.de
 0.0.0.0 stats.alibhai.co
 0.0.0.0 stats.alleaktien.de
+0.0.0.0 stats.allenai.org
 0.0.0.0 stats.alocreativa.com
 0.0.0.0 stats.am.ai
 0.0.0.0 stats.amaeya.media

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 13 Sep 2024 04:27:24 UTC
+# Updated at Sat, 14 Sep 2024 04:27:22 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -385,6 +385,7 @@
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs.us.tiktokv.com
+0.0.0.0 mdt.crateandbarrel.com
 0.0.0.0 medal.tv
 0.0.0.0 megatron.igraal.com
 0.0.0.0 metrics.audius.co

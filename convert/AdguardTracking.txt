@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 19 Sep 2024 04:28:36 UTC
+# Updated at Fri, 20 Sep 2024 04:28:07 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9069,6 +9069,7 @@
 0.0.0.0 anaconda.zephyrus.gg
 0.0.0.0 anal.doubledouble.top
 0.0.0.0 anal.sataniskwijt.be
+0.0.0.0 analitik.pendik.bel.tr
 0.0.0.0 analitits.com
 0.0.0.0 analoganalytics.com
 0.0.0.0 analy.qq.com
@@ -9102,6 +9103,7 @@
 0.0.0.0 analytics-api.invideo.io
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics-api.sconto.cz
 0.0.0.0 analytics-api.smzdm.com
 0.0.0.0 analytics-api.statvoo.com
 0.0.0.0 analytics-api.vanceai.com
@@ -12043,7 +12045,6 @@
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.pranmcpkx.com
 0.0.0.0 cdn.preciso.net
-0.0.0.0 cdn.pubnub.com
 0.0.0.0 cdn.raekdata.com
 0.0.0.0 cdn.reproio.com
 0.0.0.0 cdn.resonate.com
@@ -46957,6 +46958,7 @@
 0.0.0.0 loewxm.psg.fr
 0.0.0.0 lofi.kylnk.com
 0.0.0.0 lofo3l15c674.platform.replai.io
+0.0.0.0 log-ana.h3z.jp
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-hl.snssdk.com

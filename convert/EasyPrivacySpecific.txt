@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 20 Sep 2024 04:28:07 UTC
+# Updated at Sat, 21 Sep 2024 04:28:24 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -408,6 +408,7 @@
 0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
+0.0.0.0 mp.imgur.com
 0.0.0.0 mp.theepochtimes.com
 0.0.0.0 mr.homedepot.ca
 0.0.0.0 msg-intl.qy.net
@@ -594,7 +595,6 @@
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.deepnote.com
 0.0.0.0 t.freelancer.com
-0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.ionos.com
 0.0.0.0 t.jossandmain.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 20 Sep 2024 04:28:07 UTC
+# Updated at Sat, 21 Sep 2024 04:28:24 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -50802,6 +50802,7 @@
 0.0.0.0 msgapp.com
 0.0.0.0 msgtag.com
 0.0.0.0 msioay.backcountry.com
+0.0.0.0 msite.baidu.com
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msr.p-antiaging.com
 0.0.0.0 msrvwc.camperscaravans.nl

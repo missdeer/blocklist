@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 21 Sep 2024 04:28:24 UTC
+# Updated at Sun, 22 Sep 2024 04:30:55 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9558,6 +9558,7 @@
 0.0.0.0 analytics.sonjj.com
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.spark.co.nz
+0.0.0.0 analytics.spearly.com
 0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.stanby.com
 0.0.0.0 analytics.starlink.com
@@ -14089,6 +14090,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-analytics.mts.ru
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client.botchk.net
@@ -55460,6 +55462,7 @@
 0.0.0.0 repdata.tallahassee.com
 0.0.0.0 repdata.usatoday.com
 0.0.0.0 repixel.co
+0.0.0.0 replaybird.com
 0.0.0.0 reply.charlotte.com
 0.0.0.0 reply.compuware.com
 0.0.0.0 reply.elnuevo.com

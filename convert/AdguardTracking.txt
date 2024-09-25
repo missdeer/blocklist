@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 24 Sep 2024 04:29:09 UTC
+# Updated at Wed, 25 Sep 2024 04:29:20 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6072,6 +6072,7 @@
 0.0.0.0 adtima-media.zascdn.me
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtlgc.com
+0.0.0.0 adtrace.ai
 0.0.0.0 adtrack.adleadevent.com
 0.0.0.0 adtrack.alchemy-web.jp
 0.0.0.0 adtrack.appcpi.net

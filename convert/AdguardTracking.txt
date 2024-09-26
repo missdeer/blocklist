@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 25 Sep 2024 04:29:20 UTC
+# Updated at Thu, 26 Sep 2024 04:29:36 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6086,6 +6086,7 @@
 0.0.0.0 adtraction.com
 0.0.0.0 adtraxx.de
 0.0.0.0 adtriba.com
+0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.ocrwebmedia.com
@@ -45577,6 +45578,7 @@
 0.0.0.0 mefo1.zdf.de
 0.0.0.0 mega-stats.com
 0.0.0.0 mega.moseasia.com
+0.0.0.0 meitustat.com
 0.0.0.0 melody.moseasia.com
 0.0.0.0 member.email.seasoned.co
 0.0.0.0 member.oewa.at

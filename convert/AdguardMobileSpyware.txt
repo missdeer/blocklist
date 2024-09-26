@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 25 Sep 2024 04:29:20 UTC
+# Updated at Thu, 26 Sep 2024 04:29:36 UTC
 #
 
 0.0.0.0 33across.com
@@ -29,6 +29,7 @@
 0.0.0.0 adtracker.jpchd.veraxen.com
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
+0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advangelists.com
 0.0.0.0 advmob.cn
@@ -418,6 +419,7 @@
 0.0.0.0 mathtag.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
+0.0.0.0 meitustat.com
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 26 Sep 2024 04:29:36 UTC
+# Updated at Fri, 27 Sep 2024 04:28:48 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -7027,6 +7027,7 @@
 0.0.0.0 analytics-lgs.corebridgefinancial.com
 0.0.0.0 analytics-logger.service.junctiontv.net
 0.0.0.0 analytics-mkt.wemakeprice.com
+0.0.0.0 analytics-op.streak.ninja
 0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-script.ad-shield.io
@@ -13170,6 +13171,7 @@
 0.0.0.0 counter.all.biz
 0.0.0.0 counter.any.run
 0.0.0.0 counter.avadacom.com
+0.0.0.0 counter.best-hit.tv
 0.0.0.0 counter.cropvid.com
 0.0.0.0 counter.daara.kr
 0.0.0.0 counter.de
@@ -49453,6 +49455,7 @@
 0.0.0.0 panda.unpublished.app
 0.0.0.0 pandg.tapad.com
 0.0.0.0 pangle-b.io
+0.0.0.0 panorama.wixapps.net
 0.0.0.0 panther.atgonlinecoaching.com
 0.0.0.0 panther.codyhatfield.me
 0.0.0.0 panther.essentialwellnessyoga.com.au
@@ -62543,6 +62546,7 @@
 0.0.0.0 track.stillserenity.com
 0.0.0.0 track.storm.mg
 0.0.0.0 track.strategiavincentelotto.com
+0.0.0.0 track.streak.ninja
 0.0.0.0 track.stroy-still.shop
 0.0.0.0 track.subpoenasolutions.tech
 0.0.0.0 track.superlabelstore.net

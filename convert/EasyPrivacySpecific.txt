@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 27 Sep 2024 04:28:48 UTC
+# Updated at Sat, 28 Sep 2024 04:28:02 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -477,6 +477,7 @@
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 prod-events.nykaa.com
+0.0.0.0 proxima.midjourney.com
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
 0.0.0.0 pumpkin.abine.com

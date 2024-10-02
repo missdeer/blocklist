@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 01 Oct 2024 04:30:01 UTC
+# Updated at Wed, 02 Oct 2024 04:28:59 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9696,6 +9696,7 @@
 0.0.0.0 atlcvv.voucomprar.com
 0.0.0.0 atlihk.dukeanddexter.com
 0.0.0.0 atom-log.3.cn
+0.0.0.0 atom.warnermedia.com
 0.0.0.0 atoso.alphatonicoffers.online
 0.0.0.0 atoutbio.ubilab.me
 0.0.0.0 atrack.avplayer.com
@@ -11207,6 +11208,7 @@
 0.0.0.0 cdn.driveback.ru
 0.0.0.0 cdn.dsspn.com
 0.0.0.0 cdn.glassboxcdn.com
+0.0.0.0 cdn.gpmdata.ru
 0.0.0.0 cdn.granify.com
 0.0.0.0 cdn.kaizenplatform.net
 0.0.0.0 cdn.logrocket.com
@@ -14694,6 +14696,7 @@
 0.0.0.0 countyou.de
 0.0.0.0 countz.com
 0.0.0.0 courses.webspecmail.com
+0.0.0.0 covatic.io
 0.0.0.0 coviyr.modafurnishings.co.uk
 0.0.0.0 covtk.medtronic.com
 0.0.0.0 coyizl.embracon.com.br
@@ -67985,6 +67988,7 @@
 0.0.0.0 t.beop.io
 0.0.0.0 t.bien-vendre-son-terrain.fr
 0.0.0.0 t.biooncology.com
+0.0.0.0 t.blog.livedoor.jp
 0.0.0.0 t.bluehens.com
 0.0.0.0 t.boxoffice.fairfieldstags.com
 0.0.0.0 t.broadwayspokane.com
@@ -76221,6 +76225,7 @@
 0.0.0.0 zimjmw.hidaily.co.kr
 0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
+0.0.0.0 zion.api.cnn.io
 0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 zippitydoo.flibberflop.uno
 0.0.0.0 zipstat.dk

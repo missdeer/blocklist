@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 02 Oct 2024 04:28:59 UTC
+# Updated at Thu, 03 Oct 2024 04:29:48 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -49,6 +49,7 @@
 0.0.0.0 ad.line-scdn.net
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mediamixer.co.kr
+0.0.0.0 ad.mobiuspace.net
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.particlenews.com
@@ -56,6 +57,7 @@
 0.0.0.0 ad.simpledesign.ltd
 0.0.0.0 ad.smaad.jp
 0.0.0.0 ad.snappea.com
+0.0.0.0 ad.snaptube.app
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ad.tencentmusic.com
 0.0.0.0 ad.vrvm.com
@@ -109,6 +111,7 @@
 0.0.0.0 admixer.net
 0.0.0.0 admulti.com
 0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 adnami.io
 0.0.0.0 adonly.com
 0.0.0.0 adpies.com
 0.0.0.0 adplatform.vrtcal.com
@@ -230,6 +233,7 @@
 0.0.0.0 ap.smardroid.com
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 api-ad-adapter.wps.com
+0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ads.newsdigest.jp

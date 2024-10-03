@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 02 Oct 2024 04:29:00 UTC
+# Updated at Thu, 03 Oct 2024 04:29:48 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -816,6 +816,7 @@
 0.0.0.0 nr.static.mmcdn.com
 0.0.0.0 ns.rvmkitt.com
 0.0.0.0 nsg.symantec.com
+0.0.0.0 nwr.static.mmcdn.com
 0.0.0.0 observe-nexus.pointandplace.com
 0.0.0.0 observer.ip-label.net
 0.0.0.0 octopart-analytics.com
@@ -1230,6 +1231,7 @@
 0.0.0.0 track.vscash.com
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
+0.0.0.0 track.zappos.com
 0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker.affirm.com

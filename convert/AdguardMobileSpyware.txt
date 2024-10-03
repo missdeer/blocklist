@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 02 Oct 2024 04:28:59 UTC
+# Updated at Thu, 03 Oct 2024 04:29:48 UTC
 #
 
 0.0.0.0 33across.com
@@ -608,6 +608,7 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
+0.0.0.0 theadex.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
@@ -707,6 +708,7 @@
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wzrkt.com
 0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xplosion.de
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
 0.0.0.0 ys-log-upload-os.hoyoverse.com

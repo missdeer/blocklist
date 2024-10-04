@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 03 Oct 2024 04:29:48 UTC
+# Updated at Fri, 04 Oct 2024 04:29:00 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -44960,6 +44960,7 @@
 0.0.0.0 eventos.abastur.com
 0.0.0.0 eventos.cihac.com
 0.0.0.0 eventos.usj.es
+0.0.0.0 eventrecorder.cm.bloomberg.com
 0.0.0.0 events-api.gazetadopovo.com.br
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-collector-api.viacom.tech
@@ -47166,6 +47167,7 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 hearob.klix.ba
 0.0.0.0 heartbeats.prd.data.s.joyn.de
+0.0.0.0 heatmap-events-collector.instapage.com
 0.0.0.0 heatmap.emma.tools
 0.0.0.0 heatmap.it
 0.0.0.0 hedgehog.fightforthefuture.org

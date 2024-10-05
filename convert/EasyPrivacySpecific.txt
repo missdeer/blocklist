@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 04 Oct 2024 04:29:00 UTC
+# Updated at Sat, 05 Oct 2024 04:29:00 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -328,6 +328,7 @@
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
+0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 impressions.svc.abillion.com
 0.0.0.0 improve.tempest.com

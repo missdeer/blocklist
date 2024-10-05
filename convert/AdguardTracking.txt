@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 04 Oct 2024 04:29:00 UTC
+# Updated at Sat, 05 Oct 2024 04:28:59 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -52690,7 +52690,6 @@
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.juspay.in
-0.0.0.0 logs.netflix.com
 0.0.0.0 logs.ntvplus.tv
 0.0.0.0 logs.openbank.com
 0.0.0.0 logs.psm.wmcdp.io

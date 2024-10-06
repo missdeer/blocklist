@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 05 Oct 2024 04:28:59 UTC
+# Updated at Sun, 06 Oct 2024 04:28:33 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -11476,6 +11476,7 @@
 0.0.0.0 cl.hotels.exactt.net
 0.0.0.0 cl.info.lululemon.com
 0.0.0.0 cl.interreg-central.eu
+0.0.0.0 cl.melonbooks.co.jp
 0.0.0.0 cl.messages.hannaford.com
 0.0.0.0 cl.mittanbud.no
 0.0.0.0 cl.papajohns-specials.com

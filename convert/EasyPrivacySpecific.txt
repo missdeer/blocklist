@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 07 Oct 2024 04:29:42 UTC
+# Updated at Tue, 08 Oct 2024 04:29:00 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -39,7 +39,6 @@
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.academy.com
-0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
@@ -82,7 +81,6 @@
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
-0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b629.electronicdesign.com
@@ -325,7 +323,6 @@
 0.0.0.0 i.pokernews.com
 0.0.0.0 iam-rum-intake.datadoghq.com
 0.0.0.0 idstatus.sky.com
-0.0.0.0 iedc.fitbit.com
 0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 img2021.navyfederal.org
@@ -458,7 +455,6 @@
 0.0.0.0 pixel.clutter.com
 0.0.0.0 pixel.convertize.io
 0.0.0.0 pixel.facebook.com
-0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.nine.com.au
 0.0.0.0 pixel.tuko.co.ke
@@ -634,7 +630,6 @@
 0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 tccd.douglas
 0.0.0.0 td.airdroid.com
-0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io

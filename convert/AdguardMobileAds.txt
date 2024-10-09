@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 08 Oct 2024 04:29:00 UTC
+# Updated at Wed, 09 Oct 2024 04:28:30 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -428,6 +428,7 @@
 0.0.0.0 flygo.ru
 0.0.0.0 focas.jp
 0.0.0.0 friendlyduck.com
+0.0.0.0 frontier100-toutiao-lf.fqnovel.com
 0.0.0.0 fyber.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 gameanalysis.appcpi.net

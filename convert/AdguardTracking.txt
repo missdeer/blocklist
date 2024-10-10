@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 09 Oct 2024 04:28:30 UTC
+# Updated at Thu, 10 Oct 2024 04:28:44 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -7657,6 +7657,7 @@
 0.0.0.0 b.bloomberglp.com
 0.0.0.0 b.karte.io
 0.0.0.0 b.ns.webspecmail.com
+0.0.0.0 b.ranking.apis.sankei-digital.co.jp
 0.0.0.0 b.sli-spark.com
 0.0.0.0 b0.yahoo.co.jp
 0.0.0.0 b0e8.com
@@ -45390,6 +45391,7 @@
 0.0.0.0 p5mcwdbu.ginzo-buy.jp
 0.0.0.0 p769.wgal.com
 0.0.0.0 p7h1silo3f.app.cainthus.com
+0.0.0.0 pa-cd.com
 0.0.0.0 pa-oa.com
 0.0.0.0 pa-stats.encore.dev
 0.0.0.0 pa.opqr.co

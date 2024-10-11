@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 10 Oct 2024 04:28:44 UTC
+# Updated at Fri, 11 Oct 2024 04:28:54 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -11194,6 +11194,7 @@
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.biomedcentral.com
 0.0.0.0 collect.blishtech.co
+0.0.0.0 collect.dolap.com
 0.0.0.0 collect.feefo.com
 0.0.0.0 collect.hollisterco.com
 0.0.0.0 collect.igodigital.com
@@ -49137,6 +49138,7 @@
 0.0.0.0 scarabresearch.com
 0.0.0.0 scevoo.alinda.hu
 0.0.0.0 scfhwp.ski-express.com
+0.0.0.0 scholar.google.com
 0.0.0.0 schwacke.autovistagroup.com
 0.0.0.0 sci.intuit.com
 0.0.0.0 sci.quickbooks.com

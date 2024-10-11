@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 10 Oct 2024 04:28:44 UTC
+# Updated at Fri, 11 Oct 2024 04:28:54 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -71,6 +71,7 @@
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
 0.0.0.0 analytics.ticketmaster
+0.0.0.0 analytics.tomato.gg
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
@@ -526,6 +527,7 @@
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapi.tremendous.com
 0.0.0.0 sapphire-api.target.com
+0.0.0.0 scholar.google.com
 0.0.0.0 search.anonymous.ads.brave.com
 0.0.0.0 servo-report.dvdfab
 0.0.0.0 shopmetric.rediff.com

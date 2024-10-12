@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 11 Oct 2024 04:28:54 UTC
+# Updated at Sat, 12 Oct 2024 04:28:33 UTC
 #
 
 0.0.0.0 33across.com
@@ -98,6 +98,7 @@
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andmlb.kshwtj.com
@@ -418,6 +419,7 @@
 0.0.0.0 m.vpadn.com
 0.0.0.0 mathtag.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 meitustat.com
 0.0.0.0 message-hub-svc.usw2.cordial.com
@@ -445,6 +447,8 @@
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 mpianalytics.com
@@ -536,6 +540,8 @@
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtag.farmers.com
+0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 s.pixsrvcs.com
@@ -707,7 +713,9 @@
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wzrkt.com
+0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xplosion.de
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com

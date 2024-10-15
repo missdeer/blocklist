@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 14 Oct 2024 04:29:15 UTC
+# Updated at Tue, 15 Oct 2024 04:29:25 UTC
 #
 
 0.0.0.0 33across.com
@@ -195,7 +195,7 @@
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
-0.0.0.0 collector1.afreecatv.com
+0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 config-api.internet.apps.samsung.com
@@ -421,6 +421,7 @@
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
+0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 meitustat.com
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 metok.sys.miui.com

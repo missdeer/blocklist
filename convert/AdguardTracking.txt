@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 15 Oct 2024 04:29:26 UTC
+# Updated at Wed, 16 Oct 2024 04:29:13 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8701,10 +8701,10 @@
 0.0.0.0 analy.qq.com
 0.0.0.0 analy1.dtnnetwork.be
 0.0.0.0 analyse.hinemos.info
-0.0.0.0 analysis.afreecatv.com
 0.0.0.0 analysis.aws.locondo.jp
 0.0.0.0 analysis.fi
 0.0.0.0 analysis.polarisoffice.com
+0.0.0.0 analysis.sooplive.co.kr
 0.0.0.0 analysis.vesync.com
 0.0.0.0 analysis.wangtwothree.com
 0.0.0.0 analysys.cn
@@ -15312,7 +15312,7 @@
 0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhofficial.com
 0.0.0.0 collector.xhwide1.com
-0.0.0.0 collector1.afreecatv.com
+0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collectorj.tvsquared.com
 0.0.0.0 college.1897pentagram.com
@@ -19607,7 +19607,7 @@
 0.0.0.0 delivery.lululemon.com
 0.0.0.0 delivery.verwin.com
 0.0.0.0 dell.compellent.com
-0.0.0.0 delog.afreecatv.com
+0.0.0.0 delog.sooplive.co.kr
 0.0.0.0 delphi.ni.com
 0.0.0.0 deltadna.net
 0.0.0.0 demandbase.com
@@ -51187,8 +51187,8 @@
 0.0.0.0 event1.thermoscientific.com
 0.0.0.0 event3.thermofisher.com
 0.0.0.0 event3.thermoscientific.com
-0.0.0.0 eventapi.afreecatv.com
 0.0.0.0 eventapi.libring.com
+0.0.0.0 eventapi.sooplive.co.kr
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
@@ -63052,7 +63052,6 @@
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 mssdk.bytedance.com
-0.0.0.0 mssdk.zijieapi.com
 0.0.0.0 mstat.acestream.net
 0.0.0.0 mstfbz.zenklub.com.br
 0.0.0.0 mstm.motorsport.com
@@ -79253,6 +79252,7 @@
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.insurads.com
 0.0.0.0 tracker.iplocation.net
+0.0.0.0 tracker.jkplayers.com
 0.0.0.0 tracker.joongang.co.kr
 0.0.0.0 tracker.joost.com
 0.0.0.0 tracker.kantan-access.com

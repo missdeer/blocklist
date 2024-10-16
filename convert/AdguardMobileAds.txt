@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 15 Oct 2024 04:29:25 UTC
+# Updated at Wed, 16 Oct 2024 04:29:13 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -68,7 +68,7 @@
 0.0.0.0 ad.zijieapi.com
 0.0.0.0 ad6media.fr
 0.0.0.0 adadvisor.net
-0.0.0.0 adballoon.afreecatv.com
+0.0.0.0 adballoon.sooplive.co.kr
 0.0.0.0 adblade.com
 0.0.0.0 adcamp.ru
 0.0.0.0 adcel.co
@@ -385,7 +385,7 @@
 0.0.0.0 dad-api.dcard.tw
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data2.doodlemobile.com
-0.0.0.0 deapi.afreecatv.com
+0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 deliveryengine.adswizz.com
@@ -685,7 +685,7 @@
 0.0.0.0 questionmarket.com
 0.0.0.0 r2d2.aotter.net
 0.0.0.0 redtram.com
-0.0.0.0 reqde.afreecatv.com
+0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 restartad.com
 0.0.0.0 revcontent.com
 0.0.0.0 richpays.com

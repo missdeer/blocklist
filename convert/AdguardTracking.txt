@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 16 Oct 2024 04:29:13 UTC
+# Updated at Thu, 17 Oct 2024 04:29:11 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -55834,6 +55834,7 @@
 0.0.0.0 iosxbl.hotshapers.com
 0.0.0.0 iot-business.vodafone.com
 0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 ioxqdp.leatherology.com
 0.0.0.0 ip-adress.com
@@ -59036,6 +59037,7 @@
 0.0.0.0 lofo3l15c674.platform.replai.io
 0.0.0.0 log-ana.h3z.jp
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com
@@ -59181,7 +59183,6 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log1.wtlogin.qq.com
-0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
@@ -59260,6 +59261,7 @@
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logs2.jobs.com
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com
@@ -63058,6 +63060,7 @@
 0.0.0.0 msub.mmail.northeast.aaa.com
 0.0.0.0 msz3.destinia.cn
 0.0.0.0 mt.apocalypsetrivia.com
+0.0.0.0 mt.gigazine.net
 0.0.0.0 mt.leukaemia.org.nz
 0.0.0.0 mta.statement.nowpensions.com
 0.0.0.0 mtbflj.elementaree.ru
@@ -67880,6 +67883,7 @@
 0.0.0.0 r7ls.net
 0.0.0.0 r9mg6mgqo9838o0t.greencleancommercial.com
 0.0.0.0 ra.rockcontent.com
+0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.radicalxchange.org
 0.0.0.0 rabbit.upwardhomes.net
 0.0.0.0 rac.ruutu.fi
@@ -68694,6 +68698,7 @@
 0.0.0.0 rtk.usasend.online
 0.0.0.0 rtl.met.vgwort.de
 0.0.0.0 rtl.t.thedigestionboost.com
+0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtm-tracking.zozo.jp
 0.0.0.0 rtmark.net
@@ -80949,6 +80954,7 @@
 0.0.0.0 unixbw.matchesfashion.com
 0.0.0.0 unjqhk.lashkaraa.com
 0.0.0.0 unknowntray.com
+0.0.0.0 unl1zvy2zuyn.franchiseplus.nl
 0.0.0.0 unlock.onedreamsports.de
 0.0.0.0 unloverly.manned.site
 0.0.0.0 unrnai.muenchner-jobanzeiger.de
@@ -82674,6 +82680,7 @@
 0.0.0.0 w88.m.espn.go.com
 0.0.0.0 w88.natgeo.pt
 0.0.0.0 w982.middletownpress.com
+0.0.0.0 w9g7dlhw3kaank.www.eldorado.gg
 0.0.0.0 wa.and.co.uk
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 wa.bol.com

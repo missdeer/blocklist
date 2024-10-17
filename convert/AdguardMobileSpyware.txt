@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 16 Oct 2024 04:29:13 UTC
+# Updated at Thu, 17 Oct 2024 04:29:11 UTC
 #
 
 0.0.0.0 33across.com
@@ -343,6 +343,7 @@
 0.0.0.0 io.narrative.io
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 krxd.net
 0.0.0.0 launches.appsflyer.com
@@ -354,6 +355,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-tb.isnssdk.com
@@ -396,7 +398,6 @@
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
-0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logend.cookpad.com
@@ -520,6 +521,7 @@
 0.0.0.0 r-log.dable.io
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.browser.miui.com
+0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 receiver.habby.mobi
@@ -542,6 +544,7 @@
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 rumstat.cdnvideo.ru

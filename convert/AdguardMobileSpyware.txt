@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 17 Oct 2024 04:29:11 UTC
+# Updated at Fri, 18 Oct 2024 04:29:35 UTC
 #
 
 0.0.0.0 33across.com
@@ -261,10 +261,12 @@
 0.0.0.0 ets.easybrain.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-search.jorte.com
+0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 events-api.soundcloud.com
+0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.usw2.cordial.com

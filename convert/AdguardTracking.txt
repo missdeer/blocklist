@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 17 Oct 2024 04:29:11 UTC
+# Updated at Fri, 18 Oct 2024 04:29:35 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -51165,6 +51165,7 @@
 0.0.0.0 event.impression-neo.naver.com
 0.0.0.0 event.instiengage.com
 0.0.0.0 event.jma.or.jp
+0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.lib.visumo.io
 0.0.0.0 event.mail.dreamcargiveaways.co.uk
 0.0.0.0 event.mazars.nl
@@ -51202,6 +51203,7 @@
 0.0.0.0 eventrecorder.cm.bloomberg.com
 0.0.0.0 events-api.gazetadopovo.com.br
 0.0.0.0 events-api.soundcloud.com
+0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events-ingestion.services.gorgias.com

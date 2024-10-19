@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 18 Oct 2024 04:29:35 UTC
+# Updated at Sat, 19 Oct 2024 04:28:10 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -59289,6 +59289,7 @@
 0.0.0.0 loon.jrmyfranck.com
 0.0.0.0 loopfuse.net
 0.0.0.0 lopley.com
+0.0.0.0 lordoftheentertainingostriches.com
 0.0.0.0 lorrelytrk.com
 0.0.0.0 los.2hisnd.com
 0.0.0.0 losecounter.de

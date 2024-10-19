@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 18 Oct 2024 04:29:35 UTC
+# Updated at Sat, 19 Oct 2024 04:28:10 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -12,7 +12,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 92by17snes4.cc
+0.0.0.0 a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.cookpad-ads.com
 0.0.0.0 a2dfp.net
@@ -835,6 +837,7 @@
 0.0.0.0 vidout.net
 0.0.0.0 vm5apis.com
 0.0.0.0 vmap.v.ad-generation.jp
+0.0.0.0 vod-mplayer.sooplive.co.kr
 0.0.0.0 vrizead.com
 0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi

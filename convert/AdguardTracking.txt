@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 22 Oct 2024 04:29:56 UTC
+# Updated at Wed, 23 Oct 2024 04:28:49 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -15652,6 +15652,7 @@
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
+0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client-testing.pl8ypus.com
 0.0.0.0 client.botchk.net
@@ -56816,6 +56817,7 @@
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 global.raboag.com
 0.0.0.0 global.successfactors.com
+0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 global.zenprise.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalbanking.wolterskluwer.com
@@ -61198,6 +61200,7 @@
 0.0.0.0 lddt.de
 0.0.0.0 ldhteg.mooihorloge.nl
 0.0.0.0 ldorlv.seiban.co.jp
+0.0.0.0 ldpsh.fashionnova.com
 0.0.0.0 ldqbuy.sport-express.ru
 0.0.0.0 ldqtdd.peing.net
 0.0.0.0 ldvalc.manzara.cz
@@ -66240,6 +66243,7 @@
 0.0.0.0 metrics.ifc.org
 0.0.0.0 metrics.ikea.com
 0.0.0.0 metrics.imdb.a2z.com
+0.0.0.0 metrics.imdb.com
 0.0.0.0 metrics.infiniti.com
 0.0.0.0 metrics.infomedics.it
 0.0.0.0 metrics.infranken.de
@@ -67096,6 +67100,7 @@
 0.0.0.0 mnxlyo.kinoteatr.ru
 0.0.0.0 mnzogu.leslipfrancais.fr
 0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobile-collector.newrelic.com
@@ -72740,6 +72745,7 @@
 0.0.0.0 rlog.popin.cc
 0.0.0.0 rls.regulerlesucre.com
 0.0.0.0 rmmskb.fnacspectacles.com
+0.0.0.0 rmonitor.qq.com
 0.0.0.0 rmp4.destinia.uy
 0.0.0.0 rmsmail.houstonjamaat.com
 0.0.0.0 rmtag.com
@@ -74183,6 +74189,7 @@
 0.0.0.0 servicing.business.hsbc.com
 0.0.0.0 servicing.unitedautocredit.net
 0.0.0.0 servo-report.dvdfab
+0.0.0.0 servo-report.keepstreams.com
 0.0.0.0 servustats.com
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sessioncam.com
@@ -79167,6 +79174,7 @@
 0.0.0.0 statsigapi.net
 0.0.0.0 statsinsight.com
 0.0.0.0 statsit.com
+0.0.0.0 statsjs.klevu.com
 0.0.0.0 statsmachine.com
 0.0.0.0 statsp.fpop.net
 0.0.0.0 statsrely.com
@@ -80120,6 +80128,7 @@
 0.0.0.0 taduhy.timberland.co.uk
 0.0.0.0 taemhn.zamst-online.jp
 0.0.0.0 tafrebadus.com
+0.0.0.0 tag.aftvnews.com
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.boulanger.fr

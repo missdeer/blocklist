@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 22 Oct 2024 04:29:56 UTC
+# Updated at Wed, 23 Oct 2024 04:28:49 UTC
 #
 
 0.0.0.0 33across.com
@@ -180,6 +180,7 @@
 0.0.0.0 chartbeat.net
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
+0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clog.mirrativ.com
@@ -443,6 +444,7 @@
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobileapptracking.com

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 22 Oct 2024 04:29:56 UTC
+# Updated at Wed, 23 Oct 2024 04:28:49 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -214,6 +214,7 @@
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 adx-tk.rayjump.com
+0.0.0.0 adx.mossru.com
 0.0.0.0 adxcorp.kr
 0.0.0.0 adz.mobi
 0.0.0.0 adzerk.net
@@ -505,6 +506,7 @@
 0.0.0.0 itdsmr.com
 0.0.0.0 iyes.youku.com
 0.0.0.0 jioads.akamaized.net
+0.0.0.0 jjpp.lmtjapi.com
 0.0.0.0 jssdk.rayjump.com
 0.0.0.0 justad.mobi
 0.0.0.0 ketchapp.org
@@ -611,6 +613,7 @@
 0.0.0.0 networld.hk
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newfeatureview.perfectionholic.com
+0.0.0.0 news-cdn.site
 0.0.0.0 newsnet.in.ua
 0.0.0.0 nexac.com
 0.0.0.0 nickhel.com

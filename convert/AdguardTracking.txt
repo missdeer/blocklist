@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 23 Oct 2024 04:28:49 UTC
+# Updated at Thu, 24 Oct 2024 04:29:33 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9731,6 +9731,7 @@
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-fe.digital-cloud.medallia.eu
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
+0.0.0.0 analytics-ingestion-production.tubitv.com
 0.0.0.0 analytics-ingestion.pbpms.de
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -72681,6 +72682,7 @@
 0.0.0.0 ressources.usine-digitale.com
 0.0.0.0 ressources.usine-nouvelle.com
 0.0.0.0 results.moseasia.com
+0.0.0.0 retail-client-events-service.internal.salsify.com
 0.0.0.0 retarget.gites-de-france.com
 0.0.0.0 retargeter.com.br
 0.0.0.0 retargeting.biz
@@ -74189,7 +74191,6 @@
 0.0.0.0 servicing.business.hsbc.com
 0.0.0.0 servicing.unitedautocredit.net
 0.0.0.0 servo-report.dvdfab
-0.0.0.0 servo-report.keepstreams.com
 0.0.0.0 servustats.com
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sessioncam.com
@@ -74290,6 +74291,7 @@
 0.0.0.0 sheep.vaxstandby.com
 0.0.0.0 sheeta.nrj-play.fr
 0.0.0.0 sheoil.newyorkandcompany.com
+0.0.0.0 shgcdn3.com
 0.0.0.0 shgefd.bilto.fr
 0.0.0.0 shgefd.paris-turf.com
 0.0.0.0 shhh.lol

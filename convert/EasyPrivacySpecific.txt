@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 24 Oct 2024 04:29:32 UTC
+# Updated at Fri, 25 Oct 2024 04:31:14 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -74,6 +74,7 @@
 0.0.0.0 analytics.tomato.gg
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.vedantu.com
+0.0.0.0 analytics.vortexscans.com
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
 0.0.0.0 analyticsapi.qogita.com

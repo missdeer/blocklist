@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 24 Oct 2024 04:29:33 UTC
+# Updated at Fri, 25 Oct 2024 04:31:14 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10326,6 +10326,7 @@
 0.0.0.0 analytics.wienerberger.se
 0.0.0.0 analytics.wienerberger.si
 0.0.0.0 analytics.wienerberger.sk
+0.0.0.0 analytics.wikitide.net
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.winter.ink
 0.0.0.0 analytics.wondershare.cc

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 29 Oct 2024 04:29:39 UTC
+# Updated at Wed, 30 Oct 2024 04:29:39 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8496,6 +8496,7 @@
 0.0.0.0 ads.avadacom.com
 0.0.0.0 ads.dandelionchocolate.jp
 0.0.0.0 ads.dreamjobcompany.com
+0.0.0.0 ads.mythad.com
 0.0.0.0 ads.upbet.com
 0.0.0.0 ads.xglobalmarkets.com
 0.0.0.0 adsaccount.appcpi.net
@@ -19295,6 +19296,7 @@
 0.0.0.0 data-ff5b197ecc.traceparts.com
 0.0.0.0 data-ff6ba35ab1.cash-online.de
 0.0.0.0 data-ff95894520.apps.iocnt.de
+0.0.0.0 data-ingestion.flowgpt.com
 0.0.0.0 data-nl.computer-automation.de
 0.0.0.0 data-nl.connect-channel.de
 0.0.0.0 data-nl.connect-professional.de
@@ -70403,6 +70405,7 @@
 0.0.0.0 prodclk.prodentimonline.live
 0.0.0.0 proditor.sparda.de
 0.0.0.0 prodmp.ru
+0.0.0.0 prodregistryv2.org
 0.0.0.0 production-mcs.lvp.llnw.net
 0.0.0.0 productionprinting.ricoh.co.uk
 0.0.0.0 productionprinting.ricoh.ie
@@ -79428,6 +79431,7 @@
 0.0.0.0 thrive.metagenics.com
 0.0.0.0 thrtle.com
 0.0.0.0 ti3av8k3ikwm.resume.gerardbosch.xyz
+0.0.0.0 tianji.flowgpt.com
 0.0.0.0 tick.pcrpriser.se
 0.0.0.0 tick.sculch.app
 0.0.0.0 tick.weg.plus

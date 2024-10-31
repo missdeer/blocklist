@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 30 Oct 2024 04:29:39 UTC
+# Updated at Thu, 31 Oct 2024 04:30:29 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9402,7 +9402,10 @@
 0.0.0.0 amphibian.studionimbus.nl
 0.0.0.0 amphibian.tboa.club
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 amplitude-experiment.bandlab.com
+0.0.0.0 amplitude.bandlab.com
 0.0.0.0 amplitude.chess.com
+0.0.0.0 amplitude.life360.com
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
@@ -55821,6 +55824,7 @@
 0.0.0.0 events.sd-nbb.de
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
+0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.tafensw.edu.au
 0.0.0.0 events.textme-app.com
@@ -56837,7 +56841,6 @@
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 global.raboag.com
 0.0.0.0 global.successfactors.com
-0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 global.zenprise.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalbanking.wolterskluwer.com
@@ -62529,6 +62532,7 @@
 0.0.0.0 log.bntrace.com
 0.0.0.0 log.bunjang.co.kr
 0.0.0.0 log.classting.com
+0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.cognex.com
@@ -71119,6 +71123,7 @@
 0.0.0.0 rel.msn.com
 0.0.0.0 relacionamento.edpcomunicacao.com.br
 0.0.0.0 relap.io
+0.0.0.0 relay-event.talkie-ai.com
 0.0.0.0 relay.1897pentagram.com
 0.0.0.0 relay.alliedhousing.com
 0.0.0.0 relay.aromarepublic.happycustomer.io
@@ -72785,6 +72790,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sensorsdata.cn
+0.0.0.0 sensorsdata.glowapp.vip
 0.0.0.0 sentifi.com
 0.0.0.0 sentiment.icis.com
 0.0.0.0 sentinelbi.com
@@ -77260,6 +77266,7 @@
 0.0.0.0 stats.heyoya.com
 0.0.0.0 stats.highdesertchurch.com
 0.0.0.0 stats.his-j.com
+0.0.0.0 stats.hitwebcloud.de
 0.0.0.0 stats.hoeping.de
 0.0.0.0 stats.homepage-2021.askmiso-dev.com
 0.0.0.0 stats.homestow.com
@@ -85921,6 +85928,7 @@
 0.0.0.0 webmail.yonelle.happycustomer.io
 0.0.0.0 webmaster.verwin.com
 0.0.0.0 webmasterplan.com
+0.0.0.0 webmaxlogger.net
 0.0.0.0 webmet.creditreform-mahnwesen.de
 0.0.0.0 webmet.creditreform.de
 0.0.0.0 webmet.crefotrust.de

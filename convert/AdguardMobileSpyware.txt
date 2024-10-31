@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 30 Oct 2024 04:29:38 UTC
+# Updated at Thu, 31 Oct 2024 04:30:28 UTC
 #
 
 0.0.0.0 33across.com
@@ -50,6 +50,7 @@
 0.0.0.0 alogus.umeng.com
 0.0.0.0 am.yahoo.co.jp
 0.0.0.0 amp-error-reporting.appspot.com
+0.0.0.0 amplitude.life360.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 an.batmobi.net
 0.0.0.0 analy.qq.com
@@ -282,6 +283,7 @@
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
+0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tvtime.com
@@ -377,6 +379,7 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
+0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn

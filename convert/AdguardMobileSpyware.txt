@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 31 Oct 2024 04:30:28 UTC
+# Updated at Fri, 01 Nov 2024 04:28:57 UTC
 #
 
 0.0.0.0 33across.com
@@ -380,6 +380,7 @@
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.cleandesigner.live
+0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.droid4x.cn
@@ -540,7 +541,6 @@
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
-0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com

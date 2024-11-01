@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 31 Oct 2024 04:30:29 UTC
+# Updated at Fri, 01 Nov 2024 04:28:58 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -62533,6 +62533,7 @@
 0.0.0.0 log.bunjang.co.kr
 0.0.0.0 log.classting.com
 0.0.0.0 log.cleandesigner.live
+0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.cognex.com
@@ -63836,6 +63837,7 @@
 0.0.0.0 main.inclusivepolicy.com
 0.0.0.0 maintenant.votre-succes.online
 0.0.0.0 mainting-minues.xyz
+0.0.0.0 majime-site-rk.com
 0.0.0.0 makbti.bandofboats.com
 0.0.0.0 maling.dn.no
 0.0.0.0 maliva-mcs.byteoversea.com
@@ -66757,6 +66759,7 @@
 0.0.0.0 networks.balluff.com
 0.0.0.0 netzaehler.de
 0.0.0.0 netzstat.ch
+0.0.0.0 new-access802.net
 0.0.0.0 new-collect.albacross.com
 0.0.0.0 new.searchadsw.top
 0.0.0.0 newidea.e.aremedia.com.au
@@ -71251,7 +71254,6 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.iciba.com
-0.0.0.0 report.iheartmedia.gbqofs.io
 0.0.0.0 report.oewa.at
 0.0.0.0 report2.iciba.com
 0.0.0.0 reporting-api.gannettinnovation.com
@@ -76278,6 +76280,7 @@
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srv1.alalikexpress.com
 0.0.0.0 srv3.moseasia.com
+0.0.0.0 srvgl.com
 0.0.0.0 srvr.dmvs-apac.com
 0.0.0.0 srvtrck.com
 0.0.0.0 ss.azuremagazine.com
@@ -86819,6 +86822,7 @@
 0.0.0.0 yoifwi.levi.com.ph
 0.0.0.0 yoiku-sub.yoiku.support
 0.0.0.0 yolo.philipbjorge.com
+0.0.0.0 yonemoku.rdy.jp
 0.0.0.0 yoochoose.net
 0.0.0.0 yotlzh.akane-skincare.com
 0.0.0.0 yottlyscript.com

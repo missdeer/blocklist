@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Fri, 01 Nov 2024 04:28:58 UTC
+# Updated at Sat, 02 Nov 2024 04:29:25 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -21796,6 +21796,7 @@
 0.0.0.0 g33ktr4ck.com
 0.0.0.0 g33tr4c3r.com
 0.0.0.0 g4news.biz
+0.0.0.0 g4y7uuk.com
 0.0.0.0 g52bxi1v1w.com
 0.0.0.0 g5fzq2l.com
 0.0.0.0 g5rkmcc9f.com
@@ -28009,7 +28010,6 @@
 0.0.0.0 jsqygwl.top
 0.0.0.0 jsqytshec.com
 0.0.0.0 jsretra.com
-0.0.0.0 jssdk.pulse.schibsted.com
 0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssearch.net
@@ -39014,6 +39014,7 @@
 0.0.0.0 pmtkhcr.com
 0.0.0.0 pmtrkp.icu
 0.0.0.0 pmweb.com.br
+0.0.0.0 pmwofrq.icu
 0.0.0.0 pmwwedke.com
 0.0.0.0 pmxyzqm.com
 0.0.0.0 pmzer.com
@@ -46495,6 +46496,7 @@
 0.0.0.0 sothiacalain.com
 0.0.0.0 sotunet.com
 0.0.0.0 sotuyenvcb.vietcombanker.com
+0.0.0.0 soublib.top
 0.0.0.0 soughtflaredeeper.com
 0.0.0.0 soukoope.com
 0.0.0.0 soulslaidmale.com
@@ -57423,7 +57425,6 @@
 0.0.0.0 www.stadiumstage.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.vejaskor.com.se
-0.0.0.0 www.vejasskor.com
 0.0.0.0 www0.xyz
 0.0.0.0 wwwadcntr.com
 0.0.0.0 wwwads.seoul.co.kr

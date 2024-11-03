@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 02 Nov 2024 04:29:26 UTC
+# Updated at Sun, 03 Nov 2024 04:28:14 UTC
 #
 
 0.0.0.0 33across.com
@@ -262,6 +262,7 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 ets.easybrain.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.togothermany.com
@@ -331,6 +332,7 @@
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 insight.ucweb.com
+0.0.0.0 insights-categorizer-noneu.truecaller.com
 0.0.0.0 insights.zennioptical.com
 0.0.0.0 installtracker.com
 0.0.0.0 installtracker.unityads.unity3d.com

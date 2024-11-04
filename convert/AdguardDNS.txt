@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Sun, 03 Nov 2024 04:28:14 UTC
+# Updated at Mon, 04 Nov 2024 04:29:00 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -70,6 +70,7 @@
 0.0.0.0 08088.top
 0.0.0.0 0816bvh.ru
 0.0.0.0 08f8f073.xyz
+0.0.0.0 08ro35delw.ru
 0.0.0.0 0916video.ru
 0.0.0.0 0926a687679d337e9d.com
 0.0.0.0 0940088.com
@@ -5395,12 +5396,15 @@
 0.0.0.0 amazonbig.asia
 0.0.0.0 amazonclix.com
 0.0.0.0 amazones-tools.com
+0.0.0.0 amazoni2.com
 0.0.0.0 amazonl0.com
 0.0.0.0 amazonl3.com
 0.0.0.0 amazonl4.com
 0.0.0.0 amazonlogistics.jp
 0.0.0.0 amazonsg.shop
 0.0.0.0 amazonxk.com
+0.0.0.0 amazoul.site
+0.0.0.0 amazoul.xyz
 0.0.0.0 amazuk.com
 0.0.0.0 amazy.ru
 0.0.0.0 ambaab.com
@@ -6409,6 +6413,7 @@
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.fusepowered.com
+0.0.0.0 api.garageserviceoperation.com
 0.0.0.0 api.getlevelten.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.greenp.kr
@@ -8353,6 +8358,7 @@
 0.0.0.0 bdbovbmfu.xyz
 0.0.0.0 bdckqpofmclr.com
 0.0.0.0 bdcm.kandianla.com
+0.0.0.0 bdcmwcl.icu
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdcode.35d1.com
 0.0.0.0 bdcode.qinglm.com
@@ -11082,6 +11088,7 @@
 0.0.0.0 ccsshn137.shop
 0.0.0.0 cct-giaohangtietkiem.com
 0.0.0.0 cctvgb.com.cn
+0.0.0.0 ccty-ghtk.com
 0.0.0.0 ccwxma.xyz
 0.0.0.0 ccypzigf.com
 0.0.0.0 cczqyvuy812jdy.com
@@ -11547,15 +11554,24 @@
 0.0.0.0 chameleostudios.com
 0.0.0.0 champagne.futurecdn.net
 0.0.0.0 chamsockhachang.com
+0.0.0.0 chamsockhachhang-the-tructuyen-thang9.com.vn
 0.0.0.0 chamsockhachhang-tructuyenuudaithe.online
 0.0.0.0 chamsockhachhang-uudai-the-truc-tuyen.online
+0.0.0.0 chamsockhachhang-uudai-tructuyen-thang10.com.vn
 0.0.0.0 chamsockhachhang-uudai-tructuyenthe.com
 0.0.0.0 chamsockhachhang-uudaithe-thang6.com
 0.0.0.0 chamsockhachhang-uudaithecanhan-tructuyen.online
+0.0.0.0 chamsockhachhang-uudaithetructuyen-thang10.com.vn
 0.0.0.0 chamsockhachhang-uudaithetructuyen-thang8.online
 0.0.0.0 chamsockhachhang-uudaitructuyen.online
 0.0.0.0 chamsockhachhangnanghanmuctindungmsb.com
 0.0.0.0 chamsockhachhangtheuudai-tructuyen.com.vn
+0.0.0.0 chamsocthe-uudai-tructuyen-thang10.com.vn
+0.0.0.0 chamsocthe-uudaikhachhang-thang10.com.vn
+0.0.0.0 chamsocthe-uudaikhachhang-tructuyen.com
+0.0.0.0 chamsocthe-uudaikhachhang.com
+0.0.0.0 chamsocthe-uudaikhachhang.online
+0.0.0.0 chamsocthe-uudaitructuyen.com.vn
 0.0.0.0 chamsocthekhachang-truc-tuyen.com
 0.0.0.0 chamsocthekhachhang-thang4.com.vn
 0.0.0.0 chamsocthekhachhang-thang4.online
@@ -14046,6 +14062,7 @@
 0.0.0.0 cthbkxcvksx.com
 0.0.0.0 cthulhu.cash
 0.0.0.0 ctiotjobkfu.com
+0.0.0.0 ctivo.com
 0.0.0.0 ctkyom.xyz
 0.0.0.0 ctl.mobitrack.co.kr
 0.0.0.0 ctlacnh.icu
@@ -16308,6 +16325,7 @@
 0.0.0.0 dfd55780d6.com
 0.0.0.0 dfdgfruitie.xyz
 0.0.0.0 dfdzflttbjh.com
+0.0.0.0 dfeenxea.tidc.bid
 0.0.0.0 dfejqmh.cn
 0.0.0.0 dffa09cade.com
 0.0.0.0 dfgbalon.com
@@ -16436,6 +16454,7 @@
 0.0.0.0 dichvucong-gov.com
 0.0.0.0 dichvucong.agov.net
 0.0.0.0 dichvucong.bcavnvnvngov.com
+0.0.0.0 dichvucong.ccbcavn.cc
 0.0.0.0 dichvucong.cvgov.com
 0.0.0.0 dichvucong.dancuquocgia.net
 0.0.0.0 dichvucong.dancuso.com
@@ -16457,6 +16476,8 @@
 0.0.0.0 dichvucong.zvgov.com
 0.0.0.0 dichvucongbaohiemxahoi.com
 0.0.0.0 dichvudaohantindung.com
+0.0.0.0 dichvudienmay-xanh.online
+0.0.0.0 dichvugiaohangtietkiem.com
 0.0.0.0 dichvunhantien-eu.org
 0.0.0.0 dichvunhantien24h.com
 0.0.0.0 dichvunhantienquocte2-4-7.weebly.com
@@ -16486,6 +16507,7 @@
 0.0.0.0 diench.com
 0.0.0.0 diendh.xyz
 0.0.0.0 dienlanhdienmayxanh.com
+0.0.0.0 dienlanhdienmayxanhvn.com
 0.0.0.0 dienlanhnguyenkim.ctyvn.net
 0.0.0.0 dienmayxanh-hcm.com
 0.0.0.0 dienmayxanh-vn.top
@@ -16502,6 +16524,7 @@
 0.0.0.0 dienmayxanhantam.com
 0.0.0.0 dienmayxanhbeauty.com
 0.0.0.0 dienmayxanhbeautyplus.com
+0.0.0.0 dienmayxanhcenter.vn
 0.0.0.0 dienmayxanhctv24.com
 0.0.0.0 dienmayxanhh.com
 0.0.0.0 dienmayxanhhcm.com
@@ -17598,6 +17621,7 @@
 0.0.0.0 dsdsa33.fun
 0.0.0.0 dsdsg44.fun
 0.0.0.0 dsethimdownthmo.com
+0.0.0.0 dsfh2.icu
 0.0.0.0 dsfjhfhyry2hh8jo09.com
 0.0.0.0 dsg.interia.pl
 0.0.0.0 dsghhbqey6ytg.cloudfront.net
@@ -19524,6 +19548,7 @@
 0.0.0.0 evlsn.com
 0.0.0.0 evnbankcredit.info
 0.0.0.0 evncredit.online
+0.0.0.0 evnnpcs.com
 0.0.0.0 evnt.iol.it
 0.0.0.0 evnvaytien.xyz
 0.0.0.0 evolutionadv.it
@@ -20110,6 +20135,7 @@
 0.0.0.0 farwine.com
 0.0.0.0 fascespro.com
 0.0.0.0 fascinateddashboard.com
+0.0.0.0 fasebook.com.vn
 0.0.0.0 fasgazazxvi.com
 0.0.0.0 fashionablegangsterexplosion.com
 0.0.0.0 faspox.com
@@ -22512,6 +22538,7 @@
 0.0.0.0 ghosttardy.com
 0.0.0.0 ghreha.top
 0.0.0.0 ghsheukwasana.info
+0.0.0.0 ghtk247.com
 0.0.0.0 ghtry.amateurswild.com
 0.0.0.0 ghwqbii.icu
 0.0.0.0 ghxadv.com
@@ -22544,6 +22571,7 @@
 0.0.0.0 giaohangtietkiem247.top
 0.0.0.0 giaohangtietkiemvietnam.com
 0.0.0.0 giaohangtietkiemvn.com
+0.0.0.0 giaohangtietkiemvn.website
 0.0.0.0 giaothuongvietnhat.org
 0.0.0.0 giaythethaonuhcm.com
 0.0.0.0 gibadvpara.com
@@ -26088,6 +26116,7 @@
 0.0.0.0 immortalityfaintedobjections.com
 0.0.0.0 immoxdzdke.com
 0.0.0.0 imndl.icu
+0.0.0.0 imniel.com
 0.0.0.0 imo-cash.de
 0.0.0.0 imonomy.com
 0.0.0.0 imp.ad-plus.cn
@@ -27590,6 +27619,7 @@
 0.0.0.0 jet.zbp.ru
 0.0.0.0 jetbux.ir
 0.0.0.0 jetdpommag.com
+0.0.0.0 jetkingncsc.online
 0.0.0.0 jetlwsa.top
 0.0.0.0 jetordinarilysouvenirs.com
 0.0.0.0 jetseparation.com
@@ -28679,6 +28709,7 @@
 0.0.0.0 kinott.com
 0.0.0.0 kinott.ru
 0.0.0.0 kinripen.com
+0.0.0.0 kiolpia.icu
 0.0.0.0 kiosked.com
 0.0.0.0 kipyn.com
 0.0.0.0 kiretafly.com
@@ -28934,6 +28965,7 @@
 0.0.0.0 korpeoe.com
 0.0.0.0 korporatefinau.org
 0.0.0.0 korrelate.net
+0.0.0.0 korshoptiktok.com
 0.0.0.0 kosibablo.ucoz.ua
 0.0.0.0 kosininia.com
 0.0.0.0 kosseanmudpack.com
@@ -33316,6 +33348,7 @@
 0.0.0.0 momomini.online
 0.0.0.0 momoplus.club
 0.0.0.0 momoproapi.com
+0.0.0.0 momoshopvip.com
 0.0.0.0 momoshopy.com
 0.0.0.0 momosieuhoihoantien.weebly.com
 0.0.0.0 momosieutoc.net
@@ -34557,6 +34590,7 @@
 0.0.0.0 naturaltracking.com
 0.0.0.0 naturebunk.com
 0.0.0.0 naturewhatmotor.com
+0.0.0.0 natvxgkbb.9pz1.tech
 0.0.0.0 naubme.info
 0.0.0.0 naucaish.net
 0.0.0.0 naufistuwha.com
@@ -44490,6 +44524,7 @@
 0.0.0.0 senditfast.cloud
 0.0.0.0 sendleinsects.shop
 0.0.0.0 sendmepush.com
+0.0.0.0 sendo1.com
 0.0.0.0 sendotv.com
 0.0.0.0 sendotv.shop
 0.0.0.0 sendovip.com
@@ -46590,6 +46625,7 @@
 0.0.0.0 soyincite.com
 0.0.0.0 soyjlnfatgxpfd.com
 0.0.0.0 soytdpb.com
+0.0.0.0 soyte.cc
 0.0.0.0 sozlyloopful.com
 0.0.0.0 sozzlypeavies.com
 0.0.0.0 sp-trk.com
@@ -46724,6 +46760,7 @@
 0.0.0.0 sp6788.com
 0.0.0.0 sp7335p.com
 0.0.0.0 sp75193p.com
+0.0.0.0 sp7588p.com
 0.0.0.0 sp77888.com
 0.0.0.0 sp8668vn.com
 0.0.0.0 sp9hb5jy81iw.ru
@@ -49468,6 +49505,7 @@
 0.0.0.0 teksishe.net
 0.0.0.0 tektosfolic.com
 0.0.0.0 tel-tel-fie.com
+0.0.0.0 telaagam.maxisl.vip
 0.0.0.0 telcyhlw.com
 0.0.0.0 telechargementdirect.net
 0.0.0.0 telegram.app0w.ltd
@@ -50022,6 +50060,7 @@
 0.0.0.0 thuoctangcuongsinhlynam.com
 0.0.0.0 thuonghieutoancau69.com
 0.0.0.0 thuonghieutop1.online
+0.0.0.0 thuongmai-dientu.com
 0.0.0.0 thuongmaidientuquocte.com
 0.0.0.0 thuongmaivietnhat.com
 0.0.0.0 thuongviet01.com
@@ -50151,6 +50190,7 @@
 0.0.0.0 tiki8.vip
 0.0.0.0 tiki82.com
 0.0.0.0 tiki86.com
+0.0.0.0 tiki886.vip
 0.0.0.0 tiki888.com
 0.0.0.0 tiki94.com
 0.0.0.0 tiki98.com
@@ -50705,6 +50745,7 @@
 0.0.0.0 topcpmcreativeformat.com
 0.0.0.0 topcreativeformat.com
 0.0.0.0 topcto.ru
+0.0.0.0 topcvvn.com
 0.0.0.0 topdealad.com
 0.0.0.0 topdepo.com
 0.0.0.0 topdienthoaia72.com
@@ -50814,6 +50855,7 @@
 0.0.0.0 totogetica.com
 0.0.0.0 totycb.cyou
 0.0.0.0 touaz.xyz
+0.0.0.0 toublii.top
 0.0.0.0 touchclarity.com
 0.0.0.0 touched35one.pro
 0.0.0.0 touchyeccentric.com
@@ -53519,6 +53561,7 @@
 0.0.0.0 urocyoncabrit.top
 0.0.0.0 urodakt.com
 0.0.0.0 uropygimoraine.com
+0.0.0.0 urpkktc.icu
 0.0.0.0 urqwzbu.cn
 0.0.0.0 urstats.de
 0.0.0.0 urtirepor.com
@@ -53709,12 +53752,16 @@
 0.0.0.0 uuajq.top
 0.0.0.0 uuaoy.com
 0.0.0.0 uudai-tructuyen-chamsockhachhang-the.com.vn
+0.0.0.0 uudaikhachhang-chamsocthetructuyen.com
+0.0.0.0 uudaikhachhang-chamsocthetructuyen.com.vn
+0.0.0.0 uudaikhachhang-tructuyen-the.com.vn
 0.0.0.0 uudaikhachhang-tructuyen.com.vn
 0.0.0.0 uudaikhachhangthe-tructuyen-thang9.com.vn
 0.0.0.0 uudailienquan.com
 0.0.0.0 uudainapthe.vn
 0.0.0.0 uudainganhang.com
 0.0.0.0 uudainganhangso.site
+0.0.0.0 uudauthekhachhanh-tructuyen-thang10.com.vn
 0.0.0.0 uudproxxc.com
 0.0.0.0 uudzfbzthj.com
 0.0.0.0 uue2.destinia.ir
@@ -53735,6 +53782,7 @@
 0.0.0.0 uuxfznnf.xyz
 0.0.0.0 uuxodmjzvgzd.com
 0.0.0.0 uuyhonsdpa.com
+0.0.0.0 uuyiiuqwownx.pw
 0.0.0.0 uuysiaq.com
 0.0.0.0 uuzsfpju.xyz
 0.0.0.0 uvaugnutseeh.com
@@ -55310,6 +55358,7 @@
 0.0.0.0 vndcrknbh.xyz
 0.0.0.0 vnduthianhgroup.com
 0.0.0.0 vnebank.xyz
+0.0.0.0 vneid.vieegovn.cc
 0.0.0.0 vnexprress.com
 0.0.0.0 vnfiba.com
 0.0.0.0 vngiao.hangtietkiem.online
@@ -55894,6 +55943,7 @@
 0.0.0.0 wallpapersfacts.com
 0.0.0.0 wallstrads.com
 0.0.0.0 walmartshoping.com
+0.0.0.0 walmartva.icu
 0.0.0.0 waltzprescriptionplate.com
 0.0.0.0 wamcash.com
 0.0.0.0 wamnetwork.com
@@ -58472,6 +58522,7 @@
 0.0.0.0 yjwxegq.icu
 0.0.0.0 yjxzvqy.xyz
 0.0.0.0 yjyfxgoasocy.com
+0.0.0.0 yk37wagdg.life
 0.0.0.0 ykad-data.youku.com
 0.0.0.0 ykbwiiafufwke.com
 0.0.0.0 ykcsldm.icu

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 04 Nov 2024 04:29:00 UTC
+# Updated at Tue, 05 Nov 2024 04:28:39 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -128,12 +128,14 @@
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adquota.com
 0.0.0.0 adrouter-charter-vod.cadenttech.tv
+0.0.0.0 ads-ap-venues.yinzcam.com
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads-config-engine-noneu.truecaller.com
 0.0.0.0 ads-d.viber.com
+0.0.0.0 ads-delivery.gunosy.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-interfaces.sc-cdn.net

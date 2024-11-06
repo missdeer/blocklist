@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 05 Nov 2024 04:28:40 UTC
+# Updated at Wed, 06 Nov 2024 04:29:07 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -19855,7 +19855,6 @@
 0.0.0.0 data.member.aware.com.au
 0.0.0.0 data.member.unitedhealthcare.com
 0.0.0.0 data.message.aircanada.com
-0.0.0.0 data.mimikama.at
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -68629,6 +68628,7 @@
 0.0.0.0 mnxlyo.kinoteatr.ru
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 mob2.healthapplines.com
+0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobile-collector.newrelic.com
@@ -86887,6 +86887,7 @@
 0.0.0.0 user-clicks.com
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user.ninjatribe.it
+0.0.0.0 useraction.de
 0.0.0.0 usercycle.com
 0.0.0.0 usereachpeople.com
 0.0.0.0 userexperience.thehut.net

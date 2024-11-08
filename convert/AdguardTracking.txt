@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 07 Nov 2024 04:28:33 UTC
+# Updated at Fri, 08 Nov 2024 04:28:15 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10022,6 +10022,7 @@
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.all-internet.jp
 0.0.0.0 api.amplitude.com
+0.0.0.0 api.amplitudeexperiment.com
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.antibanads.com
 0.0.0.0 api.appsflyer.com

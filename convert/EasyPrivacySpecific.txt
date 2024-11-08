@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 07 Nov 2024 04:28:32 UTC
+# Updated at Fri, 08 Nov 2024 04:28:14 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -583,6 +583,7 @@
 0.0.0.0 stats.suenicholls.com
 0.0.0.0 stats.synedat.io
 0.0.0.0 stats.trimbles.ie
+0.0.0.0 stats.vidbinge.com
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
@@ -628,7 +629,6 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.stepstone.com
 0.0.0.0 tao.barstoolsports.com
-0.0.0.0 taplytics-umami.grubhub.com
 0.0.0.0 target-us.samsung.com
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 08 Nov 2024 04:28:15 UTC
+# Updated at Sat, 09 Nov 2024 04:27:39 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -57786,6 +57786,7 @@
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-dot-procolor-backend.appspot.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 event-router.chime.com
@@ -73019,6 +73020,7 @@
 0.0.0.0 prod-collector.bigbasket.com
 0.0.0.0 prod-mhaa.mhtr.be
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
+0.0.0.0 prod.event.mwm-asset-manager.mwmwebapis.com
 0.0.0.0 prod.fennec.atp.fox
 0.0.0.0 prod.nitrosniffer.ottogroup.io
 0.0.0.0 prod.report.nacustomerexperience.citi.com
@@ -80633,6 +80635,7 @@
 0.0.0.0 stats.vattenfall.se
 0.0.0.0 stats.vdsnow.ru
 0.0.0.0 stats.vican.me
+0.0.0.0 stats.vidbinge.com
 0.0.0.0 stats.video.globo.com
 0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.videoseyred.in

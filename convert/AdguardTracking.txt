@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 10 Nov 2024 04:26:44 UTC
+# Updated at Mon, 11 Nov 2024 04:29:00 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -62528,6 +62528,7 @@
 0.0.0.0 koala.moontells.com
 0.0.0.0 koala.mynestbox.co.uk
 0.0.0.0 koala.readyfive.io
+0.0.0.0 kobel.services
 0.0.0.0 kobetu.grand1corp.com
 0.0.0.0 kohlermetricssecure.kohler.com
 0.0.0.0 kohlhammer.met.vgwort.de

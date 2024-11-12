@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 11 Nov 2024 04:29:00 UTC
+# Updated at Tue, 12 Nov 2024 04:28:12 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -264,6 +264,7 @@
 0.0.0.0 cdn.debugbear.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
@@ -1069,6 +1070,7 @@
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.ksearchnet.com
 0.0.0.0 stats.live-video.net
+0.0.0.0 stats.locallabs.com
 0.0.0.0 stats.lotlinx.com
 0.0.0.0 stats.mituyu.com
 0.0.0.0 stats.mpthemes.net

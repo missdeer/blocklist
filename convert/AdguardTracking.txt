@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 12 Nov 2024 04:28:13 UTC
+# Updated at Wed, 13 Nov 2024 04:28:52 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -7950,7 +7950,6 @@
 0.0.0.0 analytics.corusent.com
 0.0.0.0 analytics.cosmonova.net
 0.0.0.0 analytics.crawfordcountybank.com
-0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.crea.ca
 0.0.0.0 analytics.cyrillus.be
 0.0.0.0 analytics.cyrillus.ch
@@ -15641,6 +15640,7 @@
 0.0.0.0 cz-business.vodafone.com
 0.0.0.0 cz-cz.siemensplmevents.com
 0.0.0.0 cz-go.experian.com
+0.0.0.0 cza.crazygames.com
 0.0.0.0 czdxto.radiopopular.pt
 0.0.0.0 czncztrk.com
 0.0.0.0 czpidg.unisportstore.fr

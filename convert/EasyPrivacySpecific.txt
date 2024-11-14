@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 13 Nov 2024 04:28:52 UTC
+# Updated at Thu, 14 Nov 2024 04:29:54 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -337,6 +337,7 @@
 0.0.0.0 improve.tempest.com
 0.0.0.0 in.brilliant.org
 0.0.0.0 indmetric.rediff.com
+0.0.0.0 ingest.coincodex.com
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 insights-mxp-cdn.coursecareers.com

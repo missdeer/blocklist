@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 13 Nov 2024 04:28:52 UTC
+# Updated at Thu, 14 Nov 2024 04:29:55 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -69001,6 +69001,7 @@
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 mssdk.bytedance.com
+0.0.0.0 mst.rnd.de
 0.0.0.0 mstat.acestream.net
 0.0.0.0 mstfbz.zenklub.com.br
 0.0.0.0 mstm.motorsport.com
@@ -70584,6 +70585,7 @@
 0.0.0.0 p593.seattlepi.com
 0.0.0.0 p5mcwdbu.ginzo-buy.jp
 0.0.0.0 p769.wgal.com
+0.0.0.0 p7cloud.net
 0.0.0.0 p7h1silo3f.app.cainthus.com
 0.0.0.0 pa-cd.com
 0.0.0.0 pa-oa.com

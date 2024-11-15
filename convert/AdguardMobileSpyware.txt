@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 14 Nov 2024 04:29:55 UTC
+# Updated at Fri, 15 Nov 2024 04:30:47 UTC
 #
 
 0.0.0.0 33across.com
@@ -19,6 +19,7 @@
 0.0.0.0 adfuture.cn
 0.0.0.0 adj.st
 0.0.0.0 adrevenue.appsflyer.com
+0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adstats.tencentmusic.com
@@ -145,6 +146,7 @@
 0.0.0.0 ar.umeng.com
 0.0.0.0 arcspire.io
 0.0.0.0 astat.bugly.qq.com
+0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
@@ -706,6 +708,7 @@
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usage.influxdata.com
+0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 utop.umengcloud.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 14 Nov 2024 04:29:55 UTC
+# Updated at Fri, 15 Nov 2024 04:30:48 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -6788,6 +6788,7 @@
 0.0.0.0 adrian.users.webspecmail.com
 0.0.0.0 adrizer.com
 0.0.0.0 adrta.com
+0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.avadacom.com
 0.0.0.0 ads.dandelionchocolate.jp
@@ -9402,6 +9403,7 @@
 0.0.0.0 ats.otto.de
 0.0.0.0 atsfi.de
 0.0.0.0 atsmetrics.adobe.com
+0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 att.biaxoltrck.com
 0.0.0.0 att.ladmvie.com
 0.0.0.0 att.securefastvpn.top
@@ -57301,6 +57303,7 @@
 0.0.0.0 ev.api.bdg.com
 0.0.0.0 ev.kck.st
 0.0.0.0 ev.tpocdm.com
+0.0.0.0 ev2.api.bdg.com
 0.0.0.0 evacrb.ecotour.com
 0.0.0.0 evansville.townsquaremedia.info
 0.0.0.0 evelynn.landing.ni.com
@@ -57657,6 +57660,7 @@
 0.0.0.0 fahmta.theaa.com
 0.0.0.0 fahmta.theanswerbank.co.uk
 0.0.0.0 faibl.org
+0.0.0.0 fail.adr.ec
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 fal2.carrefour-banque.fr
 0.0.0.0 falcon.designed.org
@@ -65011,6 +65015,7 @@
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.juspay.in
+0.0.0.0 logs.netflix.com
 0.0.0.0 logs.ntvplus.tv
 0.0.0.0 logs.openbank.com
 0.0.0.0 logs.psm.wmcdp.io
@@ -80598,6 +80603,7 @@
 0.0.0.0 stats.brumtechtapas.co.uk
 0.0.0.0 stats.buddiy.net
 0.0.0.0 stats.bungeefit.co.uk
+0.0.0.0 stats.bunkr.ru
 0.0.0.0 stats.burocratin.com
 0.0.0.0 stats.buyersedge.com.au
 0.0.0.0 stats.byma.com.br
@@ -81891,6 +81897,7 @@
 0.0.0.0 t.activeflowprogram.com
 0.0.0.0 t.adbr.io
 0.0.0.0 t.adcell.com
+0.0.0.0 t.adii.se
 0.0.0.0 t.adlpo.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.afi-b.com
@@ -87697,6 +87704,7 @@
 0.0.0.0 useinsider.com
 0.0.0.0 user-analysis.7moor.com
 0.0.0.0 user-clicks.com
+0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user.ninjatribe.it
 0.0.0.0 useraction.de

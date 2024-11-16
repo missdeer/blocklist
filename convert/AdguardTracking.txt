@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 15 Nov 2024 04:30:48 UTC
+# Updated at Sat, 16 Nov 2024 04:30:38 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -7388,6 +7388,7 @@
 0.0.0.0 agenda.avadacom.com
 0.0.0.0 agentinteractive.com
 0.0.0.0 aghtag.tech
+0.0.0.0 agi-static.indiatimes.com
 0.0.0.0 agicinsttrk.com
 0.0.0.0 agility.cartoonnetwork.com
 0.0.0.0 agility.citizensbank.com
@@ -68854,12 +68855,12 @@
 0.0.0.0 monkey.compulsivo.co
 0.0.0.0 monkeytracker.cz
 0.0.0.0 monorail-edge.shopifysvc.com
+0.0.0.0 monsetting.toutiao.com
 0.0.0.0 montelena-rcv.auction.co.kr
 0.0.0.0 montelena-rcv.gmarket.co.kr
 0.0.0.0 montelena.auction.co.kr
 0.0.0.0 montelena.gmarket.co.kr
 0.0.0.0 montpalatin.handicap.fr
-0.0.0.0 monu.delivery
 0.0.0.0 moo.geopogs.party
 0.0.0.0 moodlerooms.blackboard.com
 0.0.0.0 moose.cloverlearning.com
@@ -75657,6 +75658,7 @@
 0.0.0.0 sddan.com
 0.0.0.0 sdegwynml.bmaci.me
 0.0.0.0 sdj.saudedasjuntas.online
+0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-cdn.optimove.net
 0.0.0.0 sdk-log-inter.youdao.com
@@ -82711,6 +82713,7 @@
 0.0.0.0 taskapi.net
 0.0.0.0 taste.e.bauermedia.co.nz
 0.0.0.0 tatehj.nylaarp.com
+0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 tatsumi-sys.jp
 0.0.0.0 tattkq.hopelingerie.com.br
 0.0.0.0 tattle.api.osano.com
@@ -82912,6 +82915,7 @@
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 telemetry.webasto.com
+0.0.0.0 telemetry.zoom.us
 0.0.0.0 teleport.soom.la
 0.0.0.0 telize.com
 0.0.0.0 teljari.is
@@ -87833,6 +87837,7 @@
 0.0.0.0 vcdfve.aroma-butik.ru
 0.0.0.0 vcegpu.libas.com.tr
 0.0.0.0 vch.voyage-prive.ch
+0.0.0.0 vcs.zijieapi.com
 0.0.0.0 vcxtkb.myomee.com
 0.0.0.0 vdc.zoomph.com
 0.0.0.0 vdcgmp.dynamicstriking.com

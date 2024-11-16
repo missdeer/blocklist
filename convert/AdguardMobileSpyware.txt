@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 15 Nov 2024 04:30:47 UTC
+# Updated at Sat, 16 Nov 2024 04:30:37 UTC
 #
 
 0.0.0.0 33across.com
@@ -466,6 +466,7 @@
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
+0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mpianalytics.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net
@@ -565,6 +566,7 @@
 0.0.0.0 sadobeanalytics.geico.com
 0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdk-monitoring.ogury.co
@@ -621,6 +623,7 @@
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tags.creditkarma.com
+0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 tealand.cmcm.com
@@ -714,6 +717,7 @@
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 validate.appsflyer.com
+0.0.0.0 vcs.zijieapi.com
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 viva.api.xiaoying.co

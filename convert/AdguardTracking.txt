@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 16 Nov 2024 04:30:38 UTC
+# Updated at Sun, 17 Nov 2024 04:28:52 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -65008,6 +65008,7 @@
 0.0.0.0 logs.8thwall.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
+0.0.0.0 logs.chatboost-cv.algoage.co.jp
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.gaaana.com
@@ -72768,6 +72769,7 @@
 0.0.0.0 pixel.clutter.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.convertize.io
+0.0.0.0 pixel.dev.smartnews.com
 0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.dmdi.pl
 0.0.0.0 pixel.embed.su
@@ -72796,6 +72798,7 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.safe-installation.com
+0.0.0.0 pixel.smartnews.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tapad.com
@@ -82197,6 +82200,7 @@
 0.0.0.0 t.ragincajuns.com
 0.0.0.0 t.rainide.com
 0.0.0.0 t.ramblinwreck.com
+0.0.0.0 t.rentio.jp
 0.0.0.0 t.restek.com
 0.0.0.0 t.richmondspiders.com
 0.0.0.0 t.rifansi.com

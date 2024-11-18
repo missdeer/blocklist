@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 17 Nov 2024 04:28:52 UTC
+# Updated at Mon, 18 Nov 2024 04:30:36 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -57465,7 +57465,6 @@
 0.0.0.0 events.ricoh.de
 0.0.0.0 events.sd-nbb.de
 0.0.0.0 events.splash-screen.net
-0.0.0.0 events.split.io
 0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.tafensw.edu.au

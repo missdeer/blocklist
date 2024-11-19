@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 18 Nov 2024 04:30:37 UTC
+# Updated at Tue, 19 Nov 2024 04:30:11 UTC
 #
 
 0.0.0.0 33across.com
@@ -395,6 +395,7 @@
 0.0.0.0 log.geetest.com
 0.0.0.0 log.goodreels.com
 0.0.0.0 log.happyapkdown.com
+0.0.0.0 log.heartratepros.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com

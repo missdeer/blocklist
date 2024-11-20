@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 19 Nov 2024 04:30:11 UTC
+# Updated at Wed, 20 Nov 2024 04:30:15 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -85894,6 +85894,7 @@
 0.0.0.0 stats.amaeya.media
 0.0.0.0 stats.americafirst.com
 0.0.0.0 stats.amiibo.life
+0.0.0.0 stats.amur.life
 0.0.0.0 stats.andrewlevinson.me
 0.0.0.0 stats.apachecorp.com
 0.0.0.0 stats.apitman.com

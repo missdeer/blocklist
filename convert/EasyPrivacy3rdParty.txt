@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 20 Nov 2024 04:30:15 UTC
+# Updated at Thu, 21 Nov 2024 04:30:27 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1268,6 +1268,7 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.novage.com.ua
+0.0.0.0 tracker.prod.ams3.k8s.hyperia.sk
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.smartframe.io
 0.0.0.0 tracker.softcube.com

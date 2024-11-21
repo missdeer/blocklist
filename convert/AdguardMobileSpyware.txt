@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 20 Nov 2024 04:30:15 UTC
+# Updated at Thu, 21 Nov 2024 04:30:27 UTC
 #
 
 0.0.0.0 33across.com
@@ -171,6 +171,7 @@
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.sayhi.360.cn
+0.0.0.0 caerulus.io
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 cdn-adn.rayjump.com
@@ -364,7 +365,6 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
-0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-tb.isnssdk.com

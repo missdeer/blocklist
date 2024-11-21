@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 20 Nov 2024 04:30:15 UTC
+# Updated at Thu, 21 Nov 2024 04:30:28 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10528,6 +10528,7 @@
 0.0.0.0 caderonline.bu.edu
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cadreon.com
+0.0.0.0 caerulus.io
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 cafe.avadacom.com
 0.0.0.0 cagkpu.suitdirect.co.uk
@@ -66319,7 +66320,6 @@
 0.0.0.0 lofo3l15c674.platform.replai.io
 0.0.0.0 log-ana.h3z.jp
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
-0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com

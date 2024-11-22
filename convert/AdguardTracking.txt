@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 21 Nov 2024 04:30:28 UTC
+# Updated at Fri, 22 Nov 2024 04:30:35 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -69455,6 +69455,7 @@
 0.0.0.0 matomo.datago.ru
 0.0.0.0 matomo.menshealth.de
 0.0.0.0 matomo.motorpresse.de
+0.0.0.0 matomo.oekoloewe.de
 0.0.0.0 matomo.promobil.de
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io

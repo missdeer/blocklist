@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 21 Nov 2024 04:30:27 UTC
+# Updated at Fri, 22 Nov 2024 04:30:34 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -256,6 +256,7 @@
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.baselime.io
+0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
 0.0.0.0 events.clips4sale.com
 0.0.0.0 events.framer.com

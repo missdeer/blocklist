@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 22 Nov 2024 04:30:35 UTC
+# Updated at Sat, 23 Nov 2024 04:29:15 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -15428,7 +15428,6 @@
 0.0.0.0 create.encore-mx.com
 0.0.0.0 create.encoreglobal.com
 0.0.0.0 create.lidstatic.com
-0.0.0.0 creative.bidease.com
 0.0.0.0 creativeassets.asosservices.com
 0.0.0.0 creativecdn.com
 0.0.0.0 credit.avadacom.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 22 Nov 2024 04:30:34 UTC
+# Updated at Sat, 23 Nov 2024 04:29:15 UTC
 #
 
 0.0.0.0 33across.com
@@ -215,7 +215,6 @@
 0.0.0.0 countly.globaldelight.net
 0.0.0.0 cpx.to
 0.0.0.0 crasheye.cn
-0.0.0.0 creative.bidease.com
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crwdcntrl.net

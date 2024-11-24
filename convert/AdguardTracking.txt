@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 23 Nov 2024 04:29:15 UTC
+# Updated at Sun, 24 Nov 2024 04:29:57 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8410,6 +8410,7 @@
 0.0.0.0 api.receptivity.io
 0.0.0.0 api.reproio.com
 0.0.0.0 api.revenuads.com
+0.0.0.0 api.rvere.com
 0.0.0.0 api.ryanyao.design
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 api.sec.miui.com
@@ -89513,6 +89514,7 @@
 0.0.0.0 tpbywf.emp-shop.pl
 0.0.0.0 tpe.theparticipanteffect.com
 0.0.0.0 tpfrro.justlease.nl
+0.0.0.0 tpi-app.herokuapp.com
 0.0.0.0 tpjojh.tripxtours.com
 0.0.0.0 tpmexb.vans.co.nz
 0.0.0.0 tpolby.dplantes.com

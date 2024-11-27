@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 26 Nov 2024 04:30:55 UTC
+# Updated at Wed, 27 Nov 2024 04:31:03 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -67698,6 +67698,7 @@
 0.0.0.0 event.csdn.net
 0.0.0.0 event.dengage.com
 0.0.0.0 event.edb.gov.sg
+0.0.0.0 event.geniee-search.net
 0.0.0.0 event.getblue.io
 0.0.0.0 event.gitexnigeria.ng
 0.0.0.0 event.hackle.io
@@ -67767,6 +67768,7 @@
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.blackboard.com
 0.0.0.0 events.brightline.tv
+0.0.0.0 events.bsky.app
 0.0.0.0 events.busuu.com
 0.0.0.0 events.caffeine.tv
 0.0.0.0 events.cardsmobile.ru

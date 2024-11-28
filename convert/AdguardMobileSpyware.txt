@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 27 Nov 2024 04:31:02 UTC
+# Updated at Thu, 28 Nov 2024 04:31:51 UTC
 #
 
 0.0.0.0 33across.com
@@ -475,6 +475,7 @@
 0.0.0.0 msg.simeji.me
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mtlog.droid4x.cn
 0.0.0.0 mtrace.qq.com
 0.0.0.0 munchkin.marketo.net
@@ -512,6 +513,7 @@
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtas.qq.com
 0.0.0.0 pippio.com
+0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 post-log.pushwoosh.com

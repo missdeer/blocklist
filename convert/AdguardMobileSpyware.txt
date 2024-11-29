@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 28 Nov 2024 04:31:51 UTC
+# Updated at Fri, 29 Nov 2024 04:31:27 UTC
 #
 
 0.0.0.0 33across.com
@@ -75,6 +75,7 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kidoz.net
@@ -374,6 +375,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-va-us-looki.capcutapi.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn

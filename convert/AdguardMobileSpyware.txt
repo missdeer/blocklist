@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 29 Nov 2024 04:31:27 UTC
+# Updated at Sat, 30 Nov 2024 04:29:48 UTC
 #
 
 0.0.0.0 33across.com
@@ -70,6 +70,7 @@
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.app.funnelish.com
+0.0.0.0 analytics.baliusuperapp.xyz
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.dns-shop.ru

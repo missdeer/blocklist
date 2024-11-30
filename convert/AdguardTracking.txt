@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 29 Nov 2024 04:31:27 UTC
+# Updated at Sat, 30 Nov 2024 04:29:48 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -12328,6 +12328,7 @@
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.awhr.com
 0.0.0.0 analytics.b2.ai
+0.0.0.0 analytics.baliusuperapp.xyz
 0.0.0.0 analytics.basistheory.com
 0.0.0.0 analytics.bauermedia.sk
 0.0.0.0 analytics.betterplaces.nl
@@ -69207,6 +69208,7 @@
 0.0.0.0 gh-mail.better.com
 0.0.0.0 gh-mail.pushpay.com
 0.0.0.0 gh-mail.transferwise.com
+0.0.0.0 gh.fanatical.com
 0.0.0.0 ghdlry.greetz.nl
 0.0.0.0 ghemail.enova.com
 0.0.0.0 ghfers.popcarte.com

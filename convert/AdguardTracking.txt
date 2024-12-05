@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 04 Dec 2024 04:31:26 UTC
+# Updated at Thu, 05 Dec 2024 04:31:37 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -74737,6 +74737,7 @@
 0.0.0.0 lognormal.net
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logql.yahoo.co.jp
+0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.8thwall.com
@@ -101058,6 +101059,7 @@
 0.0.0.0 tracking.lead-plus.jp
 0.0.0.0 tracking.leadingauthorities.com
 0.0.0.0 tracking.leadlink.de
+0.0.0.0 tracking.leadspark.io
 0.0.0.0 tracking.learn.oakstreethealth.com
 0.0.0.0 tracking.leeep.jp
 0.0.0.0 tracking.lengow.com
@@ -101559,6 +101561,7 @@
 0.0.0.0 traka8.crypto-mall.org
 0.0.0.0 trakken.de
 0.0.0.0 traktor.lozkoholicy.pl
+0.0.0.0 tralut.chatpdf.com
 0.0.0.0 trandgid.com
 0.0.0.0 transact.blackboard.com
 0.0.0.0 transactional2.mail.fpea1.com

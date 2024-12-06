@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 05 Dec 2024 04:31:37 UTC
+# Updated at Fri, 06 Dec 2024 04:31:18 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -13732,6 +13732,7 @@
 0.0.0.0 atlas1.krone.at
 0.0.0.0 atlkse.aosom.it
 0.0.0.0 atom-log.3.cn
+0.0.0.0 atom-qa.warnermedia.com
 0.0.0.0 atom.warnermedia.com
 0.0.0.0 atoso.alphatonicoffers.online
 0.0.0.0 atoutbio.ubilab.me
@@ -101953,6 +101954,7 @@
 0.0.0.0 trk.jemacoair.com
 0.0.0.0 trk.jensenprecast.com
 0.0.0.0 trk.joethepro.com
+0.0.0.0 trk.joinrs.com
 0.0.0.0 trk.jorc.com
 0.0.0.0 trk.kansashealthsystem.com
 0.0.0.0 trk.kirbybuilt.com

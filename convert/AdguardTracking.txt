@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 06 Dec 2024 04:31:18 UTC
+# Updated at Sat, 07 Dec 2024 04:30:49 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -14407,6 +14407,7 @@
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
 0.0.0.0 beaconimages.netflix.net
+0.0.0.0 beacons.digital.disneyadvertising.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beafdf.restaupro.com
 0.0.0.0 beagle.prod.tda.link
@@ -95666,7 +95667,6 @@
 0.0.0.0 stats.twhl.xyz
 0.0.0.0 stats.tyreso.se
 0.0.0.0 stats.ubiwiz.com
-0.0.0.0 stats.ucheba.ru
 0.0.0.0 stats.umcconnell.net
 0.0.0.0 stats.umziehen.de
 0.0.0.0 stats.united-domains.de
@@ -97539,6 +97539,8 @@
 0.0.0.0 tekdtr.shoecarnival.com
 0.0.0.0 tel.telegraaf.nl
 0.0.0.0 telegraf.detmir-stats.ru
+0.0.0.0 telegraph.prd.api.discomax.com
+0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry-in.battle.net
@@ -102131,6 +102133,7 @@
 0.0.0.0 trk.suggie-date.com
 0.0.0.0 trk.summercooltips.com
 0.0.0.0 trk.supermarketnews.com
+0.0.0.0 trk.svr-algorix.com
 0.0.0.0 trk.swipesolutions.com
 0.0.0.0 trk.swtrkit.com
 0.0.0.0 trk.swvetrk.com

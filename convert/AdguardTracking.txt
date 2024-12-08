@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 07 Dec 2024 04:30:49 UTC
+# Updated at Sun, 08 Dec 2024 04:30:14 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -100633,6 +100633,7 @@
 0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.citicsinfo.com
 0.0.0.0 tracker.convead.io
+0.0.0.0 tracker.curama.jp
 0.0.0.0 tracker.dalso.org
 0.0.0.0 tracker.dcdn.baidu.com
 0.0.0.0 tracker.decomworld.com

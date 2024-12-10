@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 09 Dec 2024 04:31:52 UTC
+# Updated at Tue, 10 Dec 2024 04:31:28 UTC
 #
 
 0.0.0.0 33across.com
@@ -597,7 +597,7 @@
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.discover.com
 0.0.0.0 sngmta.qq.com
-0.0.0.0 snowplow-collector.apartmentlist.io
+0.0.0.0 snowplow-collector
 0.0.0.0 sq.requestads.com
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat.duokanbox.com

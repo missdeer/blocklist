@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 10 Dec 2024 04:31:29 UTC
+# Updated at Wed, 11 Dec 2024 04:31:25 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -18337,7 +18337,6 @@
 0.0.0.0 clickcease.com
 0.0.0.0 clickclick.net
 0.0.0.0 clickdensity.com
-0.0.0.0 clickdimensions.com
 0.0.0.0 clickening.com
 0.0.0.0 clickforensics.com
 0.0.0.0 clicki.cn
@@ -25769,6 +25768,7 @@
 0.0.0.0 elink-dev.fabletics.fr
 0.0.0.0 elink-dev.justfab.com
 0.0.0.0 elink.altru.org
+0.0.0.0 elink.clickdimensions.com
 0.0.0.0 elink.dotcom-monitor.com
 0.0.0.0 elink.fabletics.ca
 0.0.0.0 elink.fabletics.co.uk
@@ -65917,6 +65917,7 @@
 0.0.0.0 event.mazars.nl
 0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.nafas.co.id
+0.0.0.0 event.newsbreak.com
 0.0.0.0 event.ortec.com
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 event.raise3d.cn
@@ -85100,6 +85101,8 @@
 0.0.0.0 pix2.services.tvn.pl
 0.0.0.0 pixad.com.tr
 0.0.0.0 pixanalytics.com
+0.0.0.0 pixel-config.reddit.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.4pcdn.de
 0.0.0.0 pixel.ad

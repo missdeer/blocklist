@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 11 Dec 2024 04:31:25 UTC
+# Updated at Thu, 12 Dec 2024 04:31:30 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -14223,6 +14223,7 @@
 0.0.0.0 b90.yahoo.co.jp
 0.0.0.0 b91.yahoo.co.jp
 0.0.0.0 b92.yahoo.co.jp
+0.0.0.0 b932.wesh.com
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
 0.0.0.0 b99.yahoo.co.jp
@@ -15079,7 +15080,6 @@
 0.0.0.0 c615.denverpost.com
 0.0.0.0 c677.wisn.com
 0.0.0.0 c950.chronicle.com
-0.0.0.0 c993.westport-news.com
 0.0.0.0 ca-api.cafe24data.com
 0.0.0.0 ca.avadacom.com
 0.0.0.0 ca.clubavantages.net
@@ -66237,13 +66237,14 @@
 0.0.0.0 f361.wvtm13.com
 0.0.0.0 f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
 0.0.0.0 f4cebacks.com
+0.0.0.0 f703.twincities.com
 0.0.0.0 f775.thehour.com
+0.0.0.0 f793.inc.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f80.programa-de-ayuda.com
 0.0.0.0 f82.ayudadedeuda.com
 0.0.0.0 f82.easytodo.org
 0.0.0.0 f84.aliviofacil.com
-0.0.0.0 f857.hearstmediatx.com
 0.0.0.0 fabricww.com
 0.0.0.0 fabryczna.viessmann.pl
 0.0.0.0 fac.fanucamerica.com
@@ -68319,6 +68320,7 @@
 0.0.0.0 gvxnff.soulara.com.au
 0.0.0.0 gvybin.thevaultproscooters.com
 0.0.0.0 gw-analytics.panasonic.com
+0.0.0.0 gw-dv.vip
 0.0.0.0 gw.view.s11.sfmc-osl.com
 0.0.0.0 gwguyh.edreams.es
 0.0.0.0 gwizal.yumbutter.com
@@ -71379,7 +71381,6 @@
 0.0.0.0 j.mrpdata.net
 0.0.0.0 j.northbeam.io
 0.0.0.0 j.uralweb.ru
-0.0.0.0 j158.hearstmediact.com
 0.0.0.0 j178.wmur.com
 0.0.0.0 j198.registercitizen.com
 0.0.0.0 j228.supercriativo.online
@@ -72146,6 +72147,7 @@
 0.0.0.0 l.traxmag.com
 0.0.0.0 l.typesquare.com
 0.0.0.0 l.www.naver.com
+0.0.0.0 l029.recordpatriot.com
 0.0.0.0 l2k30jsa.theochu.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 l997.lmtonline.com
@@ -75476,11 +75478,13 @@
 0.0.0.0 m.yonelle.happycustomer.io
 0.0.0.0 m1ll1c4n0.com
 0.0.0.0 m1tm.motor1.com
+0.0.0.0 m367.michigansthumb.com
 0.0.0.0 m3ds.subarumetropolitain.com
 0.0.0.0 m3uef4b38brmbntdzx.franchiseplus.nl
 0.0.0.0 m4zoxtrcea1k.controlconceptsusa.com
 0.0.0.0 m6c4t9vmqarj.www.cefirates.com
 0.0.0.0 m6r.eu
+0.0.0.0 m700.bigrapidsnews.com
 0.0.0.0 m886.kmbc.com
 0.0.0.0 ma.a3.se
 0.0.0.0 ma.attollo.se
@@ -78335,6 +78339,7 @@
 0.0.0.0 metrics-go.experian.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics-now.experian.com
+0.0.0.0 metrics-prod.suno.com
 0.0.0.0 metrics-target.siriusxm.com
 0.0.0.0 metrics.1800contacts.com
 0.0.0.0 metrics.1degree.com.au
@@ -80395,6 +80400,8 @@
 0.0.0.0 momotaro.walkkumano.com
 0.0.0.0 momowa.momoshop.com.tw
 0.0.0.0 momyjw.jobninja.com
+0.0.0.0 mon-boot.capcutapi.com
+0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.ingservices.nl
@@ -80945,6 +80952,7 @@
 0.0.0.0 mystery.vfmleonardo.com
 0.0.0.0 mysumo.de
 0.0.0.0 mytictac.com
+0.0.0.0 mytop.live.vkvideo.ru
 0.0.0.0 mytopf.com
 0.0.0.0 mytrack.ph143.fun
 0.0.0.0 mytrack.victory-play1.com
@@ -85743,6 +85751,7 @@
 0.0.0.0 produktionsdruck.ricoh.de
 0.0.0.0 proext.com
 0.0.0.0 profesion.nuevoexito.online
+0.0.0.0 profile-api.amplitude.com
 0.0.0.0 profile-update.healthgrades.com
 0.0.0.0 profile.funimation.com
 0.0.0.0 profile.marketone.com
@@ -96916,6 +96925,7 @@
 0.0.0.0 t.yojed.com
 0.0.0.0 t.zhipin.com
 0.0.0.0 t.zyrapeak.com
+0.0.0.0 t002.myjournalcourier.com
 0.0.0.0 t0ikowg7jg.serverlesslaravelcourse.com
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.e1.bwlegal.co.uk
@@ -102577,7 +102587,9 @@
 0.0.0.0 u578.wlwt.com
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
+0.0.0.0 u660.theheraldreview.com
 0.0.0.0 u89.vivirlavidalibre.com
+0.0.0.0 u896.weekand.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 u939.colgate.com
 0.0.0.0 u999.wcvb.com
@@ -103060,6 +103072,7 @@
 0.0.0.0 v.oney.es
 0.0.0.0 v.oui.sncf
 0.0.0.0 v.shopify.com
+0.0.0.0 v063.4029tv.com
 0.0.0.0 v066.wxii12.com
 0.0.0.0 v1.bonnesaffaires.top
 0.0.0.0 v1.destockafrance.com
@@ -103080,6 +103093,7 @@
 0.0.0.0 v3.fstats.xyz
 0.0.0.0 v3cdn.net
 0.0.0.0 v4iwxi9uirm1585y.avalst.com
+0.0.0.0 v812.lakecountystar.com
 0.0.0.0 vaem.gene.com
 0.0.0.0 vaem.veeva.gene.com
 0.0.0.0 vafsxc.radioparts.com.au
@@ -105195,7 +105209,6 @@
 0.0.0.0 vzynem.lamporochljus.se
 0.0.0.0 w.ilfattoquotidiano.it
 0.0.0.0 w.m.nkl-peters.de
-0.0.0.0 w020.newmilfordspectrum.com
 0.0.0.0 w110.kcra.com
 0.0.0.0 w1jesu6.package12.com
 0.0.0.0 w2.1897pentagram.com
@@ -106762,8 +106775,8 @@
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 y000.wyff4.com
 0.0.0.0 y1.arte.tv
+0.0.0.0 y494.wdsu.com
 0.0.0.0 y4e04gql5o1b.www.nookgaming.com
-0.0.0.0 y653.theridgefieldpress.com
 0.0.0.0 y738.nhregister.com
 0.0.0.0 y752.milfordmirror.com
 0.0.0.0 y820.darientimes.com
@@ -107108,10 +107121,10 @@
 0.0.0.0 yzzqza.vanillashu.co.kr
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z.webengage.com
+0.0.0.0 z210.manisteenews.com
 0.0.0.0 z211.yourconroenews.com
 0.0.0.0 z3617cz9ep.fitness.tappbrothers.com
 0.0.0.0 z492.ctinsider.com
-0.0.0.0 z590.fairfieldcitizenonline.com
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 z89yxner8h.datsumou-beauty-times.com
 0.0.0.0 z8rthsdppz0po76i.click.s11.sfmc-osl.com

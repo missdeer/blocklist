@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 11 Dec 2024 04:31:24 UTC
+# Updated at Thu, 12 Dec 2024 04:31:29 UTC
 #
 
 0.0.0.0 33across.com
@@ -443,6 +443,7 @@
 0.0.0.0 message-hub-svc.usw2.cordial.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
+0.0.0.0 metrics-prod.suno.com
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.happycolor.app
@@ -465,6 +466,8 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com
+0.0.0.0 mon-boot.capcutapi.com
+0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com

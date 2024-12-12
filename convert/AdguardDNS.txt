@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Wed, 11 Dec 2024 04:31:25 UTC
+# Updated at Thu, 12 Dec 2024 04:31:29 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -1207,6 +1207,7 @@
 0.0.0.0 61zdn1c9.skin
 0.0.0.0 62.76.25.27
 0.0.0.0 62.76.25.28
+0.0.0.0 62a77005fb.com
 0.0.0.0 62ca04e27a.com
 0.0.0.0 62zd0.icu
 0.0.0.0 634369.xyz
@@ -1906,6 +1907,7 @@
 0.0.0.0 a700fb9c8d.com
 0.0.0.0 a717b6d31e.com
 0.0.0.0 a75-10-so.ssl.cdn13.com
+0.0.0.0 a7c.icu
 0.0.0.0 a8.net
 0.0.0.0 a85d43cd02.com
 0.0.0.0 a899228ebf.com
@@ -7730,6 +7732,7 @@
 0.0.0.0 b903c2.xyz
 0.0.0.0 b91.yahoo.co.jp
 0.0.0.0 b92.yahoo.co.jp
+0.0.0.0 b932.wesh.com
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 b9645fef65.com
 0.0.0.0 b97.yahoo.co.jp
@@ -10438,7 +10441,6 @@
 0.0.0.0 c83cf15c4f.com
 0.0.0.0 c917ed5198.com
 0.0.0.0 c950.chronicle.com
-0.0.0.0 c993.westport-news.com
 0.0.0.0 c9emgwai66zi.com
 0.0.0.0 c9l.xyz
 0.0.0.0 c9qh3.website
@@ -11825,6 +11827,7 @@
 0.0.0.0 claimedinvestcharitable.com
 0.0.0.0 claimedthwartweak.com
 0.0.0.0 clairekabobs.com
+0.0.0.0 clairpixum.com
 0.0.0.0 clampalarmlightning.com
 0.0.0.0 clangearnest.com
 0.0.0.0 clanker-events.squarespace.com
@@ -12984,7 +12987,19 @@
 0.0.0.0 continuation423.fun
 0.0.0.0 continue-installing.com
 0.0.0.0 continue.com
+0.0.0.0 continue.dasboard154-account.com
+0.0.0.0 continue.dasboard174-account.com
 0.0.0.0 continue.dasboard184-account.com
+0.0.0.0 continue.dasboard563-account.com
+0.0.0.0 continue.dasboard593-account.com
+0.0.0.0 continue.dasboard597-account.com
+0.0.0.0 continue.dasboard914-account.com
+0.0.0.0 continue.dasboard934-account.com
+0.0.0.0 continue.dasboard935-account.com
+0.0.0.0 continue.dasboard945-account.com
+0.0.0.0 continue.dasboard965-account.com
+0.0.0.0 continue.dasboard966-account.com
+0.0.0.0 continue.dasboard974-account.com
 0.0.0.0 continuousselfevidentinestimable.com
 0.0.0.0 contradiction2.fun
 0.0.0.0 contradictshaftfixedly.com
@@ -16912,6 +16927,7 @@
 0.0.0.0 doruffletr.com
 0.0.0.0 dosagebreakfast.com
 0.0.0.0 dosamurottom.com
+0.0.0.0 dosawes.com
 0.0.0.0 doscarredwi.org
 0.0.0.0 dosconsiderate.com
 0.0.0.0 doseadraa.com
@@ -19397,8 +19413,10 @@
 0.0.0.0 f62b2a8ac6.com
 0.0.0.0 f6b458fd.xyz
 0.0.0.0 f700fa18.live
+0.0.0.0 f703.twincities.com
 0.0.0.0 f775.thehour.com
 0.0.0.0 f780f.space
+0.0.0.0 f793.inc.com
 0.0.0.0 f794d2f9d9.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f7fe0.cyou
@@ -19407,7 +19425,6 @@
 0.0.0.0 f8260adbf8558d6.com
 0.0.0.0 f83d8a9867.com
 0.0.0.0 f84add7c62.com
-0.0.0.0 f857.hearstmediatx.com
 0.0.0.0 f8b536a2e6.com
 0.0.0.0 f8be4be498.com
 0.0.0.0 f95nkry2nf8o.com
@@ -23040,6 +23057,7 @@
 0.0.0.0 gvt2.com
 0.0.0.0 gvvedashb6.fun
 0.0.0.0 gvzsrqp.com
+0.0.0.0 gw-dv.vip
 0.0.0.0 gw2cddpt2hao.asia
 0.0.0.0 gw2cddpt2hao.cloud
 0.0.0.0 gw2cddpt2hao.site
@@ -26415,7 +26433,6 @@
 0.0.0.0 j.northbeam.io
 0.0.0.0 j.uralweb.ru
 0.0.0.0 j1.piaobing.com
-0.0.0.0 j158.hearstmediact.com
 0.0.0.0 j178.wmur.com
 0.0.0.0 j198.registercitizen.com
 0.0.0.0 j1oxqq05ry.ru
@@ -28198,6 +28215,7 @@
 0.0.0.0 l.typesquare.com
 0.0.0.0 l.www.naver.com
 0.0.0.0 l0-secure.videohub.tv
+0.0.0.0 l029.recordpatriot.com
 0.0.0.0 l0b.ru
 0.0.0.0 l0ix1.site
 0.0.0.0 l1native.com
@@ -28324,6 +28342,7 @@
 0.0.0.0 lamplynx.com
 0.0.0.0 lamppostharmoniousunaware.com
 0.0.0.0 lampshademirror.com
+0.0.0.0 lamrissmyol.com
 0.0.0.0 lamthong.net
 0.0.0.0 lanapengar.expressen.se
 0.0.0.0 lanceforthwith.com
@@ -29208,6 +29227,7 @@
 0.0.0.0 ljbrbz.xyz
 0.0.0.0 ljdofz.xyz
 0.0.0.0 ljhbhy.cn
+0.0.0.0 ljimtyl.top
 0.0.0.0 ljjskttqximu.in
 0.0.0.0 ljlvftvryjowdm.xyz
 0.0.0.0 ljnhkytpgez.com
@@ -30093,6 +30113,7 @@
 0.0.0.0 lust-burning.rest
 0.0.0.0 lust-goddess.buzz
 0.0.0.0 lustasserted.com
+0.0.0.0 lusupodum.com
 0.0.0.0 lutachechu.pro
 0.0.0.0 lutoorgourgi.com
 0.0.0.0 lutrbr.xyz
@@ -30291,6 +30312,7 @@
 0.0.0.0 m2pub.com
 0.0.0.0 m2track.co
 0.0.0.0 m32.media
+0.0.0.0 m367.michigansthumb.com
 0.0.0.0 m3i0v745b.com
 0.0.0.0 m4pgay.com
 0.0.0.0 m4su.online
@@ -30304,6 +30326,7 @@
 0.0.0.0 m6j37.xyz
 0.0.0.0 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 0.0.0.0 m6r.eu
+0.0.0.0 m700.bigrapidsnews.com
 0.0.0.0 m73lae5cpmgrv38.com
 0.0.0.0 m7i1k.fun
 0.0.0.0 m81jmqmn.ru
@@ -31360,6 +31383,7 @@
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-fe-na1.hubspot.com
 0.0.0.0 metrics-logger.spot.im
+0.0.0.0 metrics-prod.suno.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.api.yle.fi
@@ -32176,6 +32200,8 @@
 0.0.0.0 momowa.momoshop.com.tw
 0.0.0.0 momoxxx.net
 0.0.0.0 momzersatorii.top
+0.0.0.0 mon-boot.capcutapi.com
+0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.domdog.io
@@ -32946,6 +32972,7 @@
 0.0.0.0 mytizer.com
 0.0.0.0 mytizer.ru
 0.0.0.0 mytomatosoup.com
+0.0.0.0 mytop.live.vkvideo.ru
 0.0.0.0 mytopf.com
 0.0.0.0 mytraf.info
 0.0.0.0 mytraf.ru
@@ -35012,6 +35039,7 @@
 0.0.0.0 oiya.ru
 0.0.0.0 oiycak.com
 0.0.0.0 ojapanelm.xyz
+0.0.0.0 ojimtyk.top
 0.0.0.0 ojkduzbm.com
 0.0.0.0 ojmvywz.com
 0.0.0.0 ojoglir.com
@@ -37558,6 +37586,7 @@
 0.0.0.0 playerstrivefascinated.com
 0.0.0.0 playertraffic.com
 0.0.0.0 playgirl.com
+0.0.0.0 playgooglevn.vip
 0.0.0.0 playgroundordinarilymess.com
 0.0.0.0 playhaven.com
 0.0.0.0 playingkatespecial.com
@@ -46779,6 +46808,7 @@
 0.0.0.0 suwytid.com
 0.0.0.0 suxaucmuny.com
 0.0.0.0 suxoxmnwolun.com
+0.0.0.0 suzalsln.com
 0.0.0.0 suzanne.pro
 0.0.0.0 suzbcnh.com
 0.0.0.0 suzoqz.icu
@@ -47129,6 +47159,7 @@
 0.0.0.0 t.xtubetv.net
 0.0.0.0 t.yzwr588.com
 0.0.0.0 t.zhipin.com
+0.0.0.0 t002.myjournalcourier.com
 0.0.0.0 t0gju20fq34i.com
 0.0.0.0 t0sfe1.com
 0.0.0.0 t1.612.com
@@ -50537,6 +50568,7 @@
 0.0.0.0 ttb9.shop
 0.0.0.0 ttbm.com
 0.0.0.0 ttdpxh.xyz
+0.0.0.0 tteferty33.fun
 0.0.0.0 ttgbnmk.top
 0.0.0.0 ttgmjfgldgv9ed10.com
 0.0.0.0 tthathehadstop.info
@@ -50910,6 +50942,7 @@
 0.0.0.0 u5lxh1y1pgxy.shop
 0.0.0.0 u5ps5.icu
 0.0.0.0 u652.myplainview.com
+0.0.0.0 u660.theheraldreview.com
 0.0.0.0 u68t5.icu
 0.0.0.0 u6u.icu
 0.0.0.0 u78s.top
@@ -50917,6 +50950,7 @@
 0.0.0.0 u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 0.0.0.0 u8.hujiang.com
 0.0.0.0 u833ij.com
+0.0.0.0 u896.weekand.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 u939.colgate.com
 0.0.0.0 u999.wcvb.com
@@ -51923,6 +51957,7 @@
 0.0.0.0 v.shopify.com
 0.0.0.0 v.strosin.biz
 0.0.0.0 v.vl404.cn
+0.0.0.0 v063.4029tv.com
 0.0.0.0 v066.wxii12.com
 0.0.0.0 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 0.0.0.0 v1-c73e.kxcdn.com
@@ -51945,6 +51980,7 @@
 0.0.0.0 v4dwkcv.com
 0.0.0.0 v6rxv5coo5.com
 0.0.0.0 v785.online
+0.0.0.0 v812.lakecountystar.com
 0.0.0.0 v9banners-com.cdn.ampproject.org
 0.0.0.0 v9banners.com
 0.0.0.0 vaatmetu.net
@@ -53871,7 +53907,6 @@
 0.0.0.0 w0079.com
 0.0.0.0 w0082.com
 0.0.0.0 w00tmedia.net
-0.0.0.0 w020.newmilfordspectrum.com
 0.0.0.0 w0we.com
 0.0.0.0 w11.zhongkaohelp.com
 0.0.0.0 w110.kcra.com
@@ -55539,6 +55574,7 @@
 0.0.0.0 x2y22.fun
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
+0.0.0.0 x4d.icu
 0.0.0.0 x4pollyxxpush.com
 0.0.0.0 x4q4g2zy7.com
 0.0.0.0 x5.jougennotuki.com
@@ -56099,7 +56135,7 @@
 0.0.0.0 y1jxiqds7v.com
 0.0.0.0 y1zoxngxp.com
 0.0.0.0 y341i.xyz
-0.0.0.0 y653.theridgefieldpress.com
+0.0.0.0 y494.wdsu.com
 0.0.0.0 y66xvgo5i.chuimg.com
 0.0.0.0 y738.nhregister.com
 0.0.0.0 y752.milfordmirror.com
@@ -56705,12 +56741,12 @@
 0.0.0.0 z1.o8h7d.cn
 0.0.0.0 z1.pclady.com.cn
 0.0.0.0 z1hihu.xmcimg.com
+0.0.0.0 z210.manisteenews.com
 0.0.0.0 z211.yourconroenews.com
 0.0.0.0 z3p9f.xyz
 0.0.0.0 z3zex.icu
 0.0.0.0 z492.ctinsider.com
 0.0.0.0 z54a.xyz
-0.0.0.0 z590.fairfieldcitizenonline.com
 0.0.0.0 z5x.net
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me

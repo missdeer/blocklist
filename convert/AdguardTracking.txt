@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 12 Dec 2024 04:31:30 UTC
+# Updated at Fri, 13 Dec 2024 04:31:24 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8744,6 +8744,9 @@
 0.0.0.0 a2.americasavingsexperts.com
 0.0.0.0 a2.avomeen.com
 0.0.0.0 a3.ogt.jp
+0.0.0.0 a352.sandiegouniontribune.com
+0.0.0.0 a433.dailypress.com
+0.0.0.0 a613.redbluffdailynews.com
 0.0.0.0 a7e.monnierfreres.de
 0.0.0.0 a8-22.hana-yume.net
 0.0.0.0 a8-affiliate.kase3535.com
@@ -9115,6 +9118,7 @@
 0.0.0.0 a8.zzz-land.com
 0.0.0.0 a802.xn--38jf6c4pa86a1dv833cexrb.com
 0.0.0.0 a803.xn--38jf6c4pa86a1dv833cexrb.com
+0.0.0.0 a869.mercurynews.com
 0.0.0.0 a8affiliate.liftup-turban.net
 0.0.0.0 a8aspconv.itx-home-router.com
 0.0.0.0 a8aspconv.nn-com.co.jp
@@ -14216,10 +14220,14 @@
 0.0.0.0 b2bmkt.lge.co.kr
 0.0.0.0 b2c.com
 0.0.0.0 b3.moseasia.com
+0.0.0.0 b347.pottsmerc.com
 0.0.0.0 b3mxnuvcer.com
 0.0.0.0 b536mpmxoqxa.www.themoneytizer.com
 0.0.0.0 b5j6itccyluq.nofluffjobs.com
+0.0.0.0 b607.dailylocal.com
+0.0.0.0 b668.record-bee.com
 0.0.0.0 b67d4rrh5xf409po.avadacom.com
+0.0.0.0 b730.fortmorgantimes.com
 0.0.0.0 b90.yahoo.co.jp
 0.0.0.0 b91.yahoo.co.jp
 0.0.0.0 b92.yahoo.co.jp
@@ -15079,6 +15087,8 @@
 0.0.0.0 c4tw.net
 0.0.0.0 c615.denverpost.com
 0.0.0.0 c677.wisn.com
+0.0.0.0 c705.trentonian.com
+0.0.0.0 c783.fastcompany.com
 0.0.0.0 c950.chronicle.com
 0.0.0.0 ca-api.cafe24data.com
 0.0.0.0 ca.avadacom.com
@@ -25254,13 +25264,17 @@
 0.0.0.0 e.welltested.ai
 0.0.0.0 e.z.teachablemail.com
 0.0.0.0 e.zg-api.com
+0.0.0.0 e082.ukiahdailyjournal.com
 0.0.0.0 e2.e.worklife.fr
 0.0.0.0 e2.thedailybeast.com
 0.0.0.0 e20d8e38992b.o3n.io
+0.0.0.0 e220.dailyfreeman.com
 0.0.0.0 e2e.mashable.com
 0.0.0.0 e3.verwin.com
 0.0.0.0 e459.kcci.com
+0.0.0.0 e488.macombdaily.com
 0.0.0.0 e5obq1v261.www.lurkit.com
+0.0.0.0 e664.theoaklandpress.com
 0.0.0.0 e993.wlky.com
 0.0.0.0 ea.armandthiery.fr
 0.0.0.0 ea.assuronline.com
@@ -65918,6 +65932,7 @@
 0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.nafas.co.id
 0.0.0.0 event.newsbreak.com
+0.0.0.0 event.northghost.com
 0.0.0.0 event.ortec.com
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 event.raise3d.cn
@@ -65988,6 +66003,7 @@
 0.0.0.0 events.elliemae.com
 0.0.0.0 events.email.mandirikartukredit.com
 0.0.0.0 events.engage.cebglobal.com
+0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.executiveboard.com
 0.0.0.0 events.ferrari.com
 0.0.0.0 events.flagship.io
@@ -66223,6 +66239,7 @@
 0.0.0.0 f-counter.net
 0.0.0.0 f.revotas.com
 0.0.0.0 f.sen.seg.br
+0.0.0.0 f023.bostonherald.com
 0.0.0.0 f02b61sgc617.es.themoneytizer.com
 0.0.0.0 f0nn.oney.fr
 0.0.0.0 f1.demo.np6.com
@@ -66245,6 +66262,7 @@
 0.0.0.0 f82.ayudadedeuda.com
 0.0.0.0 f82.easytodo.org
 0.0.0.0 f84.aliviofacil.com
+0.0.0.0 f866.troyrecord.com
 0.0.0.0 fabricww.com
 0.0.0.0 fabryczna.viessmann.pl
 0.0.0.0 fac.fanucamerica.com
@@ -67170,6 +67188,8 @@
 0.0.0.0 g.ign.com
 0.0.0.0 g.whatsapp.net.iberostar.com
 0.0.0.0 g1be.swisslife-direct.fr
+0.0.0.0 g650.delcotimes.com
+0.0.0.0 g986.themorningsun.com
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-bq-py-1.appspot.com
 0.0.0.0 ga.clearbit.com
@@ -68366,7 +68386,10 @@
 0.0.0.0 h30574.www3.hp.com
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h5.eagllwin.com
+0.0.0.0 h516.thereporteronline.com
 0.0.0.0 h559.stamfordadvocate.com
+0.0.0.0 h562.pasadenastarnews.com
+0.0.0.0 h689.nydailynews.com
 0.0.0.0 haddock.affilimate.com
 0.0.0.0 haddock.jeffreyknox.dev
 0.0.0.0 haddock.simgenie.app
@@ -69227,7 +69250,10 @@
 0.0.0.0 i.tct-rom.com
 0.0.0.0 i.thinkclearly.uk
 0.0.0.0 i.viafoura.co
+0.0.0.0 i368.republicanherald.com
 0.0.0.0 i5ixiwch2f.themakersmob.com
+0.0.0.0 i867.journal-advocate.com
+0.0.0.0 i953.greeleytribune.com
 0.0.0.0 ia.51.la
 0.0.0.0 ia84berzxy7v.de.themoneytizer.com
 0.0.0.0 iaalxo.vans.ru
@@ -71384,7 +71410,11 @@
 0.0.0.0 j178.wmur.com
 0.0.0.0 j198.registercitizen.com
 0.0.0.0 j228.supercriativo.online
+0.0.0.0 j282.thetimes-tribune.com
 0.0.0.0 j2i0.mathon.fr
+0.0.0.0 j300.dailynews.com
+0.0.0.0 j348.citizensvoice.com
+0.0.0.0 j423.oneidadispatch.com
 0.0.0.0 j927.statnews.com
 0.0.0.0 j99vm19dqvarbm8p.cloud.s11.sfmc-osl.com
 0.0.0.0 ja-jp-a8.etudehouse.com
@@ -71753,6 +71783,7 @@
 0.0.0.0 k030.koco.com
 0.0.0.0 k50.ru
 0.0.0.0 k7xo64lpz80ttywu.click.s11.sfmc-osl.com
+0.0.0.0 k864.orovillemr.com
 0.0.0.0 ka.ilius.net
 0.0.0.0 kaacsi.belvilla.nl
 0.0.0.0 kaan.kakao.com
@@ -74638,6 +74669,7 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.particlenews.com
 0.0.0.0 log.pdfreaders.net
+0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.perfecttitspics.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pipeline.datarize.io
@@ -75476,15 +75508,18 @@
 0.0.0.0 m.vistaresourcegroup.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 m.yonelle.happycustomer.io
+0.0.0.0 m161.sbsun.com
 0.0.0.0 m1ll1c4n0.com
 0.0.0.0 m1tm.motor1.com
 0.0.0.0 m367.michigansthumb.com
 0.0.0.0 m3ds.subarumetropolitain.com
 0.0.0.0 m3uef4b38brmbntdzx.franchiseplus.nl
 0.0.0.0 m4zoxtrcea1k.controlconceptsusa.com
+0.0.0.0 m583.dailydemocrat.com
 0.0.0.0 m6c4t9vmqarj.www.cefirates.com
 0.0.0.0 m6r.eu
 0.0.0.0 m700.bigrapidsnews.com
+0.0.0.0 m821.saratogian.com
 0.0.0.0 m886.kmbc.com
 0.0.0.0 ma.a3.se
 0.0.0.0 ma.attollo.se
@@ -80986,9 +81021,11 @@
 0.0.0.0 n.thestar.com
 0.0.0.0 n.toyotafinancial.com
 0.0.0.0 n367tqpdxce0.quine.sh
+0.0.0.0 n475.pilotonline.com
 0.0.0.0 n4kb43cl2bsw.creatordrop.com
 0.0.0.0 n4p-rus.redtram.com
 0.0.0.0 n730.timesunion.com
+0.0.0.0 n818.timesherald.com
 0.0.0.0 na-pages.husqvarna.com
 0.0.0.0 naayna.com
 0.0.0.0 nadia.e.bauermedia.co.nz
@@ -82601,11 +82638,13 @@
 0.0.0.0 p004.raffi-hair.com
 0.0.0.0 p005.raffi-hair.com
 0.0.0.0 p03.sc.origins.en25.com
+0.0.0.0 p030.courant.com
 0.0.0.0 p06.sc.origins.en25.com
 0.0.0.0 p1.danskebank.co.uk
 0.0.0.0 p1.danskebank.dk
 0.0.0.0 p1.danskebank.ie
 0.0.0.0 p16-tiktokcdn-com.akamaized.net.iberostar.com
+0.0.0.0 p192.eastbaytimes.com
 0.0.0.0 p2.danskebank.co.uk
 0.0.0.0 p2.danskebank.dk
 0.0.0.0 p2.danskebank.fi
@@ -82616,6 +82655,7 @@
 0.0.0.0 p593.seattlepi.com
 0.0.0.0 p5ahikmlfxfjpv38.click.s11.sfmc-osl.com
 0.0.0.0 p5mcwdbu.ginzo-buy.jp
+0.0.0.0 p644.thereporter.com
 0.0.0.0 p769.wgal.com
 0.0.0.0 p7cloud.net
 0.0.0.0 p7h1silo3f.app.cainthus.com
@@ -86123,6 +86163,7 @@
 0.0.0.0 q.nasdaq.com
 0.0.0.0 q4l5gz6lqog6.www.eventus.io
 0.0.0.0 q511.wpbf.com
+0.0.0.0 q770.whittierdailynews.com
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 qa-babylink.zola.com
 0.0.0.0 qa-events-schema.viacom.tech
@@ -86430,13 +86471,16 @@
 0.0.0.0 r.rbc.ru
 0.0.0.0 r.sib2.gardrops.com
 0.0.0.0 r.superhuman.com
+0.0.0.0 r066.dailytribune.com
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r255.wmtw.com
 0.0.0.0 r2r.utas.edu.au
 0.0.0.0 r451.jamanetwork.com
 0.0.0.0 r4nds.absorba.com
 0.0.0.0 r541.houstonchronicle.com
+0.0.0.0 r566.timescall.com
 0.0.0.0 r7ls.net
+0.0.0.0 r973.timesheraldonline.com
 0.0.0.0 r9mg6mgqo9838o0t.greencleancommercial.com
 0.0.0.0 ra.rockcontent.com
 0.0.0.0 rabbit.meitustat.com
@@ -87676,6 +87720,7 @@
 0.0.0.0 s1885709864.sc.origins.en25.com
 0.0.0.0 s2013560044.sc.origins.en25.com
 0.0.0.0 s205119.aon.com
+0.0.0.0 s211.mcall.com
 0.0.0.0 s232.theintelligencer.com
 0.0.0.0 s24-analytics.com
 0.0.0.0 s2448.sc.origins.en25.com
@@ -87685,6 +87730,7 @@
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3.landing.ni.com
 0.0.0.0 s3.smartphonehoesjes.nl
+0.0.0.0 s324.wcexaminer.com
 0.0.0.0 s362693299.aon.ca
 0.0.0.0 s362693299.aon.com
 0.0.0.0 s3s-main.net
@@ -87692,6 +87738,7 @@
 0.0.0.0 s4e8.cascades.com
 0.0.0.0 s5sender.usertesting.com
 0.0.0.0 s615419487.sc.origins.en25.com
+0.0.0.0 s762.pressenterprise.com
 0.0.0.0 s7vuvj55c5ruzkxm.cloud.s11.sfmc-osl.com
 0.0.0.0 s811.ketv.com
 0.0.0.0 sa.adidas.ae
@@ -96931,6 +96978,7 @@
 0.0.0.0 t1.e1.bwlegal.co.uk
 0.0.0.0 t1.mp1.tripadvisor.com
 0.0.0.0 t1.musthird.com
+0.0.0.0 t133.sun-sentinel.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
 0.0.0.0 t2email.22bet.com
@@ -96944,6 +96992,7 @@
 0.0.0.0 t7baxp1xmw00.boxoffice.adventuretix.com
 0.0.0.0 t8.mailperformance.com
 0.0.0.0 t810.ctpost.com
+0.0.0.0 t969.sentinelandenterprise.com
 0.0.0.0 t9h2.ricardocuisine.com
 0.0.0.0 t9k3a.jeanpaulfortin.com
 0.0.0.0 ta.trs.cn
@@ -102581,12 +102630,16 @@
 0.0.0.0 u.fordprotectplans.com
 0.0.0.0 u.landing.ni.com
 0.0.0.0 u.zhugeapi.net
+0.0.0.0 u066.ocregister.com
 0.0.0.0 u082.wapt.com
 0.0.0.0 u0crsrah75fy.camberlion.com
+0.0.0.0 u300.dailybulletin.com
+0.0.0.0 u542.dailycamera.com
 0.0.0.0 u566.chron.com
 0.0.0.0 u578.wlwt.com
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
+0.0.0.0 u654.santacruzsentinel.com
 0.0.0.0 u660.theheraldreview.com
 0.0.0.0 u89.vivirlavidalibre.com
 0.0.0.0 u896.weekand.com
@@ -103092,6 +103145,8 @@
 0.0.0.0 v225.ksbw.com
 0.0.0.0 v3.fstats.xyz
 0.0.0.0 v3cdn.net
+0.0.0.0 v402.canoncitydailyrecord.com
+0.0.0.0 v476.reporterherald.com
 0.0.0.0 v4iwxi9uirm1585y.avalst.com
 0.0.0.0 v812.lakecountystar.com
 0.0.0.0 vaem.gene.com
@@ -105210,6 +105265,8 @@
 0.0.0.0 w.ilfattoquotidiano.it
 0.0.0.0 w.m.nkl-peters.de
 0.0.0.0 w110.kcra.com
+0.0.0.0 w138.redlandsdailyfacts.com
+0.0.0.0 w149.lowellsun.com
 0.0.0.0 w1jesu6.package12.com
 0.0.0.0 w2.1897pentagram.com
 0.0.0.0 w3-reporting-nel.reddit.com
@@ -106542,6 +106599,9 @@
 0.0.0.0 x2.moseasia.com
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
+0.0.0.0 x446.orlandosentinel.com
+0.0.0.0 x455.dailybreeze.com
+0.0.0.0 x680.sgvtribune.com
 0.0.0.0 x8.cho-chin.com
 0.0.0.0 x822.mrt.com
 0.0.0.0 x9.shinobi.jp
@@ -106775,6 +106835,7 @@
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 y000.wyff4.com
 0.0.0.0 y1.arte.tv
+0.0.0.0 y197.standardspeaker.com
 0.0.0.0 y494.wdsu.com
 0.0.0.0 y4e04gql5o1b.www.nookgaming.com
 0.0.0.0 y738.nhregister.com
@@ -107123,13 +107184,16 @@
 0.0.0.0 z.webengage.com
 0.0.0.0 z210.manisteenews.com
 0.0.0.0 z211.yourconroenews.com
+0.0.0.0 z216.times-standard.com
 0.0.0.0 z3617cz9ep.fitness.tappbrothers.com
+0.0.0.0 z371.chicoer.com
 0.0.0.0 z492.ctinsider.com
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 z89yxner8h.datsumou-beauty-times.com
 0.0.0.0 z8rthsdppz0po76i.click.s11.sfmc-osl.com
 0.0.0.0 z8rthsdppz0po76i.cloud.s11.sfmc-osl.com
 0.0.0.0 z929.fuelfix.com
+0.0.0.0 z953.marinij.com
 0.0.0.0 za-go.experian.com
 0.0.0.0 za.baomoi.com
 0.0.0.0 za.zingnews.vn

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 13 Dec 2024 04:31:25 UTC
+# Updated at Sat, 14 Dec 2024 04:29:58 UTC
 #
 
 0.0.0.0 33across.com
@@ -135,7 +135,6 @@
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.branch.io
-0.0.0.0 apiv2.moengage.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
@@ -468,6 +467,7 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com
+0.0.0.0 moengage.com
 0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
@@ -578,7 +578,6 @@
 0.0.0.0 sadobeanalytics.geico.com
 0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sc-analytics.appspot.com
-0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sdk-monitoring.ogury.co
@@ -622,6 +621,7 @@
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.rustore.ru
+0.0.0.0 stats.samsungpass.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stocks-analytics-events.apple.com

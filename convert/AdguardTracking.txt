@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 15 Dec 2024 04:30:20 UTC
+# Updated at Mon, 16 Dec 2024 04:31:50 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -74778,6 +74778,7 @@
 0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.8thwall.com
+0.0.0.0 logs.adplay.ru
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 logs.chatboost-cv.algoage.co.jp
@@ -94749,6 +94750,7 @@
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.eagleplatform.com
 0.0.0.0 stat.enter-system.com
+0.0.0.0 stat.fly.codes
 0.0.0.0 stat.gc.my.games
 0.0.0.0 stat.gn01.top
 0.0.0.0 stat.gomastercard.com.au

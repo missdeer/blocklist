@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 16 Dec 2024 04:31:50 UTC
+# Updated at Tue, 17 Dec 2024 04:31:26 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -19578,6 +19578,7 @@
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site
 0.0.0.0 co.vaicore.xyz
+0.0.0.0 co932.coloradopolitics.com
 0.0.0.0 cobra.michaelkoper.com
 0.0.0.0 cockroach.head4work.com.au
 0.0.0.0 cockroach.no.mortgage
@@ -20817,6 +20818,7 @@
 0.0.0.0 d.sondakika.com
 0.0.0.0 d.tv-asahi.co.jp
 0.0.0.0 d.wi-fi.ru
+0.0.0.0 d077.gazette.com
 0.0.0.0 d0f.le-dauphin.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
@@ -20853,6 +20855,7 @@
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
+0.0.0.0 d250.baltimoresun.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2c.ne.jp
@@ -20896,6 +20899,7 @@
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
 0.0.0.0 d401.dollartree.com
 0.0.0.0 d41.co
+0.0.0.0 d485.capitalgazette.com
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d5i9o0tpq9sa1.cloudfront.net
 0.0.0.0 d7.moseasia.com
@@ -74617,6 +74621,7 @@
 0.0.0.0 log.collectaction.com
 0.0.0.0 log.dance
 0.0.0.0 log.dav.edu.vn
+0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dpa.com
 0.0.0.0 log.dramaboxdb.com
@@ -105294,6 +105299,7 @@
 0.0.0.0 w88.natgeo.pt
 0.0.0.0 w88.natgeotv.com
 0.0.0.0 w88.nationalgeographic.com
+0.0.0.0 w890.denvergazette.com
 0.0.0.0 w982.middletownpress.com
 0.0.0.0 w9g7dlhw3kaank.www.eldorado.gg
 0.0.0.0 wa.and.co.uk

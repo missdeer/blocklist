@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 17 Dec 2024 04:31:26 UTC
+# Updated at Wed, 18 Dec 2024 04:29:57 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -81407,6 +81407,7 @@
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 noacqq.joamom.co.kr
 0.0.0.0 nocaadobefpc.optus.com.au
+0.0.0.0 nocodelytics.com
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 nogxjk.dackonline.se
 0.0.0.0 nohaxn.damattween.com
@@ -97625,6 +97626,7 @@
 0.0.0.0 telemetry.commonspirit.org
 0.0.0.0 telemetry.dematic.com
 0.0.0.0 telemetry.goodlifefitness.com
+0.0.0.0 telemetry.insights.video.a2z.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.marketscope.com

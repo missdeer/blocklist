@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 17 Dec 2024 04:31:25 UTC
+# Updated at Wed, 18 Dec 2024 04:29:56 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -539,6 +539,7 @@
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 scholar.google.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 service.techzine.eu
 0.0.0.0 servo-report.dvdfab
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 18 Dec 2024 04:29:57 UTC
+# Updated at Thu, 19 Dec 2024 04:30:18 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -14885,6 +14885,7 @@
 0.0.0.0 bstn-14-ma.com
 0.0.0.0 bstyjo.reelflyrod.com
 0.0.0.0 bsytzb.hago.kr
+0.0.0.0 bt.dns-finder.com
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 btbuckets.com
 0.0.0.0 btcfbr.mejshop.jp
@@ -21450,7 +21451,6 @@
 0.0.0.0 data-3c91d46d9d.weka-fachmedien.de
 0.0.0.0 data-3ca7289259.rtlradio.de
 0.0.0.0 data-3cb5515026.harpersbazaar.de
-0.0.0.0 data-3cd8fb3825.kicker.de
 0.0.0.0 data-3d30b366ad.cavallo.de
 0.0.0.0 data-3d30b366ad.elektrobike-online.com
 0.0.0.0 data-3d30b366ad.mountainbike-magazin.de
@@ -23038,7 +23038,6 @@
 0.0.0.0 data-e623de9fda.finanzen100.de
 0.0.0.0 data-e623de9fda.focus.de
 0.0.0.0 data-e627e4d475.filmstarts.de
-0.0.0.0 data-e69b3d32a9.kicker.de
 0.0.0.0 data-e723f0d7d1.stylebook.de
 0.0.0.0 data-e7308988a6.freundin.de
 0.0.0.0 data-e77e5e75f4.apps.iocnt.de
@@ -67498,6 +67497,7 @@
 0.0.0.0 gkxkvp.tumi.co.jp
 0.0.0.0 gl-product-analytics.com
 0.0.0.0 gl5g98t0vfjb.panprices.com
+0.0.0.0 glamipixel.com
 0.0.0.0 glass.autovistagroup.com
 0.0.0.0 glassboxdigital.io
 0.0.0.0 glassguide-au.autovistagroup.com

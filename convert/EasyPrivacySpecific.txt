@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 21 Dec 2024 04:27:46 UTC
+# Updated at Sun, 22 Dec 2024 04:27:49 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -414,6 +414,7 @@
 0.0.0.0 mi.grubhub.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 midas.chase.com
+0.0.0.0 mixpanel-proxy.coingecko.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixproxy.epoch.cloud
 0.0.0.0 mktcs.cloudapps.cisco.com

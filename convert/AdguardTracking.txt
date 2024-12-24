@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 23 Dec 2024 04:28:40 UTC
+# Updated at Tue, 24 Dec 2024 04:28:38 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -17754,6 +17754,7 @@
 0.0.0.0 cloud.yaldipremium.com
 0.0.0.0 cloud.yesnetwork-info.com
 0.0.0.0 cloud.zen-place.jp
+0.0.0.0 cloudad.icu
 0.0.0.0 cloudberry.avadacom.com
 0.0.0.0 cloudbyoc.testqa.02012024-test1.sfmc-tlsprovisioningqa.com
 0.0.0.0 cloudbyoc.testqa.02012024.sfmc-tlsprovisioningqa.com
@@ -95643,6 +95644,7 @@
 0.0.0.0 stats2.cntraveler.com
 0.0.0.0 stats2.com
 0.0.0.0 stats2.golfdigest.com
+0.0.0.0 stats2.indianpornempire.com
 0.0.0.0 stats2.newyorker.com
 0.0.0.0 stats2.self.com
 0.0.0.0 stats2.vanityfair.com

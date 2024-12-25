@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 24 Dec 2024 04:28:38 UTC
+# Updated at Wed, 25 Dec 2024 04:28:49 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10098,6 +10098,7 @@
 0.0.0.0 altair.moseasia.com
 0.0.0.0 altalex.wolterskluwer.com
 0.0.0.0 altastat.com
+0.0.0.0 altema-log.com
 0.0.0.0 alternativetechnology.arrow.com
 0.0.0.0 altg.widerplanet.com
 0.0.0.0 alumni.qualfon.com
@@ -13634,6 +13635,7 @@
 0.0.0.0 cdjhcf.hometogo.es
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn-gw-dv.vip
 0.0.0.0 cdn-ra.rockcontent.com
 0.0.0.0 cdn-redirector.glopal.com
 0.0.0.0 cdn-settings.appsflyersdk.com
@@ -22370,7 +22372,6 @@
 0.0.0.0 dbdidv.lillianvernon.com
 0.0.0.0 dbdkyh.jogunshop.com
 0.0.0.0 dbfocus.jp
-0.0.0.0 dbfukofby5ycr.cloudfront.net
 0.0.0.0 dbh1.milb.com
 0.0.0.0 dbh2.milb.com
 0.0.0.0 dbh3.milb.com
@@ -74295,6 +74296,7 @@
 0.0.0.0 log.popin.cc
 0.0.0.0 log.prezi.com
 0.0.0.0 log.propermessage.io
+0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.qvb.qcloud.com
@@ -88972,6 +88974,7 @@
 0.0.0.0 sezixz.officesupply.com
 0.0.0.0 sf.blogsbrasilonline.org
 0.0.0.0 sf14g.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sfajfu.boulanger.com
 0.0.0.0 sfbpok.theluxurycloset.com

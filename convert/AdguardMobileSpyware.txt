@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 24 Dec 2024 04:28:37 UTC
+# Updated at Wed, 25 Dec 2024 04:28:49 UTC
 #
 
 0.0.0.0 33across.com
@@ -406,6 +406,7 @@
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.pngindir.com
+0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.snow.me
 0.0.0.0 log.talkie-ai.com
@@ -593,6 +594,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sg-public-data-api.hoyoverse.com
 0.0.0.0 sg.log.ulivetv.net

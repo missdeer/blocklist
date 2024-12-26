@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 25 Dec 2024 04:28:49 UTC
+# Updated at Thu, 26 Dec 2024 04:28:56 UTC
 #
 
 0.0.0.0 33across.com
@@ -465,6 +465,7 @@
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
+0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to

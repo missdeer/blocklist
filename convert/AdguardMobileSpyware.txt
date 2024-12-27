@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 26 Dec 2024 04:28:56 UTC
+# Updated at Fri, 27 Dec 2024 04:28:20 UTC
 #
 
 0.0.0.0 33across.com
@@ -293,6 +293,7 @@
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tvtime.com
+0.0.0.0 events.watchtower.imdbtv.amazon.dev
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 flash.sec.intl.miui.com

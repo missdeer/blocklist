@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 27 Dec 2024 04:28:19 UTC
+# Updated at Sat, 28 Dec 2024 04:30:29 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -96957,6 +96957,7 @@
 0.0.0.0 stat.pl
 0.0.0.0 stat.praceamzda.cz
 0.0.0.0 stat.praetor-systems.cz
+0.0.0.0 stat.pravdafrance.com
 0.0.0.0 stat.prawo.pl
 0.0.0.0 stat.profinfo.pl
 0.0.0.0 stat.radar.imgsmail.ru
@@ -98651,7 +98652,6 @@
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.programmatica.com
-0.0.0.0 syndication.twitter.com
 0.0.0.0 synergy-e.com
 0.0.0.0 synthasite.net
 0.0.0.0 synzuo.feiradamadrugadasp.com.br
@@ -99864,6 +99864,7 @@
 0.0.0.0 telemetry.chrobinson.com
 0.0.0.0 telemetry.commonspirit.org
 0.0.0.0 telemetry.dematic.com
+0.0.0.0 telemetry.dzen.ru
 0.0.0.0 telemetry.goodlifefitness.com
 0.0.0.0 telemetry.insights.video.a2z.com
 0.0.0.0 telemetry.jivosite.com
@@ -105260,6 +105261,7 @@
 0.0.0.0 unsubscribe.email.ncnccn.cn
 0.0.0.0 unsubscribe.email.verizon.com
 0.0.0.0 unsubscribe.promo.timhortons.ca
+0.0.0.0 untho.de
 0.0.0.0 untidyrice.com
 0.0.0.0 unyzea.aboutyou.sk
 0.0.0.0 uoblij.farmaline.be

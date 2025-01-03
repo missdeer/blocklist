@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 02 Jan 2025 04:28:41 UTC
+# Updated at Fri, 03 Jan 2025 04:28:38 UTC
 #
 
 0.0.0.0 33across.com
@@ -557,7 +557,6 @@
 0.0.0.0 receiver.habby.mobi
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.appsflyersdk.com
-0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
 0.0.0.0 remain.appcpi.net
 0.0.0.0 report-ps.meettech.net

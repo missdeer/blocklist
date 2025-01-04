@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 03 Jan 2025 04:28:38 UTC
+# Updated at Sat, 04 Jan 2025 04:27:42 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -17666,6 +17666,7 @@
 0.0.0.0 collector-pxebumdlwe.px-cdn.net
 0.0.0.0 collector-pxebumdlwe.px-cloud.net
 0.0.0.0 collector-statistics.nhn-commerce.com
+0.0.0.0 collector.abc.net.au
 0.0.0.0 collector.appconsent.io
 0.0.0.0 collector.betway.be
 0.0.0.0 collector.betway.ca
@@ -88734,7 +88735,6 @@
 0.0.0.0 register.markit.com
 0.0.0.0 register.purina.com
 0.0.0.0 register.redhat.com
-0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 registration.promatis.com
 0.0.0.0 registro.omegacrmconsulting.com
 0.0.0.0 regmdr.pref.ims.dialog-direct.com
@@ -99904,6 +99904,7 @@
 0.0.0.0 tags.foundcollective.com
 0.0.0.0 tags.freedomdebtrelief.com
 0.0.0.0 tags.freedomfinancialnetwork.com
+0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.glasamerike.net
 0.0.0.0 tags.gnhearing.com
 0.0.0.0 tags.golosameriki.com
@@ -100602,6 +100603,7 @@
 0.0.0.0 telemetry.boxt.co.uk
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.chrobinson.com
+0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.commonspirit.org
 0.0.0.0 telemetry.dematic.com
 0.0.0.0 telemetry.dzen.ru

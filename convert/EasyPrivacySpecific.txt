@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 03 Jan 2025 04:28:39 UTC
+# Updated at Sat, 04 Jan 2025 04:27:42 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -176,6 +176,7 @@
 0.0.0.0 colvk.viki.io
 0.0.0.0 confiant.msn.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
+0.0.0.0 content.canadiantire.ca
 0.0.0.0 content22.bmo.com
 0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.au

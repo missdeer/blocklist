@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 03 Jan 2025 04:28:38 UTC
+# Updated at Sat, 04 Jan 2025 04:27:42 UTC
 #
 
 0.0.0.0 33across.com
@@ -645,6 +645,7 @@
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
+0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la

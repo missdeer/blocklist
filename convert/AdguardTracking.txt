@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 04 Jan 2025 04:27:42 UTC
+# Updated at Sun, 05 Jan 2025 04:27:43 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -65778,6 +65778,7 @@
 0.0.0.0 event.thermoscientific.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 event.webcollage.net
+0.0.0.0 event.wondershare.com
 0.0.0.0 event1.thermofisher.com
 0.0.0.0 event1.thermoscientific.com
 0.0.0.0 event3.thermofisher.com
@@ -72842,6 +72843,7 @@
 0.0.0.0 lgcns.goldenplanet.co.kr
 0.0.0.0 lgdnxx.stihldealer.net
 0.0.0.0 lgecrm.mg.lgecrm.com.my
+0.0.0.0 lgforbes.akamaized.net
 0.0.0.0 lghsws.europcar.com.au
 0.0.0.0 lginnotek.goldenplanet.co.kr
 0.0.0.0 lgituk.auto-onderdelen24.nl

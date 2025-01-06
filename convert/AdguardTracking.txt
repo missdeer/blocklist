@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 05 Jan 2025 04:27:43 UTC
+# Updated at Mon, 06 Jan 2025 04:29:10 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -13086,6 +13086,7 @@
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.pranmcpkx.com
 0.0.0.0 cdn.preciso.net
+0.0.0.0 cdn.q0losid.com
 0.0.0.0 cdn.raekdata.com
 0.0.0.0 cdn.reproio.com
 0.0.0.0 cdn.resonate.com
@@ -17591,6 +17592,7 @@
 0.0.0.0 collab.zdravetricko.cz
 0.0.0.0 collaborate.blackboard.com
 0.0.0.0 collarity.com
+0.0.0.0 collect.4gtv.tv
 0.0.0.0 collect.aeonbank.co.jp
 0.0.0.0 collect.allianz-technology.ch
 0.0.0.0 collect.allianz.ch
@@ -105804,6 +105806,7 @@
 0.0.0.0 uadncn.perfectlensworld.com
 0.0.0.0 uadx.com
 0.0.0.0 uaemarketing.sedgwick.com
+0.0.0.0 uaid.vtwenty.com
 0.0.0.0 uajwew.couroecia.com.br
 0.0.0.0 ualkzq.moobel1.ee
 0.0.0.0 uampxb.bronnitsy.com

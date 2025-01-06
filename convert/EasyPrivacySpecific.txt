@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 05 Jan 2025 04:27:43 UTC
+# Updated at Mon, 06 Jan 2025 04:29:09 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -143,6 +143,7 @@
 0.0.0.0 cmp.nouvelobs.com
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
+0.0.0.0 cms-stats-view.vitrinabox.com
 0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.viptube.com
@@ -213,7 +214,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 ddome-tag.blablacar.com
-0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 df.infra.shopee
 0.0.0.0 df.infra.sz.shopee
 0.0.0.0 dii.bankaust.com.au

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 07 Jan 2025 04:27:54 UTC
+# Updated at Wed, 08 Jan 2025 04:28:39 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9551,6 +9551,7 @@
 0.0.0.0 analytics.climatizer.cz
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cloud.unity3d.com
+0.0.0.0 analytics.cloudevo.ai
 0.0.0.0 analytics.clubic.com
 0.0.0.0 analytics.cn.ru
 0.0.0.0 analytics.cnnchile.com
@@ -18318,6 +18319,7 @@
 0.0.0.0 cps.webspecmail.com
 0.0.0.0 cpt.geniee.jp
 0.0.0.0 cptrack.de
+0.0.0.0 cpu.baidu.com
 0.0.0.0 cpwrbr.blindsgalore.com
 0.0.0.0 cpx.to
 0.0.0.0 cpxl.golem.de
@@ -18463,6 +18465,7 @@
 0.0.0.0 csm.magnetintell.com
 0.0.0.0 csm.webspecmail.com
 0.0.0.0 csmetrics.wilton.com
+0.0.0.0 csp-report.marketing.aws.dev
 0.0.0.0 csp.prod.saga.co.uk
 0.0.0.0 cspmkl.gruppal.com
 0.0.0.0 csr.onet.pl
@@ -76788,6 +76791,7 @@
 0.0.0.0 leynqj.newport.se
 0.0.0.0 leytsb.marcomen.com.tr
 0.0.0.0 lezntf.heydudeshoesusa.com
+0.0.0.0 lf1-cdn-tos.bytegoofy.com
 0.0.0.0 lfapbe.quiksilver.co.jp
 0.0.0.0 lfbowp.talisa.com
 0.0.0.0 lfercl.tcb-beauty.net
@@ -91343,6 +91347,7 @@
 0.0.0.0 pixel.tatpek.com
 0.0.0.0 pixel.trackverify.com
 0.0.0.0 pixel.watch
+0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.wp.pl
 0.0.0.0 pixel.yabidos.com
@@ -104811,6 +104816,7 @@
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.stryker.com
 0.0.0.0 telemetry.stytch.com
+0.0.0.0 telemetry.svc.transifex.net
 0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.voxeet.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 09 Jan 2025 04:29:32 UTC
+# Updated at Fri, 10 Jan 2025 04:28:52 UTC
 #
 
 0.0.0.0 33across.com
@@ -187,6 +187,9 @@
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 client-telemetry.hingeprod.net
+0.0.0.0 clientlog3.music.163.com
+0.0.0.0 clientlogdep.music.163.com
+0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clog.mirrativ.com
@@ -224,6 +227,7 @@
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
+0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -496,6 +500,7 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 ndct-data.video.iqiyi.com
 0.0.0.0 nelo2-col.linecorp.com
+0.0.0.0 netapm.music.163.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 node.aibeacon.jp
@@ -503,6 +508,7 @@
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 npario-inc.net
 0.0.0.0 nrc.tapas.net
+0.0.0.0 nstool.netease.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oc.umeng.com
@@ -758,6 +764,7 @@
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xplosion.de
 0.0.0.0 yadro.ru
+0.0.0.0 ye.dun.163yun.com
 0.0.0.0 ymtracking.com
 0.0.0.0 ys-log-upload-os.hoyoverse.com
 0.0.0.0 yun-hl.3g.qq.com

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Thu, 09 Jan 2025 04:29:31 UTC
+# Updated at Fri, 10 Jan 2025 04:28:51 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -5462,6 +5462,7 @@
 0.0.0.0 analytics-fe.digital-cloud.medallia.eu
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-ingestion-production.tubitv.com
+0.0.0.0 analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 0.0.0.0 analytics-ingestion.pbpms.de
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -7520,7 +7521,6 @@
 0.0.0.0 b.ddestiny.ru
 0.0.0.0 b.dotbrataev.ru
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
-0.0.0.0 b.karte.io
 0.0.0.0 b.kouke5.com
 0.0.0.0 b.nude-moon.xyz
 0.0.0.0 b.povarenok.ru
@@ -9044,6 +9044,7 @@
 0.0.0.0 blazesomeplacespecification.com
 0.0.0.0 blazonstowel.com
 0.0.0.0 blbesnuff.digital
+0.0.0.0 blbtibqk.icu
 0.0.0.0 blcdog.com
 0.0.0.0 blciqbk.icu
 0.0.0.0 bld.mobi
@@ -11458,6 +11459,7 @@
 0.0.0.0 chulhawakened.com
 0.0.0.0 chullohagrode.com
 0.0.0.0 chultoux.com
+0.0.0.0 chumealq.com
 0.0.0.0 chumpaufte.xyz
 0.0.0.0 chumsaft.com
 0.0.0.0 chunmiaosh.com
@@ -11877,6 +11879,9 @@
 0.0.0.0 clientinfo.phimmoizz.net
 0.0.0.0 clientlog.midomi.com
 0.0.0.0 clientlog.portal.office.com
+0.0.0.0 clientlog3.music.163.com
+0.0.0.0 clientlogdep.music.163.com
+0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clientoutcry.com
@@ -12348,6 +12353,7 @@
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collector.superwall.me
 0.0.0.0 collector.szlcsc.com
+0.0.0.0 collector.t-idr.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collector.trendmd.com
@@ -15115,6 +15121,7 @@
 0.0.0.0 data.embeddables.com
 0.0.0.0 data.hicloud.com
 0.0.0.0 data.kameleoon.io
+0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.media-lab.ai
 0.0.0.0 data.minute.ly
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -17274,6 +17281,7 @@
 0.0.0.0 dynamitedata.com
 0.0.0.0 dynamosbakongo.shop
 0.0.0.0 dynatrace-managed.com
+0.0.0.0 dynatrace.att.com
 0.0.0.0 dynpaa.com
 0.0.0.0 dynspt.com
 0.0.0.0 dynsrvbaa.com
@@ -18302,6 +18310,7 @@
 0.0.0.0 eravprvvqqc.xyz
 0.0.0.0 erbiscusysexbu.info
 0.0.0.0 ercoeteasacom.com
+0.0.0.0 ercoils.com
 0.0.0.0 erdeallyighab.com
 0.0.0.0 erdecisesgeorg.info
 0.0.0.0 erebor.douban.com
@@ -19376,6 +19385,7 @@
 0.0.0.0 fauphesh.com
 0.0.0.0 fauphoaglu.net
 0.0.0.0 fausamoawhisi.net
+0.0.0.0 fauseepetoozuk.xyz
 0.0.0.0 fausothaur.com
 0.0.0.0 favoredkuwait.top
 0.0.0.0 favorite-option.pro
@@ -27457,6 +27467,7 @@
 0.0.0.0 koufqy.xyz
 0.0.0.0 koukoku.red
 0.0.0.0 kouphouwhajee.net
+0.0.0.0 koupuchoust.net
 0.0.0.0 koushauwhie.xyz
 0.0.0.0 kousjcignye.com
 0.0.0.0 koutobey.net
@@ -32334,6 +32345,7 @@
 0.0.0.0 myolnyr5bsk18.com
 0.0.0.0 myomnistar.com
 0.0.0.0 myonionsoup.com
+0.0.0.0 myosoteruins.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagestats.online
 0.0.0.0 myperfect2give.com
@@ -32984,6 +32996,7 @@
 0.0.0.0 net.rayjump.com
 0.0.0.0 net.shop.com.mm
 0.0.0.0 netagent.cz
+0.0.0.0 netapm.music.163.com
 0.0.0.0 netapplications.com
 0.0.0.0 netavenir.com
 0.0.0.0 netbina.com
@@ -33784,6 +33797,7 @@
 0.0.0.0 nstat.headlines.pw
 0.0.0.0 nster.net
 0.0.0.0 nstoodthestatu.info
+0.0.0.0 nstool.netease.com
 0.0.0.0 nstracking.com
 0.0.0.0 nsultingcoe.net
 0.0.0.0 nszeybs.com
@@ -33944,6 +33958,7 @@
 0.0.0.0 nyfstb.xyz
 0.0.0.0 nygwcwsvnu.com
 0.0.0.0 nyihcpzdloe.com
+0.0.0.0 nyjelh.icu
 0.0.0.0 nykkky.com
 0.0.0.0 nylghaudentin.com
 0.0.0.0 nylonnickel.com
@@ -33988,6 +34003,7 @@
 0.0.0.0 o4svlxhjun.xyz
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o626b32etkg6.com
+0.0.0.0 o8s.icu
 0.0.0.0 o8zoz.icu
 0.0.0.0 o911o.com
 0.0.0.0 oaajylbosyndpjl.com
@@ -38326,6 +38342,7 @@
 0.0.0.0 publicidees.com
 0.0.0.0 publicityclerks.com
 0.0.0.0 publiclyphasecategory.com
+0.0.0.0 publictelemetry.tophat.com
 0.0.0.0 publicunloadbags.com
 0.0.0.0 publift.com
 0.0.0.0 publipagos.com
@@ -41653,6 +41670,7 @@
 0.0.0.0 sayyac.com
 0.0.0.0 sayyac.net
 0.0.0.0 sayyidsspintry.com
+0.0.0.0 sb-hip-happy.ourservice.jp
 0.0.0.0 sb-money.ru
 0.0.0.0 sb-stat1.com
 0.0.0.0 sb.scorecard.research.com
@@ -44976,7 +44994,6 @@
 0.0.0.0 static.hyprmx.com
 0.0.0.0 static.ichehome.com
 0.0.0.0 static.jampp.com
-0.0.0.0 static.karte.io
 0.0.0.0 static.masoffer.net
 0.0.0.0 static.matchads.net
 0.0.0.0 static.meijiacun.com
@@ -45743,6 +45760,7 @@
 0.0.0.0 suckae.xyz
 0.0.0.0 suckfaintlybooking.com
 0.0.0.0 suckhoetainha.site
+0.0.0.0 sucreexpos.com
 0.0.0.0 suctionautomobile.com
 0.0.0.0 suctionpoker.com
 0.0.0.0 suddenvampire.com
@@ -46684,6 +46702,7 @@
 0.0.0.0 tapnative.com
 0.0.0.0 tapnetwork.ru
 0.0.0.0 tapone.jp
+0.0.0.0 taposalett.top
 0.0.0.0 tapproveofchild.info
 0.0.0.0 tappx.com
 0.0.0.0 taproximo.com
@@ -49994,6 +50013,7 @@
 0.0.0.0 twistyscash.com
 0.0.0.0 twitob.com
 0.0.0.0 twittad.com
+0.0.0.0 twitter.sx
 0.0.0.0 twitterfollowers.site
 0.0.0.0 twlcyc.cn
 0.0.0.0 twnrydt.com
@@ -51082,6 +51102,7 @@
 0.0.0.0 uyuwkbt.top
 0.0.0.0 uyyquln.icu
 0.0.0.0 uz-analysis.akamaized.net
+0.0.0.0 uz-kqtecqs.space
 0.0.0.0 uzauxaursachoky.net
 0.0.0.0 uzdhsjuhrw.com
 0.0.0.0 uzelzfnj.xyz
@@ -52602,6 +52623,7 @@
 0.0.0.0 volcanoexhibitmeaning.com
 0.0.0.0 volcanostricken.com
 0.0.0.0 volceapplog.com
+0.0.0.0 volces.com
 0.0.0.0 voldarinis.com
 0.0.0.0 volform.online
 0.0.0.0 volgograd-info.ru
@@ -55004,6 +55026,7 @@
 0.0.0.0 xufyxhiu.icu
 0.0.0.0 xuhabkmwro.com
 0.0.0.0 xuiqxlhqyo.com
+0.0.0.0 xukanvyl.com
 0.0.0.0 xukpqemfs.com
 0.0.0.0 xuldtcip.icu
 0.0.0.0 xulizui6.com
@@ -55049,6 +55072,7 @@
 0.0.0.0 xx3691b.com
 0.0.0.0 xxaks01080sspao.xyz
 0.0.0.0 xxaks01081sspao.xyz
+0.0.0.0 xxaks01091sspao.xyz
 0.0.0.0 xxccdshj.com
 0.0.0.0 xxdfexbwv.top
 0.0.0.0 xxe2.com
@@ -55207,6 +55231,7 @@
 0.0.0.0 ydvdjjtakso.xyz
 0.0.0.0 ydwrkwwqytj.xyz
 0.0.0.0 ydybwjpa.xyz
+0.0.0.0 ye.dun.163yun.com
 0.0.0.0 ye185hcamw.com
 0.0.0.0 yeabble.com
 0.0.0.0 yeah1publishing.com
@@ -55516,6 +55541,7 @@
 0.0.0.0 youtubesave.org
 0.0.0.0 youtubex.top
 0.0.0.0 yovoads.com
+0.0.0.0 yowdenfalcial.com
 0.0.0.0 yowlnibble.shop
 0.0.0.0 yoyadsdom.com
 0.0.0.0 ypa.focusoftime.com

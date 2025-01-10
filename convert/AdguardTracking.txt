@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 09 Jan 2025 04:29:32 UTC
+# Updated at Fri, 10 Jan 2025 04:28:52 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -9417,6 +9417,7 @@
 0.0.0.0 analytics-fe.digital-cloud.medallia.eu
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-ingestion-production.tubitv.com
+0.0.0.0 analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 0.0.0.0 analytics-ingestion.pbpms.de
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -11690,7 +11691,6 @@
 0.0.0.0 b.foxsports.com
 0.0.0.0 b.freshpair.com
 0.0.0.0 b.fxnetworks.com
-0.0.0.0 b.karte.io
 0.0.0.0 b.koodomobile.com
 0.0.0.0 b.law.com
 0.0.0.0 b.m.mynewplace.com
@@ -16395,6 +16395,9 @@
 0.0.0.0 client.virtuo.com
 0.0.0.0 clientengagement.ehpartners.com
 0.0.0.0 clientlog.midomi.com
+0.0.0.0 clientlog3.music.163.com
+0.0.0.0 clientlogdep.music.163.com
+0.0.0.0 clientlogsf.music.163.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clients.hermes-investment.com
@@ -21766,6 +21769,7 @@
 0.0.0.0 data.jp-guest.princess.com
 0.0.0.0 data.keybank.dev.cjmadobe.com
 0.0.0.0 data.knitpicks.com
+0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.kulturkaufhaus.de
 0.0.0.0 data.lagacetadesalamanca.es
 0.0.0.0 data.larioja.com
@@ -23141,6 +23145,7 @@
 0.0.0.0 dynameex.com
 0.0.0.0 dynamic-content.croquetteland.com
 0.0.0.0 dynatrace-managed.com
+0.0.0.0 dynatrace.att.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dyntrk.com
 0.0.0.0 dypbgq.manutan.pl
@@ -86978,6 +86983,7 @@
 0.0.0.0 net4ever.graciaflamenca.es
 0.0.0.0 netaffiliation.com
 0.0.0.0 netagent.cz
+0.0.0.0 netapm.music.163.com
 0.0.0.0 netapplications.com
 0.0.0.0 netbiscuits.net
 0.0.0.0 netc.sfr.fr
@@ -87477,6 +87483,7 @@
 0.0.0.0 nstat.magazines.com
 0.0.0.0 nstclj.rubylane.com
 0.0.0.0 nsteq.queensland.com
+0.0.0.0 nstool.netease.com
 0.0.0.0 nstracking.com
 0.0.0.0 nsz718t97y7c54fu.cloud.s11.sfmc-osl.com
 0.0.0.0 nta1vb6cdlrl.com
@@ -92227,6 +92234,7 @@
 0.0.0.0 publicidad.davivienda.com.pa
 0.0.0.0 publicidad.daviviendaintl.com
 0.0.0.0 publicidees.com
+0.0.0.0 publictelemetry.tophat.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 publishflow.com
@@ -101740,7 +101748,6 @@
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.fengkongcloud.com
 0.0.0.0 static.herr.io
-0.0.0.0 static.karte.io
 0.0.0.0 static.osalta.eu
 0.0.0.0 static.parsely.com
 0.0.0.0 static.runconverge.com
@@ -109924,6 +109931,7 @@
 0.0.0.0 twin-iq.kickfire.com
 0.0.0.0 twiowq.trendhim.hu
 0.0.0.0 twistairclub.net.anwalt.de
+0.0.0.0 twitter.sx
 0.0.0.0 twiz.wizaly.co.uk
 0.0.0.0 twiz.wizaly.fr
 0.0.0.0 twjobq.sixt.com
@@ -112735,6 +112743,7 @@
 0.0.0.0 vois.vodafone.com
 0.0.0.0 voixsy.stargift.ro
 0.0.0.0 volceapplog.com
+0.0.0.0 volces.com
 0.0.0.0 vole.contemporaryartlibrary.org
 0.0.0.0 vole.nettskaperne.no
 0.0.0.0 vole.noteapps.info
@@ -114588,6 +114597,7 @@
 0.0.0.0 ydtzzw.vocegiallorossa.it
 0.0.0.0 ydvsok.newbalance.jp
 0.0.0.0 ydzlen.mebloo.pl
+0.0.0.0 ye.dun.163yun.com
 0.0.0.0 yebvpc.gardengoodsdirect.com
 0.0.0.0 yefktd.avito.ru
 0.0.0.0 yehyqc.hugoboss.com

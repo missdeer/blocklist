@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 10 Jan 2025 04:28:52 UTC
+# Updated at Sat, 11 Jan 2025 04:27:54 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -18967,6 +18967,7 @@
 0.0.0.0 damselfly.vegenook.com
 0.0.0.0 dan.danimillions.com
 0.0.0.0 dan.webspecmail.com
+0.0.0.0 danatrak.com
 0.0.0.0 danbury.townsquaremedia.info
 0.0.0.0 danbury.townsquarenewsletters.com
 0.0.0.0 daniel.verwin.com
@@ -88338,6 +88339,7 @@
 0.0.0.0 optimost.com
 0.0.0.0 optin-machine.com
 0.0.0.0 optionen.hager.de
+0.0.0.0 optiyield.opti-digital.com
 0.0.0.0 optorb.com
 0.0.0.0 optout.business.nordea.no
 0.0.0.0 optout.experience-platform.disneytech.com
@@ -88653,6 +88655,7 @@
 0.0.0.0 pa.travelwhiz.app
 0.0.0.0 pa5xjc.m1guelpf.me
 0.0.0.0 pabgey.siepomaga.pl
+0.0.0.0 pabidding.io
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pac.thetimes.co.uk
 0.0.0.0 packagingsolutions.filamatic.com
@@ -102905,6 +102908,7 @@
 0.0.0.0 strape.weboldalnet.hu
 0.0.0.0 strawberry.basf.com
 0.0.0.0 stream.corporatefinanceinstitute.com
+0.0.0.0 stream.datago.ru
 0.0.0.0 strikeclient.usnursing.com
 0.0.0.0 strikenurse.usnursing.com
 0.0.0.0 stroeerdigitalmedia.de

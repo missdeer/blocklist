@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 12 Jan 2025 04:28:11 UTC
+# Updated at Mon, 13 Jan 2025 04:29:50 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -7796,6 +7796,7 @@
 0.0.0.0 action.totalrewardssoftware.com
 0.0.0.0 action.unifiedoffice.com
 0.0.0.0 actionlk.ozie.co.jp
+0.0.0.0 actiontracking.jp
 0.0.0.0 actis.boeingavenue8.nl
 0.0.0.0 activate.aami.com.au
 0.0.0.0 activate.anntaylor.com

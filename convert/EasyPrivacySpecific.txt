@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 13 Jan 2025 04:29:50 UTC
+# Updated at Tue, 14 Jan 2025 04:27:25 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -407,6 +407,7 @@
 0.0.0.0 metrics.camsoda.com
 0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
+0.0.0.0 metrics.hyperliquid.xyz
 0.0.0.0 metrics.onewegg.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.spkt.io

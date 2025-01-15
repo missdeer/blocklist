@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 14 Jan 2025 04:27:25 UTC
+# Updated at Wed, 15 Jan 2025 04:27:47 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -206,6 +206,7 @@
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.torry.io
+0.0.0.0 data.ublock-browser.com
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datum.jsdelivr.com

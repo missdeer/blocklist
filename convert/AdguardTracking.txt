@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 14 Jan 2025 04:27:26 UTC
+# Updated at Wed, 15 Jan 2025 04:27:47 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -8530,6 +8530,7 @@
 0.0.0.0 ads.upbet.com
 0.0.0.0 ads.xglobalmarkets.com
 0.0.0.0 adsaccount.appcpi.net
+0.0.0.0 adsave.co
 0.0.0.0 adsensedetective.com
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adservice.google
@@ -76551,6 +76552,7 @@
 0.0.0.0 eu.dyskount.co
 0.0.0.0 eu.groupondata.com
 0.0.0.0 eu.ironmountain.com
+0.0.0.0 eu.klarnaevt.com
 0.0.0.0 eu.pftk.temu.com
 0.0.0.0 eu.spgo.io
 0.0.0.0 eu.thtk.temu.com

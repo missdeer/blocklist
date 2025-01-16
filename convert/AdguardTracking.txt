@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 15 Jan 2025 04:27:47 UTC
+# Updated at Thu, 16 Jan 2025 04:27:15 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -87418,6 +87418,7 @@
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.juspay.in
+0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.ntvplus.tv
 0.0.0.0 logs.openbank.com
@@ -88207,6 +88208,7 @@
 0.0.0.0 m700.bigrapidsnews.com
 0.0.0.0 m821.saratogian.com
 0.0.0.0 m886.kmbc.com
+0.0.0.0 ma-adx.ctrip.com
 0.0.0.0 ma.a3.se
 0.0.0.0 ma.attollo.se
 0.0.0.0 ma.axiomatics.com
@@ -101323,6 +101325,7 @@
 0.0.0.0 s.blinds.com
 0.0.0.0 s.boydgaming.com
 0.0.0.0 s.bramptonguardian.com
+0.0.0.0 s.c-ctrip.com
 0.0.0.0 s.cadent.bloomberglaw.com
 0.0.0.0 s.caledonenterprise.com
 0.0.0.0 s.cambridgetimes.ca

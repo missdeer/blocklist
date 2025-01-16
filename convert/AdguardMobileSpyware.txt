@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 15 Jan 2025 04:27:47 UTC
+# Updated at Thu, 16 Jan 2025 04:27:14 UTC
 #
 
 0.0.0.0 33across.com
@@ -666,6 +666,7 @@
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toblog.tobsnssdk.com
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 tp2p.kg.qq.com
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
@@ -720,6 +721,7 @@
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 tunein.adswizz.com
+0.0.0.0 twns.p2ptun.qq.com
 0.0.0.0 uaid.vtwenty.com
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 uc.ucweb.com

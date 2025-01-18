@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 17 Jan 2025 04:29:27 UTC
+# Updated at Sat, 18 Jan 2025 04:26:40 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -77519,6 +77519,7 @@
 0.0.0.0 flibberblat527.glimmerglee.store
 0.0.0.0 flink.customer.io
 0.0.0.0 flint.townsquaremedia.info
+0.0.0.0 flippback.com
 0.0.0.0 flixsyndication.net
 0.0.0.0 fljaxb.chalktalksports.com
 0.0.0.0 flmed0.tranquilpinnacle.com

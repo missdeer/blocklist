@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 19 Jan 2025 04:26:39 UTC
+# Updated at Mon, 20 Jan 2025 04:28:16 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -10075,6 +10075,7 @@
 0.0.0.0 analytics.nextopia.net
 0.0.0.0 analytics.ngs55.ru
 0.0.0.0 analytics.nianticlabs.com
+0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nodecraft.com
 0.0.0.0 analytics.nordea.com
 0.0.0.0 analytics.nordea.dk
@@ -110958,6 +110959,7 @@
 0.0.0.0 sy.avadacom.com
 0.0.0.0 sydcxk.epipla1.gr
 0.0.0.0 syfwnf.society6.com
+0.0.0.0 sygrip.info
 0.0.0.0 sykc.madeindesign.ch
 0.0.0.0 sylthi.prijskiller.nl
 0.0.0.0 symantec.ecs.arrow.com

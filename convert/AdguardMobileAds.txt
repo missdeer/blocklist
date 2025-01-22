@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 21 Jan 2025 04:27:57 UTC
+# Updated at Wed, 22 Jan 2025 04:28:29 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -389,6 +389,7 @@
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 ctl.buyt.in
+0.0.0.0 d.kugou.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
@@ -621,6 +622,8 @@
 0.0.0.0 nativead.s3.amazonaws.com
 0.0.0.0 nativex.com
 0.0.0.0 naverpa-phinf.pstatic.net
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 nbcollectretry.kugou.com
 0.0.0.0 nearbyad.com
 0.0.0.0 nend.net
 0.0.0.0 net.rayjump.com
@@ -737,6 +740,7 @@
 0.0.0.0 sensors.larkplayerapp.com
 0.0.0.0 servebom.com
 0.0.0.0 servedby.o2.co.uk
+0.0.0.0 serveraddr.service.kugou.com
 0.0.0.0 sessionm.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 sexpennyauctions.com

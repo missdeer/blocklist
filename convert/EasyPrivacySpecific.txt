@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 26 Jan 2025 04:26:49 UTC
+# Updated at Mon, 27 Jan 2025 04:29:26 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -528,6 +528,7 @@
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 rt.newswire.ca
 0.0.0.0 rt.prnewswire.com
+0.0.0.0 rt.whitebridge.ai
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.inews.co.uk
 0.0.0.0 rta2.metro.co.uk

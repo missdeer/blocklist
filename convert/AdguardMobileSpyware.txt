@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 27 Jan 2025 04:29:26 UTC
+# Updated at Tue, 28 Jan 2025 04:28:30 UTC
 #
 
 0.0.0.0 33across.com
@@ -234,6 +234,7 @@
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
+0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net

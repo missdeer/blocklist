@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 30 Jan 2025 04:27:47 UTC
+# Updated at Fri, 31 Jan 2025 04:27:58 UTC
 #
 
 0.0.0.0 33across.com
@@ -509,7 +509,6 @@
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 npario-inc.net
 0.0.0.0 nrc.tapas.net
-0.0.0.0 nstool.netease.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oc.umeng.com

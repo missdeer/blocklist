@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Sat, 01 Feb 2025 04:27:04 UTC
+# Updated at Sun, 02 Feb 2025 04:26:20 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
@@ -55,10 +55,12 @@
 0.0.0.0 05fa754f24.com
 0.0.0.0 0676el9lskux.top
 0.0.0.0 06789.xyz
+0.0.0.0 06969451.xyz
 0.0.0.0 06a21eff24.com
 0.0.0.0 06cffaae87.com
 0.0.0.0 070880.com
 0.0.0.0 072551.xyz
+0.0.0.0 07327127.xyz
 0.0.0.0 07421283.xyz
 0.0.0.0 0760571ca9.com
 0.0.0.0 076f66b2.live
@@ -217,6 +219,7 @@
 0.0.0.0 11.yiqig.cn
 0.0.0.0 11.yiqig.com
 0.0.0.0 110.93.143.144
+0.0.0.0 11006451.xyz
 0.0.0.0 1100ad.com
 0.0.0.0 11152646.xyz
 0.0.0.0 1116c5.xyz
@@ -365,6 +368,7 @@
 0.0.0.0 1bm3n8sld.de
 0.0.0.0 1buo.icu
 0.0.0.0 1buu1.penyouw.com
+0.0.0.0 1c0c3fde9d.com
 0.0.0.0 1c447fc5b7.com
 0.0.0.0 1c52e1e2.live
 0.0.0.0 1c7cf19baa.com
@@ -820,6 +824,7 @@
 0.0.0.0 34bogatirya.ru
 0.0.0.0 34d5566a50.com
 0.0.0.0 350c2478fb.com
+0.0.0.0 35452888.xyz
 0.0.0.0 3575e2d4e6.com
 0.0.0.0 357dbd24e2.com
 0.0.0.0 35volitantplimsoles5.com
@@ -1588,6 +1593,7 @@
 0.0.0.0 937e30a10b.com
 0.0.0.0 938az.xyz
 0.0.0.0 94.130.167.163
+0.0.0.0 9421d59b1d.com
 0.0.0.0 943d6e0643.com
 0.0.0.0 94597672.xyz
 0.0.0.0 94789b3f8f.com
@@ -2536,7 +2542,6 @@
 0.0.0.0 ad.kisstvshow.es
 0.0.0.0 ad.kmib.co.kr
 0.0.0.0 ad.land.to
-0.0.0.0 ad.lapa.pub
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.leap.app
 0.0.0.0 ad.letmeads.com
@@ -2612,7 +2617,6 @@
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.viewus.co.kr
 0.0.0.0 ad.vkool.net
-0.0.0.0 ad.vkoolzzz.net
 0.0.0.0 ad.vo-media.ru
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.walkgame.com
@@ -3069,7 +3073,6 @@
 0.0.0.0 adjustbedevilsweep.com
 0.0.0.0 adjusteddrug.com
 0.0.0.0 adjustmentconfide.com
-0.0.0.0 adjusts.info
 0.0.0.0 adjux.com
 0.0.0.0 adk2.co
 0.0.0.0 adk2.com
@@ -3568,7 +3571,6 @@
 0.0.0.0 ads.kiemsat.vn
 0.0.0.0 ads.kmib.co.kr
 0.0.0.0 ads.lamchame.vn
-0.0.0.0 ads.laodongbinhduong.org.vn
 0.0.0.0 ads.laodongnghean.vn
 0.0.0.0 ads.lemmatechnologies.com
 0.0.0.0 ads.leovegas.com
@@ -3644,7 +3646,6 @@
 0.0.0.0 ads.tapzin.com
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 ads.thanhnien.vn
-0.0.0.0 ads.thegioitiepthi.vn
 0.0.0.0 ads.thesaigontimes.vn
 0.0.0.0 ads.thetimes.co.uk
 0.0.0.0 ads.thitruongtaichinhtiente.vn
@@ -3670,7 +3671,6 @@
 0.0.0.0 ads.world-fusigi.net
 0.0.0.0 ads.xedoisong.vn
 0.0.0.0 ads.xemphimso.com
-0.0.0.0 ads.xemtivisohd.net
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.yeeyi.com
 0.0.0.0 ads.yenimedya.com.tr
@@ -3900,7 +3900,6 @@
 0.0.0.0 adspectacle.net
 0.0.0.0 adspeed.com
 0.0.0.0 adspeed.net
-0.0.0.0 adsphim.lol
 0.0.0.0 adspi.xyz
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
@@ -4313,9 +4312,7 @@
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.chinmedia.vn
 0.0.0.0 adx.com.ru
-0.0.0.0 adx.edutimes.com.vn
 0.0.0.0 adx.hoanggia.net.vn
-0.0.0.0 adx.hongtinnhanh.com
 0.0.0.0 adx.io
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.mala.cn
@@ -4828,6 +4825,7 @@
 0.0.0.0 aiejlfb.com
 0.0.0.0 aiftakrenge.com
 0.0.0.0 aigaithojo.com
+0.0.0.0 aigeersaibouk.net
 0.0.0.0 aigenstud.com
 0.0.0.0 aigfednd.icu
 0.0.0.0 aigheebsu.net
@@ -4845,7 +4843,6 @@
 0.0.0.0 aikravoapu.com
 0.0.0.0 aikrighawaks.com
 0.0.0.0 aiksohet.net
-0.0.0.0 ailamtrieuphu.com
 0.0.0.0 ailaulsee.com
 0.0.0.0 ailil-fzt.com
 0.0.0.0 ailpielei.com
@@ -5585,7 +5582,6 @@
 0.0.0.0 analytics.ahrefs
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 analytics.aimtell.com
-0.0.0.0 analytics.aita.gov.vn
 0.0.0.0 analytics.aklamio.com
 0.0.0.0 analytics.algolia.com
 0.0.0.0 analytics.allas.se
@@ -5735,7 +5731,6 @@
 0.0.0.0 analytics.gtflixtv.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hant.se
-0.0.0.0 analytics.hapo.vn
 0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.hebela.vn
@@ -5810,7 +5805,6 @@
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobilegamestats.com
-0.0.0.0 analytics.molistar.com
 0.0.0.0 analytics.motherhood.se
 0.0.0.0 analytics.move.ru
 0.0.0.0 analytics.msk1.ru
@@ -6015,7 +6009,6 @@
 0.0.0.0 analytics.ynap.biz
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
-0.0.0.0 analytics.yts.vn
 0.0.0.0 analytics.zapps.me
 0.0.0.0 analytics.zapps.vn
 0.0.0.0 analytics.zatomac.vn
@@ -6376,7 +6369,6 @@
 0.0.0.0 api.nas.nct.vn
 0.0.0.0 api.native-track.com
 0.0.0.0 api.newsfeed.intl.miui.com
-0.0.0.0 api.ozui.vn
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.pubfinity.com
@@ -6804,6 +6796,7 @@
 0.0.0.0 as01271kkp.xyz
 0.0.0.0 as01280kkp.xyz
 0.0.0.0 as01281kkp.xyz
+0.0.0.0 as02010kkp.xyz
 0.0.0.0 as1.m.hao123.com
 0.0.0.0 as1.wenku.baidu.com
 0.0.0.0 as5000.com
@@ -8624,6 +8617,7 @@
 0.0.0.0 best-u.vip
 0.0.0.0 best-video-app.com
 0.0.0.0 best-vpn-app.com
+0.0.0.0 best0ne.com
 0.0.0.0 bestadbid.com
 0.0.0.0 bestadload.com
 0.0.0.0 bestadsforyou.com
@@ -8788,7 +8782,6 @@
 0.0.0.0 bfoleyinteractive.com
 0.0.0.0 bfxytxdpnk.com
 0.0.0.0 bg4nxu2u5t.com
-0.0.0.0 bgadx.com
 0.0.0.0 bgbg00.fun
 0.0.0.0 bgecvddelzg.com
 0.0.0.0 bghebf.xyz
@@ -9037,6 +9030,7 @@
 0.0.0.0 bissailre.com
 0.0.0.0 bit-ad.com
 0.0.0.0 bit.kozow.com
+0.0.0.0 bitad.ir
 0.0.0.0 bitbank.la
 0.0.0.0 bitbank6699.com
 0.0.0.0 bitbeat7.com
@@ -9553,6 +9547,7 @@
 0.0.0.0 boringoccasion.pro
 0.0.0.0 boritra.com
 0.0.0.0 bornebeautify.com
+0.0.0.0 bornmandemicria.co.in
 0.0.0.0 bororango.com
 0.0.0.0 borotango.com
 0.0.0.0 boroup.com
@@ -10910,7 +10905,6 @@
 0.0.0.0 cdn.allsportsflix.best
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.amzuu.com
-0.0.0.0 cdn.api-connect.io
 0.0.0.0 cdn.appsmav.com
 0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.b2.ai
@@ -11486,7 +11480,6 @@
 0.0.0.0 chhvjvkmlnmu.click
 0.0.0.0 chiamfxz.com
 0.0.0.0 chiantiriem.com
-0.0.0.0 chiasephim.xyz
 0.0.0.0 chibaigo.com
 0.0.0.0 chicgar.info
 0.0.0.0 chicheecmaungee.net
@@ -12422,6 +12415,7 @@
 0.0.0.0 coinzillatag.com
 0.0.0.0 cokepompositycrest.com
 0.0.0.0 cokerymyocele.shop
+0.0.0.0 coladinlized.com
 0.0.0.0 colanbalkily.com
 0.0.0.0 colanderdecrepitplaster.com
 0.0.0.0 colarak.com
@@ -13209,7 +13203,6 @@
 0.0.0.0 counter.nn.ru
 0.0.0.0 counter.nope.dk
 0.0.0.0 counter.ntdvn.com
-0.0.0.0 counter.ntdvn.net
 0.0.0.0 counter.nv.ua
 0.0.0.0 counter.ok.ee
 0.0.0.0 counter.packa2.cz
@@ -13476,7 +13469,6 @@
 0.0.0.0 crdefault.link
 0.0.0.0 crdefault1.com
 0.0.0.0 crdefault2.com
-0.0.0.0 cre-ads.com
 0.0.0.0 creaghtain.com
 0.0.0.0 creamssicsite.com
 0.0.0.0 creamy-confidence.pro
@@ -15729,7 +15721,6 @@
 0.0.0.0 deksoarguph.net
 0.0.0.0 del-del-ete.com
 0.0.0.0 delayedmall.pro
-0.0.0.0 delecpuzz.com
 0.0.0.0 delfsrld.click
 0.0.0.0 delhirs.com
 0.0.0.0 delicateomissionarched.com
@@ -16276,6 +16267,7 @@
 0.0.0.0 digitalpush.org
 0.0.0.0 digitaltarget.ru
 0.0.0.0 digitalthrottle.com
+0.0.0.0 digitklosh.top
 0.0.0.0 digitru.st
 0.0.0.0 dignityhourmulticultural.com
 0.0.0.0 dignityprop.com
@@ -19119,6 +19111,7 @@
 0.0.0.0 exactsag.com
 0.0.0.0 exacttarget.api.mashery.com
 0.0.0.0 exad.smi2.ru
+0.0.0.0 exaggerating.makeup
 0.0.0.0 exaleprn.com
 0.0.0.0 exaltationinsufficientintentional.com
 0.0.0.0 exaltbelow.com
@@ -19868,6 +19861,7 @@
 0.0.0.0 ferelatedmothes.com
 0.0.0.0 fermolo.info
 0.0.0.0 feroffer.com
+0.0.0.0 feronyv.com
 0.0.0.0 ferriesendless.com
 0.0.0.0 ferrycontinually.com
 0.0.0.0 fertilestared.com
@@ -21961,7 +21955,6 @@
 0.0.0.0 girlstretchingsplendid.com
 0.0.0.0 girlwallpaper.pro
 0.0.0.0 girnalnemean.com
-0.0.0.0 girohjalm.com.se
 0.0.0.0 girtijoo.com
 0.0.0.0 gishejuy.com
 0.0.0.0 gishpurer.shop
@@ -22853,6 +22846,7 @@
 0.0.0.0 growthrx.in
 0.0.0.0 growthtransport.com
 0.0.0.0 grphfzutw.xyz
+0.0.0.0 grpvyrybbqhob.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grsm.io
 0.0.0.0 grt02.com
@@ -23770,7 +23764,6 @@
 0.0.0.0 hewonderfulst.info
 0.0.0.0 hewrutu.top
 0.0.0.0 hexagon-analytics.com
-0.0.0.0 hexapinow.xyz
 0.0.0.0 hexinemicerun.top
 0.0.0.0 hexitolsafely.top
 0.0.0.0 hexovythi.pro
@@ -24909,6 +24902,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 ieapak.xyz
 0.0.0.0 iecmca.xyz
+0.0.0.0 iedullkg.com
 0.0.0.0 ielmzzm.com
 0.0.0.0 ieluqiqttdwv.com
 0.0.0.0 iemhotqk.com
@@ -27239,7 +27233,6 @@
 0.0.0.0 k864.orovillemr.com
 0.0.0.0 k8ik878i.top
 0.0.0.0 k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
-0.0.0.0 k8trangphim.com
 0.0.0.0 k9gj.site
 0.0.0.0 k9u.icu
 0.0.0.0 kaan.kakao.com
@@ -28993,7 +28986,6 @@
 0.0.0.0 link-empfehlen24.de
 0.0.0.0 link-medias.com
 0.0.0.0 link-trade.net
-0.0.0.0 link.cado.pro
 0.0.0.0 link.informer.com
 0.0.0.0 link.oddsscanner.net
 0.0.0.0 link.ru
@@ -29961,6 +29953,7 @@
 0.0.0.0 lskillsexkcerl.com
 0.0.0.0 lstmoney.xyz
 0.0.0.0 lsuwndhxt.com
+0.0.0.0 lsxvnzif.icu
 0.0.0.0 lsyliel.top
 0.0.0.0 lszydrtzsh.com
 0.0.0.0 ltapsxz.xyz
@@ -30620,7 +30613,6 @@
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.hub-js.com
-0.0.0.0 marketing.itgeek.vn
 0.0.0.0 marketing.mangacopy.com
 0.0.0.0 marketing.modalife.com
 0.0.0.0 marketing.net.brillen.de
@@ -30989,7 +30981,6 @@
 0.0.0.0 media.ad-lps.net
 0.0.0.0 media.adextent.com
 0.0.0.0 media.comeon.com
-0.0.0.0 media.dabong247.com
 0.0.0.0 media.foxweb.co.il
 0.0.0.0 media.hajper.com
 0.0.0.0 media.kahoxa.ru
@@ -32239,6 +32230,7 @@
 0.0.0.0 moon.ibytecdn.cn
 0.0.0.0 moonads.net
 0.0.0.0 mooncklick.com
+0.0.0.0 mooneyejollier.top
 0.0.0.0 moonicorn.network
 0.0.0.0 moonjscdn.info
 0.0.0.0 moonoafy.net
@@ -32319,6 +32311,7 @@
 0.0.0.0 motoadvert.ru
 0.0.0.0 motorpresse-statistik.de
 0.0.0.0 motosal.net
+0.0.0.0 motphimqq.pro
 0.0.0.0 motrixi.com
 0.0.0.0 motsardi.net
 0.0.0.0 moumaiphuch.net
@@ -34733,6 +34726,7 @@
 0.0.0.0 oecistbenton.com
 0.0.0.0 oehgk.com
 0.0.0.0 oelwojattkd.xyz
+0.0.0.0 oempafnyfiexpe.com
 0.0.0.0 oeqirr.com
 0.0.0.0 oeryt111.fun
 0.0.0.0 oestpq.com
@@ -35008,6 +35002,7 @@
 0.0.0.0 ololenopoteretol.info
 0.0.0.0 olomonautcatho.info
 0.0.0.0 olopruy.com
+0.0.0.0 olpoxumbkput.com
 0.0.0.0 olq18dx1t.com
 0.0.0.0 olqead.com
 0.0.0.0 olularhenewrev.info
@@ -35068,6 +35063,7 @@
 0.0.0.0 omjqukadtolg.com
 0.0.0.0 omkt.co
 0.0.0.0 omkxadadsh.com
+0.0.0.0 ommjkomvweg.com
 0.0.0.0 omnatuor.com
 0.0.0.0 omni-ad-blocket.herokuapp.com
 0.0.0.0 omni-ads.com
@@ -35190,6 +35186,7 @@
 0.0.0.0 onkafxtiqcu.com
 0.0.0.0 onkavst.com
 0.0.0.0 onkodjwuq.com
+0.0.0.0 online-1.co.in
 0.0.0.0 online-adnetwork.com
 0.0.0.0 online-banners.nl
 0.0.0.0 online-ibank.com
@@ -35808,6 +35805,7 @@
 0.0.0.0 ovaleithermansfield.com
 0.0.0.0 ovardu.com
 0.0.0.0 ovdimin.buzz
+0.0.0.0 oveakmqk.com
 0.0.0.0 oveechoops.xyz
 0.0.0.0 ovejqw.xyz
 0.0.0.0 ovenbifaces.cam
@@ -39645,11 +39643,9 @@
 0.0.0.0 quamomo.vn
 0.0.0.0 quandoi-viettel.com
 0.0.0.0 quangcao.24h.com.vn
-0.0.0.0 quangcao.baovannghe.com.vn
 0.0.0.0 quangcao.fff.com.vn
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 quangcao.tuoitre.vn
-0.0.0.0 quangcao247.com.vn
 0.0.0.0 quangcaococcoc.vn
 0.0.0.0 quangcaodantri.vn
 0.0.0.0 quangnamquetoi.weebly.com
@@ -40590,7 +40586,6 @@
 0.0.0.0 regulationprivilegescan.top
 0.0.0.0 regulushamal.top
 0.0.0.0 rehvbghwe.cc
-0.0.0.0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 0.0.0.0 reicezenana.com
 0.0.0.0 reichelcormier.bid
 0.0.0.0 reimageplus.com
@@ -41308,6 +41303,7 @@
 0.0.0.0 rmgdapfnccsharpprd.azurewebsites.net
 0.0.0.0 rmhfrtnd.com
 0.0.0.0 rmioswx.icu
+0.0.0.0 rmishe.com
 0.0.0.0 rmndme.com
 0.0.0.0 rmonitor.qq.com
 0.0.0.0 rmshqa.com
@@ -42530,7 +42526,6 @@
 0.0.0.0 sd8015.xyz
 0.0.0.0 sda.seesaa.jp
 0.0.0.0 sda.seksohub.com
-0.0.0.0 sda.tamdiem247.com
 0.0.0.0 sdamcsb.top
 0.0.0.0 sdarot-il.org
 0.0.0.0 sdarot-tv.org
@@ -42850,6 +42845,7 @@
 0.0.0.0 senopaee.com
 0.0.0.0 sensationnominatereflect.com
 0.0.0.0 sensationtwigpresumptuous.com
+0.0.0.0 senscirrascul.co.in
 0.0.0.0 sensible-ads.com
 0.0.0.0 sensic.net
 0.0.0.0 sensifyfugged.com
@@ -45893,7 +45889,6 @@
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.stylight.de
 0.0.0.0 stats.suite101.com
-0.0.0.0 stats.tamdiem247.com
 0.0.0.0 stats.tazeros.com
 0.0.0.0 stats.tehila.gov.il
 0.0.0.0 stats.thevideo.me
@@ -46901,7 +46896,6 @@
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 synchronizerobot.com
 0.0.0.0 synchroparomologyauditable.monster
-0.0.0.0 syncwowsails.com
 0.0.0.0 syndenizen.shop
 0.0.0.0 syndicate.payloadz.com
 0.0.0.0 syndicatedsearch.goog
@@ -47472,6 +47466,7 @@
 0.0.0.0 tb55988.com
 0.0.0.0 tbaffiliate.com
 0.0.0.0 tbao684tryo.com
+0.0.0.0 tbbfdr.icu
 0.0.0.0 tbcconnect.ge
 0.0.0.0 tbe.tom.ru
 0.0.0.0 tbeiu658gftk.com
@@ -47728,6 +47723,7 @@
 0.0.0.0 tempergleefulvariability.com
 0.0.0.0 temperickysmelly.com
 0.0.0.0 temperrunnersdale.com
+0.0.0.0 tempisite.com
 0.0.0.0 templa.xyz
 0.0.0.0 templates.buscape.com
 0.0.0.0 templeoffendponder.com
@@ -49227,12 +49223,10 @@
 0.0.0.0 track.kueez.com
 0.0.0.0 track.kyna.vn
 0.0.0.0 track.kyoads.com
-0.0.0.0 track.lapa.pub
 0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.leadhit.io
 0.0.0.0 track.leady.cz
 0.0.0.0 track.lemmatechnologies.com
-0.0.0.0 track.lemonnovel.com
 0.0.0.0 track.libii.cn
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.list-finder.jp
@@ -49400,7 +49394,6 @@
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.gamedock.io
 0.0.0.0 tracker.gamemonkey.org
-0.0.0.0 tracker.gigaphim.com
 0.0.0.0 tracker.gleanview.com
 0.0.0.0 tracker.gpcdn.pl
 0.0.0.0 tracker.grupanya.com
@@ -49654,7 +49647,6 @@
 0.0.0.0 tracking.hapiwork.vn
 0.0.0.0 tracking.hd.se
 0.0.0.0 tracking.hivecloud.net
-0.0.0.0 tracking.hongtinnhanh.com
 0.0.0.0 tracking.hotel.check24.de
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.ht.se
@@ -49804,7 +49796,6 @@
 0.0.0.0 tracking.vegaid.vn
 0.0.0.0 tracking.venturify.at
 0.0.0.0 tracking.vetlandaposten.se
-0.0.0.0 tracking.vht.com.vn
 0.0.0.0 tracking.vid4u.org
 0.0.0.0 tracking.vietbao.vn
 0.0.0.0 tracking.viewlift.com
@@ -50682,6 +50673,7 @@
 0.0.0.0 twcount.com
 0.0.0.0 twcouponcenter.com
 0.0.0.0 tweakarrangement.com
+0.0.0.0 tweelessatic.co.in
 0.0.0.0 tweisii.top
 0.0.0.0 tweizai.top
 0.0.0.0 twelfthcomprehendgrape.com
@@ -51146,6 +51138,7 @@
 0.0.0.0 umcbbt.com
 0.0.0.0 umdgene.com
 0.0.0.0 umebella.com
+0.0.0.0 umedadelemp.com
 0.0.0.0 umekana.ru
 0.0.0.0 umentrandings.xyz
 0.0.0.0 umescomymanda.info
@@ -51903,6 +51896,7 @@
 0.0.0.0 vaiglunoz.com
 0.0.0.0 vaigowoa.com
 0.0.0.0 vaikijie.net
+0.0.0.0 vaimucuvikuwu.net
 0.0.0.0 vainfulkmole.com
 0.0.0.0 vainjav11.fun
 0.0.0.0 vaipsona.com
@@ -52954,6 +52948,7 @@
 0.0.0.0 vipbanner.de
 0.0.0.0 vipcard-vib.com
 0.0.0.0 vipcpms.com
+0.0.0.0 vipdragonapp.monster
 0.0.0.0 viperishly.com
 0.0.0.0 viperotika.net
 0.0.0.0 vipgogo123.site
@@ -53149,7 +53144,6 @@
 0.0.0.0 vlogs.deja.media
 0.0.0.0 vlry5l4j5gbn.com
 0.0.0.0 vltjnmkps.xyz
-0.0.0.0 vlxx.host
 0.0.0.0 vlyby.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vm8lm1vp.xyz
@@ -55319,7 +55313,6 @@
 0.0.0.0 www.championsverige.com.se
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.fakturino.se
-0.0.0.0 www.filasverigese.com
 0.0.0.0 www.guesssverige.com.se
 0.0.0.0 www.gymshark-sweden.com.se
 0.0.0.0 www.hey.lt
@@ -56837,6 +56830,7 @@
 0.0.0.0 zlinkm.com
 0.0.0.0 zlog.mp3.zing.vn
 0.0.0.0 zlog.zingmp3.vn
+0.0.0.0 zloweb.me
 0.0.0.0 zltndp.xyz
 0.0.0.0 zlviiaom.space
 0.0.0.0 zlvlciv.xyz

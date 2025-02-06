@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 05 Feb 2025 04:28:33 UTC
+# Updated at Thu, 06 Feb 2025 04:29:32 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -207,6 +207,7 @@
 0.0.0.0 az.nzn.io
 0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 b.bedop.com
+0.0.0.0 b.trueanthem.com
 0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
@@ -953,7 +954,6 @@
 0.0.0.0 refer.wordpress.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 removeads.workers.dev
-0.0.0.0 report.error-report.com
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.singlefeed.com

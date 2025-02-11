@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 10 Feb 2025 04:30:29 UTC
+# Updated at Tue, 11 Feb 2025 04:27:53 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -694,7 +694,6 @@
 0.0.0.0 postut.cn
 0.0.0.0 powerlinks.com
 0.0.0.0 pr.comet.yahoo.com
-0.0.0.0 prebid-cache.ifunny.co
 0.0.0.0 preitem.wshareit.com
 0.0.0.0 presage.io
 0.0.0.0 prod.adjoe.zone

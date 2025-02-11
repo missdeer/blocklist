@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 10 Feb 2025 04:30:29 UTC
+# Updated at Tue, 11 Feb 2025 04:27:53 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -640,6 +640,7 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geoservice.curse.com
+0.0.0.0 geotags.refinery89.com
 0.0.0.0 geotrust.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
 0.0.0.0 gleam.io

@@ -1,13 +1,14 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Mon, 10 Feb 2025 04:30:29 UTC
+# Updated at Tue, 11 Feb 2025 04:27:53 UTC
 #
 
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.myikas.com
 0.0.0.0 002777.xyz
 0.0.0.0 003store.com
+0.0.0.0 00404850.xyz
 0.0.0.0 00701059.xyz
 0.0.0.0 00771944.xyz
 0.0.0.0 00857731.xyz
@@ -1346,15 +1347,18 @@
 0.0.0.0 72hdgb5o.de
 0.0.0.0 73336zubo25326.com
 0.0.0.0 73503921.xyz
+0.0.0.0 73568955.xyz
 0.0.0.0 73652253191.com
 0.0.0.0 7378e81adf.com
 0.0.0.0 73a70e581b.com
 0.0.0.0 74.55.82.102
+0.0.0.0 74099753.xyz
 0.0.0.0 7411603f57.com
 0.0.0.0 74142961.xyz
 0.0.0.0 741a18df39.com
 0.0.0.0 742ba1f9a9.com
 0.0.0.0 743fa12700.com
+0.0.0.0 74759411.xyz
 0.0.0.0 754480bd33.com
 0.0.0.0 75690049.xyz
 0.0.0.0 75h4x7992.com
@@ -1390,6 +1394,7 @@
 0.0.0.0 78.140.134.198
 0.0.0.0 78.140.149.216
 0.0.0.0 7807091956.com
+0.0.0.0 78161013.xyz
 0.0.0.0 7841ffda.xyz
 0.0.0.0 7868d5c036.com
 0.0.0.0 786yfvedhcbxjk.top
@@ -1479,6 +1484,7 @@
 0.0.0.0 835images1.com
 0.0.0.0 83761158.xyz
 0.0.0.0 83887336.xyz
+0.0.0.0 84055600.xyz
 0.0.0.0 845d6bbf60.com
 0.0.0.0 84631949.xyz
 0.0.0.0 847h7f51.de
@@ -1491,6 +1497,7 @@
 0.0.0.0 85a90880b9.com
 0.0.0.0 85fef60641.com
 0.0.0.0 86124673.xyz
+0.0.0.0 86222538.xyz
 0.0.0.0 864feb57ruary.com
 0.0.0.0 869cf3d7e4.com
 0.0.0.0 874547.men
@@ -1617,6 +1624,7 @@
 0.0.0.0 94lm.com
 0.0.0.0 94x.icu
 0.0.0.0 95.211.125.226
+0.0.0.0 95597529.xyz
 0.0.0.0 95b1e00252.com
 0.0.0.0 95d127d868.com
 0.0.0.0 95ppq87g.de
@@ -1636,6 +1644,7 @@
 0.0.0.0 98158.com
 0.0.0.0 9831tb.com
 0.0.0.0 98383163.xyz
+0.0.0.0 98643801.xyz
 0.0.0.0 98738797.xyz
 0.0.0.0 98765.pw
 0.0.0.0 98853171.xyz
@@ -6665,6 +6674,7 @@
 0.0.0.0 aqkkoalfpz.com
 0.0.0.0 aqncinxrexa.com
 0.0.0.0 aqnnysd.com
+0.0.0.0 aqowgoascdb.com
 0.0.0.0 aqptziligoqn.com
 0.0.0.0 aqspcbz.com
 0.0.0.0 aqtracker.com
@@ -8188,7 +8198,6 @@
 0.0.0.0 bazamodov.ru
 0.0.0.0 bazao.xyz
 0.0.0.0 bb.lekumo.jp
-0.0.0.0 bb2022.info
 0.0.0.0 bb8.aotter.net
 0.0.0.0 bb9998.com
 0.0.0.0 bbangads.b-cdn.net
@@ -14139,6 +14148,7 @@
 0.0.0.0 d12t7h1bsbq1cs.cloudfront.net
 0.0.0.0 d12tu1kocp8e8u.cloudfront.net
 0.0.0.0 d12ylqdkzgcup5.cloudfront.net
+0.0.0.0 d12zgccgt6pwjz.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13gni3sfor862.cloudfront.net
 0.0.0.0 d13j11nqjt0s84.cloudfront.net
@@ -14148,6 +14158,7 @@
 0.0.0.0 d13pxqgp3ixdbh.cloudfront.net
 0.0.0.0 d13qwbj37sfx89.cloudfront.net
 0.0.0.0 d13r2gmqlqb3hr.cloudfront.net
+0.0.0.0 d13uyjvmsvkesh.cloudfront.net
 0.0.0.0 d13vul5n9pqibl.cloudfront.net
 0.0.0.0 d140sbu1b1m3h0.cloudfront.net
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
@@ -14167,6 +14178,7 @@
 0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d15kuuu3jqrln7.cloudfront.net
 0.0.0.0 d15mt77nzagpnx.cloudfront.net
+0.0.0.0 d15skjf5hy9xr6.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
 0.0.0.0 d162h6x3rxav67.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
@@ -14204,6 +14216,7 @@
 0.0.0.0 d199kwgcer5a6q.cloudfront.net
 0.0.0.0 d19a04d0igndnt.cloudfront.net
 0.0.0.0 d19bpqj0yivlb3.cloudfront.net
+0.0.0.0 d19diizb3qce6y.cloudfront.net
 0.0.0.0 d19gkl2iaav80x.cloudfront.net
 0.0.0.0 d19uh5b0umbjrr.cloudfront.net
 0.0.0.0 d19xf4taj229i8.cloudfront.net
@@ -14278,6 +14291,7 @@
 0.0.0.0 d1f9x963ud6u7a.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1fs2ef81chg3.cloudfront.net
+0.0.0.0 d1ftkft7iiluq6.cloudfront.net
 0.0.0.0 d1g2nud28z4vph.cloudfront.net
 0.0.0.0 d1g4493j0tcwvt.cloudfront.net
 0.0.0.0 d1g4xgvlcsj49g.cloudfront.net
@@ -14293,10 +14307,12 @@
 0.0.0.0 d1hogxc58mhzo9.cloudfront.net
 0.0.0.0 d1hyarjnwqrenh.cloudfront.net
 0.0.0.0 d1i11ea1m0er9t.cloudfront.net
+0.0.0.0 d1i1d9hx0883rq.cloudfront.net
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
 0.0.0.0 d1i3h541wbnrfi.cloudfront.net
 0.0.0.0 d1i64ia3gj0ol1.cloudfront.net
 0.0.0.0 d1i76h1c9mme1m.cloudfront.net
+0.0.0.0 d1ieffz9zqrn09.cloudfront.net
 0.0.0.0 d1igvjcl1gjs62.cloudfront.net
 0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1iy4wgzi9qdu7.cloudfront.net
@@ -14315,6 +14331,7 @@
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
 0.0.0.0 d1k8mqc61fowi.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
+0.0.0.0 d1krgg9nh7vzxg.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1ktmtailsv07c.cloudfront.net
 0.0.0.0 d1kttpj1t6674w.cloudfront.net
@@ -14334,10 +14351,12 @@
 0.0.0.0 d1mbihpm2gncx7.cloudfront.net
 0.0.0.0 d1mcwmzol446xa.cloudfront.net
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
+0.0.0.0 d1mikxzr3lp4va.cloudfront.net
 0.0.0.0 d1miwkthq39xj8.cloudfront.net
 0.0.0.0 d1mroptkfdxko5.cloudfront.net
 0.0.0.0 d1mub3aw743hsf.cloudfront.net
 0.0.0.0 d1my7gmbyaxdyn.cloudfront.net
+0.0.0.0 d1myn4ixnn41tz.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
 0.0.0.0 d1n1ppeppre6d4.cloudfront.net
 0.0.0.0 d1n3aexzs37q4s.cloudfront.net
@@ -14388,6 +14407,7 @@
 0.0.0.0 d1r55yzuc1b1bw.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.net
 0.0.0.0 d1r9f6frybgiqo.cloudfront.net
+0.0.0.0 d1rczqt4tdkw1g.cloudfront.net
 0.0.0.0 d1rgi5lmynkcm4.cloudfront.net
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1rguclfwp7nc8.cloudfront.net
@@ -14416,6 +14436,7 @@
 0.0.0.0 d1tafuajjg33f8.cloudfront.net
 0.0.0.0 d1tbj6eaenapdy.cloudfront.net
 0.0.0.0 d1tizxwina1bjc.cloudfront.net
+0.0.0.0 d1tjcziy9n8hnk.cloudfront.net
 0.0.0.0 d1tprjo2w7krrh.cloudfront.net
 0.0.0.0 d1tracker.ru
 0.0.0.0 d1tt3ye7u0e0ql.cloudfront.net
@@ -14442,6 +14463,7 @@
 0.0.0.0 d1vy7td57198sq.cloudfront.net
 0.0.0.0 d1w24oanovvxvg.cloudfront.net
 0.0.0.0 d1w5452x8p71hs.cloudfront.net
+0.0.0.0 d1w9uux77ifu8k.cloudfront.net
 0.0.0.0 d1wbjksx0xxdn3.cloudfront.net
 0.0.0.0 d1wc0ojltqk24g.cloudfront.net
 0.0.0.0 d1wd81rzdci3ru.cloudfront.net
@@ -14521,6 +14543,7 @@
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pdhuxarn9w2.cloudfront.net
 0.0.0.0 d23poh9wsma6va.cloudfront.net
+0.0.0.0 d23rx8p5l6yry7.cloudfront.net
 0.0.0.0 d23spca806c5fu.cloudfront.net
 0.0.0.0 d23xhr62nxa8qo.cloudfront.net
 0.0.0.0 d240937yockcdo.cloudfront.net
@@ -14532,6 +14555,7 @@
 0.0.0.0 d24fnxkxwarvg8.cloudfront.net
 0.0.0.0 d24g87zbxr4yiz.cloudfront.net
 0.0.0.0 d24iusj27nm1rd.cloudfront.net
+0.0.0.0 d24lwiav9pbaw7.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d250.baltimoresun.com
 0.0.0.0 d25dfknw9ghxs6.cloudfront.net
@@ -14614,6 +14638,7 @@
 0.0.0.0 d2er1uyk6qcknh.cloudfront.net
 0.0.0.0 d2ers4gi7coxau.cloudfront.net
 0.0.0.0 d2eyuq8th0eqll.cloudfront.net
+0.0.0.0 d2ezb29y2sin9e.cloudfront.net
 0.0.0.0 d2ezz24t9nm0vu.cloudfront.net
 0.0.0.0 d2f0ixlrgtk7ff.cloudfront.net
 0.0.0.0 d2f0uviei09pxb.cloudfront.net
@@ -14644,6 +14669,7 @@
 0.0.0.0 d2i4wzwe8j1np9.cloudfront.net
 0.0.0.0 d2i55s0cnk529c.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
+0.0.0.0 d2idmzrhlqydr.cloudfront.net
 0.0.0.0 d2ieqaiwehnqqp.cloudfront.net
 0.0.0.0 d2ier523in7agz.cloudfront.net
 0.0.0.0 d2it3a9l98tmsr.cloudfront.net
@@ -14668,6 +14694,7 @@
 0.0.0.0 d2kd9y1bp4zc6.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2kecuadujf2df.cloudfront.net
+0.0.0.0 d2kgzdmv0vdycp.cloudfront.net
 0.0.0.0 d2khpmub947xov.cloudfront.net
 0.0.0.0 d2kk0o3fr7ed01.cloudfront.net
 0.0.0.0 d2kldhyijnaccr.cloudfront.net
@@ -14729,6 +14756,7 @@
 0.0.0.0 d2q9y3krdwohfj.cloudfront.net
 0.0.0.0 d2qf34ln5axea0.cloudfront.net
 0.0.0.0 d2qfd8ejsuejas.cloudfront.net
+0.0.0.0 d2qhuw8qcxnldj.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2qn0djb6oujlt.cloudfront.net
 0.0.0.0 d2qnx6y010m4rt.cloudfront.net
@@ -14811,6 +14839,7 @@
 0.0.0.0 d2zf5gu5e5mp87.cloudfront.net
 0.0.0.0 d2zh7okxrw0ix.cloudfront.net
 0.0.0.0 d2zi8ra5rb7m89.cloudfront.net
+0.0.0.0 d2zk8mk8hghu3d.cloudfront.net
 0.0.0.0 d2zrhnhjlfcuhf.cloudfront.net
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d2zzazjvlpgmgi.cloudfront.net
@@ -14822,6 +14851,7 @@
 0.0.0.0 d30sxnvlkawtwa.cloudfront.net
 0.0.0.0 d30tme16wdjle5.cloudfront.net
 0.0.0.0 d30ts2zph80iw7.cloudfront.net
+0.0.0.0 d30vnp3fqcdhq5.cloudfront.net
 0.0.0.0 d30yd3ryh0wmud.cloudfront.net
 0.0.0.0 d30zrwt3s044zr.cloudfront.net
 0.0.0.0 d313lzv9559yp9.cloudfront.net
@@ -14892,6 +14922,7 @@
 0.0.0.0 d38itq6vdv6gr9.cloudfront.net
 0.0.0.0 d38psrni17bvxu.cloudfront.net
 0.0.0.0 d38rrxgee6j9l3.cloudfront.net
+0.0.0.0 d390icj1ta4x0p.cloudfront.net
 0.0.0.0 d396osuty6rfec.cloudfront.net
 0.0.0.0 d399jvos5it4fl.cloudfront.net
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
@@ -14940,6 +14971,7 @@
 0.0.0.0 d3eksfxlf7bv9h.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3ep3jwb1mgn3k.cloudfront.net
+0.0.0.0 d3ept9mddcbuhi.cloudfront.net
 0.0.0.0 d3eub2e21dc6h0.cloudfront.net
 0.0.0.0 d3evio1yid77jr.cloudfront.net
 0.0.0.0 d3eyi07eikbx0y.cloudfront.net
@@ -14954,7 +14986,9 @@
 0.0.0.0 d3g4a.cyou
 0.0.0.0 d3g4s1p0bmuj5f.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
+0.0.0.0 d3gi4w10ruedfh.cloudfront.net
 0.0.0.0 d3gi6isrskhoq.cloudfront.net
+0.0.0.0 d3glxtkdbno0so.cloudfront.net
 0.0.0.0 d3h2eyuxrf2jr9.cloudfront.net
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d3hfiiy55cbi5t.cloudfront.net
@@ -14996,6 +15030,7 @@
 0.0.0.0 d3lqotgbn3npr.cloudfront.net
 0.0.0.0 d3lvr7yuk4uaui.cloudfront.net
 0.0.0.0 d3lw2k94jnkvbs.cloudfront.net
+0.0.0.0 d3lwdybbvxc4v9.cloudfront.net
 0.0.0.0 d3m4hp4bp4w996.cloudfront.net
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
 0.0.0.0 d3m8nzcefuqu7h.cloudfront.net
@@ -15012,6 +15047,7 @@
 0.0.0.0 d3n9c6iuvomkjk.cloudfront.net
 0.0.0.0 d3nel6rcmq5lzw.cloudfront.net
 0.0.0.0 d3ngt858zasqwf.cloudfront.net
+0.0.0.0 d3nj94pigtgs7y.cloudfront.net
 0.0.0.0 d3nq5jrakcyw1w.cloudfront.net
 0.0.0.0 d3numuoibysgi8.cloudfront.net
 0.0.0.0 d3nvrqlo8rj1kw.cloudfront.net
@@ -15040,6 +15076,7 @@
 0.0.0.0 d3qgd3yzs41yp.cloudfront.net
 0.0.0.0 d3qilfrpqzfrg4.cloudfront.net
 0.0.0.0 d3qinhqny4thfo.cloudfront.net
+0.0.0.0 d3qoo9sgtleqbe.cloudfront.net
 0.0.0.0 d3qttli028txpv.cloudfront.net
 0.0.0.0 d3qu0b872n4q3x.cloudfront.net
 0.0.0.0 d3qvcyf9oa6vhw.cloudfront.net
@@ -15060,6 +15097,7 @@
 0.0.0.0 d3sdg6egu48sqx.cloudfront.net
 0.0.0.0 d3skqyr7uryv9z.cloudfront.net
 0.0.0.0 d3sof4x9nlmbgy.cloudfront.net
+0.0.0.0 d3srxd2wvksmqd.cloudfront.net
 0.0.0.0 d3t16rotvvsanj.cloudfront.net
 0.0.0.0 d3t3bxixsojwre.cloudfront.net
 0.0.0.0 d3t3lxfqz2g5hs.cloudfront.net
@@ -15109,6 +15147,7 @@
 0.0.0.0 d4eqyxjqusvjj.cloudfront.net
 0.0.0.0 d4ngwggzm3w7j.cloudfront.net
 0.0.0.0 d52a6b131d.com
+0.0.0.0 d5465f9d11.com
 0.0.0.0 d56cfcfcab.com
 0.0.0.0 d592971f36.com
 0.0.0.0 d5chnap6b.com
@@ -15165,6 +15204,7 @@
 0.0.0.0 d985a9d2clzq5.cloudfront.net
 0.0.0.0 d9b5gfwt6p05u.cloudfront.net
 0.0.0.0 d9c5dterekrjd.cloudfront.net
+0.0.0.0 d9cshxmf0qazr.cloudfront.net
 0.0.0.0 d9db994995.com
 0.0.0.0 d9fb2cc166.com
 0.0.0.0 d9jj3mjthpub.cloudfront.net
@@ -15678,6 +15718,7 @@
 0.0.0.0 debitcrebit669.com
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 debonerscroop.top
+0.0.0.0 debridleech.com
 0.0.0.0 debrisstern.com
 0.0.0.0 debtsbosom.com
 0.0.0.0 debtsevolve.com
@@ -16912,6 +16953,7 @@
 0.0.0.0 doitiengia.com
 0.0.0.0 dojomojo.ninja
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
+0.0.0.0 dojy0dg181308.cloudfront.net
 0.0.0.0 dokaboka.com
 0.0.0.0 dokondigit.quest
 0.0.0.0 dokseptaufa.com
@@ -17424,6 +17466,7 @@
 0.0.0.0 dtybyfo.com
 0.0.0.0 dtylhedgelnham.com
 0.0.0.0 dtyry4ejybx0.cloudfront.net
+0.0.0.0 du002iv2rxh4h.cloudfront.net
 0.0.0.0 du01z5hhojprz.cloudfront.net
 0.0.0.0 du0pud0sdlmzf.cloudfront.net
 0.0.0.0 du1.bbdj.com
@@ -17467,6 +17510,7 @@
 0.0.0.0 dugothitachan.com
 0.0.0.0 dugraukeeck.net
 0.0.0.0 dugrurdoy.com
+0.0.0.0 duh0b8nl8uhfn.cloudfront.net
 0.0.0.0 duili-mtp.com
 0.0.0.0 duimspruer.life
 0.0.0.0 duiwai.baidu.com
@@ -18254,6 +18298,7 @@
 0.0.0.0 ekmas.com
 0.0.0.0 ekmpinpoint.co.uk
 0.0.0.0 ekmpinpoint.com
+0.0.0.0 ekont.site
 0.0.0.0 ekwzxay.com
 0.0.0.0 ekxyrwvoegb.xyz
 0.0.0.0 ekykse.xyz
@@ -19672,7 +19717,6 @@
 0.0.0.0 falcatayamalka.com
 0.0.0.0 falcoware.com
 0.0.0.0 falixa.com
-0.0.0.0 falkag.de
 0.0.0.0 falkag.net
 0.0.0.0 falkwo.com
 0.0.0.0 fallenleadingthug.com
@@ -19768,6 +19812,7 @@
 0.0.0.0 fastlnd.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fastnativead.com
+0.0.0.0 fastorfar.com
 0.0.0.0 fastsex.ru
 0.0.0.0 faststart.ru
 0.0.0.0 fastview.co.kr
@@ -19896,6 +19941,7 @@
 0.0.0.0 febtzd.xyz
 0.0.0.0 fecabookk.com
 0.0.0.0 fecguzhzeia.vip
+0.0.0.0 feckurteg.net
 0.0.0.0 fedapush.net
 0.0.0.0 fedassuagecompare.com
 0.0.0.0 federalacerbitylid.com
@@ -23864,6 +23910,7 @@
 0.0.0.0 hesftig.site
 0.0.0.0 hesoorda.com
 0.0.0.0 hespe-bmq.com
+0.0.0.0 hesqvflhk.com
 0.0.0.0 hesterinoc.info
 0.0.0.0 hestutche.com
 0.0.0.0 hesudsuzoa.com
@@ -24375,6 +24422,7 @@
 0.0.0.0 hopelessrolling.com
 0.0.0.0 hopesteapot.com
 0.0.0.0 hopghpfa.com
+0.0.0.0 hopgp.com
 0.0.0.0 hoplekhornnist.space
 0.0.0.0 hoppermagazineprecursor.com
 0.0.0.0 hoppershortercultivate.com
@@ -26947,6 +26995,7 @@
 0.0.0.0 jkyawbmyvqez.top
 0.0.0.0 jkzakzalzorvb.top
 0.0.0.0 jl63v3fp1.com
+0.0.0.0 jlouexxsb.com
 0.0.0.0 jlovoiqtgarh.com
 0.0.0.0 jlpbyt.com
 0.0.0.0 jltfqoxyhytayy.com
@@ -28013,7 +28062,6 @@
 0.0.0.0 koluraishimtouw.net
 0.0.0.0 komarchlupoid.com
 0.0.0.0 komoona.com
-0.0.0.0 komplads.net
 0.0.0.0 komtrack.com
 0.0.0.0 kono-research.de
 0.0.0.0 konradsheriff.com
@@ -29214,7 +29262,6 @@
 0.0.0.0 linkslot.ru
 0.0.0.0 linksmart.com
 0.0.0.0 linksprf.com
-0.0.0.0 linkstation.de
 0.0.0.0 linkstorm.net
 0.0.0.0 linktraff.ru
 0.0.0.0 linkunder.ru
@@ -29953,6 +30000,7 @@
 0.0.0.0 lootexhausted.com
 0.0.0.0 lootynews.com
 0.0.0.0 loovaist.net
+0.0.0.0 loowhujoom.net
 0.0.0.0 loozubaitoa.com
 0.0.0.0 lopfly.com
 0.0.0.0 lopley.com
@@ -30027,6 +30075,7 @@
 0.0.0.0 loushoafie.net
 0.0.0.0 loustran288gek.com
 0.0.0.0 lousyfastened.com
+0.0.0.0 louthicoozit.net
 0.0.0.0 louxoxo.com
 0.0.0.0 love-banner.com
 0.0.0.0 love-money.de
@@ -30349,6 +30398,7 @@
 0.0.0.0 lyplay.net
 0.0.0.0 lypn.com
 0.0.0.0 lypn.net
+0.0.0.0 lyrecomemumuen.com
 0.0.0.0 lyretul.top
 0.0.0.0 lyricalattorneyexplorer.com
 0.0.0.0 lyricaldefy.com
@@ -31620,6 +31670,7 @@
 0.0.0.0 mghkpg.com
 0.0.0.0 mgid.com
 0.0.0.0 mgidskix.top
+0.0.0.0 mgladthereisso.com
 0.0.0.0 mglsk.com
 0.0.0.0 mgmuye.xyz
 0.0.0.0 mgqtcs.xyz
@@ -32831,6 +32882,7 @@
 0.0.0.0 murkymouse.online
 0.0.0.0 murolwsi.com
 0.0.0.0 murqyi.com
+0.0.0.0 murriesforsee.shop
 0.0.0.0 musclesadmonishment.com
 0.0.0.0 musclesprefacelie.com
 0.0.0.0 muscularcopiedgulp.com
@@ -33912,6 +33964,7 @@
 0.0.0.0 nfuwlooaodf.com
 0.0.0.0 nfuwpyx.com
 0.0.0.0 nfyowjhcgb.com
+0.0.0.0 nfzaajfktztp.com
 0.0.0.0 nfztms.com
 0.0.0.0 ng-vn-notice.gameitop.com
 0.0.0.0 ngacm.com
@@ -34245,6 +34298,7 @@
 0.0.0.0 nonfictionrobustchastise.com
 0.0.0.0 nonfictiontickle.com
 0.0.0.0 nongrayrestis.com
+0.0.0.0 nonguds.com
 0.0.0.0 nonjurysundang.top
 0.0.0.0 nonoossol.xyz
 0.0.0.0 nonstoppartner.de
@@ -38321,7 +38375,6 @@
 0.0.0.0 preaf.jp
 0.0.0.0 preanalytication.com
 0.0.0.0 prearmskabiki.com
-0.0.0.0 prebid-cache.ifunny.co
 0.0.0.0 prebid-log.getpublica.com
 0.0.0.0 prebid.org
 0.0.0.0 prebidwrapper.com
@@ -39890,6 +39943,7 @@
 0.0.0.0 quantumpers.com
 0.0.0.0 quantumws.net
 0.0.0.0 quanzai.xyz
+0.0.0.0 quaocns.xyz
 0.0.0.0 quaplaytogether.com
 0.0.0.0 quarantinedisappearhive.com
 0.0.0.0 quarrelrelative.com
@@ -43466,6 +43520,7 @@
 0.0.0.0 shareweeknews.com
 0.0.0.0 sharion.xyz
 0.0.0.0 sharkbleed.com
+0.0.0.0 sharkfirelife.com
 0.0.0.0 sharks.vn
 0.0.0.0 sharondemurer.shop
 0.0.0.0 sharp.ondu.ru
@@ -45576,7 +45631,6 @@
 0.0.0.0 srefrukaxxa.com
 0.0.0.0 srgev.com
 0.0.0.0 srkft.com
-0.0.0.0 srmdata-eur.com
 0.0.0.0 srmdata.com
 0.0.0.0 srmsii.xyz
 0.0.0.0 srpx.net
@@ -48429,6 +48483,7 @@
 0.0.0.0 threeate.jp
 0.0.0.0 threedrive.su
 0.0.0.0 threeinvincible.com
+0.0.0.0 threewoodslose.com
 0.0.0.0 threkuth.com
 0.0.0.0 threrlak.com
 0.0.0.0 thresholdunusual.com
@@ -50354,6 +50409,7 @@
 0.0.0.0 trck.linkster.co
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trck.wargaming.net
+0.0.0.0 trckkkk.com
 0.0.0.0 trckng.dainese.com
 0.0.0.0 trckng.web55708.greatnet-hosting.de
 0.0.0.0 trckr.nordiskemedier.dk
@@ -51853,6 +51909,7 @@
 0.0.0.0 urvgwij.com
 0.0.0.0 urwb.ru
 0.0.0.0 uryle.ru
+0.0.0.0 us-behavior.apitd.net
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 us-east-1.paa-reporting-advertising.amazon
 0.0.0.0 us-events.api.iheart.com
@@ -54667,6 +54724,7 @@
 0.0.0.0 wfcs.lol
 0.0.0.0 wffbdim.com
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+0.0.0.0 wfhbfjllmkqmd.com
 0.0.0.0 wfijsc.xyz
 0.0.0.0 wfjslie.top
 0.0.0.0 wfnetwork.com

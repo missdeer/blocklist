@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 11 Feb 2025 04:27:53 UTC
+# Updated at Wed, 12 Feb 2025 04:28:36 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -735,6 +735,7 @@
 0.0.0.0 s.adx.opera.com
 0.0.0.0 s.hisp.in
 0.0.0.0 s3.ttpsdk.info
+0.0.0.0 san.myadssupport.com
 0.0.0.0 saymedia.com
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scorecardresearch.com

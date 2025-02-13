@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 12 Feb 2025 04:28:36 UTC
+# Updated at Thu, 13 Feb 2025 04:28:40 UTC
 #
 
 0.0.0.0 33across.com
@@ -626,6 +626,7 @@
 0.0.0.0 stat.gspaceteam.com
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.meitudata.com
+0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
 0.0.0.0 static.fengkongcloud.com

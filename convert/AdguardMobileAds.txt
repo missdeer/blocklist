@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 12 Feb 2025 04:28:36 UTC
+# Updated at Thu, 13 Feb 2025 04:28:40 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -595,7 +595,6 @@
 0.0.0.0 mobfox.com
 0.0.0.0 mobi.yanosik.pl
 0.0.0.0 mobiads.ru
-0.0.0.0 mobiadvert.livesportmedia.eu
 0.0.0.0 mobidriven.com
 0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 mobile-click.biz

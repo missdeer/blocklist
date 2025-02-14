@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 13 Feb 2025 04:28:40 UTC
+# Updated at Fri, 14 Feb 2025 04:28:50 UTC
 #
 
 0.0.0.0 33across.com
@@ -303,6 +303,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 flashtalking.com
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
@@ -335,6 +336,7 @@
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 iemiq.com

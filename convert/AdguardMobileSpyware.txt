@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 14 Feb 2025 04:28:50 UTC
+# Updated at Sat, 15 Feb 2025 04:30:37 UTC
 #
 
 0.0.0.0 33across.com
@@ -148,11 +148,13 @@
 0.0.0.0 ar.umeng.com
 0.0.0.0 arcspire.io
 0.0.0.0 astat.bugly.qq.com
+0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 autotrack.studyquicks.com
+0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 banner.appsflyer.com

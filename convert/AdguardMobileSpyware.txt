@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 17 Feb 2025 04:29:27 UTC
+# Updated at Tue, 18 Feb 2025 04:28:36 UTC
 #
 
 0.0.0.0 33across.com
@@ -169,6 +169,7 @@
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 bidswitch.net
+0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 brahe.apptimize.com
@@ -181,6 +182,7 @@
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdnappicons.appsflyer.com
+0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
 0.0.0.0 cfg.cml.ksmobile.com
@@ -542,6 +544,7 @@
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtas.qq.com
 0.0.0.0 pippio.com
+0.0.0.0 pixel.magentamarketing.com
 0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 ploy.batmobi.net

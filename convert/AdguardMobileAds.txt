@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 18 Feb 2025 04:28:36 UTC
+# Updated at Wed, 19 Feb 2025 04:30:05 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -406,6 +406,7 @@
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data2.doodlemobile.com
 0.0.0.0 dataflow.biliapi.com
+0.0.0.0 datk.bridgeoos.com
 0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 debojuagug1sf.cloudfront.net
 0.0.0.0 delivery-cdn-cf.adswizz.com
@@ -795,6 +796,7 @@
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
+0.0.0.0 tapi.pureapk.com
 0.0.0.0 tapit.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net

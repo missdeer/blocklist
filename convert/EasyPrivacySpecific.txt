@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 20 Feb 2025 04:28:33 UTC
+# Updated at Fri, 21 Feb 2025 04:31:02 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -679,6 +679,7 @@
 0.0.0.0 tongji-res.meizu.com
 0.0.0.0 top.wn.com
 0.0.0.0 touch.myntra.com
+0.0.0.0 tr.api.fanbyte.com
 0.0.0.0 tr.clickstay.com
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 track-visit.monday.com

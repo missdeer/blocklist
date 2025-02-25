@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 24 Feb 2025 04:28:53 UTC
+# Updated at Tue, 25 Feb 2025 04:29:14 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -470,6 +470,7 @@
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 geede.info
 0.0.0.0 geoloc.yospace.com
+0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global.appnext.com
 0.0.0.0 go.admost.com
 0.0.0.0 go.mobstitialtag.com
@@ -690,6 +691,7 @@
 0.0.0.0 partnerearning.com
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pavoboxapp.com
+0.0.0.0 pavoshare.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 pflexads.com
 0.0.0.0 pgdt.gtimg.cn

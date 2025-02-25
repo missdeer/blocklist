@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 24 Feb 2025 04:28:53 UTC
+# Updated at Tue, 25 Feb 2025 04:29:13 UTC
 #
 
 0.0.0.0 33across.com
@@ -322,7 +322,6 @@
 0.0.0.0 gcm.ksmobile.com
 0.0.0.0 gcm.ksmobile.net
 0.0.0.0 gd-stats.jpush.cn
-0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
 0.0.0.0 geo.go2s.co
 0.0.0.0 geoinfo.i2w.io

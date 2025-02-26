@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 25 Feb 2025 04:29:14 UTC
+# Updated at Wed, 26 Feb 2025 04:30:50 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -690,7 +690,6 @@
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerearning.com
 0.0.0.0 pasta.esfile.duapps.com
-0.0.0.0 pavoboxapp.com
 0.0.0.0 pavoshare.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 pflexads.com
@@ -827,7 +826,6 @@
 0.0.0.0 tccbanner.com
 0.0.0.0 teachscape.vo.llnwd.net
 0.0.0.0 telemetryverification.net
-0.0.0.0 teraverseapp.com
 0.0.0.0 thecatmachine.com
 0.0.0.0 theship.club
 0.0.0.0 thetrafficstat.net

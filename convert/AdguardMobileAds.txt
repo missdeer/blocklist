@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 04 Mar 2025 04:29:39 UTC
+# Updated at Wed, 05 Mar 2025 04:29:42 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -359,7 +359,6 @@
 0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.jampp.com
-0.0.0.0 cdn.wtshare.com
 0.0.0.0 cdn2.auditude.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdp.cloud.unity3d.com
@@ -445,7 +444,6 @@
 0.0.0.0 exe.bid
 0.0.0.0 exelbid.com
 0.0.0.0 exponential.com
-0.0.0.0 external-ad.bunjang.co.kr
 0.0.0.0 external-api.impression-neo.naver.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 fiksu.com
@@ -456,13 +454,11 @@
 0.0.0.0 focas.jp
 0.0.0.0 friendlyduck.com
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
-0.0.0.0 funpavo.com
 0.0.0.0 fyber.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 gamaibids.com
 0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gamerplay67.space
-0.0.0.0 games.tresensa.com
 0.0.0.0 gateway.ttpsdk.info
 0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gdl.i9dhjx.ru
@@ -479,7 +475,6 @@
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 gumgum.com
-0.0.0.0 gwbudgetali.iymedia.me
 0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
 0.0.0.0 gynax.com
 0.0.0.0 h5.isnssdk.com
@@ -578,7 +573,6 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads.bz
 0.0.0.0 manage.com
-0.0.0.0 mangomob.net
 0.0.0.0 manifest.auditude.com
 0.0.0.0 marketing.mangacopy.com
 0.0.0.0 matrix.dailyinnovation.biz
@@ -658,7 +652,6 @@
 0.0.0.0 nickhel.com
 0.0.0.0 nkis.nikkei.com
 0.0.0.0 nomalleadzuaff.com
-0.0.0.0 notifiy.rtbuniverse.com
 0.0.0.0 novostimira.biz
 0.0.0.0 noxagile.duapp.com
 0.0.0.0 numbers.md

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 06 Mar 2025 04:30:42 UTC
+# Updated at Fri, 07 Mar 2025 04:29:40 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -377,6 +377,7 @@
 0.0.0.0 lists.ccmbg.com
 0.0.0.0 lms.roblox.com
 0.0.0.0 log-185a61e7.bendigobank.com.au
+0.0.0.0 log-2ffe60ee.westpac.com.au
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log.china.cn
 0.0.0.0 log.genyt.net
@@ -762,6 +763,7 @@
 0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wup-185a61e7.bendigobank.com.au
+0.0.0.0 wup-2ffe60ee.westpac.com.au
 0.0.0.0 xp.apple.com
 0.0.0.0 y738.nhregister.com
 0.0.0.0 y820.darientimes.com

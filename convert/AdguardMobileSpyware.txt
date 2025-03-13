@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 12 Mar 2025 04:32:06 UTC
+# Updated at Thu, 13 Mar 2025 04:30:25 UTC
 #
 
 0.0.0.0 33across.com
@@ -335,6 +335,7 @@
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gnsnpaw.com
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hit.gemius.pl
@@ -451,6 +452,7 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com

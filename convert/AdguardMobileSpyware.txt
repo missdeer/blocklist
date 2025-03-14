@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 13 Mar 2025 04:30:25 UTC
+# Updated at Fri, 14 Mar 2025 04:32:30 UTC
 #
 
 0.0.0.0 33across.com
@@ -200,6 +200,7 @@
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clog.mirrativ.com
 0.0.0.0 cloudconf.fengkongcloud.com
+0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 co.akisinn.info
 0.0.0.0 co.dewrain.life
 0.0.0.0 co.vaicore.site

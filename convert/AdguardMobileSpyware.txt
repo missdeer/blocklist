@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 14 Mar 2025 04:32:30 UTC
+# Updated at Sat, 15 Mar 2025 04:28:50 UTC
 #
 
 0.0.0.0 33across.com
@@ -43,12 +43,8 @@
 0.0.0.0 akstat.io
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 ali-stats.jpush.cn
-0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
-0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
-0.0.0.0 alogsus.umeng.com
-0.0.0.0 alogus.umeng.com
 0.0.0.0 am.yahoo.co.jp
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplitude.life360.com
@@ -146,7 +142,6 @@
 0.0.0.0 appmetr.com
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 apsrgeo.amap.com
-0.0.0.0 ar.umeng.com
 0.0.0.0 arcspire.io
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 atb-stats-api.imolive.tv
@@ -274,7 +269,6 @@
 0.0.0.0 ec.adadapted.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 elephantdata.net
-0.0.0.0 errlogos.umeng.com
 0.0.0.0 esa-reg-eup.myoppo.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sandai.net
@@ -527,10 +521,10 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 npario-inc.net
+0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 oc.umeng.com
 0.0.0.0 oldevent.togothermany.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 omni-ads.omni.news
@@ -554,7 +548,6 @@
 0.0.0.0 pippio.com
 0.0.0.0 pixel.magentamarketing.com
 0.0.0.0 plankton-gtm.a.autoscout24.com
-0.0.0.0 plbslog.umeng.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 pps-log.op-mobile.opera.com
@@ -642,6 +635,7 @@
 0.0.0.0 stat.gspaceteam.com
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.meitudata.com
+0.0.0.0 stat.nsc-lab.io
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
@@ -660,6 +654,7 @@
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
+0.0.0.0 stbid.ru
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
@@ -756,7 +751,6 @@
 0.0.0.0 uc.ucweb.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ug-sg.byteoversea.com
-0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 upalytics.com

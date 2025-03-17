@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 16 Mar 2025 04:29:48 UTC
+# Updated at Mon, 17 Mar 2025 04:30:20 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -84,6 +84,7 @@
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
+0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 ats.alot.com

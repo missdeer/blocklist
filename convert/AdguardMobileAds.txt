@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 19 Mar 2025 04:30:16 UTC
+# Updated at Thu, 20 Mar 2025 04:30:23 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -756,6 +756,7 @@
 0.0.0.0 servebom.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 serveraddr.service.kugou.com
+0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 sessionm.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 sexpennyauctions.com

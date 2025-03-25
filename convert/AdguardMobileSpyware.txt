@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 24 Mar 2025 04:31:55 UTC
+# Updated at Tue, 25 Mar 2025 04:32:24 UTC
 #
 
 0.0.0.0 33across.com
@@ -143,6 +143,7 @@
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 arcspire.io
+0.0.0.0 asanalytics.booking.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 atsod.launch.liveramp.com
@@ -221,6 +222,7 @@
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.appsflyersdk.com
 0.0.0.0 costco-adbutler.com
+0.0.0.0 counters.booking.com
 0.0.0.0 countly.globaldelight.net
 0.0.0.0 cpx.to
 0.0.0.0 crasheye.cn
@@ -333,6 +335,7 @@
 0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
 0.0.0.0 hibiki-track.logica.bz
+0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
 0.0.0.0 hq1.appsflyer.com

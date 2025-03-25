@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 24 Mar 2025 04:31:55 UTC
+# Updated at Tue, 25 Mar 2025 04:32:24 UTC
 #
 
 0.0.0.0 a-da.invideo.io
@@ -371,6 +371,7 @@
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
 0.0.0.0 k.qwant.com
+0.0.0.0 kape.dataplane.rudderstack.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 librato-collector.genius.com

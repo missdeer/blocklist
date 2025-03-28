@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 27 Mar 2025 04:30:37 UTC
+# Updated at Fri, 28 Mar 2025 04:31:15 UTC
 #
 
 0.0.0.0 33across.com
@@ -436,6 +436,7 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log5.interactive-circle.jp
+0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net

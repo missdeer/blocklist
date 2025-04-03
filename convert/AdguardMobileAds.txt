@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 02 Apr 2025 04:31:53 UTC
+# Updated at Thu, 03 Apr 2025 04:33:02 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -557,6 +557,7 @@
 0.0.0.0 leadboltads.net
 0.0.0.0 leadc6.icu
 0.0.0.0 leanplum.com
+0.0.0.0 lgvlbd.icu
 0.0.0.0 liftoff-creatives.io
 0.0.0.0 liftoff.io
 0.0.0.0 live.hyprmx.com

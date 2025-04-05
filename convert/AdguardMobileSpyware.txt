@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 04 Apr 2025 04:30:35 UTC
+# Updated at Sat, 05 Apr 2025 04:29:29 UTC
 #
 
 0.0.0.0 33across.com
@@ -542,6 +542,7 @@
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com
 0.0.0.0 pangle-b.io
+0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com

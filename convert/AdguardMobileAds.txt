@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 11 Apr 2025 04:31:47 UTC
+# Updated at Sat, 12 Apr 2025 04:29:58 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -557,6 +557,7 @@
 0.0.0.0 leadboltads.net
 0.0.0.0 leadc6.icu
 0.0.0.0 leanplum.com
+0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lgvlbd.icu
 0.0.0.0 liftoff-creatives.io
 0.0.0.0 liftoff.io
@@ -824,6 +825,7 @@
 0.0.0.0 theship.club
 0.0.0.0 thetrafficstat.net
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
+0.0.0.0 tiktokpangle.us
 0.0.0.0 tivan.naver.com
 0.0.0.0 tizerclik.com
 0.0.0.0 tk0x1.com

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdGuardSDNSFilter@gh-pages/Filters/filter.txt
-# Updated at Fri, 11 Apr 2025 04:31:47 UTC
+# Updated at Sat, 12 Apr 2025 04:29:59 UTC
 #
 
 0.0.0.0 0.101tubeporn.com
@@ -28599,6 +28599,7 @@
 0.0.0.0 dnre5xkn2r25r.cloudfront.net
 0.0.0.0 dnrpnl.yves-rocher.no
 0.0.0.0 dns-clientinfo.cbsivideo.com
+0.0.0.0 dns-clientinfo.vtg.paramount.tech
 0.0.0.0 dns-log.d-n-s.org.uk
 0.0.0.0 dns.chuzushijian.cn
 0.0.0.0 dns.g8z.net
@@ -28791,7 +28792,6 @@
 0.0.0.0 doporuc.skolaslava.cz
 0.0.0.0 doporuc.slevomat.cz
 0.0.0.0 doporucim.zjistitcenu.cz
-0.0.0.0 doppiocdn.com
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
 0.0.0.0 doppler-client-events.cbsivideo.com
@@ -41284,6 +41284,7 @@
 0.0.0.0 idg1.idgarages.com
 0.0.0.0 idgbgl.sloggi.com
 0.0.0.0 idgptg.esm-computer.de
+0.0.0.0 idhaiafq.com
 0.0.0.0 idiafix.com
 0.0.0.0 idianw.warmteservice.nl
 0.0.0.0 idickeo.top
@@ -45248,6 +45249,7 @@
 0.0.0.0 jmcnwr.bricoprive.com
 0.0.0.0 jmesxbe.icu
 0.0.0.0 jmfgxq.vitalsleep.com
+0.0.0.0 jmif.cn
 0.0.0.0 jmipzsn.icu
 0.0.0.0 jmixgqcfcukm.xyz
 0.0.0.0 jmopproojsc.xyz
@@ -55444,6 +55446,7 @@
 0.0.0.0 metrics.dominos.com.tr
 0.0.0.0 metrics.donaldson.com
 0.0.0.0 metrics.donmcgilltoyota.com
+0.0.0.0 metrics.doppiocdn.com
 0.0.0.0 metrics.doppiostreams.com
 0.0.0.0 metrics.dreamvacationweek.com
 0.0.0.0 metrics.drklein.de
@@ -57759,6 +57762,9 @@
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 monitor.ebay.com
 0.0.0.0 monitor.music.qq.com
+0.0.0.0 monitor.ns1-d.viacomtech.net
+0.0.0.0 monitor.ns1-s.rspcdn.net
+0.0.0.0 monitor.r53.cbsivideo.com
 0.0.0.0 monitor.teko.vn
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monitoring.iraiser.eu
@@ -71630,6 +71636,7 @@
 0.0.0.0 rvvmynjd.love
 0.0.0.0 rvvpbf.xcom-shop.ru
 0.0.0.0 rvxmlj.icu
+0.0.0.0 rvxo.cn
 0.0.0.0 rvxsvwqf.icu
 0.0.0.0 rvz9.destinia.co.ro
 0.0.0.0 rw.marchex.io
@@ -101817,6 +101824,7 @@
 0.0.0.0 xdowl0adxd0wnloadx.com
 0.0.0.0 xdownloadright.com
 0.0.0.0 xdrig.com
+0.0.0.0 xdrlthfhikvgm.club
 0.0.0.0 xdsblm.ullapopken.de
 0.0.0.0 xdsgbkfkm.com
 0.0.0.0 xdsp.snadx.com
@@ -102723,6 +102731,7 @@
 0.0.0.0 xwsbxv.noracora.com
 0.0.0.0 xwseyi.yellohvillage.nl
 0.0.0.0 xwtldx.tuinmeubelshop.nl
+0.0.0.0 xwtylm.top
 0.0.0.0 xwvduxeiuv.com
 0.0.0.0 xwvnhe.cn
 0.0.0.0 xwzbpkku-i.site

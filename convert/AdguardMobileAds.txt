@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Sat, 12 Apr 2025 04:29:58 UTC
+# Updated at Sun, 13 Apr 2025 04:52:55 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -887,7 +887,6 @@
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vod-mplayer.sooplive.co.kr
 0.0.0.0 vrizead.com
-0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 vserv.mobi
 0.0.0.0 vungle.com
 0.0.0.0 waiads.com

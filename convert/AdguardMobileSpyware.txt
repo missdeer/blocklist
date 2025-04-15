@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 14 Apr 2025 04:31:41 UTC
+# Updated at Tue, 15 Apr 2025 04:31:27 UTC
 #
 
 0.0.0.0 33across.com
@@ -195,6 +195,7 @@
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clog.mirrativ.com
+0.0.0.0 clog.weverse.io
 0.0.0.0 cloudconf.fengkongcloud.com
 0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 co.akisinn.info
@@ -207,6 +208,7 @@
 0.0.0.0 collect.media.jio.com
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
+0.0.0.0 collection.weverse.io
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
@@ -471,6 +473,7 @@
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-prod.suno.com
+0.0.0.0 metrics-us.cometchat.io
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.happycolor.app

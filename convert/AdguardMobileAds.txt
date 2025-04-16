@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 15 Apr 2025 04:31:27 UTC
+# Updated at Wed, 16 Apr 2025 04:31:23 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -270,6 +270,7 @@
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.youngle.tech
 0.0.0.0 apis.appnxt.net
+0.0.0.0 apishow.babybus.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.ssp.yahoo.com
@@ -284,6 +285,7 @@
 0.0.0.0 appnext.hs.llnwd.net
 0.0.0.0 appodeal.com
 0.0.0.0 appodealx.com
+0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com

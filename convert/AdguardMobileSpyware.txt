@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 15 Apr 2025 04:31:27 UTC
+# Updated at Wed, 16 Apr 2025 04:31:24 UTC
 #
 
 0.0.0.0 33across.com
@@ -132,6 +132,7 @@
 0.0.0.0 api2.appsflyer.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.branch.io
+0.0.0.0 apishowstats.babybus.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
@@ -687,6 +688,8 @@
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 theadex.com
+0.0.0.0 tjinit-event.babybus.com
+0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net

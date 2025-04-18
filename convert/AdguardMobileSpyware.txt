@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 17 Apr 2025 04:31:42 UTC
+# Updated at Fri, 18 Apr 2025 04:30:57 UTC
 #
 
 0.0.0.0 33across.com
@@ -20,6 +20,7 @@
 0.0.0.0 adj.st
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 ads-image.production-public.tubi.io
+0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adstats.tencentmusic.com
@@ -308,6 +309,7 @@
 0.0.0.0 events.textme-app.com
 0.0.0.0 events.tvtime.com
 0.0.0.0 events.watchtower.imdbtv.amazon.dev
+0.0.0.0 eventsv2balanced.malpagames.com
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 flash.sec.intl.miui.com
@@ -558,6 +560,7 @@
 0.0.0.0 pixel.magentamarketing.com
 0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 ploy.batmobi.net
+0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 preview-collector.scopely.io

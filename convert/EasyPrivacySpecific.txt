@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 17 Apr 2025 04:31:42 UTC
+# Updated at Fri, 18 Apr 2025 04:30:57 UTC
 #
 
 0.0.0.0 1win.com
@@ -125,6 +125,7 @@
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cfa.fidelity.com
+0.0.0.0 check3.tiaa.org
 0.0.0.0 chronicle.medal.tv
 0.0.0.0 cl.canva.com
 0.0.0.0 cl.t3n.de
@@ -661,6 +662,7 @@
 0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 tccd.douglas
 0.0.0.0 td.airdroid.com
+0.0.0.0 tealium-proxy.libertex.org
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io

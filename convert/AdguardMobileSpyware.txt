@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 21 Apr 2025 04:32:28 UTC
+# Updated at Tue, 22 Apr 2025 04:32:17 UTC
 #
 
 0.0.0.0 33across.com
@@ -210,7 +210,6 @@
 0.0.0.0 collect.media.jio.com
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
-0.0.0.0 collection.weverse.io
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
@@ -500,7 +499,6 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com
-0.0.0.0 moengage.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com

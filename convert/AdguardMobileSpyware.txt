@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 24 Apr 2025 04:31:43 UTC
+# Updated at Fri, 25 Apr 2025 04:31:32 UTC
 #
 
 0.0.0.0 33across.com
@@ -26,6 +26,7 @@
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 adtrack-intl.ucweb.com
 0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.xiaojukeji.com
 0.0.0.0 adtracker.jpchd.veraxen.com
@@ -101,6 +102,7 @@
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andmlb.kshwtj.com
@@ -174,6 +176,7 @@
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 braveglobal.tv
 0.0.0.0 bs.nakanohito.jp
+0.0.0.0 bts-la.ucweb.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 caerulus.io
@@ -373,6 +376,7 @@
 0.0.0.0 int.vaicore.xyz
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 int.vlancaa.site
+0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 io.narrative.io
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com

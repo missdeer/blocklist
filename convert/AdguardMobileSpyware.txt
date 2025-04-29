@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 28 Apr 2025 04:33:04 UTC
+# Updated at Tue, 29 Apr 2025 04:30:56 UTC
 #
 
 0.0.0.0 33across.com
@@ -769,6 +769,7 @@
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 upalytics.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 29 Apr 2025 04:30:56 UTC
+# Updated at Wed, 30 Apr 2025 04:31:35 UTC
 #
 
 0.0.0.0 33across.com
@@ -235,6 +235,7 @@
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crwdcntrl.net
+0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
@@ -395,6 +396,7 @@
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -460,6 +462,7 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logsdk.kwai-pro.com
 0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.dbankcloud.cn
@@ -769,8 +772,15 @@
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulog.ksapisrv.com
+0.0.0.0 ulog.kwai-pro.com
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 ulog1-us.kwai-pro.com
+0.0.0.0 ulog2-us.kwaipros.com
 0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 ulogs1.ksapisrv.com
+0.0.0.0 ulogs2.ksapisrv.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
@@ -799,6 +809,7 @@
 0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 webmetrics.mayoclinic.org
 0.0.0.0 websdk.appsflyer.com
+0.0.0.0 wlog.ksapisrv.com
 0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 ws.ksmobile.net

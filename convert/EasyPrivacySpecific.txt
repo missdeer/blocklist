@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 29 Apr 2025 04:30:56 UTC
+# Updated at Wed, 30 Apr 2025 04:31:35 UTC
 #
 
 0.0.0.0 1win.com
@@ -193,6 +193,7 @@
 0.0.0.0 content22.citibankonline.com
 0.0.0.0 content22.online.citi.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 count.all.biz
 0.0.0.0 count.darkreader.app
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
@@ -619,6 +620,7 @@
 0.0.0.0 stats.wwitv.com
 0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 statsegg.cdngeek.com
+0.0.0.0 storage.lulu-row1.com
 0.0.0.0 stream.corporatefinanceinstitute.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 substation.confection.io
@@ -771,6 +773,7 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wc.yahoodns.net
+0.0.0.0 webapi.3cx.com
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv

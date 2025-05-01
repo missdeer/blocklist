@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 30 Apr 2025 04:31:34 UTC
+# Updated at Thu, 01 May 2025 04:33:33 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -399,6 +399,7 @@
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 ctl.buyt.in
+0.0.0.0 czechcash.com
 0.0.0.0 d-load.org
 0.0.0.0 d.kugou.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net

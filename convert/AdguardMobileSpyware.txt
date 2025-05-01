@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 30 Apr 2025 04:31:35 UTC
+# Updated at Thu, 01 May 2025 04:33:33 UTC
 #
 
 0.0.0.0 33across.com
@@ -149,6 +149,7 @@
 0.0.0.0 arcspire.io
 0.0.0.0 asanalytics.booking.com
 0.0.0.0 astat.bugly.qq.com
+0.0.0.0 at-af.outfit7.com
 0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 attr.appsflyer.com
@@ -167,6 +168,7 @@
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 bfmio.com
 0.0.0.0 bi.manhuaren.com
+0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 bidswitch.net
@@ -343,6 +345,8 @@
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
+0.0.0.0 hb-af-us-central1.outfit7.com
+0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hit.gemius.pl

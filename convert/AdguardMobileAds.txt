@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 01 May 2025 04:33:33 UTC
+# Updated at Fri, 02 May 2025 04:31:42 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -384,6 +384,7 @@
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.tremorhub.com
 0.0.0.0 configuration.ttpsdk.info
+0.0.0.0 configure.rayjump.com
 0.0.0.0 contextualadv.com
 0.0.0.0 cp.pushwoosh.com
 0.0.0.0 cpactions.com
@@ -461,6 +462,7 @@
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
 0.0.0.0 fyber.com
 0.0.0.0 g.doubleclick.net
+0.0.0.0 gadsme.com
 0.0.0.0 gamaibids.com
 0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gamerplay67.space
@@ -755,6 +757,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 screen.buzzvil.com
 0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 sdk-api.kidoz.net
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdkv2.imaginationunwired.com
@@ -880,6 +883,7 @@
 0.0.0.0 upsight.com
 0.0.0.0 usekahuna.com
 0.0.0.0 usp1.baidu.com
+0.0.0.0 v.kidoz.net
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 v8b9c0x1z2.sai7348.xyz
 0.0.0.0 valshara.com

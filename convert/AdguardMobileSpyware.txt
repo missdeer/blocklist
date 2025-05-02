@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 01 May 2025 04:33:33 UTC
+# Updated at Fri, 02 May 2025 04:31:43 UTC
 #
 
 0.0.0.0 33across.com
@@ -288,7 +288,9 @@
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
+0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.karrotmarket.com
+0.0.0.0 event.meloshort.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
@@ -503,6 +505,7 @@
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
@@ -518,6 +521,7 @@
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monsetting.toutiao.com
+0.0.0.0 mosspf.net
 0.0.0.0 mpianalytics.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 05 May 2025 04:33:26 UTC
+# Updated at Mon, 05 May 2025 23:35:07 UTC
 #
 
 0.0.0.0 33across.com
@@ -656,6 +656,7 @@
 0.0.0.0 snowplow-collector
 0.0.0.0 spider-tracker.xiaohongshu.com
 0.0.0.0 sq.requestads.com
+0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.gspaceteam.com

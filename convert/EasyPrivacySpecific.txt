@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 06 May 2025 04:32:16 UTC
+# Updated at Wed, 07 May 2025 04:32:29 UTC
 #
 
 0.0.0.0 1win.com
@@ -409,6 +409,7 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.dropbox.com
+0.0.0.0 marketing.taskus.com
 0.0.0.0 marty.zappos.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 07 May 2025 04:32:29 UTC
+# Updated at Thu, 08 May 2025 04:33:37 UTC
 #
 
 0.0.0.0 33across.com
@@ -257,7 +257,6 @@
 0.0.0.0 dex50.deteql.net
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dig.bdurl.net
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 dispatcher.upmc.uc.cn

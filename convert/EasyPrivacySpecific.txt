@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 08 May 2025 04:33:37 UTC
+# Updated at Fri, 09 May 2025 04:33:11 UTC
 #
 
 0.0.0.0 1win.com
@@ -217,6 +217,7 @@
 0.0.0.0 data.allstate.com
 0.0.0.0 data.barry-callebaut.com
 0.0.0.0 data.guide.photobucket.com
+0.0.0.0 data.jerkmate.com
 0.0.0.0 data.torry.io
 0.0.0.0 data.ublock-browser.com
 0.0.0.0 data.younow.com
@@ -283,6 +284,7 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.s4long.com
 0.0.0.0 events.santander.co.uk
 0.0.0.0 events.squarespace.com
 0.0.0.0 events.turbosquid.com
@@ -331,6 +333,7 @@
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
+0.0.0.0 graylog.prod.cams.run
 0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gtm.lercio.it
 0.0.0.0 gtm.wise.com
@@ -696,6 +699,7 @@
 0.0.0.0 tms.hft.factor75.com
 0.0.0.0 tms.hft.greenchef.com
 0.0.0.0 tms.hft.hellofresh.com
+0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 tongji-res.meizu.com
 0.0.0.0 top.wn.com

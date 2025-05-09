@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 08 May 2025 04:33:37 UTC
+# Updated at Fri, 09 May 2025 04:33:11 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -44,6 +44,7 @@
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analyticcdn.wlmediahub.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-api.samsunghealthcn.com
@@ -284,6 +285,7 @@
 0.0.0.0 check.ddos-guard.net
 0.0.0.0 cimage.adobe.com
 0.0.0.0 ck.connatix.com
+0.0.0.0 cl-pbr.cxr.skeepers.io
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clevertap-prod.com
 0.0.0.0 click.appinthestore.com
@@ -679,6 +681,7 @@
 0.0.0.0 hi.hellobar.com
 0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hit.mybestpro.com
+0.0.0.0 hit.salesfire.co.uk
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
 0.0.0.0 hits.gokwik.co
@@ -1294,6 +1297,7 @@
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 track.zappos.com
 0.0.0.0 tracker-dot-optimeeze.appspot.com
+0.0.0.0 tracker-server.high-cdn.com
 0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.au.zitcha.app

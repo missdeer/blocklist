@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 08 May 2025 04:33:38 UTC
+# Updated at Fri, 09 May 2025 04:33:10 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -733,6 +733,7 @@
 0.0.0.0 questionmarket.com
 0.0.0.0 r0.mradx.net
 0.0.0.0 r2d2.aotter.net
+0.0.0.0 rainmaker.production-public.tubi.io
 0.0.0.0 redtram.com
 0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 restartad.com

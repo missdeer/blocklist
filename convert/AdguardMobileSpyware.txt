@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 08 May 2025 04:33:37 UTC
+# Updated at Fri, 09 May 2025 04:33:10 UTC
 #
 
 0.0.0.0 33across.com
@@ -686,6 +686,7 @@
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 sts.batmobi.net
 0.0.0.0 sync.adotmob.com
+0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.castle.io

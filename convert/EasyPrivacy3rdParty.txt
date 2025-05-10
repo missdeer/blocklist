@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 09 May 2025 04:33:11 UTC
+# Updated at Sat, 10 May 2025 04:31:40 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -378,6 +378,7 @@
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csp.secureserver.net
 0.0.0.0 csr.onet.pl
+0.0.0.0 ct-errs.cartrawler.com
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.itbusinessedge.com
@@ -660,6 +661,7 @@
 0.0.0.0 geotrust.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
 0.0.0.0 gleam.io
+0.0.0.0 globale-analytics-sdk.global-e.com
 0.0.0.0 go.activengage.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 goat.hepicgamerz.com

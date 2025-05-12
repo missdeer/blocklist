@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 11 May 2025 04:32:34 UTC
+# Updated at Mon, 12 May 2025 04:33:35 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -205,6 +205,7 @@
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crumbs.robinhood.com
 0.0.0.0 cryo.socialblade.com
+0.0.0.0 csp.godaddy.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 customer.homedepot.com
 0.0.0.0 cwt.citywire.info

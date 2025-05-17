@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 16 May 2025 04:33:29 UTC
+# Updated at Sat, 17 May 2025 04:31:33 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -616,6 +616,7 @@
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.habr.com
+0.0.0.0 stats.hexa.watch
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 16 May 2025 04:33:30 UTC
+# Updated at Sat, 17 May 2025 04:31:33 UTC
 #
 
 0.0.0.0 33across.com
@@ -724,6 +724,7 @@
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track-resource.bidease.com
 0.0.0.0 track-us.bidease.com
+0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.aieic.com
 0.0.0.0 track.appsflyer.com

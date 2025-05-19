@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 18 May 2025 04:35:36 UTC
+# Updated at Mon, 19 May 2025 04:36:15 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -303,6 +303,7 @@
 0.0.0.0 fathom.app.silverbeak.com
 0.0.0.0 fathom.tdvm.net
 0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
+0.0.0.0 fd.ivoclar.com
 0.0.0.0 fdt.kraken.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fgn-plausible.serverable.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 20 May 2025 04:33:02 UTC
+# Updated at Wed, 21 May 2025 04:33:30 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -571,7 +571,6 @@
 0.0.0.0 sa.uswitch.com
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapi.tremendous.com
-0.0.0.0 sapphire-api.target.com
 0.0.0.0 scholar.google.com
 0.0.0.0 search.anonymous.ads.brave.com
 0.0.0.0 service.techzine.eu
@@ -582,6 +581,7 @@
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
+0.0.0.0 smetrics.vanguard.com
 0.0.0.0 sofire.terabox.app
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com

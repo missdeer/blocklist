@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 22 May 2025 04:34:12 UTC
+# Updated at Fri, 23 May 2025 04:33:02 UTC
 #
 
 0.0.0.0 33across.com
@@ -139,7 +139,9 @@
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app.appsflyer.com
+0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogs-v2.pixelfederation.com
 0.0.0.0 applogs.pixelfederation.com
@@ -435,6 +437,7 @@
 0.0.0.0 log.heartratepros.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jackpotmasterslots.com
+0.0.0.0 log.m.sm.cn
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
@@ -591,6 +594,7 @@
 0.0.0.0 puds.ucweb.com
 0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 px.ucweb.com
+0.0.0.0 px.wpk.quark.cn
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 quantcount.com
 0.0.0.0 r-log.dable.io
@@ -731,6 +735,7 @@
 0.0.0.0 track.extra.app
 0.0.0.0 track.hk01.com
 0.0.0.0 track.ktplay.com
+0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
@@ -779,6 +784,8 @@
 0.0.0.0 uaid.vtwenty.com
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 uc.ucweb.com
+0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucus.ucweb.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ulog-sdk.gifshow.com

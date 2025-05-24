@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 23 May 2025 04:33:02 UTC
+# Updated at Sat, 24 May 2025 04:32:15 UTC
 #
 
 0.0.0.0 33across.com
@@ -111,6 +111,7 @@
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-analytics.prod.birdapp.com
+0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
@@ -323,6 +324,7 @@
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashtalking.com
 0.0.0.0 fm-analytics-api.pocketfm.com
+0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
@@ -404,6 +406,7 @@
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-sdk.ksapisrv.com
+0.0.0.0 log-sg.capcutapi.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -515,6 +518,7 @@
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com
+0.0.0.0 mon-sg.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
@@ -623,6 +627,7 @@
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rts.mobula.sdk.duapps.com
@@ -714,6 +719,9 @@
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 tktracker.aotter.net
+0.0.0.0 tnc-boot.capcutapi.com
+0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com

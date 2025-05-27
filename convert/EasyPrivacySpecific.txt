@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 26 May 2025 04:35:18 UTC
+# Updated at Tue, 27 May 2025 04:34:43 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -597,6 +597,7 @@
 0.0.0.0 srv.plesk.com
 0.0.0.0 ss.esade.edu
 0.0.0.0 ss.photospecialist.co.uk
+0.0.0.0 sst.bwt.com
 0.0.0.0 sst.shopware.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv

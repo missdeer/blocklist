@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 28 May 2025 04:34:11 UTC
+# Updated at Thu, 29 May 2025 04:35:01 UTC
 #
 
 0.0.0.0 33across.com
@@ -414,7 +414,6 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
-0.0.0.0 log-va-us-looki.capcutapi.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
@@ -519,7 +518,6 @@
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon-sg.capcutapi.com
-0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 mon.byteoversea.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
@@ -721,7 +719,6 @@
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
-0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com

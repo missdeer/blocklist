@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 30 May 2025 04:34:25 UTC
+# Updated at Sat, 31 May 2025 04:32:31 UTC
 #
 
 0.0.0.0 33across.com
@@ -359,6 +359,7 @@
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 hz-telemetry.adobe.io
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ibd-as-api.iq.com

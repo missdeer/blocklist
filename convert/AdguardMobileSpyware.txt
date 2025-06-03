@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 02 Jun 2025 04:38:11 UTC
+# Updated at Tue, 03 Jun 2025 04:35:48 UTC
 #
 
 0.0.0.0 33across.com
@@ -809,6 +809,7 @@
 0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
+0.0.0.0 urbanairship.com
 0.0.0.0 us-east-1.paa-reporting-advertising.amazon
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com

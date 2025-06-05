@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 04 Jun 2025 04:36:24 UTC
+# Updated at Thu, 05 Jun 2025 04:36:42 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -140,6 +140,7 @@
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
+0.0.0.0 analytics.pyksid.com
 0.0.0.0 analytics.qualityunit.com
 0.0.0.0 analytics.radiatemedia.com
 0.0.0.0 analytics.recruitics.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 08 Jun 2025 04:37:48 UTC
+# Updated at Mon, 09 Jun 2025 04:41:00 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -337,6 +337,7 @@
 0.0.0.0 gmetrics.getbeamer.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
+0.0.0.0 go.thegrocer.co.uk
 0.0.0.0 go.theregister.com
 0.0.0.0 graylog.prod.cams.run
 0.0.0.0 grgnsht.nzxt.com
@@ -456,6 +457,7 @@
 0.0.0.0 mr.homedepot.ca
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 mstm.motorsport.com
+0.0.0.0 mx.eneba.com
 0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com

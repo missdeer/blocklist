@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 09 Jun 2025 04:41:00 UTC
+# Updated at Tue, 10 Jun 2025 04:36:38 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -280,7 +280,6 @@
 0.0.0.0 appclick.net
 0.0.0.0 appgift.sinaapp.com
 0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
-0.0.0.0 appintop.com
 0.0.0.0 applifier.com
 0.0.0.0 applovin.com
 0.0.0.0 appnext-a.akamaihd.net

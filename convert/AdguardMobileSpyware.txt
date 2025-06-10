@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 09 Jun 2025 04:41:00 UTC
+# Updated at Tue, 10 Jun 2025 04:36:38 UTC
 #
 
 0.0.0.0 33across.com
@@ -173,7 +173,6 @@
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
-0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 books-analytics-events.apple.com

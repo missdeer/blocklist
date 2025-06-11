@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 10 Jun 2025 04:36:39 UTC
+# Updated at Wed, 11 Jun 2025 04:37:11 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -69,6 +69,7 @@
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.productreview.com.au
+0.0.0.0 analytics.python.org
 0.0.0.0 analytics.qogita.com
 0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.silktide.com

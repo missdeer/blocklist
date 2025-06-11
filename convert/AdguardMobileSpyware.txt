@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 10 Jun 2025 04:36:38 UTC
+# Updated at Wed, 11 Jun 2025 04:37:11 UTC
 #
 
 0.0.0.0 33across.com
@@ -394,7 +394,6 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
-0.0.0.0 lhzbdvm.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
@@ -461,7 +460,6 @@
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs.amap.com
-0.0.0.0 logs.gaaana.com
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.nebulahoroscope.com
@@ -552,7 +550,6 @@
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 onelink.appsflyer.com
-0.0.0.0 online-metrix.imars.cloud
 0.0.0.0 online-metrix.net
 0.0.0.0 onthe.io
 0.0.0.0 open.oneplus.net
@@ -746,7 +743,6 @@
 0.0.0.0 track.uc.cn
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.adotmob.com
-0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.neodatagroup.com

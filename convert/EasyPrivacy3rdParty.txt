@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 11 Jun 2025 04:37:11 UTC
+# Updated at Thu, 12 Jun 2025 04:36:11 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -58,6 +58,7 @@
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics.30m.com
 0.0.0.0 analytics.adobe.io
 0.0.0.0 analytics.agoda.com

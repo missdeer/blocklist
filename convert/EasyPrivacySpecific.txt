@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 14 Jun 2025 04:33:25 UTC
+# Updated at Sun, 15 Jun 2025 04:37:45 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -765,6 +765,7 @@
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 ua.indianexpress.com
+0.0.0.0 ub.galaxus
 0.0.0.0 ubt.tracking.shopee
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io

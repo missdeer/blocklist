@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 16 Jun 2025 04:39:46 UTC
+# Updated at Tue, 17 Jun 2025 04:37:00 UTC
 #
 
 0.0.0.0 33across.com
@@ -220,7 +220,6 @@
 0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
-0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 config.jpush.cn
 0.0.0.0 config.safedk.com
 0.0.0.0 config.uca.cloud.unity3d.com
@@ -344,6 +343,7 @@
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gnsnpaw.com
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
 0.0.0.0 hb-af-us-central1.outfit7.com
@@ -458,6 +458,7 @@
 0.0.0.0 logger.growstarry.com
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logs-ingress.svc.vinted.com
+0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi
@@ -616,6 +617,7 @@
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtc-logger.bytevcloud.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
@@ -693,6 +695,7 @@
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tags.creditkarma.com
+0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tdid.m.qq.com

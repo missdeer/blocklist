@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 17 Jun 2025 04:37:00 UTC
+# Updated at Wed, 18 Jun 2025 04:37:29 UTC
 #
 
 0.0.0.0 33across.com
@@ -20,6 +20,7 @@
 0.0.0.0 adj.st
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 ads-image.production-public.tubi.io
+0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 adsaccount.appcpi.net
 0.0.0.0 adserver.snapads.com
@@ -135,7 +136,10 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.branch.io
 0.0.0.0 apishowstats.babybus.com
+0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-native.xiaohongshu.com
+0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-tracking.hlogo.de
@@ -276,6 +280,8 @@
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 ec.adadapted.com
+0.0.0.0 edith-seb.xiaohongshu.com
+0.0.0.0 edith.xiaohongshu.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 elephantdata.net
 0.0.0.0 esa-reg-eup.myoppo.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 18 Jun 2025 04:37:29 UTC
+# Updated at Thu, 19 Jun 2025 04:36:42 UTC
 #
 
 0.0.0.0 33across.com
@@ -199,6 +199,7 @@
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 client-telemetry.hingeprod.net
+0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 clientlog3.music.163.com
 0.0.0.0 clientlogdep.music.163.com
 0.0.0.0 clientlogsf.music.163.com
@@ -263,6 +264,7 @@
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 dit.whatsapp.net
+0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -281,7 +283,6 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 edith-seb.xiaohongshu.com
-0.0.0.0 edith.xiaohongshu.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 elephantdata.net
 0.0.0.0 esa-reg-eup.myoppo.com
@@ -456,6 +457,8 @@
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.happymod.com
+0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com

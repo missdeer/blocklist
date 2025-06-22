@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 21 Jun 2025 04:33:53 UTC
+# Updated at Sun, 22 Jun 2025 04:38:29 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -294,6 +294,7 @@
 0.0.0.0 clevertap-prod.com
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.oneplus.cn
+0.0.0.0 click.rypr.ru
 0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.tyuwq.com
@@ -590,6 +591,7 @@
 0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events-endpoint.pointandplace.com
+0.0.0.0 events-proxy.mintlify.com
 0.0.0.0 events.air.tv
 0.0.0.0 events.api.secureserver.net
 0.0.0.0 events.attentivemobile.com
@@ -871,6 +873,7 @@
 0.0.0.0 nsg.symantec.com
 0.0.0.0 nwr.static.mmcdn.com
 0.0.0.0 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
+0.0.0.0 obs.system1onesource.com
 0.0.0.0 observe-nexus.pointandplace.com
 0.0.0.0 observer.ip-label.net
 0.0.0.0 obseu.netgreencolumn.com

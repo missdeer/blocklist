@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 21 Jun 2025 04:33:53 UTC
+# Updated at Sun, 22 Jun 2025 04:38:29 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -417,6 +417,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logx-experimentation.iherb.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 love.vidora.su
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.taskus.com
@@ -769,6 +770,7 @@
 0.0.0.0 ubt.tracking.shopee
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
+0.0.0.0 umami.vidfast.pro
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 unl1zvy2zuyn.franchiseplus.nl
 0.0.0.0 urs.metacritic.com

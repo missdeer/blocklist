@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 27 Jun 2025 04:37:12 UTC
+# Updated at Sat, 28 Jun 2025 04:35:23 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -769,6 +769,8 @@
 0.0.0.0 ubt.tracking.shopee
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
+0.0.0.0 umami.flixer.su
+0.0.0.0 umami.spencerdevs.xyz
 0.0.0.0 umami.vidfast.pro
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 unl1zvy2zuyn.franchiseplus.nl

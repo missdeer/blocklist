@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 27 Jun 2025 04:37:12 UTC
+# Updated at Sat, 28 Jun 2025 04:35:23 UTC
 #
 
 0.0.0.0 33across.com
@@ -456,7 +456,6 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
-0.0.0.0 log1.happymod.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp

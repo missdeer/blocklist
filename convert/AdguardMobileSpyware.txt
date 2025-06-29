@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 28 Jun 2025 04:35:23 UTC
+# Updated at Sun, 29 Jun 2025 04:43:39 UTC
 #
 
 0.0.0.0 33across.com
@@ -429,7 +429,6 @@
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
-0.0.0.0 log.droid4x.cn
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
 0.0.0.0 log.estand.jp
@@ -537,7 +536,6 @@
 0.0.0.0 msga.cupid.iqiyi.com
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
-0.0.0.0 mtlog.droid4x.cn
 0.0.0.0 mtrace.qq.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 nativesdks.mparticle.com
@@ -545,7 +543,6 @@
 0.0.0.0 nelo2-col.linecorp.com
 0.0.0.0 netapm.music.163.com
 0.0.0.0 ninja.onap.io
-0.0.0.0 nlog.droid4x.cn
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.news.apple-dns.net

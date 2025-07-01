@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 30 Jun 2025 04:41:29 UTC
+# Updated at Tue, 01 Jul 2025 04:45:14 UTC
 #
 
 0.0.0.0 33across.com
@@ -775,6 +775,7 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.purchasely.io
+0.0.0.0 tracking.trackchecker.net
 0.0.0.0 tracking.trnox.com
 0.0.0.0 tracking.viewlift.com
 0.0.0.0 tracking.ws.eurosport.com

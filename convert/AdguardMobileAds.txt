@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 30 Jun 2025 04:41:29 UTC
+# Updated at Tue, 01 Jul 2025 04:45:14 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -12,7 +12,6 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 a.applvn.com
-0.0.0.0 a2dfp.net
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 abbott.vo.llnwd.net
 0.0.0.0 abnad.net
@@ -506,7 +505,6 @@
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imprdom.com
 0.0.0.0 imrworldwide.com
-0.0.0.0 inclk.com
 0.0.0.0 infolinks.com
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 inmense.site

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 01 Jul 2025 04:45:14 UTC
+# Updated at Wed, 02 Jul 2025 04:38:05 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -392,6 +392,7 @@
 0.0.0.0 k.qwant.com
 0.0.0.0 kape.dataplane.rudderstack.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
+0.0.0.0 kqefj.clearstem.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com

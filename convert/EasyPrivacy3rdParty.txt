@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 02 Jul 2025 04:38:05 UTC
+# Updated at Thu, 03 Jul 2025 04:40:14 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -561,6 +561,7 @@
 0.0.0.0 ea.youmaker.com
 0.0.0.0 ec.walkme.com
 0.0.0.0 ecomm.events
+0.0.0.0 ecommerce-events.adscale.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.bredg.com
 0.0.0.0 eel.transistor.fm

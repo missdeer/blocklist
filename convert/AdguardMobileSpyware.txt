@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 03 Jul 2025 04:40:14 UTC
+# Updated at Fri, 04 Jul 2025 04:37:56 UTC
 #
 
 0.0.0.0 33across.com
@@ -281,6 +281,7 @@
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 e-ssl.apsalar.com
+0.0.0.0 eats-ads-event-capture.coupang.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 edith-seb.xiaohongshu.com
 0.0.0.0 edmanalytics.pandahall.com

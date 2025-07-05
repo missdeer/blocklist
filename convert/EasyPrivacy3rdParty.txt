@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 04 Jul 2025 04:37:56 UTC
+# Updated at Sat, 05 Jul 2025 04:35:29 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -802,6 +802,7 @@
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.animaapp.com
 0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.dynamicauth.com
 0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logservice.hicloud.com

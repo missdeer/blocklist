@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 07 Jul 2025 04:42:36 UTC
+# Updated at Tue, 08 Jul 2025 04:38:05 UTC
 #
 
 0.0.0.0 33across.com
@@ -815,10 +815,12 @@
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 usage.influxdata.com
+0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usertrack.appcpi.net
+0.0.0.0 usstat.icocofun.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 validate.appsflyer.com

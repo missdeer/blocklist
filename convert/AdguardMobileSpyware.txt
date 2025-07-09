@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 08 Jul 2025 04:38:05 UTC
+# Updated at Wed, 09 Jul 2025 04:42:36 UTC
 #
 
 0.0.0.0 33across.com
@@ -730,6 +730,7 @@
 0.0.0.0 tr.gunosy.com
 0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
+0.0.0.0 tr6.snapchat.com
 0.0.0.0 trace.qq.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 tracing-collector.strava.com

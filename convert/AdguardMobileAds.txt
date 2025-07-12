@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 11 Jul 2025 04:45:04 UTC
+# Updated at Sat, 12 Jul 2025 04:39:13 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -690,7 +690,10 @@
 0.0.0.0 promo-images.ttpsdk.info
 0.0.0.0 promoted.sndcdn.com
 0.0.0.0 promoted.soundcloud.com
+0.0.0.0 promotion-en.xmeye.net
+0.0.0.0 promotion-quicker.jftechsoft.com
 0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 promotion.xmeye.net
 0.0.0.0 promotionad.nvcam.net
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 psvpromo.psvgamestudio.com
@@ -824,6 +827,7 @@
 0.0.0.0 toponadss.com
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tr.acobt.tech
 0.0.0.0 track.cpatool.net
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.applift.com

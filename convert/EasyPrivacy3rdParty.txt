@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 12 Jul 2025 04:39:14 UTC
+# Updated at Sun, 13 Jul 2025 04:44:30 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -396,6 +396,8 @@
 0.0.0.0 cts.businesswire.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 curated.fieldtest.cc
+0.0.0.0 customers.edgetag.io
+0.0.0.0 customers.xray-superpixel.com
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 d.rcmd.jp
@@ -635,6 +637,8 @@
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
+0.0.0.0 fallback.attntags.com
+0.0.0.0 fallback.emtag.net
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fgip.rosehosting.com

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 14 Jul 2025 04:49:06 UTC
+# Updated at Tue, 15 Jul 2025 04:47:09 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -518,6 +518,7 @@
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dcinfos-cache.abtasty.com
 0.0.0.0 dcv4p460uqa46.cloudfront.net
+0.0.0.0 dd.garena.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 dep.hmgroup.com
@@ -635,6 +636,7 @@
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 experience.contextly.com
+0.0.0.0 experiments.parsely.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
@@ -1287,6 +1289,7 @@
 0.0.0.0 tms.fmm.io
 0.0.0.0 to.getnitropack.com
 0.0.0.0 tpx.tesseradigital.com
+0.0.0.0 tr-experiments.parsely.com
 0.0.0.0 tr-op.datatrics.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.datatrics.com

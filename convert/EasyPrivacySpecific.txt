@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 17 Jul 2025 04:46:35 UTC
+# Updated at Fri, 18 Jul 2025 04:48:15 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -61,6 +61,7 @@
 0.0.0.0 analytics.inquisitr.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.komiku.org
+0.0.0.0 analytics.kurocore.com
 0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.maxroll.gg
 0.0.0.0 analytics.ml.homedepot.ca

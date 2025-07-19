@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 18 Jul 2025 04:48:15 UTC
+# Updated at Sat, 19 Jul 2025 04:39:19 UTC
 #
 
 0.0.0.0 33across.com
@@ -354,6 +354,7 @@
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
+0.0.0.0 guid.tpns.sgp.tencent.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
 0.0.0.0 hibiki-track.logica.bz
@@ -670,6 +671,7 @@
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.nsc-lab.io
+0.0.0.0 stat.tpns.sgp.tencent.com
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
@@ -842,6 +844,7 @@
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wzrkt.com
+0.0.0.0 xgdata.xoyo.games
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.tiktokv.com

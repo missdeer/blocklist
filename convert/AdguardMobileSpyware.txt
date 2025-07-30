@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 29 Jul 2025 04:54:12 UTC
+# Updated at Wed, 30 Jul 2025 04:52:06 UTC
 #
 
 0.0.0.0 33across.com
@@ -258,6 +258,7 @@
 0.0.0.0 detect.rayjump.com
 0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dex50.deteql.net
+0.0.0.0 df.afafb.com
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 direct-collect.dy-api.com
@@ -283,6 +284,7 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 eats-ads-event-capture.coupang.com
 0.0.0.0 ec.adadapted.com
+0.0.0.0 ecpm.afafb.com
 0.0.0.0 edith-seb.xiaohongshu.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 elephantdata.net
@@ -332,6 +334,7 @@
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 g.analytics.versa-ai.com
+0.0.0.0 gamedot.afafb.com
 0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gcd-s2s.appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
@@ -488,6 +491,7 @@
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokw.us
+0.0.0.0 mediation-receiver.afafb.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 meitustat.com
@@ -505,6 +509,7 @@
 0.0.0.0 metrics.spbtv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 mgs123.com
+0.0.0.0 middle-defend.afafb.com
 0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
@@ -701,6 +706,7 @@
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.castle.io
+0.0.0.0 tadata.afafb.com
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tags.creditkarma.com

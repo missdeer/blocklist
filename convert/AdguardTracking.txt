@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 30 Jul 2025 04:52:06 UTC
+# Updated at Thu, 31 Jul 2025 04:50:28 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -822,6 +822,7 @@
 0.0.0.0 8digits.com
 0.0.0.0 8ehhtsv9bo7i.monkeylearn.com
 0.0.0.0 8ezc.sfr.fr
+0.0.0.0 8inhjmd.usefathom.com
 0.0.0.0 8ue4rp6yxyis.www.tapmyback.com
 0.0.0.0 8vwxqg.tapin.gg
 0.0.0.0 8w869ae3i36qtnj3.cloud.s11.sfmc-osl.com
@@ -5366,6 +5367,7 @@
 0.0.0.0 analytics.washingtoncountybank.com
 0.0.0.0 analytics.wayland.app
 0.0.0.0 analytics.webads.eu
+0.0.0.0 analytics.webanalytics.op.europa.eu
 0.0.0.0 analytics.webflow.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wedoframes.shop
@@ -7283,6 +7285,7 @@
 0.0.0.0 awogtl.1stopbedrooms.com
 0.0.0.0 awowwo.forever21.com
 0.0.0.0 awrgkd.1000farmacie.it
+0.0.0.0 aws-analytics.nmg.com.hk
 0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 awst.aviationweek.com
 0.0.0.0 awstrack.me
@@ -7782,7 +7785,6 @@
 0.0.0.0 beneficios.davivienda.sv
 0.0.0.0 benefits.aon.com
 0.0.0.0 benelux2.secureforms.mcafee.com
-0.0.0.0 bentonow.com
 0.0.0.0 beoofo.pairs.lv
 0.0.0.0 beppk.travelsmith.com
 0.0.0.0 beqvol.nabbi.sk
@@ -9044,6 +9046,7 @@
 0.0.0.0 cdjbf8trk.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn-eu.usefathom.com
 0.0.0.0 cdn-gw-dv.vip
 0.0.0.0 cdn-ra.rockcontent.com
 0.0.0.0 cdn-redirector.glopal.com
@@ -14092,7 +14095,6 @@
 0.0.0.0 collector-pxebumdlwe.pxchk.net
 0.0.0.0 collector-statistics.nhn-commerce.com
 0.0.0.0 collector.abc.net.au
-0.0.0.0 collector.appconsent.io
 0.0.0.0 collector.betway.be
 0.0.0.0 collector.betway.ca
 0.0.0.0 collector.betway.com
@@ -19389,6 +19391,7 @@
 0.0.0.0 dex50.deteql.net
 0.0.0.0 dexzik.intfarming.com
 0.0.0.0 df-srv.de
+0.0.0.0 df.afafb.com
 0.0.0.0 df.pmweb.com.br
 0.0.0.0 df.tanx.com
 0.0.0.0 dfehddia.moller-mammen.dk
@@ -20556,6 +20559,7 @@
 0.0.0.0 economies.adp.ca
 0.0.0.0 ecovk.trudiagnostic.com
 0.0.0.0 ecp.eitacasaperfeita.com.br
+0.0.0.0 ecpm.afafb.com
 0.0.0.0 ecrzm.cusocuts.com
 0.0.0.0 ecsv2.roblox.com
 0.0.0.0 ectkbq.wakacje.pl
@@ -47677,6 +47681,7 @@
 0.0.0.0 eu.pftk.temu.com
 0.0.0.0 eu.spgo.io
 0.0.0.0 eu.thtk.temu.com
+0.0.0.0 eu.usefathom.com
 0.0.0.0 eua.trailerplus.at
 0.0.0.0 eua.trailerplus.be
 0.0.0.0 eua.trailerplus.de
@@ -49415,6 +49420,7 @@
 0.0.0.0 game.uwyca.co
 0.0.0.0 game.yubqj.co
 0.0.0.0 game.zkroy.co
+0.0.0.0 gamedot.afafb.com
 0.0.0.0 gamefowl.emailforward.mx
 0.0.0.0 gamefowl.karlsutt.com
 0.0.0.0 gamefowl.nonprofit.foundation
@@ -66187,6 +66193,7 @@
 0.0.0.0 mediaseeding.com
 0.0.0.0 mediasolutions.netinsight.net
 0.0.0.0 mediateam.visacashapprb.racing
+0.0.0.0 mediation-receiver.afafb.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediator.imgsmail.ru
@@ -68125,6 +68132,7 @@
 0.0.0.0 microsite.standardandpoors.com
 0.0.0.0 microsite2.dylansnoddon.com
 0.0.0.0 midas-i.com
+0.0.0.0 middle-defend.afafb.com
 0.0.0.0 middleware.p7s1.io
 0.0.0.0 mieru-ca.com
 0.0.0.0 miexgq.forevernew.co.nz
@@ -90357,6 +90365,7 @@
 0.0.0.0 starget.westjet.com
 0.0.0.0 starget.workingadvantage.com
 0.0.0.0 starkgame.zijieapi.com
+0.0.0.0 starman.usefathom.com
 0.0.0.0 starmount.alwayscarebenefits.com
 0.0.0.0 start.adelaide.edu.au
 0.0.0.0 start.ashfieldmeetings.com
@@ -92931,6 +92940,7 @@
 0.0.0.0 taboola.com
 0.0.0.0 taboola.com.cn
 0.0.0.0 taco.wahaca.co.uk
+0.0.0.0 tadata.afafb.com
 0.0.0.0 taduhy.timberland.co.uk
 0.0.0.0 tadvrkbh.analizeonline.ro
 0.0.0.0 tafeyoguv.pettywell.com
@@ -96025,6 +96035,7 @@
 0.0.0.0 track.bemestardavida.com
 0.0.0.0 track.bemestarharmonia.com
 0.0.0.0 track.bemmefiz.com.br
+0.0.0.0 track.bentonow.com
 0.0.0.0 track.berliner-kurier.de
 0.0.0.0 track.bestbuy.ca
 0.0.0.0 track.bestportableacunits.com
@@ -99779,7 +99790,6 @@
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 usebc.vertellis.nl
-0.0.0.0 usefathom.com
 0.0.0.0 useinsider.com
 0.0.0.0 user-analysis.7moor.com
 0.0.0.0 user-clicks.com

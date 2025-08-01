@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 31 Jul 2025 04:50:28 UTC
+# Updated at Fri, 01 Aug 2025 04:58:47 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -534,6 +534,7 @@
 0.0.0.0 1k5vz1ejbcx.staging.probemas.com
 0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 1l-view.my.games
+0.0.0.0 1p-data.com
 0.0.0.0 1p3293dngsv.dodofacile.fr
 0.0.0.0 1phrzgfqiym8.marketingtornado.ca
 0.0.0.0 1ps6e7sort397gy9.edge46.testandtarget.omniture.com
@@ -4497,6 +4498,7 @@
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ingress.bitmovin.com
+0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 analytics-lgs.corebridgefinancial.com
 0.0.0.0 analytics-logger.service.junctiontv.net
 0.0.0.0 analytics-mkt.wemakeprice.com
@@ -12673,6 +12675,7 @@
 0.0.0.0 clog.go.com
 0.0.0.0 clog.lghv.net
 0.0.0.0 clog.mirrativ.com
+0.0.0.0 clog.tanshudata.com
 0.0.0.0 clog.weverse.io
 0.0.0.0 clothing.blue-industry.com
 0.0.0.0 cloud-exploration.com
@@ -15125,6 +15128,7 @@
 0.0.0.0 customerioemail.stackbit.com
 0.0.0.0 customeriotrk.travelperk.com
 0.0.0.0 customerjourney.mba.org
+0.0.0.0 customerlabs.co
 0.0.0.0 customermail.theia.com.br
 0.0.0.0 customerrelations.theinstitutes.org
 0.0.0.0 customers-capitalbank-jo-877029.p06.elqsandbox.com
@@ -53360,6 +53364,7 @@
 0.0.0.0 gw.conversionsapigateway.com
 0.0.0.0 gw.gbdmarketing.com
 0.0.0.0 gw.pro-alarm.nl
+0.0.0.0 gw.stape.fr
 0.0.0.0 gw.view.s11.sfmc-osl.com
 0.0.0.0 gwguyh.edreams.es
 0.0.0.0 gwizal.yumbutter.com
@@ -56570,6 +56575,7 @@
 0.0.0.0 iwhzhi.packstyle.jp
 0.0.0.0 iwl2d7pa4yx1.www.logology.co
 0.0.0.0 iwpneu.eneba.com
+0.0.0.0 iws2.io.naver.com
 0.0.0.0 iwstats.com
 0.0.0.0 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com
 0.0.0.0 ixdi1.rebeldino.com

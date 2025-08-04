@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 03 Aug 2025 04:54:42 UTC
+# Updated at Mon, 04 Aug 2025 05:02:44 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -484,6 +484,7 @@
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
 0.0.0.0 p.minds.com
+0.0.0.0 p.spotidownloader.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pac.thetimes.com

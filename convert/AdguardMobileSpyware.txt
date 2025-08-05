@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 04 Aug 2025 05:02:44 UTC
+# Updated at Tue, 05 Aug 2025 04:55:20 UTC
 #
 
 0.0.0.0 33across.com
@@ -575,6 +575,7 @@
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com
+0.0.0.0 perfsight.wetest.net
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 piano_log.kingsoft.jp
 0.0.0.0 pingma.qq.com
@@ -604,6 +605,7 @@
 0.0.0.0 px.ucweb.com
 0.0.0.0 px.wpk.quark.cn
 0.0.0.0 qa-events-schema.viacom.tech
+0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 quantcount.com
 0.0.0.0 r-log.dable.io
 0.0.0.0 r.apkpure.net
@@ -682,6 +684,8 @@
 0.0.0.0 stat.y.qq.com
 0.0.0.0 statclick.nate.com
 0.0.0.0 static.fengkongcloud.com
+0.0.0.0 statistic-overseas.yunxinfw.com
+0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-proto.pandora.com
 0.0.0.0 stats-sg.ganymede.eu

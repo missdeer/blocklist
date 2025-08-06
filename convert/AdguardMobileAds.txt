@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 05 Aug 2025 04:55:20 UTC
+# Updated at Wed, 06 Aug 2025 04:53:33 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -41,6 +41,7 @@
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.inston.ltd
+0.0.0.0 ad.intools.dev
 0.0.0.0 ad.iwhop.cn
 0.0.0.0 ad.jorte.com
 0.0.0.0 ad.leadboltapps.net

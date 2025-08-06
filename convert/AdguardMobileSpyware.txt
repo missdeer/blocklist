@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 05 Aug 2025 04:55:20 UTC
+# Updated at Wed, 06 Aug 2025 04:53:34 UTC
 #
 
 0.0.0.0 33across.com
@@ -87,6 +87,7 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.nianticlabs.com
+0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.projectcarmen.com

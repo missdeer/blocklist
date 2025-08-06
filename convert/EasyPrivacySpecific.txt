@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 05 Aug 2025 04:55:20 UTC
+# Updated at Wed, 06 Aug 2025 04:53:34 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -705,6 +705,7 @@
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.firez.one
+0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com

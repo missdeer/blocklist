@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 05 Aug 2025 04:55:20 UTC
+# Updated at Wed, 06 Aug 2025 04:53:34 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -4887,6 +4887,7 @@
 0.0.0.0 alex.coatdefense.com
 0.0.0.0 alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+0.0.0.0 alexametrics.com
 0.0.0.0 alexfj.elten-store.de
 0.0.0.0 alfa.avadacom.com
 0.0.0.0 alfbgg.lojacoty.com.br
@@ -5423,6 +5424,7 @@
 0.0.0.0 analytics.fisiocomputer.com
 0.0.0.0 analytics.fitnessfirst.fi
 0.0.0.0 analytics.fletcherliving.co.nz
+0.0.0.0 analytics.flexclip.com
 0.0.0.0 analytics.flexpay.io
 0.0.0.0 analytics.float-in.pt
 0.0.0.0 analytics.floorsbv.nl
@@ -5730,6 +5732,7 @@
 0.0.0.0 analytics.nextopia.net
 0.0.0.0 analytics.ngs55.ru
 0.0.0.0 analytics.nianticlabs.com
+0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.nidi.it
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.nixsolutions.com
@@ -5754,6 +5757,7 @@
 0.0.0.0 analytics.onedio.com
 0.0.0.0 analytics.onlinehomeretail.co.uk
 0.0.0.0 analytics.ooyala.com
+0.0.0.0 analytics.org.coveo.com
 0.0.0.0 analytics.ouc.ac.cy
 0.0.0.0 analytics.ovative.com
 0.0.0.0 analytics.ovh.com
@@ -5973,6 +5977,7 @@
 0.0.0.0 analytics.techem.de
 0.0.0.0 analytics.tedium.co
 0.0.0.0 analytics.teespring.com
+0.0.0.0 analytics.tempmail100.com
 0.0.0.0 analytics.tenson.com
 0.0.0.0 analytics.test.cheggnet.com
 0.0.0.0 analytics.thegroupbuyexperiment.com
@@ -6132,6 +6137,7 @@
 0.0.0.0 analytics.yummylittlebelly.com
 0.0.0.0 analytics.yyggames.com
 0.0.0.0 analytics.zagg.com
+0.0.0.0 analytics.zdassets.com
 0.0.0.0 analytics.zenleven.nl
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 analytics.zoofy.nl
@@ -14753,6 +14759,7 @@
 0.0.0.0 coolio.grashausprojects.de
 0.0.0.0 coop.vmware.com
 0.0.0.0 cooyxg.tennis-point.de
+0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 copperegg.com
 0.0.0.0 coral.bladestudy.net
 0.0.0.0 coral.defygravity.co
@@ -20789,7 +20796,6 @@
 0.0.0.0 eco-tag.jp
 0.0.0.0 ecologi.link
 0.0.0.0 ecomm.events
-0.0.0.0 ecommerce-events.adscale.com
 0.0.0.0 ecommhpi.ext.hp.com
 0.0.0.0 ecommstats.com
 0.0.0.0 econa.met.vgwort.de
@@ -58289,6 +58295,7 @@
 0.0.0.0 lofo3l15c674.platform.replai.io
 0.0.0.0 log-ana.h3z.jp
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-api.sooplive.com
 0.0.0.0 log-auth.flysleep.cn
 0.0.0.0 log-auth.zztfly.com
 0.0.0.0 log-collector.shopee
@@ -58460,6 +58467,7 @@
 0.0.0.0 logaholic.com
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logapi.kt.com
+0.0.0.0 logapi.sooplive.com
 0.0.0.0 logapi.tv.naver.com
 0.0.0.0 logapi.zhipin.com
 0.0.0.0 logbak.hicloud.com
@@ -62229,6 +62237,7 @@
 0.0.0.0 metrics.kadcyla.com
 0.0.0.0 metrics.kangojango.com.br
 0.0.0.0 metrics.kao.com
+0.0.0.0 metrics.kapa.ai
 0.0.0.0 metrics.kataloge.dertouristik.info
 0.0.0.0 metrics.kay.com
 0.0.0.0 metrics.kbb.com
@@ -63595,6 +63604,7 @@
 0.0.0.0 move.azets.no
 0.0.0.0 move.azets.se
 0.0.0.0 movie.flixster.com
+0.0.0.0 mp.cwtv.com
 0.0.0.0 mp.pitchero.com
 0.0.0.0 mp.theepochtimes.com
 0.0.0.0 mp3king.club
@@ -89550,11 +89560,13 @@
 0.0.0.0 telemetry.oliverwymanforum.com
 0.0.0.0 telemetry.otsuka-us.com
 0.0.0.0 telemetry.owenscorning.com
+0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.ruthschris.com
 0.0.0.0 telemetry.schwinnfitness.com
 0.0.0.0 telemetry.sentara.com
 0.0.0.0 telemetry.sentarahealthplans.com
 0.0.0.0 telemetry.services.yofi.ai
+0.0.0.0 telemetry.sgp.pvp.net
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.stryker.com
 0.0.0.0 telemetry.stytch.com
@@ -99379,6 +99391,7 @@
 0.0.0.0 wpgobx.hamnen.se
 0.0.0.0 wpgobx.marcusoscarsson.se
 0.0.0.0 wph2.destinia.us
+0.0.0.0 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
 0.0.0.0 wpnwax.oberbayerischer-jobanzeiger.de
 0.0.0.0 wpydbg.nebo.top
 0.0.0.0 wpzffweq.remorqueshop.fr

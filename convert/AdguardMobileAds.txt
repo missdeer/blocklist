@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 06 Aug 2025 04:53:33 UTC
+# Updated at Thu, 07 Aug 2025 04:53:01 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -137,6 +137,7 @@
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.mattel163.com
 0.0.0.0 ads-sdk.nianticlabs.com
+0.0.0.0 ads-segment-profile-noneu.truecaller.com
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.adadapted.com

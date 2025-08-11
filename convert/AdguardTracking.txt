@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 10 Aug 2025 04:48:15 UTC
+# Updated at Mon, 11 Aug 2025 04:52:03 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -20062,7 +20062,6 @@
 0.0.0.0 dnlzg.gloskinbeauty.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dns-clientinfo.cbsivideo.com
-0.0.0.0 dns-clientinfo.vtg.paramount.tech
 0.0.0.0 dns1.uk2.net.jumia.ug
 0.0.0.0 dnsdelegation.io
 0.0.0.0 dnutc.modularclosets.com
@@ -94613,6 +94612,7 @@
 0.0.0.0 try.tableau.com
 0.0.0.0 try.tableausoftware.com
 0.0.0.0 tryrewave-ss.zavydeals.com
+0.0.0.0 ts-analysis.shoalter.com
 0.0.0.0 ts.archbee.com
 0.0.0.0 ts.beechhalljoinery.co.uk
 0.0.0.0 ts.buyinsulationonline.co.uk

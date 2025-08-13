@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 12 Aug 2025 04:36:50 UTC
+# Updated at Wed, 13 Aug 2025 04:38:25 UTC
 #
 
 0.0.0.0 33across.com
@@ -13,6 +13,7 @@
 0.0.0.0 ad-api-log.colopl.jp
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
+0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adbutler.costco.com
 0.0.0.0 adeventtracker.spotify.com
@@ -260,6 +261,7 @@
 0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dex50.deteql.net
 0.0.0.0 df.afafb.com
+0.0.0.0 dfe.mic.mob.com
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 direct-collect.dy-api.com
@@ -281,6 +283,7 @@
 0.0.0.0 dt.beyla.site
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-logs.amap.com
+0.0.0.0 dutils.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 eats-ads-event-capture.coupang.com
@@ -423,6 +426,7 @@
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.apkomega.com
 0.0.0.0 log.appbundledownload.com
@@ -565,6 +569,7 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 onthe.io
 0.0.0.0 open.oneplus.net
+0.0.0.0 openlog.tapapis.cn
 0.0.0.0 openstat.net
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 overseauspider.yuanshen.com

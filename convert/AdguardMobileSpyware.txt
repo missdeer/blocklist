@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 14 Aug 2025 04:37:59 UTC
+# Updated at Fri, 15 Aug 2025 04:38:32 UTC
 #
 
 0.0.0.0 33across.com
@@ -172,6 +172,7 @@
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
+0.0.0.0 beacons-prod.fubo.tv
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 bfmio.com
 0.0.0.0 bi.manhuaren.com
@@ -316,6 +317,7 @@
 0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
 0.0.0.0 events.claspws.tv
+0.0.0.0 events.fubo.tv
 0.0.0.0 events.funnelish.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
@@ -645,6 +647,7 @@
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 s3-analytics-events.easybrain.com
+0.0.0.0 s3-ca-liveops.easybrain.com
 0.0.0.0 sadobeanalytics.geico.com
 0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sc-analytics.appspot.com
@@ -778,6 +781,7 @@
 0.0.0.0 tracker.str-nrg.com
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 trackernew.ulivetv.net
+0.0.0.0 trackers.fubo.tv
 0.0.0.0 trackersdk.bdash-cloud.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 tracking-config-service.glority.com

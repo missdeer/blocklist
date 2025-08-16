@@ -1,11 +1,13 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 15 Aug 2025 04:38:31 UTC
+# Updated at Sat, 16 Aug 2025 04:34:51 UTC
 #
 
 0.0.0.0 023hysj.com
 0.0.0.0 1mp.mobi
+0.0.0.0 23.224.199.74
+0.0.0.0 23.224.199.96
 0.0.0.0 247realmedia.com
 0.0.0.0 31.14.252.148
 0.0.0.0 360yield.com
@@ -453,6 +455,7 @@
 0.0.0.0 focas.jp
 0.0.0.0 friendlyduck.com
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
+0.0.0.0 fxlcvd.icu
 0.0.0.0 fyber.com
 0.0.0.0 g.doubleclick.net
 0.0.0.0 gadsme.com
@@ -470,6 +473,7 @@
 0.0.0.0 go.admost.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.vrvm.com
+0.0.0.0 goi08150kh.com
 0.0.0.0 googleadservices.com
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 gts-ads.twistbox.com
@@ -482,6 +486,7 @@
 0.0.0.0 hellay.net
 0.0.0.0 heyzap.com
 0.0.0.0 holder.com.ua
+0.0.0.0 horsed44.com
 0.0.0.0 hotapi-va.isnssdk.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
@@ -650,6 +655,7 @@
 0.0.0.0 oclasrv.com
 0.0.0.0 oconner.biz
 0.0.0.0 offerwall-adnative.com
+0.0.0.0 okloib88.com
 0.0.0.0 onlineapi.youappi.com
 0.0.0.0 open.e.kuaishou.cn
 0.0.0.0 open.e.kuaishou.com

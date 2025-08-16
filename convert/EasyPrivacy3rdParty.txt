@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 15 Aug 2025 04:38:31 UTC
+# Updated at Sat, 16 Aug 2025 04:34:51 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -48,6 +48,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analyticcdn.wlmediahub.com
 0.0.0.0 analytics-1.cavai.com
+0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-cf.bigcrunch.com
@@ -1538,6 +1539,7 @@
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 wsmcdn.audioeye.com
+0.0.0.0 wstats.ageverif.com
 0.0.0.0 wstats.slashed.cloud
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtb-tag.swaven.com

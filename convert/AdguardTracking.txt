@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 15 Aug 2025 04:38:32 UTC
+# Updated at Sat, 16 Aug 2025 04:34:51 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5089,6 +5089,7 @@
 0.0.0.0 analytically.net
 0.0.0.0 analytics-api.a-f.io
 0.0.0.0 analytics-api.dvdfab
+0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.invideo.io
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
@@ -5306,6 +5307,7 @@
 0.0.0.0 analytics.cornbreadorganics.com
 0.0.0.0 analytics.corusent.com
 0.0.0.0 analytics.cosmonova.net
+0.0.0.0 analytics.cosmopolitanmag.com.tr
 0.0.0.0 analytics.craftygoblin.nl
 0.0.0.0 analytics.crawfordcountybank.com
 0.0.0.0 analytics.crea.ca
@@ -51243,6 +51245,7 @@
 0.0.0.0 hurtgrape.com
 0.0.0.0 husdv.sokolovelaw.com
 0.0.0.0 husfly.com
+0.0.0.0 hustlercoach.com
 0.0.0.0 hutjfl.pennyblack.com
 0.0.0.0 huzjg.ancientnutrition.com
 0.0.0.0 hvac.goodcoinc.com
@@ -54582,6 +54585,7 @@
 0.0.0.0 landingpage.unia.ch
 0.0.0.0 landingpages.siemens-healthineers.com
 0.0.0.0 landings.omegacrmconsulting.com
+0.0.0.0 landkarts.com
 0.0.0.0 landlordspy.com
 0.0.0.0 landsnail.bindle.io
 0.0.0.0 landsnail.brownfield.dev
@@ -65235,7 +65239,6 @@
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mobile.blackboard.com
-0.0.0.0 mobile.slgnt.eu
 0.0.0.0 mobile.tradeshow.globalsources.com
 0.0.0.0 mobile.vmware.com
 0.0.0.0 mobileapptracking.com
@@ -78363,7 +78366,6 @@
 0.0.0.0 sisdtb.climatempo.com.br
 0.0.0.0 sit-metrics.nab.com.au
 0.0.0.0 sit-smetrics.nab.com.au
-0.0.0.0 site-azp.slgnt.eu
 0.0.0.0 site-config.com
 0.0.0.0 site-kaiseki-tool.com
 0.0.0.0 site-stats.supernotes.app
@@ -78498,6 +78500,8 @@
 0.0.0.0 sleep.ubm-events.com
 0.0.0.0 slewvr.gp.se
 0.0.0.0 slf.fugu-it.com
+0.0.0.0 slgnt.eu
+0.0.0.0 slgnt.us
 0.0.0.0 sli.familyhandyman.com
 0.0.0.0 sli.fortune.com
 0.0.0.0 sli.huffpost.com

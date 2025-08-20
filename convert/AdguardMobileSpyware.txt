@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 19 Aug 2025 04:32:48 UTC
+# Updated at Wed, 20 Aug 2025 04:32:52 UTC
 #
 
 0.0.0.0 33across.com
@@ -173,6 +173,7 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacons-prod.fubo.tv
+0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 bfmio.com
 0.0.0.0 bi.manhuaren.com

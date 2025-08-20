@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 19 Aug 2025 04:32:48 UTC
+# Updated at Wed, 20 Aug 2025 04:32:52 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -152,7 +152,6 @@
 0.0.0.0 ads.cocomobi.com
 0.0.0.0 ads.edadeal.ru
 0.0.0.0 ads.feelingtouch.com
-0.0.0.0 ads.fubo.tv
 0.0.0.0 ads.imbc.com
 0.0.0.0 ads.imovideo.ru
 0.0.0.0 ads.iosappsworld.com

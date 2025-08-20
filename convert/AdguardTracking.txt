@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 19 Aug 2025 04:32:48 UTC
+# Updated at Wed, 20 Aug 2025 04:32:53 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9159,6 +9159,7 @@
 0.0.0.0 beacon.www.theguardian.com
 0.0.0.0 beaconimages.netflix.net
 0.0.0.0 beacons-prod.fubo.tv
+0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beacons.digital.disneyadvertising.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beafdf.restaupro.com
@@ -18820,6 +18821,7 @@
 0.0.0.0 data.drhauschka.de
 0.0.0.0 data.dride.com.br
 0.0.0.0 data.drkoncerthuset.dk
+0.0.0.0 data.ds.dumont.de
 0.0.0.0 data.dttp-test.msccruises.com
 0.0.0.0 data.dutchcrowdsecurity.nl
 0.0.0.0 data.dvderotik.com
@@ -48515,6 +48517,7 @@
 0.0.0.0 gtmserver2.deliverymuch.com
 0.0.0.0 gtmserverdefinitivo.encha.ai
 0.0.0.0 gtmserverpromedicina.proenem.com.br
+0.0.0.0 gtmserverside.eluniversal.com.mx
 0.0.0.0 gtmsrv.caseih.com
 0.0.0.0 gtmsrv.caseoperatorsclub.com
 0.0.0.0 gtmsrv.casepromotion.com
@@ -49752,6 +49755,7 @@
 0.0.0.0 icklns.justblinds.com
 0.0.0.0 icoktb.onygo.com
 0.0.0.0 icstats.nl
+0.0.0.0 icu.newsroom.bi
 0.0.0.0 icugm.wagamama.us
 0.0.0.0 icvihl.cachecoeurlingerie.com
 0.0.0.0 icwmzb.talisa.fr
@@ -50558,6 +50562,7 @@
 0.0.0.0 indextools.com
 0.0.0.0 indexww.com
 0.0.0.0 indgq.simplyearth.com
+0.0.0.0 indicative.com
 0.0.0.0 indicia.com
 0.0.0.0 indiv.indivmedia.com
 0.0.0.0 individuad.net
@@ -51943,6 +51948,7 @@
 0.0.0.0 jahid.fuchsiabell.ie
 0.0.0.0 jailbulb.com
 0.0.0.0 james.edge45.testandtarget.omniture.com
+0.0.0.0 jamexport.com
 0.0.0.0 jan.ponnerdam.xyz
 0.0.0.0 jandm.maitea.de
 0.0.0.0 jaomc.getrockwell.com
@@ -66352,6 +66358,7 @@
 0.0.0.0 onenet.gakujutsu.com
 0.0.0.0 onestat.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 onetag.co.kr
 0.0.0.0 ongc.justmusic.co.il
 0.0.0.0 onghfx.revolve.com
 0.0.0.0 ongsono.com
@@ -70239,6 +70246,7 @@
 0.0.0.0 prlik.site
 0.0.0.0 prnetwork.de
 0.0.0.0 prnx.net
+0.0.0.0 pro-1w-dataaggregator.onelouder.com
 0.0.0.0 pro-web-metrics.alias.s24cloud.net
 0.0.0.0 pro.adrofx.com
 0.0.0.0 pro.aiforcompanies.com
@@ -86663,6 +86671,7 @@
 0.0.0.0 st.youridfoodagency.pt
 0.0.0.0 st.zoo24.de
 0.0.0.0 st1.lg.avendrealouer.fr
+0.0.0.0 sta-events.swishapps.ai
 0.0.0.0 sta.coroadeflor.com
 0.0.0.0 sta.tirexo.ink
 0.0.0.0 sta.tracedock.com
@@ -91582,6 +91591,7 @@
 0.0.0.0 t.usatoday-breakingupdates.com
 0.0.0.0 t.usctrojans.com
 0.0.0.0 t.usdtoreros.com
+0.0.0.0 t.usermaven.com
 0.0.0.0 t.usm.com
 0.0.0.0 t.usnh.edu
 0.0.0.0 t.utahstateaggies.com
@@ -98410,6 +98420,7 @@
 0.0.0.0 uawefo.guylook.co.kr
 0.0.0.0 uawuau.thejulius.co.kr
 0.0.0.0 uazmti.a101.com.tr
+0.0.0.0 ub-analytics.com
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 ub.finanzfrage.net
 0.0.0.0 ubdjfy.maje.com
@@ -104051,6 +104062,7 @@
 0.0.0.0 yltkil.e-hoi.ch
 0.0.0.0 ylucei.piscinesdumonde.com
 0.0.0.0 ylxxgaka.skinmedix.com
+0.0.0.0 ym-tack.b-cdn.net
 0.0.0.0 ymcvxo.check24.de
 0.0.0.0 ymetrica.com
 0.0.0.0 ymetrica1.com

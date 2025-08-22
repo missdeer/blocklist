@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 21 Aug 2025 04:33:03 UTC
+# Updated at Fri, 22 Aug 2025 04:32:08 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -25,6 +25,8 @@
 0.0.0.0 ad.aloodo.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adlog.com.com
+0.0.0.0 ads-tracking.beop.io
+0.0.0.0 ads-tracking.collectiveaudience.co
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 adsmoloco.com
 0.0.0.0 adsolutions.com
@@ -353,7 +355,6 @@
 0.0.0.0 connext-cdn.azureedge.net
 0.0.0.0 console.uxlens.com
 0.0.0.0 container.pepperjam.com
-0.0.0.0 contents-tracking.beop.io
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
@@ -714,6 +715,7 @@
 0.0.0.0 h-bid.com
 0.0.0.0 happen.spkt.io
 0.0.0.0 harvest.graindata.com
+0.0.0.0 hb.collectiveaudience.co
 0.0.0.0 hb.vhsrv.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
@@ -1060,6 +1062,7 @@
 0.0.0.0 rw.marchex.io
 0.0.0.0 s.autopilotapp.com
 0.0.0.0 s.beop.io
+0.0.0.0 s.collectiveaudience.co
 0.0.0.0 s.logsss.com
 0.0.0.0 s.srvsynd.com
 0.0.0.0 s.vibe.co

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 21 Aug 2025 04:33:04 UTC
+# Updated at Fri, 22 Aug 2025 04:32:08 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -10614,6 +10614,7 @@
 0.0.0.0 caribou.mcgregorpublishing.com
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
+0.0.0.0 carmen.golem.de
 0.0.0.0 carp.acda.app
 0.0.0.0 carp.amespacios.com
 0.0.0.0 carp.pbncontent.com
@@ -10931,6 +10932,7 @@
 0.0.0.0 cf.heirloomcremation.com
 0.0.0.0 cf.rocketquote.com
 0.0.0.0 cf.wolfclicktrack.com
+0.0.0.0 cfa-js.cafe24.com
 0.0.0.0 cfcpee.lascana.ch
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cfg.imtt.qq.com
@@ -15307,6 +15309,7 @@
 0.0.0.0 cptrack.de
 0.0.0.0 cpu.baidu.com
 0.0.0.0 cpvsm.evvy.com
+0.0.0.0 cpx.golem.de
 0.0.0.0 cpx.to
 0.0.0.0 cpxl.golem.de
 0.0.0.0 cqbbpf.geewiz.co.za
@@ -66457,6 +66460,7 @@
 0.0.0.0 openclick.com
 0.0.0.0 openfpcdn.io
 0.0.0.0 openhit.com
+0.0.0.0 openinstall.io
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
 0.0.0.0 openlog.tapapis.cn
@@ -72854,6 +72858,7 @@
 0.0.0.0 s.splazzh.in
 0.0.0.0 s.sporks.space
 0.0.0.0 s.srvsynd.com
+0.0.0.0 s.ssl.qhres2.com
 0.0.0.0 s.stcatharinesstandard.ca
 0.0.0.0 s.stgeorgeafc.com.au
 0.0.0.0 s.sunnybeach.dk
@@ -98539,7 +98544,6 @@
 0.0.0.0 uda71a.oliviakate.nl
 0.0.0.0 udbdf-v2.nimo.tv
 0.0.0.0 udc.msn.com
-0.0.0.0 udc.yahoo.com
 0.0.0.0 udfa7.azbarbecue.be
 0.0.0.0 udfa7.barbecue.nl
 0.0.0.0 udfa7.gourmetten.nl

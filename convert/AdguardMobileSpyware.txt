@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 22 Aug 2025 04:32:08 UTC
+# Updated at Sat, 23 Aug 2025 04:31:10 UTC
 #
 
 0.0.0.0 33across.com
@@ -123,6 +123,7 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api.bytebrew.io
 0.0.0.0 api.data-analytics.pokemon.com
+0.0.0.0 api.deeplink.dev
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.miui.security.xiaomi.com
@@ -302,6 +303,7 @@
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
+0.0.0.0 event.flareflow.tv
 0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.meloshort.com
 0.0.0.0 event.togothermany.com

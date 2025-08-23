@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 22 Aug 2025 04:32:08 UTC
+# Updated at Sat, 23 Aug 2025 04:31:10 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -7061,6 +7061,7 @@
 0.0.0.0 api.datinghelp.dk
 0.0.0.0 api.datingxperten.de
 0.0.0.0 api.deafios.com.br
+0.0.0.0 api.deeplink.dev
 0.0.0.0 api.designerexpert.com.br
 0.0.0.0 api.diegorial.com
 0.0.0.0 api.digitalpiloten.org
@@ -9990,6 +9991,7 @@
 0.0.0.0 c.archden.org
 0.0.0.0 c.axioshq.com
 0.0.0.0 c.bazo.io
+0.0.0.0 c.bazu.cc
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.blockdetector.org
 0.0.0.0 c.civo.com
@@ -42741,6 +42743,7 @@
 0.0.0.0 event.csdn.net
 0.0.0.0 event.dengage.com
 0.0.0.0 event.dfinery.io
+0.0.0.0 event.flareflow.tv
 0.0.0.0 event.geniee-search.net
 0.0.0.0 event.getblue.io
 0.0.0.0 event.gitexfuturehealth.com
@@ -49591,6 +49594,7 @@
 0.0.0.0 htrji.mazeliving.co.uk
 0.0.0.0 htrog.threewarriors.com.au
 0.0.0.0 httjs.davidscookies.com
+0.0.0.0 http-inputs-notion.splunkcloud.com
 0.0.0.0 httpglobalid3.click.s11.sfmc-osl.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 htvso.lovisa.com.au
@@ -66466,6 +66470,7 @@
 0.0.0.0 openlog.tapapis.cn
 0.0.0.0 openrate.aweber.com
 0.0.0.0 openstat.net
+0.0.0.0 openstats.co
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 opentracker.net
 0.0.0.0 operationchicken.com
@@ -74371,6 +74376,7 @@
 0.0.0.0 sentiment.icis.com
 0.0.0.0 sentinelbi.com
 0.0.0.0 sentinelp.com
+0.0.0.0 sentinelpro.com
 0.0.0.0 sentry.eks.hoyoverse.com
 0.0.0.0 sentry.pnblab.com
 0.0.0.0 sentry01.zerg.rambler.ru
@@ -77634,6 +77640,7 @@
 0.0.0.0 sheldon.dummyticket24.com
 0.0.0.0 sheldon.justonward.com
 0.0.0.0 sheoil.newyorkandcompany.com
+0.0.0.0 sherlock-events-sampler.ebay.com
 0.0.0.0 sherlock.mediaddress.com
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shfoxs.vector-park.jp
@@ -90863,6 +90870,7 @@
 0.0.0.0 swift.mi-boda.com
 0.0.0.0 swift.radio12.org
 0.0.0.0 swift.vanuitjehuis.nl
+0.0.0.0 swiftintro.com
 0.0.0.0 swifty.swiftfn.com
 0.0.0.0 swim.goldfishss.com
 0.0.0.0 swim101.goldfishss.com

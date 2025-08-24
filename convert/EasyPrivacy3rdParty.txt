@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 23 Aug 2025 04:31:10 UTC
+# Updated at Sun, 24 Aug 2025 04:34:35 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -897,6 +897,7 @@
 0.0.0.0 nsg.symantec.com
 0.0.0.0 nwr.static.mmcdn.com
 0.0.0.0 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
+0.0.0.0 obs.esnlocco.com
 0.0.0.0 obs.jollyoutdoorjogger.com
 0.0.0.0 obs.system1onesource.com
 0.0.0.0 observe-nexus.pointandplace.com
@@ -1535,6 +1536,7 @@
 0.0.0.0 webtrack.chd01.com
 0.0.0.0 webtrack.savoysystems.co.uk
 0.0.0.0 webtracker.apicasystem.com
+0.0.0.0 wf.typesquare.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.civey.com
 0.0.0.0 widget.educationdynamics.com

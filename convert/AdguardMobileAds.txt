@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 25 Aug 2025 04:36:00 UTC
+# Updated at Tue, 26 Aug 2025 04:32:48 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -489,6 +489,7 @@
 0.0.0.0 hotapi-va.isnssdk.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
+0.0.0.0 hpfkvr.icu
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 httpool.com
 0.0.0.0 https-filtering-check.adtidy.org

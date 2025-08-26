@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 25 Aug 2025 04:36:01 UTC
+# Updated at Tue, 26 Aug 2025 04:32:49 UTC
 #
 
 0.0.0.0 33across.com
@@ -65,6 +65,7 @@
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sprint.qoqa.com
+0.0.0.0 analytics-stg.samsungknox.com
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics.300624.com
 0.0.0.0 analytics.ad.daum.net
@@ -481,6 +482,7 @@
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.nebulahoroscope.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 26 Aug 2025 04:32:50 UTC
+# Updated at Wed, 27 Aug 2025 04:31:33 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -15788,6 +15788,7 @@
 0.0.0.0 d2u.dauphinquebec.com
 0.0.0.0 d2uhnetoehh304.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
+0.0.0.0 d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0 d3-umami.up.railway.app
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d30qdagvt44524.cloudfront.net
@@ -18396,6 +18397,7 @@
 0.0.0.0 data.ck-qa.circlek.com
 0.0.0.0 data.ck.circlek.com
 0.0.0.0 data.client-comms.nedbank.co.za
+0.0.0.0 data.client.openweb.bid
 0.0.0.0 data.cliente.clubeextra.com.br
 0.0.0.0 data.cliente.nissan.com.mx
 0.0.0.0 data.clientefnac.caixabankpc.com
@@ -48241,6 +48243,7 @@
 0.0.0.0 exoclick.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 exp.gainsforgamers.com
+0.0.0.0 exp.notion.so
 0.0.0.0 expansioneggnog.com
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 experianmatch.info
@@ -50252,7 +50255,6 @@
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 global.raboag.com
 0.0.0.0 global.successfactors.com
-0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 global.zenprise.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalbanking.wolterskluwer.com
@@ -58727,6 +58729,7 @@
 0.0.0.0 laudle.sonatural.co.kr
 0.0.0.0 laughcloth.com
 0.0.0.0 laughdrum.com
+0.0.0.0 launch-analytics-plugin.launchpotato.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchjack.com
 0.0.0.0 lavhj.cestlavie-birmingham.uk
@@ -70152,6 +70155,7 @@
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monirt.taposheebd.com
 0.0.0.0 monitis.com
+0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 monitor.azure.com
 0.0.0.0 monitor.ebay.com
@@ -105488,6 +105492,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 umami.aigenerations.net
 0.0.0.0 umami.is
+0.0.0.0 umami.spencerdevs.xyz
 0.0.0.0 umami.subdavis.com
 0.0.0.0 umazvs.raybiotech.com
 0.0.0.0 umbel.com
@@ -109189,6 +109194,7 @@
 0.0.0.0 walrus.scalue.com
 0.0.0.0 wam.flirttrck.com
 0.0.0.0 wamahe.wokularach.pl
+0.0.0.0 wan.kbdmp.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 wao.atu.de
 0.0.0.0 wapempire.com
@@ -109275,6 +109281,7 @@
 0.0.0.0 wcdizz.vanessdeco.com
 0.0.0.0 wcfbc.net
 0.0.0.0 wchjfv.apartmenttherapy.com
+0.0.0.0 wcl.shinhancard.com
 0.0.0.0 wcsbck.ecareer.ne.jp
 0.0.0.0 wct-2.com
 0.0.0.0 wct.compari.se
@@ -110006,6 +110013,7 @@
 0.0.0.0 wl.gl
 0.0.0.0 wl.yna.co.kr
 0.0.0.0 wlcyyw.gabangpop.co.kr
+0.0.0.0 wlg.shinhancard.com
 0.0.0.0 wlkojk.orange.ro
 0.0.0.0 wlog.ifdo.co.kr
 0.0.0.0 wlog.ksapisrv.com
@@ -110119,6 +110127,7 @@
 0.0.0.0 wqwkta.casadopapel.com.br
 0.0.0.0 wrapstretch.com
 0.0.0.0 wrating.com
+0.0.0.0 wrc.shinhancard.com
 0.0.0.0 wren.camdenmecc.org.uk
 0.0.0.0 wren.femi.io
 0.0.0.0 wretchedfloor.com

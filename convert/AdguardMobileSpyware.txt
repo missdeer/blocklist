@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 27 Aug 2025 04:31:32 UTC
+# Updated at Thu, 28 Aug 2025 04:31:12 UTC
 #
 
 0.0.0.0 33across.com
@@ -228,7 +228,6 @@
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
-0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 config.jpush.cn
@@ -420,6 +419,7 @@
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-sg.capcutapi.com
 0.0.0.0 log-tb.isnssdk.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 27 Aug 2025 04:31:33 UTC
+# Updated at Thu, 28 Aug 2025 04:31:11 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3471,6 +3471,7 @@
 0.0.0.0 adfuture.cn
 0.0.0.0 adg-data.kajicam.com
 0.0.0.0 adgainersolutions.com
+0.0.0.0 adgbb.io.naver.com
 0.0.0.0 adgocoo.com
 0.0.0.0 adgreed.com
 0.0.0.0 adh.byeten.com
@@ -5224,6 +5225,7 @@
 0.0.0.0 analytics.e2estudios.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.ecoslay.com
+0.0.0.0 analytics.edaily.co.kr
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.effectory.com
 0.0.0.0 analytics.egernsund.com
@@ -6000,6 +6002,7 @@
 0.0.0.0 analyticswritenew.xerevo.com
 0.0.0.0 analytiikka.yrittajat.fi
 0.0.0.0 analytik.xyz
+0.0.0.0 analytiwave.com
 0.0.0.0 analyze-82dfgsi2.m-w.com
 0.0.0.0 analyze.bluntumbrellas.de
 0.0.0.0 analyze.fitforlife.com.bd
@@ -15775,6 +15778,7 @@
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
 0.0.0.0 d2ezz24t9nm0vu.cloudfront.net
+0.0.0.0 d2fuc4clr7gvcn.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2ieqaiwehnqqp.cloudfront.net
@@ -64114,6 +64118,7 @@
 0.0.0.0 log-lb.skyperfectv.co.jp
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-player.arte.tv
+0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-sg.bytegsdk.com
 0.0.0.0 log-sg.capcutapi.com
@@ -76492,6 +76497,7 @@
 0.0.0.0 propsynergy.com
 0.0.0.0 prospecteye.com
 0.0.0.0 protectcrev.com
+0.0.0.0 protected-by.clarium.io
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
 0.0.0.0 protys.protys.fr
@@ -80086,6 +80092,7 @@
 0.0.0.0 sdk.airbridge.io
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk.conscent.in
+0.0.0.0 sdk.mrf.io
 0.0.0.0 sdk.optimove.net
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -88228,6 +88235,7 @@
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 snoresmile.com
 0.0.0.0 snowdayonline.xyz
+0.0.0.0 snowflake.qq.com
 0.0.0.0 snowmentor.com
 0.0.0.0 snowplow-collector
 0.0.0.0 snowplow-pixel.tradingview.com
@@ -88708,6 +88716,7 @@
 0.0.0.0 sp.jconline.com
 0.0.0.0 sp.jrklein.com
 0.0.0.0 sp.jsonline.com
+0.0.0.0 sp.justwatch.com
 0.0.0.0 sp.kitsapsun.com
 0.0.0.0 sp.knoxnews.com
 0.0.0.0 sp.lancastereaglegazette.com
@@ -109276,6 +109285,7 @@
 0.0.0.0 wbtrkk.teufelaudio.it
 0.0.0.0 wbtrkk.teufelaudio.nl
 0.0.0.0 wbtrkk.teufelaudio.pl
+0.0.0.0 wc.paybooc.co.kr
 0.0.0.0 wc.wholifeco.com
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 wcdizz.vanessdeco.com

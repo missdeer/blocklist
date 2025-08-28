@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 27 Aug 2025 04:31:32 UTC
+# Updated at Thu, 28 Aug 2025 04:31:12 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -119,6 +119,7 @@
 0.0.0.0 boomerang.dell.com
 0.0.0.0 bugsnag.shopbop.amazon.dev
 0.0.0.0 bup.bankofamerica.com
+0.0.0.0 bwapi.bikerumor.com
 0.0.0.0 c.arstechnica.com
 0.0.0.0 c.fingerprint.com
 0.0.0.0 c.gq.com
@@ -605,6 +606,7 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sp.cargurus.co.uk
 0.0.0.0 sp.ecosia.org
+0.0.0.0 sp.justwatch.com
 0.0.0.0 sp.pcoptimum.ca
 0.0.0.0 sp.welcometothejungle.com
 0.0.0.0 spectrum.gettyimages.com

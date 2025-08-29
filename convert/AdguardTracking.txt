@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 28 Aug 2025 04:31:11 UTC
+# Updated at Fri, 29 Aug 2025 04:31:55 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -839,6 +839,7 @@
 0.0.0.0 4961.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 4961.ftp-qa1.marketingcloudqaops.com
 0.0.0.0 4984.editor-qa1.marketingcloudqaapis.com
+0.0.0.0 4dex.tech
 0.0.0.0 4e.verwin.com
 0.0.0.0 4jaehnfqizyx.controlconceptsusa.com
 0.0.0.0 4jnzhl0d0.com
@@ -10602,6 +10603,7 @@
 0.0.0.0 cjlekm.correiodopovo.com.br
 0.0.0.0 cjnbqe.glamira.com.mx
 0.0.0.0 cjulor.marimekko.jp
+0.0.0.0 ck-ie.com
 0.0.0.0 ck.am-qualitaetsmatratzen.de
 0.0.0.0 ck.deine-massanfertigung.de
 0.0.0.0 ck.ncclick.co.kr
@@ -14182,6 +14184,8 @@
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.ghostery.net
+0.0.0.0 collector-pxdojv695v.protechts.net
+0.0.0.0 collector-pxdojv695v.px-cloud.net
 0.0.0.0 collector-pxebumdlwe.px-cdn.net
 0.0.0.0 collector-pxebumdlwe.px-cloud.net
 0.0.0.0 collector-pxebumdlwe.pxchk.net
@@ -20627,6 +20631,7 @@
 0.0.0.0 dsnurj.nissan-rentacar.com
 0.0.0.0 dsoxjxin5jji.controlconceptsusa.com
 0.0.0.0 dsp-adcreative.mobshark.net
+0.0.0.0 dsp-service.admatic.de
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 dsp.newsbreak.com
 0.0.0.0 dsparking.com
@@ -48243,6 +48248,7 @@
 0.0.0.0 exhibitsneeze.com
 0.0.0.0 exitbee.com
 0.0.0.0 exitmonitor.com
+0.0.0.0 exlogcollector.sooplive.co.kr
 0.0.0.0 exmeqy.smartbuyglasses.de
 0.0.0.0 exoclick.com
 0.0.0.0 exovueplatform.com
@@ -76413,6 +76419,7 @@
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 prod.tracking.refinitiv.com
 0.0.0.0 prod.uidapi.com
+0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 0.0.0.0 prodalet.ru
 0.0.0.0 proditor.sparda.de
 0.0.0.0 prodmp.ru
@@ -78487,6 +78494,7 @@
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb.loopa.net.au
 0.0.0.0 rtb.videonow.ru
+0.0.0.0 rtb.voltaxam.com
 0.0.0.0 rtbanalytics.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.bytevcloud.com
@@ -91141,6 +91149,7 @@
 0.0.0.0 ssn.ringedcity.com
 0.0.0.0 ssneo.neosocios.com
 0.0.0.0 ssoff.aladaboi.com
+0.0.0.0 ssp.api.tappx.com
 0.0.0.0 ssp.betou.bet.br
 0.0.0.0 ssp.emol.com
 0.0.0.0 ssp.igaw.io
@@ -93319,6 +93328,7 @@
 0.0.0.0 st.preciousamber.com
 0.0.0.0 st.section8solutions.co
 0.0.0.0 st.solariafestival.com.br
+0.0.0.0 st.sooplive.co.kr
 0.0.0.0 st.sorayacastro.enf.br
 0.0.0.0 st.sunpoint.de
 0.0.0.0 st.thecasewise.de
@@ -97745,6 +97755,7 @@
 0.0.0.0 sync.adspend.space
 0.0.0.0 sync.bruno.wine
 0.0.0.0 sync.bumlam.com
+0.0.0.0 sync.clearnview.com
 0.0.0.0 sync.ebis.ne.jp
 0.0.0.0 sync.morgdm.ru
 0.0.0.0 sync.opendsp.ru
@@ -106196,6 +106207,7 @@
 0.0.0.0 utkoh.nuudcare.us
 0.0.0.0 utlbs.stoffwechsel-gesund.de
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uts.auction.co.kr
 0.0.0.0 uts.gmarket.co.kr
 0.0.0.0 utsgw.auction.co.kr

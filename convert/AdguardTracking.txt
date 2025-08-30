@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 29 Aug 2025 04:31:55 UTC
+# Updated at Sat, 30 Aug 2025 04:29:16 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5745,6 +5745,7 @@
 0.0.0.0 analytics.shopncaasports.com
 0.0.0.0 analytics.shorthand.com
 0.0.0.0 analytics.showtic.se
+0.0.0.0 analytics.shutterstock.com
 0.0.0.0 analytics.sibleystatebank.com
 0.0.0.0 analytics.sideprojectsoftware.com
 0.0.0.0 analytics.silktide.com
@@ -76045,6 +76046,7 @@
 0.0.0.0 plus.mameradivlasy.cz
 0.0.0.0 plus.tovari.fi
 0.0.0.0 pluto.r.powuta.com
+0.0.0.0 plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
 0.0.0.0 plwfwc.teknozone.it
 0.0.0.0 plyizb.latour-lith.nl
 0.0.0.0 pm.eu.viatrisconnect.co.uk

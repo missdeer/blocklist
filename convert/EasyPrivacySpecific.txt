@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 29 Aug 2025 04:31:55 UTC
+# Updated at Sat, 30 Aug 2025 04:29:17 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -51,6 +51,7 @@
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.designspiration.com
+0.0.0.0 analytics.egdata.app
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
@@ -76,6 +77,7 @@
 0.0.0.0 analytics.python.org
 0.0.0.0 analytics.qogita.com
 0.0.0.0 analytics.realestate.com.au
+0.0.0.0 analytics.shutterstock.com
 0.0.0.0 analytics.silktide.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com

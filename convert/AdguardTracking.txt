@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 30 Aug 2025 04:29:16 UTC
+# Updated at Sun, 31 Aug 2025 04:30:28 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5229,6 +5229,7 @@
 0.0.0.0 analytics.edaily.co.kr
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.effectory.com
+0.0.0.0 analytics.egdata.app
 0.0.0.0 analytics.egernsund.com
 0.0.0.0 analytics.egernsund.de
 0.0.0.0 analytics.ehg.ch
@@ -102108,6 +102109,7 @@
 0.0.0.0 track.fun4mobcy.com
 0.0.0.0 track.funplusjo.com
 0.0.0.0 track.funscapeuae.com
+0.0.0.0 track.fusionmedia.io
 0.0.0.0 track.futureshop.ca
 0.0.0.0 track.fxstreet.com
 0.0.0.0 track.g6cred.com.br

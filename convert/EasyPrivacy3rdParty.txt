@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 01 Sep 2025 04:36:13 UTC
+# Updated at Tue, 02 Sep 2025 04:32:10 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -180,6 +180,7 @@
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.vitalsignstracker.com
 0.0.0.0 analytics.vixcloud.co
+0.0.0.0 analytics.wask.co
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.websolute.it

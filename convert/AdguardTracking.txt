@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 02 Sep 2025 04:32:10 UTC
+# Updated at Wed, 03 Sep 2025 04:30:17 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -7520,6 +7520,7 @@
 0.0.0.0 app.olemisssports.com
 0.0.0.0 app.on.hp.com
 0.0.0.0 app.online.microfocus.com
+0.0.0.0 app.optibase.io
 0.0.0.0 app.osubeavers.com
 0.0.0.0 app.outreach.io
 0.0.0.0 app.pac.uga.edu
@@ -15955,6 +15956,7 @@
 0.0.0.0 cvnze.thelovery.com
 0.0.0.0 cvoddu.getnamenecklace.com
 0.0.0.0 cvrshe.hirmer-grosse-groessen.de
+0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 cvwfiy.dotcosmeticos.com.br
 0.0.0.0 cvzvun.vidaxl.de
 0.0.0.0 cwcdmm.zennioptical.com
@@ -69472,7 +69474,6 @@
 0.0.0.0 prnetwork.de
 0.0.0.0 prnx.net
 0.0.0.0 prnzxf.glamira.se
-0.0.0.0 pro-1w-dataaggregator.onelouder.com
 0.0.0.0 pro-web-metrics.alias.s24cloud.net
 0.0.0.0 pro.adrofx.com
 0.0.0.0 pro.aiforcompanies.com

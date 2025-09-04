@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 03 Sep 2025 04:30:17 UTC
+# Updated at Thu, 04 Sep 2025 04:29:58 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -48734,6 +48734,7 @@
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highmetrics.com
+0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hijab.decentattire.com
 0.0.0.0 hijxfm.gaspedaal.nl
 0.0.0.0 hikari.jiocinema.com
@@ -49472,6 +49473,7 @@
 0.0.0.0 i.moshimo.com
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.paypal.com
+0.0.0.0 i.posthog.com
 0.0.0.0 i.snssdk.com
 0.0.0.0 i.tct-rom.com
 0.0.0.0 i.thinkclearly.uk
@@ -63305,6 +63307,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
+0.0.0.0 mobile.slgnt.eu
 0.0.0.0 mobile.vmware.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilelog.upqzfile.com
@@ -77010,8 +77013,10 @@
 0.0.0.0 sit-metrics.nab.com.au
 0.0.0.0 sit-smetrics.nab.com.au
 0.0.0.0 site-analytics.iop.ohio.gov
+0.0.0.0 site-azp.slgnt.eu
 0.0.0.0 site-config.com
 0.0.0.0 site-kaiseki-tool.com
+0.0.0.0 site-see.slgnt.eu
 0.0.0.0 site-stats.supernotes.app
 0.0.0.0 site-submit.com.ua
 0.0.0.0 site.att.com
@@ -77152,7 +77157,6 @@
 0.0.0.0 slea.life-evolution-academy.com
 0.0.0.0 slewvr.gp.se
 0.0.0.0 slf.fugu-it.com
-0.0.0.0 slgnt.eu
 0.0.0.0 slgnt.us
 0.0.0.0 sli.familyhandyman.com
 0.0.0.0 sli.fortune.com

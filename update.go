@@ -28,6 +28,7 @@ var (
 		`http://sysctl.org/cameleon/hosts`:                                                          hostLine("127.0.0.1"),
 		`https://download.dnscrypt.info/blacklists/domains/mybase.txt`:                              domainListLine(),
 		`https://anti-ad.net/domains.txt`:                                                           domainListLine(),
+		`https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt`:    domainListLine(),
 		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt`:          hostLine("0.0.0.0"),
 		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt`:      hostLine("0.0.0.0"),
 		`https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardTracking.txt`:           hostLine("0.0.0.0"),

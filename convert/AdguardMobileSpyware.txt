@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 04 Sep 2025 04:29:57 UTC
+# Updated at Fri, 05 Sep 2025 03:23:59 UTC
 #
 
 0.0.0.0 33across.com
@@ -257,21 +257,26 @@
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
+0.0.0.0 dc.di.atlas.samsung.com
+0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 demdex.net
 0.0.0.0 detect.rayjump.com
+0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 devlog-upload-os.hoyoverse.com
 0.0.0.0 dex50.deteql.net
 0.0.0.0 df.afafb.com
 0.0.0.0 dfe.mic.mob.com
 0.0.0.0 dflow.log.hunantv.com
+0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 dlog.perfectworldgames.com
+0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -526,6 +531,7 @@
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 moai-dev-samsung.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.mymusic2025.com
@@ -618,6 +624,7 @@
 0.0.0.0 px.wpk.quark.cn
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
+0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 quantcount.com
 0.0.0.0 r-log.dable.io
 0.0.0.0 r.apkpure.net
@@ -626,6 +633,7 @@
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 receiver.habby.mobi
+0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 remain.appcpi.net
@@ -714,6 +722,7 @@
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stbid.ru
+0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com

@@ -30,6 +30,7 @@ var (
 		suffix(`jsdelivr.net`),
 		suffix(`.jpg`),
 		suffix(`.gif`),
+		suffix(`uptain.de`),
 		contains(`xmlhttprequest`),
 		contains(`google-analytics`),
 		contains(`mozilla`),

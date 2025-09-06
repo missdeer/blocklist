@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 05 Sep 2025 04:30:33 UTC
+# Updated at Sat, 06 Sep 2025 04:29:20 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -8910,6 +8910,7 @@
 0.0.0.0 bee.farmaciavdg.com
 0.0.0.0 bee.jbkmobiledj.com
 0.0.0.0 bee.shelveholidays.co.uk
+0.0.0.0 bee.tc.easebar.com
 0.0.0.0 beedigital.padigital.es
 0.0.0.0 beeline.beeline-tire.co.jp
 0.0.0.0 beemrdwn.com
@@ -14379,6 +14380,7 @@
 0.0.0.0 cloudad.icu
 0.0.0.0 cloudbyoc.testqa.02012024-test1.sfmc-tlsprovisioningqa.com
 0.0.0.0 cloudconf.fengkongcloud.com
+0.0.0.0 cloudfilt.com
 0.0.0.0 cloudflare-resolve-to.avadacom.com
 0.0.0.0 cloudhosting-business.vodafone.com
 0.0.0.0 cloudhustles.com
@@ -20008,6 +20010,8 @@
 0.0.0.0 dc.audi.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dc.bluecoat.com
+0.0.0.0 dc.di.atlas.samsung.com
+0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dc.entradas.com
 0.0.0.0 dc.esterethyl.com
 0.0.0.0 dc.growthmission.com
@@ -20252,6 +20256,7 @@
 0.0.0.0 deut3.fdj.fr
 0.0.0.0 deuymi.cozykids.gr
 0.0.0.0 dev-analytics-cf.bigcrunch.com
+0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com
 0.0.0.0 dev-plan.intel.com
 0.0.0.0 dev.amerikanu.nl
@@ -20375,6 +20380,7 @@
 0.0.0.0 dhsjpz.bugaboo.com
 0.0.0.0 dhwmtx.stylewe.com
 0.0.0.0 di2.zooplus.es
+0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 diagnostics.thermo.com
 0.0.0.0 dialer.leads360.com
 0.0.0.0 dialer.velocify.com
@@ -20712,6 +20718,7 @@
 0.0.0.0 dljtc.paradiseunderthestars.com
 0.0.0.0 dloeloqua.danskespil.dk
 0.0.0.0 dlog.perfectworldgames.com
+0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
@@ -63299,6 +63306,7 @@
 0.0.0.0 mnxlyo.kinoteatr.ru
 0.0.0.0 mo.motocorpbd.com
 0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 moai-dev-samsung.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.mymusic2025.com
@@ -70162,6 +70170,7 @@
 0.0.0.0 qmcfa.brecksbulbs.ca
 0.0.0.0 qmcwpi.naturitas.es
 0.0.0.0 qmdbfv.grautecnico.com.br
+0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 qmgzkb.dedoles.sk
 0.0.0.0 qmiiln.tower.jp
 0.0.0.0 qmkct.blessedbemagick.com
@@ -70776,6 +70785,7 @@
 0.0.0.0 reg.workspace-connect.com
 0.0.0.0 reg.xrdconf.com
 0.0.0.0 regexmail.com
+0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 region1.analytics.google.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register-implants.dentsplysirona.com
@@ -87723,6 +87733,7 @@
 0.0.0.0 stat.kaago.com
 0.0.0.0 stat.kakaku.com
 0.0.0.0 stat.kbs.co.kr
+0.0.0.0 stat.khanate.pro
 0.0.0.0 stat.kleos.cz
 0.0.0.0 stat.kununu.cz
 0.0.0.0 stat.kwikmotion.com
@@ -88952,6 +88963,7 @@
 0.0.0.0 stereotypedsugar.com
 0.0.0.0 stern.met.vgwort.de
 0.0.0.0 steun.touringcars.com
+0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stg.norte-verde.cl
 0.0.0.0 stg.service.wheelworks.net
@@ -91324,7 +91336,6 @@
 0.0.0.0 targetman.ru
 0.0.0.0 targetsecure.kohler.com
 0.0.0.0 targettur.www.svenskaspel.se
-0.0.0.0 targetyo.yogiyo.co.kr
 0.0.0.0 tariqul.ieltsbook.xyz
 0.0.0.0 tarsier.emitremmus.com
 0.0.0.0 tarsier.kriterie.se
@@ -92628,6 +92639,7 @@
 0.0.0.0 tokti.sokolovelaw.com
 0.0.0.0 tokztq.b2b-partner.pl
 0.0.0.0 toldyouso.lol
+0.0.0.0 tolt.io
 0.0.0.0 tomatobarrel.com
 0.0.0.0 tongjiniao.com
 0.0.0.0 toolboxadobe.inter-ikea.com

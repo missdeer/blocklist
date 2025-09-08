@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sun, 07 Sep 2025 04:29:30 UTC
+# Updated at Mon, 08 Sep 2025 04:32:20 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -93,6 +93,7 @@
 0.0.0.0 analytics.digitalpfizer.com
 0.0.0.0 analytics.disney.go.com
 0.0.0.0 analytics.disneyinternational.com
+0.0.0.0 analytics.dv.socure.io
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.eggoffer.com
@@ -839,6 +840,7 @@
 0.0.0.0 matomo.clanto.cloud
 0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yango.com
 0.0.0.0 measure.refinery89.com
 0.0.0.0 medals.bizrate.com
 0.0.0.0 mediametrics.mpsa.com
@@ -1059,6 +1061,7 @@
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.corewebvitals.io
+0.0.0.0 rum.cronitor.io
 0.0.0.0 rum.hlx.page
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.layer0.co

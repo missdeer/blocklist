@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 07 Sep 2025 04:29:30 UTC
+# Updated at Mon, 08 Sep 2025 04:32:20 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -60973,6 +60973,7 @@
 0.0.0.0 mc.pirateship.com
 0.0.0.0 mc.pldthome.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yango.com
 0.0.0.0 mca46927.view-qa1.sfmc-marketingqa.com
 0.0.0.0 mca46928.view-qa1.sfmc-marketingqa.com
 0.0.0.0 mca4698e.view-qa1.sfmc-marketingqa.com

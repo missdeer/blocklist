@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 09 Sep 2025 04:31:47 UTC
+# Updated at Wed, 10 Sep 2025 04:29:32 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9908,6 +9908,7 @@
 0.0.0.0 brianwould.com
 0.0.0.0 bridge.psihosensus.eu
 0.0.0.0 bridge.vidiq.com
+0.0.0.0 bridged.media
 0.0.0.0 bridgevine.com
 0.0.0.0 briefstem.com
 0.0.0.0 bright-sdk.com
@@ -11024,7 +11025,10 @@
 0.0.0.0 cdn.counter.dev
 0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
 0.0.0.0 cdn.ddmanager.ru
+0.0.0.0 cdn.debugbear.com
 0.0.0.0 cdn.defractal.com
+0.0.0.0 cdn.deviceinf.com
+0.0.0.0 cdn.dfsdk.com
 0.0.0.0 cdn.dminorschool.com
 0.0.0.0 cdn.dsspn.com
 0.0.0.0 cdn.firstpromoter.com
@@ -11062,6 +11066,7 @@
 0.0.0.0 cdn.residencemilano.org
 0.0.0.0 cdn.resonate.com
 0.0.0.0 cdn.rlets.com
+0.0.0.0 cdn.seonintelligence.com
 0.0.0.0 cdn.sgmntfy.com
 0.0.0.0 cdn.smlog.co.kr
 0.0.0.0 cdn.sophi.io
@@ -48140,6 +48145,7 @@
 0.0.0.0 featherstage.com
 0.0.0.0 feathr.co
 0.0.0.0 featureassets.org
+0.0.0.0 featuregates.org
 0.0.0.0 feavq.freeeasemd.com
 0.0.0.0 febcyv.joshi-spa.jp
 0.0.0.0 federal.external.xerox.com
@@ -58377,6 +58383,7 @@
 0.0.0.0 lending.ffbf.com
 0.0.0.0 lenpmh.francoisesaget.com
 0.0.0.0 leo.goplay.be
+0.0.0.0 leo.hepsiburada.com
 0.0.0.0 leo1.leon-de-bruxelles.fr
 0.0.0.0 leopard.davidlindahlphoto.com
 0.0.0.0 leopard.joytotheworld.info
@@ -63356,6 +63363,7 @@
 0.0.0.0 localhostmyaccount-16.cloud.s11.sfmc-osl.com
 0.0.0.0 localytics.com
 0.0.0.0 locate.findfashionevents.com
+0.0.0.0 locateskill.com
 0.0.0.0 location.cyou
 0.0.0.0 lockuplookup.com
 0.0.0.0 lockview.cn

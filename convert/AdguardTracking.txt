@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 10 Sep 2025 04:29:32 UTC
+# Updated at Thu, 11 Sep 2025 04:30:39 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -20758,7 +20758,6 @@
 0.0.0.0 datacollect.cisco.com
 0.0.0.0 datacollection.adelaideuni.edu.au
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
-0.0.0.0 datadog.pool.ntp.org
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadrivens.essenciacanina.com
 0.0.0.0 datadrivens.protocolopumpgluteos.com.br
@@ -22701,6 +22700,7 @@
 0.0.0.0 ejizlcat.sleeknote.com
 0.0.0.0 ejkmld.tradus.com
 0.0.0.0 ejrbgi.tous.com
+0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 ek8.voyage-prive.com
 0.0.0.0 ekggp.rmsbeauty.com
 0.0.0.0 ekgmca.gipfel.ru
@@ -98467,6 +98467,7 @@
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebigvan.com
 0.0.0.0 thecounter.com
+0.0.0.0 thecrazychili.com
 0.0.0.0 thedoc.doctronic.ai
 0.0.0.0 thedp.exhalewell.com
 0.0.0.0 theecozap-ss.olladeals.com

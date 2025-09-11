@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 10 Sep 2025 04:29:32 UTC
+# Updated at Thu, 11 Sep 2025 04:30:37 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -85,6 +85,7 @@
 0.0.0.0 analytics.tomato.gg
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.vedantu.com
+0.0.0.0 analytics.vgtimes.com
 0.0.0.0 analytics.viture.dev
 0.0.0.0 analytics.vortexscans.com
 0.0.0.0 analytics.wavebox.io

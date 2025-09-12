@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 11 Sep 2025 04:30:39 UTC
+# Updated at Fri, 12 Sep 2025 04:29:27 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9258,6 +9258,7 @@
 0.0.0.0 bdt.dermatologie-winkel.nl
 0.0.0.0 bdt.kno-winkel.nl
 0.0.0.0 bduhb.audienhearing.com
+0.0.0.0 bdvmetricas.banvenez.com.ve
 0.0.0.0 bdxoxo.libraccio.it
 0.0.0.0 bdzcck.stadiumgoods.com
 0.0.0.0 be-go.experian.com
@@ -54095,6 +54096,7 @@
 0.0.0.0 hlreoc.gonuldensevenler.com
 0.0.0.0 hlrqi.lasioinc.com
 0.0.0.0 hlserve.com
+0.0.0.0 hlstatus.com
 0.0.0.0 hlygsp.modivo.ro
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.houseofmirror.xyz
@@ -74600,6 +74602,7 @@
 0.0.0.0 pixad.com.tr
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel-config.reddit.com
+0.0.0.0 pixel-img.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.4pcdn.de
@@ -74650,6 +74653,7 @@
 0.0.0.0 pixel.organicprodact.com
 0.0.0.0 pixel.pcworld.com
 0.0.0.0 pixel.playbuzz.com
+0.0.0.0 pixel.prb-team.com
 0.0.0.0 pixel.primaziaplanejados.com.br
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.quantserve.com
@@ -75334,6 +75338,7 @@
 0.0.0.0 producepickle.com
 0.0.0.0 product.cel-fi.com
 0.0.0.0 production.gtm.inscale.net
+0.0.0.0 production.k-trk.com
 0.0.0.0 productionprinting.ricoh.ie
 0.0.0.0 productivepear.com
 0.0.0.0 productivity-s.yale.com

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 11 Sep 2025 04:30:37 UTC
+# Updated at Fri, 12 Sep 2025 04:29:25 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -863,6 +863,7 @@
 0.0.0.0 metrics.nsureapi.com
 0.0.0.0 metrics.onshape.com
 0.0.0.0 metrics.pico.tools
+0.0.0.0 metrics.rapidedge.io
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.userguiding.com
 0.0.0.0 metrix.emagister.com

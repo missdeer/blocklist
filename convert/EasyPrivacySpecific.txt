@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 11 Sep 2025 04:30:37 UTC
+# Updated at Fri, 12 Sep 2025 04:29:25 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -783,6 +783,7 @@
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.wallapop.com
 0.0.0.0 trackr.vivenu.com
+0.0.0.0 trafficid.brandwell.ai
 0.0.0.0 trck.coomeet.com
 0.0.0.0 trckng.dainese.com
 0.0.0.0 trcksplt.miro.com

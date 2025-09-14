@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 13 Sep 2025 04:28:47 UTC
+# Updated at Sun, 14 Sep 2025 04:29:08 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -345,6 +345,7 @@
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.clareity.net
 0.0.0.0 collector.contentexchange.me
+0.0.0.0 collector.ex.co
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.net-logger.com
@@ -599,6 +600,7 @@
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-logger.tagboard.com
 0.0.0.0 event-service.letslinc.com
+0.0.0.0 event-store.sitebehaviour.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.collector.scopely.io

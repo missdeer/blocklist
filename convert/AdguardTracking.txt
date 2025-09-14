@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 13 Sep 2025 04:28:47 UTC
+# Updated at Sun, 14 Sep 2025 04:29:08 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -22580,6 +22580,7 @@
 0.0.0.0 education.greatbatch.com
 0.0.0.0 education.leads360.com
 0.0.0.0 education.velocify.com
+0.0.0.0 educationcar.com
 0.0.0.0 educontinua.unisabana.edu.co
 0.0.0.0 educrated.com
 0.0.0.0 eduynp.fcl-hid.com
@@ -55603,6 +55604,7 @@
 0.0.0.0 infinity-tracking.com
 0.0.0.0 infinity-tracking.net
 0.0.0.0 infinity.magicalcredit.ca
+0.0.0.0 infinityhedge.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inflatopro-ss.olladeals.com
 0.0.0.0 inflectionpointmedia.com

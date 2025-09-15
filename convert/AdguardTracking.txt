@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 14 Sep 2025 04:29:08 UTC
+# Updated at Mon, 15 Sep 2025 04:31:51 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3906,6 +3906,7 @@
 0.0.0.0 acxiom-online.com
 0.0.0.0 ad-a8.www.zeiri4.com
 0.0.0.0 ad-api-log.colopl.jp
+0.0.0.0 ad-bls-tracking.lemino.docomo.ne.jp
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 ad-ebis.bookpass.auone.jp
 0.0.0.0 ad-ebis.mynavi-job20s.jp
@@ -54568,7 +54569,6 @@
 0.0.0.0 htrji.mazeliving.co.uk
 0.0.0.0 htrog.threewarriors.com.au
 0.0.0.0 httjs.davidscookies.com
-0.0.0.0 http-inputs-notion.splunkcloud.com
 0.0.0.0 httpglobalid3.click.s11.sfmc-osl.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 htvso.lovisa.com.au

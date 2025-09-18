@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 17 Sep 2025 04:30:15 UTC
+# Updated at Thu, 18 Sep 2025 04:30:27 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5492,6 +5492,7 @@
 0.0.0.0 analytics.ccned.nl
 0.0.0.0 analytics.cdf.cl
 0.0.0.0 analytics.cdn.live
+0.0.0.0 analytics.cdnweb.info
 0.0.0.0 analytics.ceneo.pl
 0.0.0.0 analytics.centrolilac.com
 0.0.0.0 analytics.centrolilac.it
@@ -5776,6 +5777,7 @@
 0.0.0.0 analytics.knifestock.eu
 0.0.0.0 analytics.knottenwol.nl
 0.0.0.0 analytics.knottenwolle.de
+0.0.0.0 analytics.kode.co.kr
 0.0.0.0 analytics.koebogspar.dk
 0.0.0.0 analytics.komoder.at
 0.0.0.0 analytics.komoder.be
@@ -52621,6 +52623,7 @@
 0.0.0.0 gas-sensing.spec-sensors.com
 0.0.0.0 gassales.eversource.com
 0.0.0.0 gastdn.wolfandbadger.com
+0.0.0.0 gatag.uplus.co.kr
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.mykite.com.ua
 0.0.0.0 gate.rvc.cl
@@ -60332,6 +60335,7 @@
 0.0.0.0 jzgfhr.nordicnest.com
 0.0.0.0 jznits.igrotime.ru
 0.0.0.0 jzprtb.1stdibs.com
+0.0.0.0 jzq915.playmobil.xn--com-cgd
 0.0.0.0 jzqfac.bestsecret.ch
 0.0.0.0 jzvln.famousfootwear.com
 0.0.0.0 jzvsc.thermoworks.com
@@ -102338,6 +102342,7 @@
 0.0.0.0 tongjiniao.com
 0.0.0.0 toolboxadobe.inter-ikea.com
 0.0.0.0 toolcapital.com
+0.0.0.0 toolforthought.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 tools.ricoh.co.uk
 0.0.0.0 tools.ricoh.de
@@ -112663,6 +112668,7 @@
 0.0.0.0 xsswcg.moglix.com
 0.0.0.0 xtatwn.hillbergandberk.com
 0.0.0.0 xtazfx.50factory.com
+0.0.0.0 xtr.tos.sktelecom.com
 0.0.0.0 xtractor.no
 0.0.0.0 xtremline.com
 0.0.0.0 xtube.chat

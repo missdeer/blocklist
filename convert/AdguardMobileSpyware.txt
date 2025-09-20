@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 19 Sep 2025 04:30:56 UTC
+# Updated at Sat, 20 Sep 2025 04:30:06 UTC
 #
 
 0.0.0.0 33across.com
@@ -534,6 +534,7 @@
 0.0.0.0 moai-dev-samsung.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
@@ -739,6 +740,7 @@
 0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 tatrack.thinkyeah.com
 0.0.0.0 taurus.iad.appboy.com
+0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 telemetry.api.swiftkey.com

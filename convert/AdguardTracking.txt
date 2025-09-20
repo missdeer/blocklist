@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 19 Sep 2025 04:30:57 UTC
+# Updated at Sat, 20 Sep 2025 04:30:07 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5876,6 +5876,7 @@
 0.0.0.0 analytics.lunarclientprod.com
 0.0.0.0 analytics.lunaweb.cloud
 0.0.0.0 analytics.lunge.de
+0.0.0.0 analytics.luogu.me
 0.0.0.0 analytics.ly200.com
 0.0.0.0 analytics.m7g.twitch.tv
 0.0.0.0 analytics.macpaw.com
@@ -9573,6 +9574,7 @@
 0.0.0.0 boiledegglabs.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingcredit.com
+0.0.0.0 boilingmadsoup.com
 0.0.0.0 bok.sklepmedic.pl
 0.0.0.0 bokbk.apothekary.co
 0.0.0.0 bokzv.spanx.com
@@ -58588,6 +58590,7 @@
 0.0.0.0 glocustomersalid3.click.s11.sfmc-osl.com
 0.0.0.0 glointraalid3.click.s11.sfmc-osl.com
 0.0.0.0 glojupiteralid3.click.s11.sfmc-osl.com
+0.0.0.0 gloomyseason.com
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glow.glowtrackjoy.com
 0.0.0.0 glowebalid3.click.s11.sfmc-osl.com
@@ -78362,6 +78365,7 @@
 0.0.0.0 moai-dev-samsung.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
+0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
@@ -108595,6 +108599,7 @@
 0.0.0.0 tc.europcar.com.au
 0.0.0.0 tc.europcar.de
 0.0.0.0 tc.europcar.es
+0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.v4company.com
 0.0.0.0 tcactivity.net
 0.0.0.0 tcbphila.fmservice.com
@@ -109159,6 +109164,7 @@
 0.0.0.0 timon.zijieapi.com
 0.0.0.0 tinos.bio-logos.com
 0.0.0.0 tiny.tinyfurniture.com.au
+0.0.0.0 tinybluewhale.com
 0.0.0.0 tinycounter.com
 0.0.0.0 tinyletterapp.com
 0.0.0.0 tinystat.ir

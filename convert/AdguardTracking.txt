@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 20 Sep 2025 04:30:07 UTC
+# Updated at Sun, 21 Sep 2025 04:29:59 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -109050,6 +109050,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebigvan.com
+0.0.0.0 thebrainybulb.com
 0.0.0.0 thebusinessproblemsolver.org
 0.0.0.0 thecounter.com
 0.0.0.0 thecrazychili.com

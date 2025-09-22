@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 21 Sep 2025 04:29:59 UTC
+# Updated at Mon, 22 Sep 2025 04:30:56 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -66217,6 +66217,7 @@
 0.0.0.0 jrzgcz.ciociariaoggi.it
 0.0.0.0 jrzgcz.latinaoggi.eu
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 js-collector.icewood.net
 0.0.0.0 js.cbdwaldoslegend.com
 0.0.0.0 js.edingershops.de
 0.0.0.0 js.glossom.jp

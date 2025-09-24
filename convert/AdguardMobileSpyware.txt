@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 23 Sep 2025 04:30:46 UTC
+# Updated at Wed, 24 Sep 2025 04:30:21 UTC
 #
 
 0.0.0.0 33across.com
@@ -199,6 +199,7 @@
 0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis.com
+0.0.0.0 census-app.scorecardresearch.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cgicol.amap.com
 0.0.0.0 chartbeat.net

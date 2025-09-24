@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 23 Sep 2025 04:30:45 UTC
+# Updated at Wed, 24 Sep 2025 04:30:21 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5911,6 +5911,7 @@
 0.0.0.0 analytics.avis.lu
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.awhr.com
+0.0.0.0 analytics.azrhymes.com
 0.0.0.0 analytics.b2.ai
 0.0.0.0 analytics.babybell.app
 0.0.0.0 analytics.bajaao.com
@@ -11604,6 +11605,7 @@
 0.0.0.0 cenjobs.acspubs.org
 0.0.0.0 cenmedia.acspubs.org
 0.0.0.0 cenpsn.creatework.jp
+0.0.0.0 census-app.scorecardresearch.com
 0.0.0.0 center.io
 0.0.0.0 centipede.davimug.com
 0.0.0.0 centipede.roasted.dev

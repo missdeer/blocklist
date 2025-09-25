@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 24 Sep 2025 04:30:21 UTC
+# Updated at Thu, 25 Sep 2025 04:31:05 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5799,6 +5799,7 @@
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cdn.levante-emv.com
 0.0.0.0 analytics-cdn.prensaiberica.es
+0.0.0.0 analytics-cdn.sport.es
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-coletor-site.ojc.com.br
 0.0.0.0 analytics-conomi.line.me
@@ -6538,6 +6539,7 @@
 0.0.0.0 analytics.portal.gov.bd
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.pravovyilider.com.ua
+0.0.0.0 analytics.prensaiberica.es
 0.0.0.0 analytics.prestonhardware.com
 0.0.0.0 analytics.primadog.com
 0.0.0.0 analytics.pro-clima.cz
@@ -7536,6 +7538,7 @@
 0.0.0.0 api.leadinvest.com.br
 0.0.0.0 api.leandrojesusbbf.com.br
 0.0.0.0 api.leandrotilvikas.com.br
+0.0.0.0 api.learnings.ai
 0.0.0.0 api.legostore.com.br
 0.0.0.0 api.leveplanosdesaude.com.br
 0.0.0.0 api.lfautomacao.com.br
@@ -9689,6 +9692,7 @@
 0.0.0.0 beginnerpancake.com
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 behave.noen.at
+0.0.0.0 behavior-tracking-event-gateway.imweb.me
 0.0.0.0 behavior.tongdun.net
 0.0.0.0 behavioralengine.com
 0.0.0.0 bekannt-im-web.de
@@ -23022,6 +23026,7 @@
 0.0.0.0 dtclink.cabitest.com
 0.0.0.0 dtclink.cabitest3.ca
 0.0.0.0 dtclink.cabitest3.com
+0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dtesv.fpro.com
 0.0.0.0 dtfpvb.nicoleonlineshop.com
 0.0.0.0 dthiv.ardentfitness.com
@@ -23581,6 +23586,7 @@
 0.0.0.0 echidna.hellotomorrow.agency
 0.0.0.0 echidna.honeybadger.io
 0.0.0.0 echo.nestboxlive.com
+0.0.0.0 echoacloud.com
 0.0.0.0 echoinghaven.com
 0.0.0.0 eck.brettspieleck.de
 0.0.0.0 eckje.furking.com.au
@@ -48990,6 +48996,7 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-dot-procolor-backend.appspot.com
+0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 event-router.chime.com
 0.0.0.0 event-router.olympics.com
@@ -59807,6 +59814,7 @@
 0.0.0.0 kitkat.bantengtampan.xyz
 0.0.0.0 kitkat.yukalimalima.com
 0.0.0.0 kitmln.wb-fernstudium.de
+0.0.0.0 kittycatking.com
 0.0.0.0 kitxllaf.mecindo.dk
 0.0.0.0 kitxllaf.mecindo.no
 0.0.0.0 kiuua.cycologygear.com
@@ -82560,6 +82568,7 @@
 0.0.0.0 sdk.mrf.io
 0.0.0.0 sdk.optimove.net
 0.0.0.0 sdk.stats-locations.com
+0.0.0.0 sdkapi-prod.dfinery.ai
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdks.stats-locations.com
@@ -101079,6 +101088,7 @@
 0.0.0.0 suncorp.activate.ensighten.com
 0.0.0.0 sundaysky.com
 0.0.0.0 sunios.de
+0.0.0.0 sunsetcampfires.com
 0.0.0.0 sunsetstatic.com
 0.0.0.0 sunshinegates.com
 0.0.0.0 sunshinepint.com

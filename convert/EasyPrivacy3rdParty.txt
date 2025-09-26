@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 25 Sep 2025 04:31:05 UTC
+# Updated at Fri, 26 Sep 2025 04:31:10 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -260,6 +260,7 @@
 0.0.0.0 bi-metrics.aramuz.net
 0.0.0.0 bi.heyloyalty.com
 0.0.0.0 bi.medscape.com
+0.0.0.0 bi.pst.tech
 0.0.0.0 blip.bizrate.com
 0.0.0.0 bmrg.reflected.net
 0.0.0.0 bonfire.spklw.com
@@ -1556,6 +1557,7 @@
 0.0.0.0 watchtower.graindata.com
 0.0.0.0 wco.crownpeak.com
 0.0.0.0 wds.weqs.me
+0.0.0.0 web-beacon.starii-rover.com
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web1.51.la
 0.0.0.0 websdk.appsflyer.com

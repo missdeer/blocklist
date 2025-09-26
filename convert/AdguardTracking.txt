@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 25 Sep 2025 04:31:05 UTC
+# Updated at Fri, 26 Sep 2025 04:31:09 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3789,6 +3789,7 @@
 0.0.0.0 accurateanimal.com
 0.0.0.0 accuratecoal.com
 0.0.0.0 ace.naver.com
+0.0.0.0 acebunny.com
 0.0.0.0 acecounter.com
 0.0.0.0 acelogger.heraldcorp.com
 0.0.0.0 acemetrics.aaa.com

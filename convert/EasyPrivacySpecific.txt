@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 26 Sep 2025 04:31:10 UTC
+# Updated at Sat, 27 Sep 2025 04:29:38 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -529,6 +529,7 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.nine.com.au
+0.0.0.0 pixel.patch.com
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com

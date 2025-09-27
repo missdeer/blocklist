@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 26 Sep 2025 04:31:09 UTC
+# Updated at Sat, 27 Sep 2025 04:29:39 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -6678,6 +6678,7 @@
 0.0.0.0 analytics.starmakerstudios.com
 0.0.0.0 analytics.stocksport-online.de
 0.0.0.0 analytics.streamfab
+0.0.0.0 analytics.streamingworld.xyz
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
 0.0.0.0 analytics.sunnahitems.com
@@ -7118,6 +7119,7 @@
 0.0.0.0 aphtn.dsw.ca
 0.0.0.0 aphxav.green-acres.it
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 api-analytics.pelikan.sk
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
@@ -14820,6 +14822,7 @@
 0.0.0.0 clients.hermes-investment.com
 0.0.0.0 clients.rainkingonline.com
 0.0.0.0 clientservices.grassrootsunwired.com
+0.0.0.0 climbingright.com
 0.0.0.0 clk-mail.adjo.com
 0.0.0.0 clk.amplifyi.com
 0.0.0.0 clk.clearcovegoods.com
@@ -15860,6 +15863,7 @@
 0.0.0.0 cloudhosting-business.vodafone.com
 0.0.0.0 cloudhustles.com
 0.0.0.0 cloudjumbo.com
+0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 cloudpages.email.sysco.com
 0.0.0.0 cloudpg.email.vimeo.com
 0.0.0.0 cloverleaf.infor.com
@@ -99606,6 +99610,7 @@
 0.0.0.0 stats.boredkevin.com
 0.0.0.0 stats.boringproxy.io
 0.0.0.0 stats.bostonedtech.org
+0.0.0.0 stats.bouyguestelecom.fr
 0.0.0.0 stats.brandontoner.ca
 0.0.0.0 stats.breathly.app
 0.0.0.0 stats.brendanhanke.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 30 Sep 2025 04:31:12 UTC
+# Updated at Wed, 01 Oct 2025 04:31:39 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -1329,6 +1329,7 @@
 0.0.0.0 4968.sfap-qa1.marketingcloudqaops.com
 0.0.0.0 4dex.tech
 0.0.0.0 4e.verwin.com
+0.0.0.0 4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
 0.0.0.0 4jaehnfqizyx.controlconceptsusa.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 4nnjxqk0nu4cxzbz.rabbclk.com
@@ -42940,6 +42941,7 @@
 0.0.0.0 erotop.lv
 0.0.0.0 erozp.mateina.ca
 0.0.0.0 erptruth.kronos.com
+0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 error-tracking.reddit.com
 0.0.0.0 ert5.rmcsport.tv
 0.0.0.0 ertko.annieandoak.com
@@ -44857,6 +44859,7 @@
 0.0.0.0 funneld.com
 0.0.0.0 funnelmetrics.contratosdanovaeconomia.com.br
 0.0.0.0 funoverbored.com
+0.0.0.0 funsdata.com
 0.0.0.0 funstage.com
 0.0.0.0 fuoqr.comfortorthowear.com
 0.0.0.0 fupbi.gopurebeauty.com
@@ -90636,6 +90639,7 @@
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static.affiliatly.com
+0.0.0.0 static.alphwidget.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.fengkongcloud.com
 0.0.0.0 static.herr.io
@@ -96959,6 +96963,7 @@
 0.0.0.0 trace.51jingying.com
 0.0.0.0 trace.bounce.17track.net
 0.0.0.0 trace.events
+0.0.0.0 trace.free-reels.com
 0.0.0.0 trace.insead.edu
 0.0.0.0 trace.mjyx.com
 0.0.0.0 trace.popin.cc
@@ -100855,6 +100860,7 @@
 0.0.0.0 ups.liglig.com.br
 0.0.0.0 upscaledigest.com
 0.0.0.0 upscore.com
+0.0.0.0 upsell.alphwidget.com
 0.0.0.0 upsmq.perlcosmetics.com
 0.0.0.0 upstackdata.io
 0.0.0.0 upstackified.com

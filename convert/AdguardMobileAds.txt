@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 30 Sep 2025 04:31:13 UTC
+# Updated at Wed, 01 Oct 2025 04:31:37 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -201,6 +201,7 @@
 0.0.0.0 adtheorent.com
 0.0.0.0 adtilt.com
 0.0.0.0 adtimaserver.vn
+0.0.0.0 adtmonetize.com
 0.0.0.0 adtorque.in
 0.0.0.0 adtrack.king.com
 0.0.0.0 adultadworld.com
@@ -268,6 +269,7 @@
 0.0.0.0 api.youngle.tech
 0.0.0.0 apis.appnxt.net
 0.0.0.0 apishow.babybus.com
+0.0.0.0 app-ads-services.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.ssp.yahoo.com

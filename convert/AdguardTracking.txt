@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 01 Oct 2025 04:31:39 UTC
+# Updated at Thu, 02 Oct 2025 04:29:58 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -67086,6 +67086,7 @@
 0.0.0.0 overratedchalk.com
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 overstat.com
+0.0.0.0 overtracking.com
 0.0.0.0 ovkgvd.mgprojekt.com.pl
 0.0.0.0 ovlkc.shoprongrong.com
 0.0.0.0 ovomqo.e-menessaptieka.lv
@@ -70018,6 +70019,7 @@
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
 0.0.0.0 phonecup.com
+0.0.0.0 phoneresult.com
 0.0.0.0 photography.hursey.com
 0.0.0.0 photohints.com
 0.0.0.0 photorank.me

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 07 Oct 2025 04:30:40 UTC
+# Updated at Wed, 08 Oct 2025 04:30:38 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -10,7 +10,6 @@
 0.0.0.0 23.224.199.96
 0.0.0.0 247realmedia.com
 0.0.0.0 31.14.252.148
-0.0.0.0 360yield.com
 0.0.0.0 54.222.186.106
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 a.applvn.com
@@ -29,17 +28,14 @@
 0.0.0.0 ad-files.classting.com
 0.0.0.0 ad-splash-tracking.hktvmall.com
 0.0.0.0 ad-splash.hktvmall.com
-0.0.0.0 ad-stir.com
 0.0.0.0 ad-x.co.uk
 0.0.0.0 ad.apps.fm
 0.0.0.0 ad.apsalar.com
-0.0.0.0 ad.auditude.com
 0.0.0.0 ad.bandlab.io
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.deepthought.industries
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.duapps.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad.inston.ltd
@@ -82,7 +78,6 @@
 0.0.0.0 addapptr.com
 0.0.0.0 addata.mediacategory.com
 0.0.0.0 adentifi.com
-0.0.0.0 adfiles.auditude.com
 0.0.0.0 adflake.com
 0.0.0.0 adforgames.com
 0.0.0.0 adfork.co.kr
@@ -95,7 +90,6 @@
 0.0.0.0 adhood.com
 0.0.0.0 adinfo.tango.me
 0.0.0.0 adition.com
-0.0.0.0 adkernel.com
 0.0.0.0 adkmob.com
 0.0.0.0 adkwai.com
 0.0.0.0 adleads.com
@@ -109,7 +103,6 @@
 0.0.0.0 admin.appnext.com
 0.0.0.0 admitad.com
 0.0.0.0 admixer.co.kr
-0.0.0.0 admixer.net
 0.0.0.0 admulti.com
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 adnami.io
@@ -231,7 +224,6 @@
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 alt-ad.mail.ru
-0.0.0.0 am15.net
 0.0.0.0 amanad.adtdp.com
 0.0.0.0 amillionads.com
 0.0.0.0 amobee.com
@@ -299,7 +291,6 @@
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atti.com
 0.0.0.0 audiomob.com
-0.0.0.0 axonix.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 bannerflow.com
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -356,10 +347,8 @@
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn.appnext.com
-0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.jampp.com
-0.0.0.0 cdn2.auditude.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 celtra.com
@@ -371,7 +360,6 @@
 0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 client.midosoo.com
 0.0.0.0 clk.taptica.com
-0.0.0.0 clkfeed.com
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 cls.vrvm.com
 0.0.0.0 cmshow.gtimg.cn
@@ -398,7 +386,6 @@
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 ctl.buyt.in
-0.0.0.0 cvt-s2.agl005.tech
 0.0.0.0 czechcash.com
 0.0.0.0 d-load.org
 0.0.0.0 d.kugou.com
@@ -455,11 +442,11 @@
 0.0.0.0 flurry.com
 0.0.0.0 flygo.ru
 0.0.0.0 focas.jp
+0.0.0.0 freewheel-jitt.sanoma.fi
 0.0.0.0 friendlyduck.com
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
 0.0.0.0 fxlcvd.icu
 0.0.0.0 fyber.com
-0.0.0.0 g.doubleclick.net
 0.0.0.0 gadsme.com
 0.0.0.0 gallerieshub.com
 0.0.0.0 gamaibids.com
@@ -516,7 +503,6 @@
 0.0.0.0 ichannel.isnssdk.com
 0.0.0.0 im.ov.yahoo.co.jp
 0.0.0.0 imapi-sg.isnssdk.com
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imgx.jampp.com
 0.0.0.0 imprdom.com
 0.0.0.0 imrworldwide.com
@@ -576,7 +562,6 @@
 0.0.0.0 madnet.ru
 0.0.0.0 mads.amazon.com
 0.0.0.0 manage.com
-0.0.0.0 manifest.auditude.com
 0.0.0.0 marketing.mangacopy.com
 0.0.0.0 maticooads.com
 0.0.0.0 matrix.dailyinnovation.biz
@@ -588,7 +573,6 @@
 0.0.0.0 mediation.unity3d.com
 0.0.0.0 meendocash.com
 0.0.0.0 metamx.com
-0.0.0.0 mfadsrvr.com
 0.0.0.0 mgage.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 mimicromax.com
@@ -619,7 +603,6 @@
 0.0.0.0 mp-api.afafb.com
 0.0.0.0 msg.ettoday.net
 0.0.0.0 mtag.mman.kr
-0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtgglobals.com
 0.0.0.0 mtrcss.com
@@ -668,7 +651,6 @@
 0.0.0.0 open.kwaizt.com
 0.0.0.0 opt8.co
 0.0.0.0 os.scmpacdn.com
-0.0.0.0 otcdn2.auditude.com
 0.0.0.0 other.appcpi.net
 0.0.0.0 outbrainimg.com
 0.0.0.0 p-behacdn.ksmobile.net
@@ -719,7 +701,6 @@
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 pub1.co
-0.0.0.0 pubmatic.com
 0.0.0.0 pubnative.info
 0.0.0.0 pubnative.net
 0.0.0.0 pushad.metajoy.services
@@ -732,7 +713,6 @@
 0.0.0.0 redtram.com
 0.0.0.0 reqde.sooplive.co.kr
 0.0.0.0 restartad.com
-0.0.0.0 revcontent.com
 0.0.0.0 richlifeads.ru
 0.0.0.0 robin-flow.com
 0.0.0.0 rossoad.com
@@ -745,7 +725,6 @@
 0.0.0.0 ruuaqkw.com
 0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s-odx.oleads.com
-0.0.0.0 s.adx.opera.com
 0.0.0.0 s.hisp.in
 0.0.0.0 s3.ttpsdk.info
 0.0.0.0 san.myadssupport.com
@@ -766,7 +745,6 @@
 0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 sessionm.com
 0.0.0.0 setting.rayjump.com
-0.0.0.0 sexpennyauctions.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharethrough.com
 0.0.0.0 sheilaqeb.com
@@ -776,8 +754,6 @@
 0.0.0.0 skadnetwork.singular.net
 0.0.0.0 skadsdk.appsflyer.com
 0.0.0.0 skt-asum.com
-0.0.0.0 smaclick.com
-0.0.0.0 smartadserver.com
 0.0.0.0 smilered.com
 0.0.0.0 socdm.com
 0.0.0.0 sonobi.com
@@ -797,7 +773,6 @@
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.kika-backend.com
-0.0.0.0 static.doubleclick.net
 0.0.0.0 static.hyprmx.com
 0.0.0.0 static.jampp.com
 0.0.0.0 static.timetreeads.com
@@ -854,9 +829,7 @@
 0.0.0.0 track.cpatool.net
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.applift.com
-0.0.0.0 tradeadexchange.com
 0.0.0.0 tradplusad.com
-0.0.0.0 trafficjunky.net
 0.0.0.0 trafmag.com
 0.0.0.0 traktum.com
 0.0.0.0 trc.taboola.com
@@ -891,7 +864,6 @@
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 vniddlg.xyz
 0.0.0.0 vod-mplayer.sooplive.co.kr
-0.0.0.0 vrizead.com
 0.0.0.0 vserv.mobi
 0.0.0.0 vungle.com
 0.0.0.0 waiads.com
@@ -903,8 +875,6 @@
 0.0.0.0 wordego.com
 0.0.0.0 wtraff.com
 0.0.0.0 www.adbert.com.tw
-0.0.0.0 www.auditude.com
-0.0.0.0 x.appbaqend.com
 0.0.0.0 xdrig.com
 0.0.0.0 ximad.com
 0.0.0.0 yandexadexchange.net
@@ -918,6 +888,5 @@
 0.0.0.0 yuhuads.com
 0.0.0.0 zedo.com
 0.0.0.0 zgzxs.weathercn.com
-0.0.0.0 ziffdavis.com
 0.0.0.0 zmqdez.ru
 0.0.0.0 zzhengre.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 07 Oct 2025 04:30:41 UTC
+# Updated at Wed, 08 Oct 2025 04:30:38 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -15072,6 +15072,7 @@
 0.0.0.0 contadorweb.com
 0.0.0.0 container.fortwostore.inf.br
 0.0.0.0 container.vetweb.pet
+0.0.0.0 contanuity.com
 0.0.0.0 contato.ervencosmetics.com.br
 0.0.0.0 contatoreaccessi.com
 0.0.0.0 conteiner.oaz.vc
@@ -15205,6 +15206,7 @@
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookieconsent.kornferry.com
 0.0.0.0 cookiejar.atea.no
+0.0.0.0 cookiemon-analytics.azurewebsites.net
 0.0.0.0 cookies-adobe.kbc.be
 0.0.0.0 cookies-sfs.siemens.com
 0.0.0.0 cookies.ec4u.com
@@ -20384,6 +20386,7 @@
 0.0.0.0 deluxecrate.com
 0.0.0.0 demandbase.com
 0.0.0.0 demandgen.ptc.com
+0.0.0.0 demandscience.com
 0.0.0.0 demdex.net
 0.0.0.0 demeter-tr-core-collect.trendyol.com
 0.0.0.0 demo-leadinsights.informa.com
@@ -56563,6 +56566,7 @@
 0.0.0.0 llsami.eauclair.kr
 0.0.0.0 llteig.framesdirect.com
 0.0.0.0 lltmch.zurifurniture.com
+0.0.0.0 lltrck.com
 0.0.0.0 llutfo.get-nourished.com
 0.0.0.0 llvvfz.mariapiacasa.com.br
 0.0.0.0 llwoyl.mirraw.com

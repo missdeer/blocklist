@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 08 Oct 2025 04:30:38 UTC
+# Updated at Thu, 09 Oct 2025 04:30:56 UTC
 #
 
 0.0.0.0 33across.com
@@ -156,6 +156,7 @@
 0.0.0.0 applogs.pixelfederation.com
 0.0.0.0 appmetr.com
 0.0.0.0 appsflyer-report.honkaiimpact3.com
+0.0.0.0 apptics.zoho.in
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 arcspire.io
 0.0.0.0 asanalytics.booking.com
@@ -728,6 +729,7 @@
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.samsungpass.com
+0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 stbid.ru

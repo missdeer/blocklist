@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 08 Oct 2025 04:30:38 UTC
+# Updated at Thu, 09 Oct 2025 04:30:55 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -7934,6 +7934,7 @@
 0.0.0.0 apps.software.netsimplicity.com
 0.0.0.0 appsanalytics.appideas.it
 0.0.0.0 appsflyer-report.honkaiimpact3.com
+0.0.0.0 apptics.zoho.in
 0.0.0.0 apptracer.ru
 0.0.0.0 apptracker.gamedock.io
 0.0.0.0 apqcjj.celford.com
@@ -15320,7 +15321,6 @@
 0.0.0.0 count.andreabrandi.com
 0.0.0.0 count.channeladvisor.com
 0.0.0.0 count.fr
-0.0.0.0 count.ing.de
 0.0.0.0 count.kealper.com
 0.0.0.0 count.ly
 0.0.0.0 count.munhwa.com
@@ -68484,6 +68484,7 @@
 0.0.0.0 p.controld.com
 0.0.0.0 p.data.cctv.com
 0.0.0.0 p.ejs.dev
+0.0.0.0 p.eneba.com
 0.0.0.0 p.fairspot.host
 0.0.0.0 p.gazeta.pl
 0.0.0.0 p.gm99.com
@@ -74101,6 +74102,7 @@
 0.0.0.0 rum.conde.io
 0.0.0.0 rum.condenastdigital.com
 0.0.0.0 rum.corewebvitals.io
+0.0.0.0 rum.hlx.page
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumanalytics.com
 0.0.0.0 rumqlz.gooshoreca.nl
@@ -93033,6 +93035,7 @@
 0.0.0.0 stats.servicedesignjobs.com
 0.0.0.0 stats.seva.rocks
 0.0.0.0 stats.sfwmd.gov
+0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.sgs.com
 0.0.0.0 stats.shapeless.dev
 0.0.0.0 stats.sharenet.co.za

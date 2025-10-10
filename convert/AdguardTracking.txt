@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 09 Oct 2025 04:30:55 UTC
+# Updated at Fri, 10 Oct 2025 04:30:39 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -10911,6 +10911,7 @@
 0.0.0.0 cdn.dsspn.com
 0.0.0.0 cdn.femgummies.eu
 0.0.0.0 cdn.firstpromoter.com
+0.0.0.0 cdn.getkoala.com
 0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 cdn.goslates.com
 0.0.0.0 cdn.gpmdata.ru
@@ -10920,6 +10921,7 @@
 0.0.0.0 cdn.instant.one
 0.0.0.0 cdn.js.fpaudience.com
 0.0.0.0 cdn.kaizenplatform.net
+0.0.0.0 cdn.kmalgo.com
 0.0.0.0 cdn.listrakbi.com
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.lushlifestore.com
@@ -13517,6 +13519,7 @@
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client.botchk.net
 0.0.0.0 client.fastaff.com
+0.0.0.0 client.smartpushedm.com
 0.0.0.0 client.talefy.ai
 0.0.0.0 client.trustaff.com
 0.0.0.0 client.virtuo.com
@@ -45450,6 +45453,7 @@
 0.0.0.0 fuse.ins.lnfinsurance.com
 0.0.0.0 fuse.mymemberinsurance.com
 0.0.0.0 fuse.pengsagency.com
+0.0.0.0 fuse.ubs.com
 0.0.0.0 fuse.universalinsagency.com
 0.0.0.0 fusedcontent.com
 0.0.0.0 fusedeck.net
@@ -45793,6 +45797,7 @@
 0.0.0.0 gejoo.fluevog.com
 0.0.0.0 gejzgq.gehaltsvergleich.com
 0.0.0.0 gekko.spiceworks.com
+0.0.0.0 gem-log.sloegem.com
 0.0.0.0 gemius.pl
 0.0.0.0 gemtrackers.com
 0.0.0.0 generaleducation.graduateprogram.org
@@ -59842,6 +59847,7 @@
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.musical.ly
 0.0.0.0 log.newsvine.com
+0.0.0.0 log.oceanzz.xyz
 0.0.0.0 log.ohou.se
 0.0.0.0 log.olark.com
 0.0.0.0 log.onmas.kt.com
@@ -60996,6 +61002,7 @@
 0.0.0.0 mapp.jysk.nl
 0.0.0.0 mapp.peacocks.co.uk
 0.0.0.0 mapp.yesstyle.com
+0.0.0.0 marathondataco.com
 0.0.0.0 marblediscussion.com
 0.0.0.0 marcom.biodex.com
 0.0.0.0 marcom.biodexrehab.com
@@ -67079,6 +67086,7 @@
 0.0.0.0 now.peek-cloppenburg.de
 0.0.0.0 now.tana.fi
 0.0.0.0 now.ventyx.com
+0.0.0.0 nowaymail.com
 0.0.0.0 nowinteract.com
 0.0.0.0 nowtolove.e.bauermedia.co.nz
 0.0.0.0 noyvyv.bosonshop.com
@@ -74414,7 +74422,6 @@
 0.0.0.0 s.splazzh.in
 0.0.0.0 s.sporks.space
 0.0.0.0 s.srvsynd.com
-0.0.0.0 s.ssl.qhres2.com
 0.0.0.0 s.stcatharinesstandard.ca
 0.0.0.0 s.sternregister.de
 0.0.0.0 s.stgeorgeafc.com.au
@@ -96286,6 +96293,7 @@
 0.0.0.0 teenytinytongue.com
 0.0.0.0 teigwaren.silikonbackform.com
 0.0.0.0 tel.telegraaf.nl
+0.0.0.0 telecid.ru
 0.0.0.0 telegraf.detmir-stats.ru
 0.0.0.0 telegraph.prd.api.bleacherreport.com
 0.0.0.0 telegraph.prd.api.discomax.com
@@ -99293,6 +99301,7 @@
 0.0.0.0 track.swaptrap.live
 0.0.0.0 track.t-ranks.com
 0.0.0.0 track.t.topwallvpn.com
+0.0.0.0 track.taimi.com
 0.0.0.0 track.taliacollective.com
 0.0.0.0 track.tarastyle.ch
 0.0.0.0 track.taxextension.org

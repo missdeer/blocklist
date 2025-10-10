@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 09 Oct 2025 04:30:56 UTC
+# Updated at Fri, 10 Oct 2025 04:30:38 UTC
 #
 
 0.0.0.0 33across.com
@@ -364,6 +364,7 @@
 0.0.0.0 gcm.ksmobile.net
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 geico.com.ssl.sc.omtrdc.net
+0.0.0.0 gem-log.sloegem.com
 0.0.0.0 geo.go2s.co
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoip.fotoable.net
@@ -470,6 +471,7 @@
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 log.oceanzz.xyz
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
@@ -796,6 +798,7 @@
 0.0.0.0 track.mobshark.net
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.starmakerstudios.com
+0.0.0.0 track.taimi.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn

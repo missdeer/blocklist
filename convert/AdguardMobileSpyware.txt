@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 10 Oct 2025 04:30:38 UTC
+# Updated at Sat, 11 Oct 2025 04:29:37 UTC
 #
 
 0.0.0.0 33across.com
@@ -616,6 +616,7 @@
 0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 pps-log.op-mobile.opera.com
+0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 preview-collector.scopely.io
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 privatestats.whatsapp.net

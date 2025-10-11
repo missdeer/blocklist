@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 10 Oct 2025 04:30:39 UTC
+# Updated at Sat, 11 Oct 2025 04:29:37 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -71555,6 +71555,7 @@
 0.0.0.0 pre.tourvisionary.com
 0.0.0.0 pre.vadecom.net
 0.0.0.0 prebid-log.getpublica.com
+0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 preciousplanes.com
 0.0.0.0 precisear.com
 0.0.0.0 precisioncounter.com

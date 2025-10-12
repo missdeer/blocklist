@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 11 Oct 2025 04:29:37 UTC
+# Updated at Sun, 12 Oct 2025 04:29:49 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -71602,6 +71602,7 @@
 0.0.0.0 presetrabbits.com
 0.0.0.0 presqueisle.townsquaremedia.info
 0.0.0.0 presscoder.com
+0.0.0.0 prettyeasycafe.com
 0.0.0.0 prettylearning.com
 0.0.0.0 prev.focus-bikes.com
 0.0.0.0 preview-collector.scopely.io

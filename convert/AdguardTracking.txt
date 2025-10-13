@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 12 Oct 2025 04:29:49 UTC
+# Updated at Mon, 13 Oct 2025 04:32:46 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -20659,6 +20659,7 @@
 0.0.0.0 digital.opsbase.com
 0.0.0.0 digital.ramedia.biz
 0.0.0.0 digital.setpointis.com
+0.0.0.0 digitalcamp.co.kr
 0.0.0.0 digitalixir.cleannfreshny.com
 0.0.0.0 digitalmarketing.gogsg.com
 0.0.0.0 digitalmarketing.smu.edu.sg
@@ -96860,6 +96861,7 @@
 0.0.0.0 tk.santevet.de
 0.0.0.0 tk.santevet.es
 0.0.0.0 tk.santevet.it
+0.0.0.0 tk.seasungame.com
 0.0.0.0 tk.speedway.fr
 0.0.0.0 tk.svsound.com
 0.0.0.0 tk.teleshopping.fr
@@ -102019,6 +102021,7 @@
 0.0.0.0 ua.bagmania.com.ua
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uaaooa.stansberryresearch.com
+0.0.0.0 uac.etnews.com
 0.0.0.0 uac.khan.co.kr
 0.0.0.0 uac.mk.co.kr
 0.0.0.0 uadx.com

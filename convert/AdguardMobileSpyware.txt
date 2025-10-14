@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 13 Oct 2025 04:32:45 UTC
+# Updated at Tue, 14 Oct 2025 04:31:06 UTC
 #
 
 0.0.0.0 33across.com
@@ -60,9 +60,11 @@
 0.0.0.0 analysys.cn
 0.0.0.0 analytics-api.liveapp.com
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics-ccu.qpyou.cn
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-ingestion.production-public.tubi.io
+0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics-stg.samsungknox.com

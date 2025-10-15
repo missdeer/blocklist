@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 14 Oct 2025 04:31:07 UTC
+# Updated at Wed, 15 Oct 2025 04:31:15 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5994,6 +5994,7 @@
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 analytics.mokuleleairlines.com
 0.0.0.0 analytics.mondotv.jp
+0.0.0.0 analytics.monetha.io
 0.0.0.0 analytics.monobloc.de
 0.0.0.0 analytics.motoemotostore.it
 0.0.0.0 analytics.move.ru
@@ -68815,6 +68816,7 @@
 0.0.0.0 nqyuel589fq5.esgrounding.com
 0.0.0.0 nqzgyb.observatoiredelafranchise.fr
 0.0.0.0 nqzvxx.naturekind.co.kr
+0.0.0.0 nr-beacon.movingimage.com
 0.0.0.0 nr-data.net
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nr5i143apcwbv88l.click.s11.sfmc-osl.com
@@ -94247,6 +94249,7 @@
 0.0.0.0 stats.auto-dombrowski.de
 0.0.0.0 stats.avery.ae
 0.0.0.0 stats.avg.com
+0.0.0.0 stats.avito.ru
 0.0.0.0 stats.aws.rubiconproject.com
 0.0.0.0 stats.backcountry.com
 0.0.0.0 stats.baddworldwide.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 15 Oct 2025 04:31:16 UTC
+# Updated at Thu, 16 Oct 2025 04:30:59 UTC
 #
 
 0.0.0.0 33across.com
@@ -115,6 +115,7 @@
 0.0.0.0 andmlb.kshwtj.com
 0.0.0.0 android-stat.acestream.net
 0.0.0.0 android.bugly.qq.com
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api.abcsinsights.com
@@ -300,6 +301,7 @@
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dutils.com
+0.0.0.0 dxp.baidu.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 eats-ads-event-capture.coupang.com
@@ -586,6 +588,7 @@
 0.0.0.0 npario-inc.net
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
+0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oldevent.togothermany.com
@@ -898,6 +901,7 @@
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wzrkt.com
+0.0.0.0 xda.xiaodutv.com
 0.0.0.0 xgdata.xoyo.games
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com

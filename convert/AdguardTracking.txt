@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 15 Oct 2025 04:31:15 UTC
+# Updated at Thu, 16 Oct 2025 04:30:59 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -6672,6 +6672,7 @@
 0.0.0.0 aphrodite.avadacom.com
 0.0.0.0 aphtn.dsw.ca
 0.0.0.0 aphxav.green-acres.it
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-analytics.pelikan.sk
 0.0.0.0 api-analytics.prod.birdapp.com
@@ -10780,6 +10781,7 @@
 0.0.0.0 cardinal.krisenchat.de
 0.0.0.0 cardinal.newman.is
 0.0.0.0 cardinal.zenting.app
+0.0.0.0 cardmethod.com
 0.0.0.0 care.advancedscare.com
 0.0.0.0 care.excellence.kaweahhealth.org
 0.0.0.0 care.mercycare.org
@@ -21648,6 +21650,7 @@
 0.0.0.0 dxeldq.madeindesign.com
 0.0.0.0 dxizep.liniilubvi.ru
 0.0.0.0 dxlqiq.garbarino.com
+0.0.0.0 dxp.baidu.com
 0.0.0.0 dxpxgy.jdsports.com
 0.0.0.0 dxrkvm.cheryls.com
 0.0.0.0 dxrlkh.icanvas.com
@@ -51945,6 +51948,7 @@
 0.0.0.0 haddock.jeffreyknox.dev
 0.0.0.0 haddock.simgenie.app
 0.0.0.0 haiio.eshopygo.hr
+0.0.0.0 haikusoap.com
 0.0.0.0 hajycn.nihon-job.com
 0.0.0.0 hal.courrierinternational.com
 0.0.0.0 halcyoncanyon.com
@@ -68862,6 +68866,7 @@
 0.0.0.0 nsc.ulsterbank.ie
 0.0.0.0 nsclh.hollywoodhairbar.com
 0.0.0.0 nsclick.baidu.com
+0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 nscmetrics.shell.com
 0.0.0.0 nsdpdp.skin1004korea.com
 0.0.0.0 nsedgj.bonprix.de
@@ -72624,6 +72629,7 @@
 0.0.0.0 pigeon.surtitlesolutions.com
 0.0.0.0 pigeon.thankyuu.com
 0.0.0.0 pigeonsetc.com
+0.0.0.0 pigmentpaper.com
 0.0.0.0 pihxmq.98doci.com
 0.0.0.0 pikbni.zoopers.pl
 0.0.0.0 pikvm.zoelev.com
@@ -74728,7 +74734,6 @@
 0.0.0.0 redcounter.net
 0.0.0.0 reddwarf.till-sanders.de
 0.0.0.0 rede.lgldelivery.com.br
-0.0.0.0 redfast.com
 0.0.0.0 redistats.com
 0.0.0.0 redstatcounter.com
 0.0.0.0 redtk.fitbyyou.com
@@ -94488,6 +94493,7 @@
 0.0.0.0 stats.fishersci.it
 0.0.0.0 stats.flightsphere.com
 0.0.0.0 stats.flowphantom.com
+0.0.0.0 stats.fluorescent.co
 0.0.0.0 stats.folienmarkt.de
 0.0.0.0 stats.fomo.com
 0.0.0.0 stats.footwork.co
@@ -99278,6 +99284,7 @@
 0.0.0.0 topoxo.aidlink.cl
 0.0.0.0 topspin.npo.nl
 0.0.0.0 topstat.com
+0.0.0.0 topthrowbacks.com
 0.0.0.0 topu.fashionparkbd.com
 0.0.0.0 torbit.com
 0.0.0.0 toro-tags.com
@@ -103854,6 +103861,7 @@
 0.0.0.0 tvpixel.com
 0.0.0.0 tvsbb.representclo.com
 0.0.0.0 tvsji.adameve.com
+0.0.0.0 tvspix.com
 0.0.0.0 tvutso.menbur.com
 0.0.0.0 tvweek.e.aremedia.com.au
 0.0.0.0 tvweek.e.bauer-media.com.au
@@ -109267,6 +109275,7 @@
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderloop.net
 0.0.0.0 wurfl.io
+0.0.0.0 wurflcloud.com
 0.0.0.0 wurst.hausschlachtebedarf.de
 0.0.0.0 wurst.leffis.de
 0.0.0.0 wurzfs.motherhood.com
@@ -109743,6 +109752,7 @@
 0.0.0.0 xcounter.ch
 0.0.0.0 xczqyvmlpkrg.cartalo.de
 0.0.0.0 xczqyvmlpkrg.media4u.pl
+0.0.0.0 xda.xiaodutv.com
 0.0.0.0 xdaoxa.footasylum.com
 0.0.0.0 xdazdu.bravafabrics.com
 0.0.0.0 xdbchs.bradfordexchange.com
@@ -109946,6 +109956,7 @@
 0.0.0.0 xsrzqh.ananzi.co.za
 0.0.0.0 xsrzqh.vietnamplus.vn
 0.0.0.0 xsswcg.moglix.com
+0.0.0.0 xstat.gazeta.bo
 0.0.0.0 xtatwn.hillbergandberk.com
 0.0.0.0 xtazfx.50factory.com
 0.0.0.0 xtcpby.skechers.com

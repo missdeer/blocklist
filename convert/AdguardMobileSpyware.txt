@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 16 Oct 2025 04:30:59 UTC
+# Updated at Fri, 17 Oct 2025 04:31:41 UTC
 #
 
 0.0.0.0 33across.com
@@ -199,6 +199,7 @@
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 caerulus.io
 0.0.0.0 cafe-log.myshoplus.com
+0.0.0.0 capture.pixverse.ai
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdnappicons.appsflyer.com
@@ -351,6 +352,7 @@
 0.0.0.0 eventsv2balanced.malpagames.com
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
+0.0.0.0 experiment.pixverse.ai
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashtalking.com
 0.0.0.0 fm-analytics-api.pocketfm.com
@@ -658,6 +660,7 @@
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.apkpure.net
+0.0.0.0 report.pixverse.ai
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com

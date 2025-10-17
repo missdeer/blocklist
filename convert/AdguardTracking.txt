@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 16 Oct 2025 04:30:59 UTC
+# Updated at Fri, 17 Oct 2025 04:31:40 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5963,6 +5963,7 @@
 0.0.0.0 analytics.mcw.nz
 0.0.0.0 analytics.melissa-online.nl
 0.0.0.0 analytics.metafox.bmw.com
+0.0.0.0 analytics.metriko.app
 0.0.0.0 analytics.metrix.ir
 0.0.0.0 analytics.metro-cc.ru
 0.0.0.0 analytics.metro-tr.com
@@ -10766,6 +10767,7 @@
 0.0.0.0 captivatingperformance.com
 0.0.0.0 captives.sedgwick.com
 0.0.0.0 capture-api.autopilotapp.com
+0.0.0.0 capture.pixverse.ai
 0.0.0.0 capybara.civicsoftwarefoundation.org
 0.0.0.0 capybara.kylewinton.com
 0.0.0.0 capybara.randyhamiltonelectric.com
@@ -46075,6 +46077,7 @@
 0.0.0.0 experience.rochesterregional.org
 0.0.0.0 experience2013.elliemae.com
 0.0.0.0 experiencia.wain.cr
+0.0.0.0 experiment.pixverse.ai
 0.0.0.0 expertise.logarithmicsolutions.com
 0.0.0.0 experts.cutter.com
 0.0.0.0 explore-123.com
@@ -47429,6 +47432,7 @@
 0.0.0.0 funoverbored.com
 0.0.0.0 funsdata.com
 0.0.0.0 funstage.com
+0.0.0.0 funtoyplanet.com
 0.0.0.0 fuooms.aetrex.com
 0.0.0.0 fuoqr.comfortorthowear.com
 0.0.0.0 fupbi.gopurebeauty.com
@@ -48621,6 +48625,7 @@
 0.0.0.0 gocpi.quadrant.gg
 0.0.0.0 gocuxy.baycrews.jp
 0.0.0.0 god.bhabumaakirasoi.com
+0.0.0.0 goddesslamps.com
 0.0.0.0 godhat.com
 0.0.0.0 godseedband.com
 0.0.0.0 godvd.cleansimpleeats.com
@@ -52869,6 +52874,7 @@
 0.0.0.0 hxtzfape.bodyatelier.bg
 0.0.0.0 hxvksgwv.luggagehero.com
 0.0.0.0 hybrid.ai
+0.0.0.0 hybridburst.com
 0.0.0.0 hycpyd.efpfanfic.net
 0.0.0.0 hydraconcept.com
 0.0.0.0 hydsecure.eaton.com
@@ -54956,9 +54962,11 @@
 0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 intouch.schlesingerassociates.com
 0.0.0.0 intrastats.com
+0.0.0.0 intricateberry.com
 0.0.0.0 inuae.cycologygear.co.uk
 0.0.0.0 inv3te.oui.sncf
 0.0.0.0 invdm.moonjuice.com
+0.0.0.0 inventorycache.com
 0.0.0.0 inventtango.com
 0.0.0.0 invest.americanlandmark.com
 0.0.0.0 invest.myproptech.com
@@ -67106,6 +67114,7 @@
 0.0.0.0 minerva.healthcentral.com
 0.0.0.0 minewhat.com
 0.0.0.0 mini-site.larksuite-marketing.com
+0.0.0.0 minibilling.com
 0.0.0.0 minigame5-normal-hl.zijieapi.com
 0.0.0.0 minigame5-normal-lq.zijieapi.com
 0.0.0.0 mink.faq-bregenzerwald.com
@@ -68743,6 +68752,7 @@
 0.0.0.0 notifyvisitors.com
 0.0.0.0 notix.io
 0.0.0.0 notot.macomaboutique.com
+0.0.0.0 notrealcat.com
 0.0.0.0 noundictionary.com
 0.0.0.0 novak.warwoodtool.com
 0.0.0.0 novamedicpro-ss.checkoutera.com
@@ -74461,6 +74471,7 @@
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rac.ruutu.fi
 0.0.0.0 raccoon.jaronheard.com
+0.0.0.0 rackforstorage.com
 0.0.0.0 radar.josianamendes.adv.br
 0.0.0.0 radar.marinhoadvmg.com.br
 0.0.0.0 radiantcanopy.com
@@ -74965,6 +74976,7 @@
 0.0.0.0 report.iciba.com
 0.0.0.0 report.mitsubishicars.com
 0.0.0.0 report.oewa.at
+0.0.0.0 report.pixverse.ai
 0.0.0.0 report2.iciba.com
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.aatkit.com
@@ -110275,6 +110287,7 @@
 0.0.0.0 yoochoose.net
 0.0.0.0 yottlyscript.com
 0.0.0.0 youborafds01.com
+0.0.0.0 youcandrawanything.com
 0.0.0.0 your.maas.ptvgroup.com
 0.0.0.0 your.mapandguide.ptvgroup.com
 0.0.0.0 your.mapandmarket.ptvgroup.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 17 Oct 2025 04:31:40 UTC
+# Updated at Sat, 18 Oct 2025 04:29:53 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -7321,6 +7321,7 @@
 0.0.0.0 api.ryanyao.design
 0.0.0.0 api.s2shoes.com
 0.0.0.0 api.sabrinas.com.br
+0.0.0.0 api.sae.systems
 0.0.0.0 api.sagradauniao.com.br
 0.0.0.0 api.sail-personalize.com
 0.0.0.0 api.salads.fit
@@ -10100,6 +10101,7 @@
 0.0.0.0 c.plerdy.com
 0.0.0.0 c.pravo.ru
 0.0.0.0 c.qrdate.org
+0.0.0.0 c.quackr.io
 0.0.0.0 c.rhapsody.com
 0.0.0.0 c.rzk-m.com
 0.0.0.0 c.salon24.pl
@@ -56028,6 +56030,7 @@
 0.0.0.0 kindasingle.com
 0.0.0.0 kindhush.com
 0.0.0.0 kindlaundry.rdtrke.com
+0.0.0.0 kindlereunion.com
 0.0.0.0 kinesis.eu-west-1.amazonaws.com
 0.0.0.0 kingfisher.gedaly.com
 0.0.0.0 kingstownst.mywellnessoffer.com
@@ -72657,6 +72660,7 @@
 0.0.0.0 ping.mg.apexpay.org
 0.0.0.0 ping.naturadapt.com
 0.0.0.0 ping.paidy.com
+0.0.0.0 ping.pdst.fm
 0.0.0.0 ping.resoluteoil.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.sogou.com
@@ -72738,6 +72742,7 @@
 0.0.0.0 pixel.clutter.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.convertize.io
+0.0.0.0 pixel.dashfi.dev
 0.0.0.0 pixel.dev.smartnews.com
 0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.dmdi.pl

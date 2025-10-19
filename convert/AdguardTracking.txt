@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 18 Oct 2025 04:29:53 UTC
+# Updated at Sun, 19 Oct 2025 04:32:08 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5330,6 +5330,7 @@
 0.0.0.0 analyse.hs-furtwangen.de
 0.0.0.0 analysis-test.sozialversicherung.at
 0.0.0.0 analysis.aws.locondo.jp
+0.0.0.0 analysis.chatglm.cn
 0.0.0.0 analysis.fi
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 analysis.sooplive.co.kr
@@ -52030,6 +52031,7 @@
 0.0.0.0 hawk.mjsarfatti.com
 0.0.0.0 haxddr.crocieraonline.com
 0.0.0.0 haxdym.min-breeder.com
+0.0.0.0 haystack.wavve.com
 0.0.0.0 hazawl.veke.fi
 0.0.0.0 hazgyj.netahsilat.com
 0.0.0.0 hazmatworkshop.com
@@ -104507,6 +104509,7 @@
 0.0.0.0 uselesslumber.com
 0.0.0.0 user-analysis.7moor.com
 0.0.0.0 user-clicks.com
+0.0.0.0 user-event-log.aminer.cn
 0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user.net.jumia.com.eg

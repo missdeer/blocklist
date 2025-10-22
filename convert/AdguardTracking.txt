@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 21 Oct 2025 04:31:54 UTC
+# Updated at Wed, 22 Oct 2025 04:32:38 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -53352,7 +53352,9 @@
 0.0.0.0 hbnqg.quickbeauty.com
 0.0.0.0 hbo5.concours-pass.com
 0.0.0.0 hbpvm.lapolicegear.com
+0.0.0.0 hbrcv.adobe.com
 0.0.0.0 hbrhkr.photosi.com
+0.0.0.0 hbrt.adobe.com
 0.0.0.0 hbszmh.essenza.ng
 0.0.0.0 hbtdb.dangelos.com
 0.0.0.0 hbtzh.iliabeauty.com
@@ -104601,6 +104603,7 @@
 0.0.0.0 tunneldata.arenahotel.com.br
 0.0.0.0 tunneldata.atriohoteis.com.br
 0.0.0.0 tunneldata.livahoteis.com.br
+0.0.0.0 turbotargeting.io
 0.0.0.0 turkey.tella.tv
 0.0.0.0 turn.com
 0.0.0.0 turtle.mushtache.com

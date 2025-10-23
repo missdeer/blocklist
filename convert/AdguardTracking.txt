@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 22 Oct 2025 04:32:38 UTC
+# Updated at Thu, 23 Oct 2025 04:31:26 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -71193,7 +71193,6 @@
 0.0.0.0 p.ryanhalliday.com
 0.0.0.0 p.smartertravel.com
 0.0.0.0 p.statp.com
-0.0.0.0 p.ura.news
 0.0.0.0 p.versacommerce.de
 0.0.0.0 p.victoria.dev
 0.0.0.0 p.viennaandbailey.co.nz
@@ -104412,6 +104411,7 @@
 0.0.0.0 tryitagpro-ss.checkoutera.com
 0.0.0.0 tryrewave-ss.checkoutera.com
 0.0.0.0 tryrewave-ss.zavydeals.com
+0.0.0.0 tryzens-analytics.com
 0.0.0.0 ts-analysis.shoalter.com
 0.0.0.0 ts.aktienbulls.com
 0.0.0.0 ts.archbee.com

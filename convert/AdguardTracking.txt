@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 23 Oct 2025 04:31:26 UTC
+# Updated at Fri, 24 Oct 2025 04:31:03 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3666,6 +3666,7 @@
 0.0.0.0 ad-srv-track.com
 0.0.0.0 ad.320320.net
 0.0.0.0 ad.aceplanet.co.kr
+0.0.0.0 ad.admitad.com
 0.0.0.0 ad.aim-universe.co.jp
 0.0.0.0 ad.aucfan.com
 0.0.0.0 ad.aucview.com
@@ -4012,7 +4013,6 @@
 0.0.0.0 admissions.easterncollege.ca
 0.0.0.0 admissions.trios.com
 0.0.0.0 admit.mountsaintvincent.edu
-0.0.0.0 admitad.com
 0.0.0.0 admon.pro
 0.0.0.0 adnl.bk.mufg.jp
 0.0.0.0 adnlb.sprayground.com
@@ -16723,6 +16723,7 @@
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
 0.0.0.0 d2ezz24t9nm0vu.cloudfront.net
 0.0.0.0 d2fuc4clr7gvcn.cloudfront.net
+0.0.0.0 d2g2u2795e3fzw.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2ieqaiwehnqqp.cloudfront.net
@@ -55899,6 +55900,7 @@
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 ins.leavitt.com
+0.0.0.0 ins.oberpfalzmedien.de
 0.0.0.0 ins.wolterskluwerfs.com
 0.0.0.0 inside-graph.com
 0.0.0.0 insides.honic.eu
@@ -68439,6 +68441,7 @@
 0.0.0.0 mob2.mymusic2025.com
 0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
+0.0.0.0 mobiexchange.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
@@ -77945,6 +77948,7 @@
 0.0.0.0 sb.sb.iconicinfluencers.com
 0.0.0.0 sb.scorecard.research.com
 0.0.0.0 sb.voicefive.com
+0.0.0.0 sb1.mangataro.org
 0.0.0.0 sbbmzg.boks.app
 0.0.0.0 sbcigp.ilovewig.jp
 0.0.0.0 sbcmt.curlmix.com
@@ -94849,7 +94853,6 @@
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static.affiliatly.com
-0.0.0.0 static.alphwidget.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.fengkongcloud.com
 0.0.0.0 static.herr.io

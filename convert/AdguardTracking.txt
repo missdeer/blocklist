@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 25 Oct 2025 04:30:15 UTC
+# Updated at Sun, 26 Oct 2025 04:30:29 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -47691,6 +47691,7 @@
 0.0.0.0 events.agropetmineiro.com.br
 0.0.0.0 events.algorx.ai
 0.0.0.0 events.apester.com
+0.0.0.0 events.api.gamma.app
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.app-performance.music.amazon.dev
 0.0.0.0 events.appsflyer.com
@@ -73761,6 +73762,7 @@
 0.0.0.0 piranha.mediumsuite.co.uk
 0.0.0.0 piranha.minnmyatsoe.com
 0.0.0.0 pirnn.hibobbie.com
+0.0.0.0 pirsch.io
 0.0.0.0 pisqpr.puuilo.fi
 0.0.0.0 pivimc.unitrailer.pl
 0.0.0.0 piwik.com-online.com
@@ -75857,7 +75859,6 @@
 0.0.0.0 reg.xrdconf.com
 0.0.0.0 regexmail.com
 0.0.0.0 regi.di.atlas.samsung.com
-0.0.0.0 region1.analytics.google.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register-implants.dentsplysirona.com
 0.0.0.0 register.appsflyer.com
@@ -111218,6 +111219,7 @@
 0.0.0.0 yzxysg.cadeauxadler.com
 0.0.0.0 yzyzh7twaa3j3lg2.undiaenlausj.com
 0.0.0.0 yzzqza.vanillashu.co.kr
+0.0.0.0 z.cdn.protect-ad.com
 0.0.0.0 z.jjbuttercup.com
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z.webengage.com

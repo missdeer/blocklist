@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 25 Oct 2025 04:30:15 UTC
+# Updated at Sun, 26 Oct 2025 04:30:30 UTC
 #
 
 0.0.0.0 33across.com
@@ -34,7 +34,6 @@
 0.0.0.0 adtracker.jpchd.veraxen.com
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
-0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advangelists.com
 0.0.0.0 advmob.cn
@@ -435,7 +434,6 @@
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com
 0.0.0.0 localytics.com
-0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-pub-hk.aoshitang.com

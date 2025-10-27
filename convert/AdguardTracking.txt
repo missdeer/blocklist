@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 26 Oct 2025 04:30:29 UTC
+# Updated at Mon, 27 Oct 2025 04:37:19 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -12,7 +12,6 @@
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0stats.com
 0.0.0.0 0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com
-0.0.0.0 0ukok.mjt.lu
 0.0.0.0 1-cl0ud.com
 0.0.0.0 1.ccm-trk.com
 0.0.0.0 1.oathredirect.com
@@ -4257,7 +4256,6 @@
 0.0.0.0 adtraxx.de
 0.0.0.0 adtriba.com
 0.0.0.0 aduahr.outbax.com.au
-0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.sec.miui.com
@@ -8140,6 +8138,7 @@
 0.0.0.0 apply.levelupfunding.com
 0.0.0.0 apply.maxlend.com
 0.0.0.0 applyless.com
+0.0.0.0 applytics.napps-1.com
 0.0.0.0 applytics.nordvpn.com
 0.0.0.0 appmail.castlegroup.com
 0.0.0.0 appmail.corazonpuro.org
@@ -10260,7 +10259,6 @@
 0.0.0.0 c.tbex.ru
 0.0.0.0 c.thelevelgroup.co.uk
 0.0.0.0 c.tienda.com
-0.0.0.0 c.tvpixel.com
 0.0.0.0 c.tyb.xyz
 0.0.0.0 c.us.heap-api.com
 0.0.0.0 c.webengage.com
@@ -11650,7 +11648,6 @@
 0.0.0.0 cl.mittanbud.no
 0.0.0.0 cl.naturalhealing.fun
 0.0.0.0 cl.orthohealthful.com
-0.0.0.0 cl.qualaroo.com
 0.0.0.0 cl.rewardzonecerts2.bestbuy.com
 0.0.0.0 cl.softwaresubscription2.bestbuy.com
 0.0.0.0 cl.t3n.de
@@ -21267,7 +21264,6 @@
 0.0.0.0 dls2s.appsflyer.com
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlsdk.appsflyersdk.com
-0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 dly.digitly.de
 0.0.0.0 dlyptp.dr-8.com
 0.0.0.0 dlzbax.street-academy.com
@@ -47596,7 +47592,6 @@
 0.0.0.0 evasivejar.com
 0.0.0.0 evdni.littlesleepies.com
 0.0.0.0 event-action.popinfo.jp
-0.0.0.0 event-collector.analytics.onedio.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-dot-learning-piano.appspot.com
@@ -47840,7 +47835,6 @@
 0.0.0.0 evolu.adsdomaintracking.com
 0.0.0.0 evrget.nikkan-gendai.com
 0.0.0.0 evs.data.ciceksepeti.com
-0.0.0.0 evs.proxy.analytics.shutterstock.com
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt.24.com
 0.0.0.0 evt.houzz.com
@@ -59377,7 +59371,6 @@
 0.0.0.0 links.ranker.com
 0.0.0.0 links.riverview.org
 0.0.0.0 links.schoolhouse.com
-0.0.0.0 links.signup.com
 0.0.0.0 links.softwareadvice.com
 0.0.0.0 links.telemundo.com
 0.0.0.0 links.theskimm.com
@@ -59542,7 +59535,6 @@
 0.0.0.0 lmldvr.centauro.net
 0.0.0.0 lmnqof.littletoncoin.com
 0.0.0.0 lmpadebis.gala-series.com
-0.0.0.0 lmqmpm.clicks.mlsend.com
 0.0.0.0 lmtra.lonepeakoverland.com
 0.0.0.0 lmufb.theswellscore.com
 0.0.0.0 ln.strongdudes.com
@@ -62685,7 +62677,6 @@
 0.0.0.0 lofi.xiteedibles.com
 0.0.0.0 lofo3l15c674.platform.replai.io
 0.0.0.0 log-ana.h3z.jp
-0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-api.sooplive.com
 0.0.0.0 log-auth.flysleep.cn
 0.0.0.0 log-auth.zztfly.com
@@ -87238,7 +87229,6 @@
 0.0.0.0 sp.solus.nu
 0.0.0.0 sp.soniccares.com
 0.0.0.0 sp.spaceomatic.fr
-0.0.0.0 sp.stapecdn.com
 0.0.0.0 sp.stargazette.com
 0.0.0.0 sp.statesmanjournal.com
 0.0.0.0 sp.stevenspointjournal.com
@@ -97564,7 +97554,6 @@
 0.0.0.0 t.sidekickopen
 0.0.0.0 t.signalfabriken.se
 0.0.0.0 t.signaux
-0.0.0.0 t.signauxtrois.com
 0.0.0.0 t.sigopn
 0.0.0.0 t.simply-hentai.com
 0.0.0.0 t.siusalukis.com
@@ -109733,7 +109722,6 @@
 0.0.0.0 whoisvisiting.com
 0.0.0.0 wholesale.proximus.be
 0.0.0.0 whoogled.com
-0.0.0.0 whos.amung.us
 0.0.0.0 whosclickingwho.com
 0.0.0.0 whoseesyou.com
 0.0.0.0 whoson.com

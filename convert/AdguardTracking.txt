@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 28 Oct 2025 04:32:43 UTC
+# Updated at Wed, 29 Oct 2025 04:35:27 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -8502,6 +8502,7 @@
 0.0.0.0 apply.levelupfunding.com
 0.0.0.0 apply.maxlend.com
 0.0.0.0 applyless.com
+0.0.0.0 applytics.my1337jog.run
 0.0.0.0 applytics.napps-1.com
 0.0.0.0 applytics.nordvpn.com
 0.0.0.0 applytics.os4work.com
@@ -10671,6 +10672,7 @@
 0.0.0.0 c0p.cepsum.umontreal.ca
 0.0.0.0 c1-stats.shopifysvc.com
 0.0.0.0 c1.politexpert.ru
+0.0.0.0 c1.prmonline.ru
 0.0.0.0 c1.wfinterface.com
 0.0.0.0 c1exchange.com
 0.0.0.0 c212.net
@@ -59827,6 +59829,7 @@
 0.0.0.0 freecounter.it
 0.0.0.0 freecountercode.com
 0.0.0.0 freecounterstat.com
+0.0.0.0 freedomgrail.com
 0.0.0.0 freefr-fixed.mno.link
 0.0.0.0 freegeoip.net
 0.0.0.0 freehitscounter.org
@@ -70964,6 +70967,7 @@
 0.0.0.0 links1.service.pawshake.com
 0.0.0.0 links1.updates.charliehealth.com
 0.0.0.0 linkse.info.brooksrunning.com
+0.0.0.0 linksoutside.com
 0.0.0.0 linkst.calpers.ca.gov
 0.0.0.0 linkst.dallasnews.com
 0.0.0.0 linkst.dndbeyond.com
@@ -82316,6 +82320,7 @@
 0.0.0.0 obseu.netgreencolumn.com
 0.0.0.0 obtfhl.bellemaison.jp
 0.0.0.0 obtqre.contactlensking.com
+0.0.0.0 obus-in.dc.heytapmobile.com
 0.0.0.0 obutl.4patriots.com
 0.0.0.0 obvvk.diyanu.com
 0.0.0.0 obwyfc.juwelo.fr
@@ -86362,6 +86367,7 @@
 0.0.0.0 pop3.townsquaremedia.info
 0.0.0.0 popdn.ehplabs.ca
 0.0.0.0 popln.rci.com
+0.0.0.0 popmixradio.com
 0.0.0.0 popplantation.com
 0.0.0.0 popsample.com
 0.0.0.0 popt.in
@@ -89566,6 +89572,7 @@
 0.0.0.0 sa.hgtv.com
 0.0.0.0 sa.investigationdiscovery.com
 0.0.0.0 sa.lesselectionsskoda.fr
+0.0.0.0 sa.openmedia.co
 0.0.0.0 sa.oprah.com
 0.0.0.0 sa.sciencechannel.com
 0.0.0.0 sa.skoda.fr

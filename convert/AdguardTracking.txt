@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 29 Oct 2025 04:35:27 UTC
+# Updated at Thu, 30 Oct 2025 04:32:01 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -67509,6 +67509,7 @@
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 iot-mktg.vodafone.com
 0.0.0.0 iot.informaengage.com
+0.0.0.0 iot.skywayplatform.com
 0.0.0.0 iotapool.com
 0.0.0.0 ioubm.nakedroot.com
 0.0.0.0 ioxqdp.leatherology.com
@@ -87818,6 +87819,7 @@
 0.0.0.0 rcqtck.dsquared2.com
 0.0.0.0 rcrmmarketing.arcsona.com
 0.0.0.0 rcspzb.atlasformen.fr
+0.0.0.0 rcu.skywayplatform.com
 0.0.0.0 rcudsw.ths-net.jp
 0.0.0.0 rcytet.hnsmall.com
 0.0.0.0 rcyygubz.amusyd.dk
@@ -110829,6 +110831,7 @@
 0.0.0.0 tackytrains.com
 0.0.0.0 taco.wahaca.co.uk
 0.0.0.0 tacojournal.com
+0.0.0.0 tad.tygem.com
 0.0.0.0 tadata.afafb.com
 0.0.0.0 taduhy.timberland.co.uk
 0.0.0.0 taemhn.zamst-online.jp
@@ -113235,6 +113238,7 @@
 0.0.0.0 toucan.the-faithful.com
 0.0.0.0 touch.multitaction.com
 0.0.0.0 touch.thenavisway.com
+0.0.0.0 touch.yesim
 0.0.0.0 touchclarity.com
 0.0.0.0 tour.lostmountains.sa
 0.0.0.0 tourism.visitorlando.com
@@ -116444,6 +116448,7 @@
 0.0.0.0 trackinglrus.wolterskluwer.com
 0.0.0.0 trackingmail.martigo.com
 0.0.0.0 trackingmms.accenture.com
+0.0.0.0 trackingmyadsas.com
 0.0.0.0 trackingserver.shopnokoli.com
 0.0.0.0 trackingssl.agemployeebenefits.be
 0.0.0.0 trackingssl.aginsurance.be
@@ -117948,6 +117953,7 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uaaooa.stansberryresearch.com
 0.0.0.0 uac.etnews.com
+0.0.0.0 uac.heraldcorp.com
 0.0.0.0 uac.khan.co.kr
 0.0.0.0 uac.kyeongin.com
 0.0.0.0 uac.mk.co.kr

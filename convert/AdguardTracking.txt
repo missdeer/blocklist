@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 30 Oct 2025 04:32:01 UTC
+# Updated at Fri, 31 Oct 2025 04:33:33 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3937,7 +3937,6 @@
 0.0.0.0 ad-ebis.bookpass.auone.jp
 0.0.0.0 ad-ebis.mynavi-job20s.jp
 0.0.0.0 ad-ebis.toysub.jp
-0.0.0.0 ad-events.flashtalking.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 ad-log.dable.io
 0.0.0.0 ad-log.wemakeprice.com
@@ -4384,7 +4383,6 @@
 0.0.0.0 adobeanalytics.teksystems.com
 0.0.0.0 adobeanalytics.vice.com
 0.0.0.0 adobecorp.data.adobedc.net
-0.0.0.0 adobedc.demdex.net
 0.0.0.0 adobeedge.dva-acc.csda.gov.au
 0.0.0.0 adobeedge.morganstanley.com
 0.0.0.0 adobeedge.my.gov.au
@@ -6331,7 +6329,6 @@
 0.0.0.0 analytics.liveact.cri-mw.jp
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.loadweb.com
-0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.lomar.sa
 0.0.0.0 analytics.lonestar.co.nz
@@ -16450,7 +16447,6 @@
 0.0.0.0 counter.web.money
 0.0.0.0 counter.websiteout.net
 0.0.0.0 counter.websitevoice.com
-0.0.0.0 counter.yadro.ru
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 counter1.fc2.com
 0.0.0.0 counter2.blog.livedoor.com
@@ -16786,6 +16782,7 @@
 0.0.0.0 cuckoo.jerandky.com
 0.0.0.0 cuckoo.peoplefirstjobs.com
 0.0.0.0 cuddlycake.com
+0.0.0.0 cuddlylab.com
 0.0.0.0 cuddlylunchroom.com
 0.0.0.0 cudgoz.mifcom.de
 0.0.0.0 cudrqv.sts.pl
@@ -64569,6 +64566,7 @@
 0.0.0.0 halibut.jimruegolfinstruction.com
 0.0.0.0 halibut.phytype.com
 0.0.0.0 halldata.com
+0.0.0.0 halocolor.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 haltingdivision.com
 0.0.0.0 halvwk.jetcost.ie
@@ -76475,7 +76473,6 @@
 0.0.0.0 marketing.five-startech.com
 0.0.0.0 marketing.five19creative.com
 0.0.0.0 marketing.flaire.com
-0.0.0.0 marketing.flashtalking.com
 0.0.0.0 marketing.fleetfeetorlando.com
 0.0.0.0 marketing.fleetfeetraleigh.com
 0.0.0.0 marketing.fleetone.com
@@ -78052,6 +78049,7 @@
 0.0.0.0 membership.mortonarb.org
 0.0.0.0 memecounter.com
 0.0.0.0 memelq.acs.org
+0.0.0.0 memeorigin.com
 0.0.0.0 memjo.theshoecareshop.com
 0.0.0.0 memolight.com
 0.0.0.0 memopilot.com
@@ -82937,6 +82935,7 @@
 0.0.0.0 optimost.com
 0.0.0.0 optin-machine.com
 0.0.0.0 optionen.hager.de
+0.0.0.0 optionsnomad.com
 0.0.0.0 optiyield.opti-digital.com
 0.0.0.0 optout.business.nordea.fi
 0.0.0.0 optout.email.firestonetire.com
@@ -90337,6 +90336,7 @@
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredstream.com
 0.0.0.0 sccbpw.dress4less.bg
+0.0.0.0 scdata.51job.com
 0.0.0.0 scdn.hostfame.com
 0.0.0.0 scdn.lease-a-bike.de
 0.0.0.0 scedla.dietbon.fr
@@ -99983,6 +99983,7 @@
 0.0.0.0 speederpro-ss.checkoutera.com
 0.0.0.0 speedtracker.de
 0.0.0.0 spelar.org
+0.0.0.0 spellingthoughts.com
 0.0.0.0 spellknight.com
 0.0.0.0 spellmist.com
 0.0.0.0 spellsalsa.com
@@ -109601,6 +109602,7 @@
 0.0.0.0 success.studioxerxes.com
 0.0.0.0 success.vertigis.com
 0.0.0.0 success.vertigisstudio.com
+0.0.0.0 successbuffet.com
 0.0.0.0 successfuelevents.com
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 suchanalytik.hideandsec.sh
@@ -110108,6 +110110,7 @@
 0.0.0.0 system.affiliate-marketing-hamburg.de
 0.0.0.0 system.j5media.de
 0.0.0.0 system.nefiber.com
+0.0.0.0 systemssummit.com
 0.0.0.0 sytm.ritualdeterra.com
 0.0.0.0 sywobt.from-off.com
 0.0.0.0 syycwa.barcelo.com
@@ -123058,6 +123061,7 @@
 0.0.0.0 wirecomic.com
 0.0.0.0 wiredforcoffee.com
 0.0.0.0 wiredminds.de
+0.0.0.0 wirenewsletter.com
 0.0.0.0 wirjoi.meetsmore.com
 0.0.0.0 wirypaste.com
 0.0.0.0 wisdom.clic-campus.fr

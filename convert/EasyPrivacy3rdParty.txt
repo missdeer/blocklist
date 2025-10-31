@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 30 Oct 2025 04:32:00 UTC
+# Updated at Fri, 31 Oct 2025 04:33:32 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -783,6 +783,7 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
+0.0.0.0 ip-check-perf.radar.cloudflare.com
 0.0.0.0 ip.lovely-app.com
 0.0.0.0 ip.momentummedia.com.au
 0.0.0.0 iq.sixaxisllc.com

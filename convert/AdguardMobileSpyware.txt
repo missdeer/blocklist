@@ -1,10 +1,9 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 30 Oct 2025 04:32:00 UTC
+# Updated at Fri, 31 Oct 2025 04:33:32 UTC
 #
 
-0.0.0.0 33across.com
 0.0.0.0 4seeresults.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 ab.servogram.io
@@ -35,15 +34,12 @@
 0.0.0.0 adtracker.mkjigsaw.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 adv.sec.miui.com
-0.0.0.0 advangelists.com
 0.0.0.0 advmob.cn
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
-0.0.0.0 agkn.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
-0.0.0.0 akstat.io
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 alog.umengcloud.com
@@ -182,11 +178,9 @@
 0.0.0.0 beacons-prod.fubo.tv
 0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beha.ksmobile.com
-0.0.0.0 bfmio.com
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
-0.0.0.0 bidswitch.net
 0.0.0.0 bisrtb.vidazoo.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
@@ -204,11 +198,9 @@
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 ced-ns.sascdn.com
 0.0.0.0 cedexis-radar.net
-0.0.0.0 cedexis.com
 0.0.0.0 census-app.scorecardresearch.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cgicol.amap.com
-0.0.0.0 chartbeat.net
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 client-telemetry.hingeprod.net
@@ -247,11 +239,9 @@
 0.0.0.0 costco-adbutler.com
 0.0.0.0 counters.booking.com
 0.0.0.0 countly.globaldelight.net
-0.0.0.0 cpx.to
 0.0.0.0 crasheye.cn
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
-0.0.0.0 crwdcntrl.net
 0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 d.applvn.com
@@ -269,7 +259,6 @@
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
-0.0.0.0 demdex.net
 0.0.0.0 detect.rayjump.com
 0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 devlog-upload-os.hoyoverse.com
@@ -353,7 +342,6 @@
 0.0.0.0 evt.mxplay.com
 0.0.0.0 experiment.pixverse.ai
 0.0.0.0 flash.sec.intl.miui.com
-0.0.0.0 flashtalking.com
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fraud.adjoe.zone
@@ -374,8 +362,6 @@
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
-0.0.0.0 geoplugin.net
-0.0.0.0 getclicky.com
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -421,19 +407,16 @@
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 int.vlancaa.site
 0.0.0.0 intlsucus.ucweb.com
-0.0.0.0 io.narrative.io
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 jpush.io
-0.0.0.0 krxd.net
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com
-0.0.0.0 localytics.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-pub-hk.aoshitang.com
@@ -515,9 +498,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
-0.0.0.0 lp4.io
 0.0.0.0 m.vpadn.com
-0.0.0.0 mathtag.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
@@ -567,7 +548,6 @@
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mosspf.net
-0.0.0.0 mpianalytics.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 msg.simeji.baidu.jp
@@ -586,7 +566,6 @@
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.news.apple-dns.net
-0.0.0.0 npario-inc.net
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nsclickvideo.xiaodutv.com
@@ -598,10 +577,8 @@
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 online-metrix.net
-0.0.0.0 onthe.io
 0.0.0.0 open.oneplus.net
 0.0.0.0 openlog.tapapis.cn
-0.0.0.0 openstat.net
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com
@@ -616,7 +593,6 @@
 0.0.0.0 piano_log.kingsoft.jp
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingtas.qq.com
-0.0.0.0 pippio.com
 0.0.0.0 pixel.magentamarketing.com
 0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 ploy.batmobi.net
@@ -644,7 +620,6 @@
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 qmds-dev-samsung.com
-0.0.0.0 quantcount.com
 0.0.0.0 r-log.dable.io
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.browser.miui.com
@@ -706,7 +681,6 @@
 0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sia.internet.apps.samsung.com
-0.0.0.0 simpli.fi
 0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.discover.com
@@ -771,7 +745,6 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
-0.0.0.0 theadex.com
 0.0.0.0 tjinit-event.babybus.com
 0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tknet.rayjump.com
@@ -867,10 +840,8 @@
 0.0.0.0 ulogs1.ksapisrv.com
 0.0.0.0 ulogs2.ksapisrv.com
 0.0.0.0 up-hl.3g.qq.com
-0.0.0.0 upalytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
-0.0.0.0 urbanairship.com
 0.0.0.0 us-east-1.paa-reporting-advertising.amazon
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
@@ -892,7 +863,6 @@
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vk-analytics.ru
 0.0.0.0 volceapplog.com
-0.0.0.0 w55c.net
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net
@@ -909,12 +879,9 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.tiktokv.com
-0.0.0.0 xplosion.de
-0.0.0.0 yadro.ru
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 ymtracking.com
 0.0.0.0 ys-log-upload-os.hoyoverse.com
 0.0.0.0 yun-hl.3g.qq.com
-0.0.0.0 zdbb.net
 0.0.0.0 zml-apm-prd.dbv4.noncd.db.de
 0.0.0.0 ztevents.zaloapp.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 31 Oct 2025 04:33:33 UTC
+# Updated at Sat, 01 Nov 2025 04:29:44 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -1398,6 +1398,7 @@
 0.0.0.0 3mail.mg.geoscraper.net
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
+0.0.0.0 3rdspacetech.com
 0.0.0.0 3tand.werkenbijneptunus.eu
 0.0.0.0 3wn3w3skxpym.round.t3.gg
 0.0.0.0 3yww9ue5ec1iqn3w.edge41.testandtarget.omniture.com
@@ -5552,6 +5553,7 @@
 0.0.0.0 alpaca.wingmantracker.com
 0.0.0.0 alpha.bestloan.ai
 0.0.0.0 alpha.tracedock.com
+0.0.0.0 alphaupsell.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 alpineactor.com
 0.0.0.0 alpixtrack.com
 0.0.0.0 alpwclk.alphatonicworks.site
@@ -10460,6 +10462,7 @@
 0.0.0.0 businessengage.comcast.com
 0.0.0.0 businessmaking.progress.com
 0.0.0.0 businessmetrics.syf.com
+0.0.0.0 businessupdater.com
 0.0.0.0 busrol.st-eustachenissan.com
 0.0.0.0 bustlingbook.com
 0.0.0.0 butterbulb.com
@@ -74786,11 +74789,13 @@
 0.0.0.0 log002.commutil.kr
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log1.wanmei.com
 0.0.0.0 log1.wtlogin.qq.com
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log2.radiko.jp
 0.0.0.0 log2.spotify.com
+0.0.0.0 log2.wanmei.com
 0.0.0.0 log22.makeshop.co.kr
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logaholic.com
@@ -88245,6 +88250,7 @@
 0.0.0.0 res.rbl.ms
 0.0.0.0 res.swedishnomad.com
 0.0.0.0 res.t18.fr
+0.0.0.0 rescuerhino.com
 0.0.0.0 research-artisan.com
 0.0.0.0 research-int.se
 0.0.0.0 research-tool.com
@@ -99348,6 +99354,7 @@
 0.0.0.0 snapsgate.com
 0.0.0.0 snaqyb.24mx.be
 0.0.0.0 snat.goguardian.com
+0.0.0.0 snazzypoodle.com
 0.0.0.0 snbwyi.heine.at
 0.0.0.0 snd.freshstartnews.com
 0.0.0.0 sndkfw.24mx.es
@@ -108266,6 +108273,7 @@
 0.0.0.0 stats.exploratv.ca
 0.0.0.0 stats.extendedstayamerica.com
 0.0.0.0 stats.extendedstayhotels.com
+0.0.0.0 stats.externulls.com
 0.0.0.0 stats.extramilefloorcare.com
 0.0.0.0 stats.eyehelp.co
 0.0.0.0 stats.fabiofranchino.com
@@ -108783,6 +108791,7 @@
 0.0.0.0 stats.southswindon-pc.gov.uk
 0.0.0.0 stats.spark.co.nz
 0.0.0.0 stats.sparkloop.app
+0.0.0.0 stats.spottedlublin.pl
 0.0.0.0 stats.spreadsimple.com
 0.0.0.0 stats.spreadtheworld.net
 0.0.0.0 stats.sprocketrocket.co
@@ -118392,6 +118401,7 @@
 0.0.0.0 upflow-email.tekion.com
 0.0.0.0 upflow-email.yoti.com
 0.0.0.0 upflowemail.lifen.fr
+0.0.0.0 upgradeyoga.com
 0.0.0.0 uplift-platform.com
 0.0.0.0 uplivora.com
 0.0.0.0 upload.euleriancdn.net

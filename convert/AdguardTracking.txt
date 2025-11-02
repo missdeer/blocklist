@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 01 Nov 2025 04:29:44 UTC
+# Updated at Sun, 02 Nov 2025 04:32:16 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -4431,6 +4431,7 @@
 0.0.0.0 adrlov.klingel.fi
 0.0.0.0 adrta.com
 0.0.0.0 ads-alpha.ewscloud.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
@@ -67558,6 +67559,7 @@
 0.0.0.0 iplogger.info
 0.0.0.0 iplogger.org
 0.0.0.0 iplogger.ru
+0.0.0.0 ipm.adblockplus.dev
 0.0.0.0 ipmeta.io
 0.0.0.0 ipmolrez.ems-dolorclast.com
 0.0.0.0 ipolxw.vgaps.ru

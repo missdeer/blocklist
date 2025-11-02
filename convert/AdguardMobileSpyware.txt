@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 01 Nov 2025 04:29:42 UTC
+# Updated at Sun, 02 Nov 2025 04:32:16 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -19,6 +19,7 @@
 0.0.0.0 adfuture.cn
 0.0.0.0 adj.st
 0.0.0.0 adrevenue.appsflyer.com
+0.0.0.0 ads-api.x.com
 0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com

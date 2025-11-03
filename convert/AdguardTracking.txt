@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 02 Nov 2025 04:32:16 UTC
+# Updated at Mon, 03 Nov 2025 04:36:43 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -17097,6 +17097,7 @@
 0.0.0.0 cyber-tracking.att.com
 0.0.0.0 cyber.aonunited.com
 0.0.0.0 cyberanalytics.nl
+0.0.0.0 cyclinghere.com
 0.0.0.0 cyclopsdial.com
 0.0.0.0 cyeabs.luxyhair.com
 0.0.0.0 cyezszhm.pammys.com
@@ -58724,6 +58725,7 @@
 0.0.0.0 falcon.rowanmanning.com
 0.0.0.0 falkxw.high-everydaycouture.com
 0.0.0.0 fallaciousfifth.com
+0.0.0.0 fallingshoals.com
 0.0.0.0 falseframe.com
 0.0.0.0 falsesight.com
 0.0.0.0 falt925.ferticare.eu
@@ -112427,6 +112429,7 @@
 0.0.0.0 tics.techdirt.com
 0.0.0.0 ticvui.alexandani.com
 0.0.0.0 tidymitten.com
+0.0.0.0 tidysprite.com
 0.0.0.0 tieszhu.com
 0.0.0.0 tiger.melissajclark.ca
 0.0.0.0 tigershark.garethtdavies.com

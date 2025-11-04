@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 03 Nov 2025 04:36:43 UTC
+# Updated at Tue, 04 Nov 2025 04:32:26 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -164,6 +164,7 @@
 0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 atsod.launch.liveramp.com
 0.0.0.0 attr.appsflyer.com
+0.0.0.0 attr.appsflyersdk.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 autotrack.studyquicks.com
@@ -273,6 +274,7 @@
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 dit.whatsapp.net
+0.0.0.0 dlog-config.uu.cc
 0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
@@ -363,6 +365,7 @@
 0.0.0.0 geoinfo.i2w.io
 0.0.0.0 geoip.fotoable.net
 0.0.0.0 geoip.ifunny.co
+0.0.0.0 gid.tapapis.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -412,6 +415,7 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 jdlog.uu.cc
 0.0.0.0 jpush.io
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lepodownload.mediatek.com
@@ -549,6 +553,7 @@
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mosspf.net
+0.0.0.0 ms-report.uu.cc
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 msg.simeji.baidu.jp

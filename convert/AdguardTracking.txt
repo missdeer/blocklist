@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 04 Nov 2025 04:32:27 UTC
+# Updated at Wed, 05 Nov 2025 04:33:12 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -83216,6 +83216,7 @@
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
 0.0.0.0 openlog.tapapis.cn
+0.0.0.0 openpanel.dev
 0.0.0.0 openrate.aweber.com
 0.0.0.0 openstat.net
 0.0.0.0 openstats.co

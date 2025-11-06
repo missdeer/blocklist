@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 05 Nov 2025 04:33:12 UTC
+# Updated at Thu, 06 Nov 2025 04:35:34 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -478,6 +478,7 @@
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logapi-and.zhipin.com
@@ -546,9 +547,11 @@
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 mon-sg.capcutapi.com
 0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon.capcutapi.us
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monsetting.toutiao.com
@@ -562,6 +565,7 @@
 0.0.0.0 msga.cupid.iqiyi.com
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 mssdk-va.byteoversea.com
+0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mtrace.qq.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 nativesdks.mparticle.com

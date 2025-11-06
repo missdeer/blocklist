@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 05 Nov 2025 04:33:12 UTC
+# Updated at Thu, 06 Nov 2025 04:35:36 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9010,6 +9010,7 @@
 0.0.0.0 audienceamplify.com
 0.0.0.0 audienceinsights.net
 0.0.0.0 audienceiq.com
+0.0.0.0 audiencelab.io
 0.0.0.0 audiencemanager.de
 0.0.0.0 audienceplay.com
 0.0.0.0 audiencerate.com
@@ -16067,6 +16068,7 @@
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.mediator.media
 0.0.0.0 collector.megaxh.com
+0.0.0.0 collector.moderntv.eu
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.plarium.com
 0.0.0.0 collector.prod.expedia.com
@@ -16502,6 +16504,7 @@
 0.0.0.0 convertexperiments.com
 0.0.0.0 convertglobal.com
 0.0.0.0 convertro.com
+0.0.0.0 conviva.com
 0.0.0.0 convtrack.bitsacademy.com.br
 0.0.0.0 coobuo.pinkpanda.cz
 0.0.0.0 cooingcoal.com
@@ -57839,6 +57842,7 @@
 0.0.0.0 evdni.littlesleepies.com
 0.0.0.0 evenement.ricoh.fr
 0.0.0.0 event-action.popinfo.jp
+0.0.0.0 event-api.hackle.io
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-dot-learning-piano.appspot.com
@@ -57947,6 +57951,7 @@
 0.0.0.0 events.app-performance.music.amazon.dev
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.askjdhaa.com
+0.0.0.0 events.asurion.com
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audioplace.me
 0.0.0.0 events.avaya.com
@@ -59901,6 +59906,7 @@
 0.0.0.0 gator.volces.com
 0.0.0.0 gatracking.js
 0.0.0.0 gatsbytrack.beeing.it
+0.0.0.0 gau.groobee.io
 0.0.0.0 gaudyairplane.com
 0.0.0.0 gaug.es
 0.0.0.0 gauqt.tryperiod.com
@@ -60927,6 +60933,7 @@
 0.0.0.0 gorilla.celcyon.com
 0.0.0.0 gorilla.hakai.org
 0.0.0.0 gorilla.physio-soft.com
+0.0.0.0 gorillapage.com
 0.0.0.0 gosca.justingredients.us
 0.0.0.0 goskfw.goalstudio.com
 0.0.0.0 gosports.all4fysio.nl
@@ -61003,6 +61010,7 @@
 0.0.0.0 gravitykick.com
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
+0.0.0.0 gre.groobee.io
 0.0.0.0 greasegarden.com
 0.0.0.0 greasysquare.com
 0.0.0.0 great.shop.kazistorebd.com
@@ -65345,6 +65353,7 @@
 0.0.0.0 htrji.mazeliving.co.uk
 0.0.0.0 htrog.threewarriors.com.au
 0.0.0.0 httjs.davidscookies.com
+0.0.0.0 http-intake.logs.datadoghq.com
 0.0.0.0 httpglobalid3.click.s11.sfmc-osl.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 https.mailer.thecaistore.com
@@ -68257,6 +68266,7 @@
 0.0.0.0 justpickaname.com
 0.0.0.0 justuno.com
 0.0.0.0 justwebcards.com
+0.0.0.0 justwowjars.com
 0.0.0.0 juvkc.plantpeople.co
 0.0.0.0 juvsf.revolution-nutrition.com
 0.0.0.0 juzqsq.finanzcheck.de
@@ -74951,6 +74961,7 @@
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log1.wanmei.com
 0.0.0.0 log1.wtlogin.qq.com
+0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log2.radiko.jp
@@ -80771,6 +80782,7 @@
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.capcutapi.com
 0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon.capcutapi.us
 0.0.0.0 mon.ingservices.nl
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.snssdk.com
@@ -80778,6 +80790,7 @@
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 mon.xactware.com
 0.0.0.0 mon.zijieapi.com
+0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monacobeatles.com
 0.0.0.0 monetate.net
 0.0.0.0 money.mioweb.cz
@@ -80798,6 +80811,7 @@
 0.0.0.0 monitor.ns1-s.rspcdn.net
 0.0.0.0 monitor.r53.cbsivideo.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
+0.0.0.0 monitoring.hackle.io
 0.0.0.0 monitoring.medizinbedarf.eu
 0.0.0.0 monitoring.paw-wow.de
 0.0.0.0 monitoring.youronlinechoices.com
@@ -81033,6 +81047,7 @@
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-va.byteoversea.com
 0.0.0.0 mssdk.bytedance.com
+0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mssdk.tiktokw.us
 0.0.0.0 mssfv.aspinaloflondon.com
 0.0.0.0 mst.physiotherapie-mobili.de
@@ -88136,6 +88151,7 @@
 0.0.0.0 rackforstorage.com
 0.0.0.0 radar.josianamendes.adv.br
 0.0.0.0 radar.marinhoadvmg.com.br
+0.0.0.0 radexports.com
 0.0.0.0 radiantcanopy.com
 0.0.0.0 radiantlullaby.com
 0.0.0.0 radiateprose.com
@@ -93915,6 +93931,7 @@
 0.0.0.0 service.hcob-bank.de
 0.0.0.0 service.infrontstaffing.com
 0.0.0.0 service.inn-out-shop.com
+0.0.0.0 service.minute.ly
 0.0.0.0 service.trendvist.com
 0.0.0.0 service.utiq.com
 0.0.0.0 service1.atz-shop.ch
@@ -95784,6 +95801,7 @@
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplenaming.com
 0.0.0.0 simplereach.com
+0.0.0.0 simplesafari.com
 0.0.0.0 simplesidewalk.com
 0.0.0.0 simpletopay.americanexpress.co.uk
 0.0.0.0 simplewebanalysis.com
@@ -116718,6 +116736,7 @@
 0.0.0.0 trackgun.alrajhi-capital.com
 0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
+0.0.0.0 tracking-api.g2.com
 0.0.0.0 tracking-api.hotmart.com
 0.0.0.0 tracking-api.passeidireto.com
 0.0.0.0 tracking-api.sub100.com.br
@@ -123593,6 +123612,7 @@
 0.0.0.0 waust.at
 0.0.0.0 waveinverter.com
 0.0.0.0 waves.retentionscience.com
+0.0.0.0 wavesimple.com
 0.0.0.0 wavesmachine.com
 0.0.0.0 wavrlh.cedok.cz
 0.0.0.0 wavzlt.michaelstars.com

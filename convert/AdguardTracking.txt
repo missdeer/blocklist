@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 06 Nov 2025 04:35:36 UTC
+# Updated at Fri, 07 Nov 2025 04:32:44 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3614,6 +3614,7 @@
 0.0.0.0 absinfo.eagle.org
 0.0.0.0 absm.hostliger.com
 0.0.0.0 absolstats.co.za
+0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absorbingprison.com
 0.0.0.0 absscw.vegis.ro
@@ -7072,6 +7073,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
+0.0.0.0 api-ktm.kkday.com
 0.0.0.0 api-meta.mercelsantos.com.br
 0.0.0.0 api-notify.markarch.com
 0.0.0.0 api-pixels.easyadsapp.com
@@ -9951,6 +9953,7 @@
 0.0.0.0 biz2.kddi.com
 0.0.0.0 bizeps.tntfitness.de
 0.0.0.0 bizible.com
+0.0.0.0 bizlog-gateway.myrealtrip.com
 0.0.0.0 bizmkt.lguplus.com
 0.0.0.0 biznews.oregon.gov
 0.0.0.0 bizo.com
@@ -11847,6 +11850,7 @@
 0.0.0.0 ch.credithypo.com
 0.0.0.0 ch0p.darty.com
 0.0.0.0 chademocharge.com
+0.0.0.0 chaindisc.com
 0.0.0.0 chaireggnog.com
 0.0.0.0 chairscrack.com
 0.0.0.0 chairsdonkey.com
@@ -11927,6 +11931,7 @@
 0.0.0.0 chjoua.badblood.co.kr
 0.0.0.0 chkgdb.trendhim.com
 0.0.0.0 chl.carriagehillco.com
+0.0.0.0 chloro.trip.com
 0.0.0.0 chnmi.store.bariatricpal.com
 0.0.0.0 chnnlk.sinspot.co.kr
 0.0.0.0 chocolatine.apexlegendsstatus.com
@@ -16865,6 +16870,7 @@
 0.0.0.0 crm.childrens.com
 0.0.0.0 crm.ironmountain.com
 0.0.0.0 crm.leads360.com
+0.0.0.0 crm.marketap.io
 0.0.0.0 crm.mg.eit.edu.au
 0.0.0.0 crm.toyotago.com.ec
 0.0.0.0 crm.velocify.com
@@ -21840,6 +21846,7 @@
 0.0.0.0 de48cadb.eulerian.io
 0.0.0.0 dealerrelations.cargurus.com
 0.0.0.0 dealersuccess.drivedominion.com
+0.0.0.0 deapi.nestads.com
 0.0.0.0 deb.spendsky.com
 0.0.0.0 debjpy.globoshoes.com
 0.0.0.0 debonairdust.com
@@ -21890,6 +21897,7 @@
 0.0.0.0 delivery.casabito.io
 0.0.0.0 delivery.lululemon.com
 0.0.0.0 delkatech.tech
+0.0.0.0 delog.nestads.com
 0.0.0.0 delog.sooplive.co.kr
 0.0.0.0 deltadna.net
 0.0.0.0 deltafault.com
@@ -57880,6 +57888,7 @@
 0.0.0.0 event.lginnotek.com
 0.0.0.0 event.lib.visumo.io
 0.0.0.0 event.mail.dreamcargiveaways.co.uk
+0.0.0.0 event.marketap.io
 0.0.0.0 event.meloshort.com
 0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.msi.com
@@ -70985,6 +70994,7 @@
 0.0.0.0 linkst.talesofxadia.com
 0.0.0.0 linkst.thecut.com
 0.0.0.0 linkst.vulture.com
+0.0.0.0 linkstable.com
 0.0.0.0 linksynergy.com
 0.0.0.0 linktest.dictionary.com
 0.0.0.0 linktest.thesaurus.com
@@ -88018,6 +88028,7 @@
 0.0.0.0 quillion.com
 0.0.0.0 quillkick.com
 0.0.0.0 quiltquick.com
+0.0.0.0 quiltruler.com
 0.0.0.0 quintelligence.com
 0.0.0.0 quirkybliss.com
 0.0.0.0 quirkybodega.com
@@ -88993,6 +89004,7 @@
 0.0.0.0 rise.mcgames.bet.br
 0.0.0.0 rise.megabingo7.com
 0.0.0.0 rishad.brandworldbd.com
+0.0.0.0 riskpoc.trip.com
 0.0.0.0 ritzyrepresentative.com
 0.0.0.0 ritzyveil.com
 0.0.0.0 riueq.pomegranate.com
@@ -119269,6 +119281,7 @@
 0.0.0.0 ubrihx.allbirds.jp
 0.0.0.0 ubssn.namesakehome.com
 0.0.0.0 ubsumw.ifp.es
+0.0.0.0 ubt-sgp.trip.com
 0.0.0.0 ubt-sin.tripcdn.com
 0.0.0.0 ubt.tracking.shopee
 0.0.0.0 ubutv.rom7.no

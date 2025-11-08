@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 07 Nov 2025 04:32:44 UTC
+# Updated at Sat, 08 Nov 2025 04:30:41 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9528,6 +9528,7 @@
 0.0.0.0 batmobile.com.tw
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 batsavcdn.ksmobile.net
+0.0.0.0 battlekite.com
 0.0.0.0 bauer.bauerfeind.co.uk
 0.0.0.0 bauqp.plankhardware.com
 0.0.0.0 bauvf.bullystickscentral.com
@@ -57863,6 +57864,7 @@
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event-tracking.deliverr.com
 0.0.0.0 event-us.ssp.taxssp.com
+0.0.0.0 event.aimailhome.io
 0.0.0.0 event.airbridge.io
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.chiesiusa.com
@@ -68488,6 +68490,7 @@
 0.0.0.0 keqglr.panvel.com
 0.0.0.0 keras.ohtpro.com
 0.0.0.0 kerebro.com
+0.0.0.0 kernellife.com
 0.0.0.0 keuaq.amsoil.ca
 0.0.0.0 kevdp.moby.co
 0.0.0.0 kevqi.emango.sk
@@ -89128,6 +89131,7 @@
 0.0.0.0 road.leadr.co
 0.0.0.0 road.lemonlawfirm.com
 0.0.0.0 road.rejuvica.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roadrunner.ausmv.com.au
 0.0.0.0 roadwalks.com
 0.0.0.0 roastap.sixor.it
@@ -108838,6 +108842,7 @@
 0.0.0.0 starkscale.com
 0.0.0.0 starman.usefathom.com
 0.0.0.0 starmount.alwayscarebenefits.com
+0.0.0.0 starsmarter.com
 0.0.0.0 start.adelaide.edu.au
 0.0.0.0 start.ashfieldmeetings.com
 0.0.0.0 start.cutbackcoach.com

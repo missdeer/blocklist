@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 08 Nov 2025 04:30:41 UTC
+# Updated at Sun, 09 Nov 2025 04:31:24 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -95555,6 +95555,7 @@
 0.0.0.0 shadeship.com
 0.0.0.0 shadow.wonderflyarena.com
 0.0.0.0 shadow.wonderflygames.com
+0.0.0.0 shadowmade.com
 0.0.0.0 shaggytank.com
 0.0.0.0 shahad.graphycity.com
 0.0.0.0 shakegoldfish.com
@@ -100997,6 +100998,7 @@
 0.0.0.0 squid.adart.cc
 0.0.0.0 squid.antevo.com.au
 0.0.0.0 squidanalytics.com
+0.0.0.0 squidlogic.com
 0.0.0.0 squirrel.laravel-mix.com
 0.0.0.0 squishybears.com
 0.0.0.0 squjvr.modamerve.com
@@ -124584,6 +124586,7 @@
 0.0.0.0 wren.camdenmecc.org.uk
 0.0.0.0 wren.femi.io
 0.0.0.0 wretchedfloor.com
+0.0.0.0 writerhubs.com
 0.0.0.0 writewealth.com
 0.0.0.0 wrlnvt.pepita.hu
 0.0.0.0 wrongpotato.com

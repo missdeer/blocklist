@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 09 Nov 2025 04:31:24 UTC
+# Updated at Mon, 10 Nov 2025 04:35:38 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -5874,6 +5874,7 @@
 0.0.0.0 analytics.blg.nz
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.boing.es
+0.0.0.0 analytics.bomiv.com
 0.0.0.0 analytics.bonbori.shop
 0.0.0.0 analytics.boomerangtv.co.uk
 0.0.0.0 analytics.box.com
@@ -16105,6 +16106,7 @@
 0.0.0.0 college.marketingcube.com.au
 0.0.0.0 collserve.com
 0.0.0.0 coloradoserves.com
+0.0.0.0 colorfulpet.com
 0.0.0.0 coloringisland.com
 0.0.0.0 colossalclouds.com
 0.0.0.0 colossalcoat.com
@@ -64586,7 +64588,6 @@
 0.0.0.0 hawk.mjsarfatti.com
 0.0.0.0 haxddr.crocieraonline.com
 0.0.0.0 haxdym.min-breeder.com
-0.0.0.0 haystack.wavve.com
 0.0.0.0 hazmatworkshop.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
@@ -67646,6 +67647,7 @@
 0.0.0.0 isicpartner.mamechut.cz
 0.0.0.0 isjoui.cainz.com
 0.0.0.0 isl.caminos.click
+0.0.0.0 islandwebhelp.com
 0.0.0.0 ismail.natureenergybd.com
 0.0.0.0 ismail.paragonshopper.com
 0.0.0.0 isnet.habrokathletics.com
@@ -81749,6 +81751,7 @@
 0.0.0.0 network.screen13.com
 0.0.0.0 network.wintechnology.com
 0.0.0.0 networkingexchange.att.com
+0.0.0.0 networklast.com
 0.0.0.0 networkprotection.mcafee.com
 0.0.0.0 networks.balluff.com
 0.0.0.0 netzaehler.de
@@ -110357,6 +110360,7 @@
 0.0.0.0 storm1.audifly.com.br
 0.0.0.0 stormcontainertag.com
 0.0.0.0 stormiq.com
+0.0.0.0 stormyflower.com
 0.0.0.0 storystack.com
 0.0.0.0 stp.4d-society.com
 0.0.0.0 stp.achat-electrique.com
@@ -115759,6 +115763,7 @@
 0.0.0.0 track.biz.lguplus.com
 0.0.0.0 track.bizjournals.com
 0.0.0.0 track.blitz-consulting.com
+0.0.0.0 track.bomiv.com
 0.0.0.0 track.borderlessfill9.org
 0.0.0.0 track.borsaatlas.com
 0.0.0.0 track.boxdistribuidor.com.br

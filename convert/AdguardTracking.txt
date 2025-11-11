@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 11 Nov 2025 04:34:13 UTC
+# Updated at Tue, 11 Nov 2025 22:44:56 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -4245,6 +4245,7 @@
 0.0.0.0 adingo.jp
 0.0.0.0 adinsight.co.kr
 0.0.0.0 adinsight.com
+0.0.0.0 aditude.prebid-server.com
 0.0.0.0 adixkr.culturekings.com.au
 0.0.0.0 adj.st
 0.0.0.0 adku.co
@@ -9742,6 +9743,7 @@
 0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.cdn.qq.com
+0.0.0.0 beacon.coofis.com
 0.0.0.0 beacon.digima.com
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.ehow.com
@@ -10815,6 +10817,7 @@
 0.0.0.0 caamcs.julipet.it
 0.0.0.0 caberconsultants.mg.caberconsultants.com
 0.0.0.0 cac.runna.com
+0.0.0.0 cache.prebid-server.com
 0.0.0.0 caclandingpagesubdomain.mc-stage.creditacceptance.com
 0.0.0.0 caclick.baidu.com
 0.0.0.0 cadmus.script.ac
@@ -11831,6 +11834,7 @@
 0.0.0.0 cdncontent.agilegrowth.de
 0.0.0.0 cdnhorizon.nnmtools.com
 0.0.0.0 cdnlogs.org
+0.0.0.0 cdnm.techpump.com
 0.0.0.0 cdnral.com
 0.0.0.0 cdns.redskapsbolaget.se
 0.0.0.0 cdnstats-a.akamaihd.net
@@ -14765,6 +14769,7 @@
 0.0.0.0 clickzzs.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-analytics.mts.ru
+0.0.0.0 client-data.knak.io
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
@@ -16824,6 +16829,7 @@
 0.0.0.0 create.encoreglobal.com
 0.0.0.0 create.hargroveinc.com
 0.0.0.0 create.lidstatic.com
+0.0.0.0 createdip.com
 0.0.0.0 creative.teamcreative.nl
 0.0.0.0 creativeassets.asosservices.com
 0.0.0.0 creativecdn.com
@@ -22011,6 +22017,7 @@
 0.0.0.0 demo.elqpod.relationshipone.com
 0.0.0.0 demo.emaillpb.adobe.com
 0.0.0.0 demo.ptbusinesscourses.com
+0.0.0.0 demorewards.com
 0.0.0.0 demos.aternity.com
 0.0.0.0 denakop.com
 0.0.0.0 denpjz.jamesedition.com
@@ -52255,6 +52262,7 @@
 0.0.0.0 freezingbuilding.com
 0.0.0.0 frequentflesh.com
 0.0.0.0 freshcounter.com
+0.0.0.0 freshlyhuman.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 frfge.bonobos.com
@@ -67801,6 +67809,7 @@
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logxp.ru
+0.0.0.0 logz.io
 0.0.0.0 logz.ru
 0.0.0.0 lohhp.champion.com
 0.0.0.0 lolhk.shopfurme.com
@@ -68678,6 +68687,7 @@
 0.0.0.0 mailgun-tracking.checkrpay.com
 0.0.0.0 mailgun-tracking.forecastapp.com
 0.0.0.0 mailgun-tracking.harvestapp.com
+0.0.0.0 mailgun-tracking.ridi.com
 0.0.0.0 mailgun.cghli.ca
 0.0.0.0 mailgun.commpartners.com
 0.0.0.0 mailgun.ecolint.ch
@@ -70591,6 +70601,7 @@
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs.zijieapi.com
+0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
 0.0.0.0 mctas.starsandstrikes.com
 0.0.0.0 mcxihs.owme.com.br
 0.0.0.0 mczpco.darty.com
@@ -104050,6 +104061,7 @@
 0.0.0.0 stvrb.oakmontmortuary.com
 0.0.0.0 stwg.wishup.gifts
 0.0.0.0 style.onvz.nl
+0.0.0.0 stylelockers.com
 0.0.0.0 styles.hautelook.com
 0.0.0.0 stylishbuds.com
 0.0.0.0 su.addthis.com
@@ -107783,6 +107795,7 @@
 0.0.0.0 tnbjek.indekskitap.com
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 tncpzu.marelbo.com
 0.0.0.0 tneve.newsilver.com
 0.0.0.0 tnfeb.lights4fun.co.uk

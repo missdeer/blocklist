@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 11 Nov 2025 04:34:11 UTC
+# Updated at Tue, 11 Nov 2025 22:44:56 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -511,6 +511,7 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
+0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
 0.0.0.0 mediation-receiver.afafb.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
@@ -764,6 +765,7 @@
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com

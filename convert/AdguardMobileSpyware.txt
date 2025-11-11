@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 10 Nov 2025 04:35:36 UTC
+# Updated at Tue, 11 Nov 2025 04:34:11 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -149,6 +149,7 @@
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app.appsflyer.com
+0.0.0.0 appcpi.net
 0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applogs-v2.pixelfederation.com

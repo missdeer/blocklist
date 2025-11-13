@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 12 Nov 2025 04:34:08 UTC
+# Updated at Thu, 13 Nov 2025 04:34:16 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -130,6 +130,7 @@
 0.0.0.0 api.learnings.ai
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api.monedata.io
 0.0.0.0 api.reproio.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
@@ -185,6 +186,7 @@
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 bisrtb.vidazoo.com
+0.0.0.0 blink.fra-01.braze.eu
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 brahe.apptimize.com
@@ -206,6 +208,7 @@
 0.0.0.0 cgicol.amap.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
+0.0.0.0 client-log.box.com
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 clientlog3.music.163.com
@@ -250,6 +253,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
 0.0.0.0 data-detect.nie.easebar.com
+0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
@@ -601,6 +605,7 @@
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com
+0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 perfsight.wetest.net
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 piano_log.kingsoft.jp
@@ -893,6 +898,8 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xy.fbcdn.net
+0.0.0.0 xz.fbcdn.net
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 ymtracking.com
 0.0.0.0 ys-log-upload-os.hoyoverse.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 12 Nov 2025 04:34:09 UTC
+# Updated at Thu, 13 Nov 2025 04:34:16 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -7880,6 +7880,7 @@
 0.0.0.0 api.srbto.com.br
 0.0.0.0 api.startmedico.com.br
 0.0.0.0 api.statsig.com
+0.0.0.0 api.statsigcdn.com
 0.0.0.0 api.storesavage.com.br
 0.0.0.0 api.superembalagem.com.br
 0.0.0.0 api.superkidsfantasia.com.br
@@ -14769,6 +14770,7 @@
 0.0.0.0 clickzzs.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-analytics.mts.ru
+0.0.0.0 client-data.knak.io
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
@@ -16828,6 +16830,7 @@
 0.0.0.0 create.encoreglobal.com
 0.0.0.0 create.hargroveinc.com
 0.0.0.0 create.lidstatic.com
+0.0.0.0 createdip.com
 0.0.0.0 creative.teamcreative.nl
 0.0.0.0 creativeassets.asosservices.com
 0.0.0.0 creativecdn.com
@@ -22015,6 +22018,7 @@
 0.0.0.0 demo.elqpod.relationshipone.com
 0.0.0.0 demo.emaillpb.adobe.com
 0.0.0.0 demo.ptbusinesscourses.com
+0.0.0.0 demorewards.com
 0.0.0.0 demos.aternity.com
 0.0.0.0 denakop.com
 0.0.0.0 denpjz.jamesedition.com
@@ -68684,6 +68688,7 @@
 0.0.0.0 mailgun-tracking.checkrpay.com
 0.0.0.0 mailgun-tracking.forecastapp.com
 0.0.0.0 mailgun-tracking.harvestapp.com
+0.0.0.0 mailgun-tracking.ridi.com
 0.0.0.0 mailgun.cghli.ca
 0.0.0.0 mailgun.commpartners.com
 0.0.0.0 mailgun.ecolint.ch
@@ -74169,6 +74174,7 @@
 0.0.0.0 myseostats.com
 0.0.0.0 mysite.webroot.com
 0.0.0.0 mysitetraffic.net
+0.0.0.0 mysketchpad.com
 0.0.0.0 mysocialpixel.com
 0.0.0.0 myss.my7steps.org
 0.0.0.0 mysst.centrodellanatura.it
@@ -104057,6 +104063,7 @@
 0.0.0.0 stvrb.oakmontmortuary.com
 0.0.0.0 stwg.wishup.gifts
 0.0.0.0 style.onvz.nl
+0.0.0.0 stylelockers.com
 0.0.0.0 styles.hautelook.com
 0.0.0.0 stylishbuds.com
 0.0.0.0 su.addthis.com
@@ -107755,6 +107762,7 @@
 0.0.0.0 tms.dmp.wi-fi.ru
 0.0.0.0 tms.experian.com
 0.0.0.0 tms.henckels.com
+0.0.0.0 tms.hft.everyplate.com
 0.0.0.0 tms.jbwere.com.au
 0.0.0.0 tms.kone.com
 0.0.0.0 tms.mapeo.dk

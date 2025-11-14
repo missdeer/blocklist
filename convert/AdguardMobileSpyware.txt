@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 13 Nov 2025 04:34:16 UTC
+# Updated at Fri, 14 Nov 2025 04:33:23 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -208,6 +208,7 @@
 0.0.0.0 cgicol.amap.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
+0.0.0.0 client-events-ingress.bookbub.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 clientlog.perfectworldgames.com
@@ -230,6 +231,7 @@
 0.0.0.0 collect.media.jio.com
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
+0.0.0.0 collect.wehearfm.com
 0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.scopely.io
@@ -350,6 +352,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 evt.mxplay.com
 0.0.0.0 experiment.pixverse.ai
+0.0.0.0 fcm-collect-api.alyac.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fp-it.fengkongcloud.com
@@ -421,6 +424,7 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 itracking.ikameglobal.com
 0.0.0.0 jdlog.uu.cc
 0.0.0.0 jpush.io
 0.0.0.0 launches.appsflyer.com
@@ -563,6 +567,7 @@
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mosspf.net
+0.0.0.0 mossturbo.com
 0.0.0.0 ms-report.uu.cc
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net
@@ -685,6 +690,7 @@
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk.appsflyer.com
+0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
@@ -693,6 +699,7 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sentry.eks.hoyoverse.com
+0.0.0.0 service-api.flarelane.com
 0.0.0.0 sf16-static.i18n-pglstatp.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sg-public-data-api.hoyoverse.com

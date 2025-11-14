@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 13 Nov 2025 04:34:16 UTC
+# Updated at Fri, 14 Nov 2025 04:33:22 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -6725,6 +6725,7 @@
 0.0.0.0 analytics.thegroupbuyexperiment.com
 0.0.0.0 analytics.thehappiesthour.eu
 0.0.0.0 analytics.thehartford.com
+0.0.0.0 analytics.thekrazycouponlady.com
 0.0.0.0 analytics.thelist.app
 0.0.0.0 analytics.thenest.com
 0.0.0.0 analytics.thenewslens.com
@@ -7710,6 +7711,7 @@
 0.0.0.0 api.mollyboo.fr
 0.0.0.0 api.momijewel.com
 0.0.0.0 api.monaxagency.com
+0.0.0.0 api.monedata.io
 0.0.0.0 api.moodlr.cc
 0.0.0.0 api.moodlr.co
 0.0.0.0 api.mundomontanha.com.br
@@ -10005,6 +10007,7 @@
 0.0.0.0 billowybelief.com
 0.0.0.0 billtable.com
 0.0.0.0 bilmnu.trouver-un-logement-neuf.com
+0.0.0.0 bilog.lovense-api.com
 0.0.0.0 bimat.herveleger.com
 0.0.0.0 biminibliss.rwbimini.com
 0.0.0.0 binarycrest.com
@@ -10105,6 +10108,7 @@
 0.0.0.0 blgetm.freelance-start.com
 0.0.0.0 blhed.greenleaf-blends.es
 0.0.0.0 blhwnj.enbio-group.com
+0.0.0.0 blink.fra-01.braze.eu
 0.0.0.0 blisscalendar.com
 0.0.0.0 blissfulcrescendo.com
 0.0.0.0 blissfullagoon.com
@@ -14772,6 +14776,8 @@
 0.0.0.0 client-analytics.mts.ru
 0.0.0.0 client-data.knak.io
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-events-ingress.bookbub.com
+0.0.0.0 client-log.box.com
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-telemetry.hingeprod.net
@@ -15673,6 +15679,7 @@
 0.0.0.0 cloud.zoko-marketing.co.il
 0.0.0.0 cloud1.anctools.com
 0.0.0.0 cloudad.icu
+0.0.0.0 cloudchickens.com
 0.0.0.0 cloudconf.fengkongcloud.com
 0.0.0.0 cloudfilt.com
 0.0.0.0 cloudguppy.com
@@ -15876,6 +15883,7 @@
 0.0.0.0 col.yaencontre.com
 0.0.0.0 coldbalance.com
 0.0.0.0 colgui.vidaxl.pt
+0.0.0.0 coll.lovense.com
 0.0.0.0 collab.zdravetricko.cz
 0.0.0.0 collaborate.blackboard.com
 0.0.0.0 collarity.com
@@ -16005,6 +16013,7 @@
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collect.vans.com.cn
 0.0.0.0 collect.voormdlfonds.nl
+0.0.0.0 collect.wehearfm.com
 0.0.0.0 collect.zenya-software.com
 0.0.0.0 collect2.allianz.ch
 0.0.0.0 collect2.cap.ch
@@ -17828,6 +17837,7 @@
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 daraz.com
 0.0.0.0 darki.sokolovelaw.com
+0.0.0.0 darnuid.netflix.com
 0.0.0.0 das.deepsnitch.ai
 0.0.0.0 dash.zintrack.com
 0.0.0.0 dashboard.beardcareclub.com
@@ -20806,6 +20816,7 @@
 0.0.0.0 data.etb.eus
 0.0.0.0 data.etr.nespresso.com
 0.0.0.0 data.etw.nespresso.com
+0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.euk.nespresso.com
 0.0.0.0 data.eurex.fr
 0.0.0.0 data.europe.coca-cola.com
@@ -21340,6 +21351,7 @@
 0.0.0.0 data.pb.nordea.se
 0.0.0.0 data.pds.de
 0.0.0.0 data.peacocktravel.dk
+0.0.0.0 data.pendo.io
 0.0.0.0 data.petbarn.test.ajo.adobe.com
 0.0.0.0 data.petsecur.nl
 0.0.0.0 data.pfh.de
@@ -22705,6 +22717,7 @@
 0.0.0.0 dokxpl.wwbw.com
 0.0.0.0 dolej.beyondriders.com
 0.0.0.0 dollardelta.com
+0.0.0.0 dollarthrill.com
 0.0.0.0 dolmxo.workport.co.jp
 0.0.0.0 dolphin.brandname.tech
 0.0.0.0 dolphin.sfelc.com
@@ -49888,6 +49901,7 @@
 0.0.0.0 emailtrack.meritincentives.com
 0.0.0.0 emailtrack.mg.unz.com
 0.0.0.0 emailtracking.calderwood.nsw.edu.au
+0.0.0.0 emailtracking.cashstar.com
 0.0.0.0 emailtracking.topstep.com
 0.0.0.0 emailtrk.animaljam.com
 0.0.0.0 emailtrk.click.ec
@@ -51285,6 +51299,7 @@
 0.0.0.0 fcizcj.burlingtonfreepress.com
 0.0.0.0 fckjf.ruffwear.com
 0.0.0.0 fclog.baidu.com
+0.0.0.0 fcm-collect-api.alyac.com
 0.0.0.0 fcnqkw.xeroshoes.com
 0.0.0.0 fcone.demo-charitablegift.com
 0.0.0.0 fcone.fidelity.com
@@ -51962,6 +51977,7 @@
 0.0.0.0 fonts.simoneferretti.net
 0.0.0.0 food.informaengage.com
 0.0.0.0 food.pentonmarketingsvcs.com
+0.0.0.0 foodczar.com
 0.0.0.0 foodfunfestivals.com
 0.0.0.0 foodpackaging.kpfilms.com
 0.0.0.0 foodtolove.e.bauermedia.co.nz
@@ -52196,6 +52212,7 @@
 0.0.0.0 franticroof.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
+0.0.0.0 fraysystems.com
 0.0.0.0 frbdzc.goguynet.jp
 0.0.0.0 frbmdx.fwrd.com
 0.0.0.0 frdoki.acrylicpainting.work
@@ -60473,6 +60490,7 @@
 0.0.0.0 itpebis03.deep2031.com
 0.0.0.0 itpebis03.recella3d.com
 0.0.0.0 itrackerpro.com
+0.0.0.0 itracking.ikameglobal.com
 0.0.0.0 itrjf.heydude.com
 0.0.0.0 itrustzone.site
 0.0.0.0 itservices.ricoh.co.uk
@@ -67623,6 +67641,7 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.kroffle.net
 0.0.0.0 log.krs-ix.ru
+0.0.0.0 log.lovense-api.com
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.ma-jin.jp
 0.0.0.0 log.make50.com
@@ -67810,7 +67829,6 @@
 0.0.0.0 logua.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logxp.ru
-0.0.0.0 logz.io
 0.0.0.0 logz.ru
 0.0.0.0 lohhp.champion.com
 0.0.0.0 lolhk.shopfurme.com
@@ -73605,6 +73623,7 @@
 0.0.0.0 mosquito.nooraldiyar.com
 0.0.0.0 mosquito.zero.io
 0.0.0.0 mosspf.net
+0.0.0.0 mossturbo.com
 0.0.0.0 mosvnx.livup.com.br
 0.0.0.0 moth.artsmia.org
 0.0.0.0 moth.jkundp.at
@@ -74813,6 +74832,7 @@
 0.0.0.0 nlmjg.thelooplair.com
 0.0.0.0 nlmnap.lagreentouch.fr
 0.0.0.0 nlobp.champssports.ca
+0.0.0.0 nlog.instajob.ai
 0.0.0.0 nlog.naver.com
 0.0.0.0 nlog.shinhan.com
 0.0.0.0 nlp-japan.life-and-mind.com
@@ -78834,6 +78854,7 @@
 0.0.0.0 pelvt.clearchoice.com
 0.0.0.0 pemskb.unitedcinemas.jp
 0.0.0.0 pen.fixgadgetbd.com
+0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 penguin.craftpeak.io
 0.0.0.0 penguin.mobiadroit.com
 0.0.0.0 penguin.revolana.com
@@ -83819,6 +83840,7 @@
 0.0.0.0 sdk.conscent.in
 0.0.0.0 sdk.mrf.io
 0.0.0.0 sdk.optimove.net
+0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.stats-locations.com
 0.0.0.0 sdkapi-prod.dfinery.ai
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -83846,6 +83868,7 @@
 0.0.0.0 seahorse.brightwayhealth.org
 0.0.0.0 seahorse.dexterityvisuals.com
 0.0.0.0 seahorseinfo.agilent.com
+0.0.0.0 sealtravels.com
 0.0.0.0 seamless.analyticainvestor.com
 0.0.0.0 seamless.cocoaveloria.com
 0.0.0.0 seamless.dehippetrouwambtenaar.com
@@ -86892,6 +86915,7 @@
 0.0.0.0 serveur.estampe-bougie.com
 0.0.0.0 servexterno.carvalhoemarquesadv.com
 0.0.0.0 service-ad-impression-proxy-use1-1.prd.pluto.tv
+0.0.0.0 service-api.flarelane.com
 0.0.0.0 service-ens.sueddeutsche.de
 0.0.0.0 service.arredamentopari.com
 0.0.0.0 service.athlon.com
@@ -93742,6 +93766,7 @@
 0.0.0.0 sp-trk.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
+0.0.0.0 sp.aviasales.ru
 0.0.0.0 sp.azcentral.com
 0.0.0.0 sp.ballsdigroup.com
 0.0.0.0 sp.battlecreekenquirer.com
@@ -111169,7 +111194,6 @@
 0.0.0.0 trackingssl.vivay-broker.be
 0.0.0.0 trackingssl.yongo.be
 0.0.0.0 trackit.melhorbonusdejogo.com
-0.0.0.0 trackjs.com
 0.0.0.0 trackkas.com
 0.0.0.0 tracklabs.devocione.com
 0.0.0.0 tracklabs.veldune.com
@@ -118856,6 +118880,7 @@
 0.0.0.0 xxxcounter.com
 0.0.0.0 xxxssv.jeulia.com
 0.0.0.0 xxytrj.superdown.com
+0.0.0.0 xy.fbcdn.net
 0.0.0.0 xy33.smallable.com
 0.0.0.0 xya4.groupefsc.com
 0.0.0.0 xyahug.luxuryonly.com
@@ -118882,6 +118907,7 @@
 0.0.0.0 xyz.nobio.sk
 0.0.0.0 xyz.rayssbus.shop
 0.0.0.0 xyzznt.uterque.com
+0.0.0.0 xz.fbcdn.net
 0.0.0.0 xze5.femilet.dk
 0.0.0.0 xzfizn.massmedian.co.jp
 0.0.0.0 xzhrwy.giordanoweine.de

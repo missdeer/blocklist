@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 14 Nov 2025 04:33:22 UTC
+# Updated at Sat, 15 Nov 2025 04:31:29 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -22811,6 +22811,7 @@
 0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 dragon.codemakes.art
 0.0.0.0 dragon.sh2.com
+0.0.0.0 dragonbats.com
 0.0.0.0 dragonfly.filmmakerfreedom.com
 0.0.0.0 dragonfly.jala-one.com
 0.0.0.0 drainpaste.com
@@ -51341,6 +51342,7 @@
 0.0.0.0 feavq.freeeasemd.com
 0.0.0.0 febcyv.joshi-spa.jp
 0.0.0.0 federal.external.xerox.com
+0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 fedlh.getrael.com
 0.0.0.0 feeblestamp.com
 0.0.0.0 feedback-c.zijieapi.com

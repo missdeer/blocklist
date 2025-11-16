@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 15 Nov 2025 04:31:29 UTC
+# Updated at Sun, 16 Nov 2025 04:34:18 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9970,6 +9970,7 @@
 0.0.0.0 bhwkju.vivo.com
 0.0.0.0 bhxemw.charleskeith.com
 0.0.0.0 bhzsid.deghishop.it
+0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bia.brightinfo.com
 0.0.0.0 biahwvpf.pujimaxrou.store
@@ -10530,6 +10531,7 @@
 0.0.0.0 buasmk.earthshoes.com
 0.0.0.0 bubasocks-ss.olladeals.com
 0.0.0.0 bubblestat.com
+0.0.0.0 bubblyaction.com
 0.0.0.0 budapest.imprenditore-vero.com
 0.0.0.0 budibu.saksfifthavenue.com
 0.0.0.0 buf.lemonde.fr
@@ -10837,6 +10839,7 @@
 0.0.0.0 cafe.undesk.com.br
 0.0.0.0 cafe.unmep.com
 0.0.0.0 cafefrench.com
+0.0.0.0 cafescampfires.com
 0.0.0.0 cafi.happyfamily1st.com
 0.0.0.0 cafi.vinnoshop.com
 0.0.0.0 cafi.xitbazar.com
@@ -11761,6 +11764,7 @@
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.coastoutdoors.ca
 0.0.0.0 cdn.cohesionapps.com
+0.0.0.0 cdn.connectif.cloud
 0.0.0.0 cdn.contalyze.com
 0.0.0.0 cdn.counter.dev
 0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
@@ -16343,7 +16347,6 @@
 0.0.0.0 connected.integrationpoint.com
 0.0.0.0 connected.technologies.jci.com
 0.0.0.0 connected.verical.com
-0.0.0.0 connectif.cloud
 0.0.0.0 connection.arrow.com
 0.0.0.0 connection.spartathletics.com
 0.0.0.0 connection.verical.com
@@ -22147,7 +22150,6 @@
 0.0.0.0 dewdroplagoon.com
 0.0.0.0 dex50.deteql.net
 0.0.0.0 df-srv.de
-0.0.0.0 df.afafb.com
 0.0.0.0 df.pmweb.com.br
 0.0.0.0 df.tanx.com
 0.0.0.0 dfcznl.hudhomesusa.org
@@ -22734,6 +22736,7 @@
 0.0.0.0 donkey.hackoregon.org
 0.0.0.0 donkey.jackellis.me
 0.0.0.0 donkey.mrfrisby.com
+0.0.0.0 doomhedge.com
 0.0.0.0 doomna.com
 0.0.0.0 dope.dopeshop12.com
 0.0.0.0 dopljl.noleggiosemplice.it
@@ -23551,7 +23554,6 @@
 0.0.0.0 economysoil.com
 0.0.0.0 ecovk.trudiagnostic.com
 0.0.0.0 ecp.eitacasaperfeita.com.br
-0.0.0.0 ecpm.afafb.com
 0.0.0.0 ecrzm.cusocuts.com
 0.0.0.0 ecsnl.hotelcollection.au
 0.0.0.0 ecsv2.roblox.com
@@ -52616,7 +52618,6 @@
 0.0.0.0 game.uwyca.co
 0.0.0.0 game.yubqj.co
 0.0.0.0 game.zkroy.co
-0.0.0.0 gamedot.afafb.com
 0.0.0.0 gamefowl.emailforward.mx
 0.0.0.0 gamefowl.karlsutt.com
 0.0.0.0 gamefowl.nonprofit.foundation
@@ -60707,6 +60708,7 @@
 0.0.0.0 jehfl.shoepalace.com
 0.0.0.0 jekvc.losethebackpain.com
 0.0.0.0 jelcp.igloocoolers.com
+0.0.0.0 jellyfinstream.com
 0.0.0.0 jellyfish.therapieplatz-finden.de
 0.0.0.0 jelndb.truereligion.com
 0.0.0.0 jelqc.whiteelegance.com
@@ -68271,6 +68273,7 @@
 0.0.0.0 lvskfa.medisafe.fr
 0.0.0.0 lvula.4joypaddles.com
 0.0.0.0 lvyovg.somedayif.com
+0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 lwadm.com
 0.0.0.0 lwashh.hessischer-jobanzeiger.de
 0.0.0.0 lwemail.course-masters.com
@@ -70882,7 +70885,6 @@
 0.0.0.0 mediaseeding.com
 0.0.0.0 mediasolutions.netinsight.net
 0.0.0.0 mediatescarf.com
-0.0.0.0 mediation-receiver.afafb.com
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 mediator.imgsmail.ru
@@ -73173,7 +73175,6 @@
 0.0.0.0 microsite.standardandpoors.com
 0.0.0.0 microsite2.dylansnoddon.com
 0.0.0.0 midas-i.com
-0.0.0.0 middle-defend.afafb.com
 0.0.0.0 middleware.p7s1.io
 0.0.0.0 miehoo.pensaustralia.com
 0.0.0.0 mieru-ca.com
@@ -105498,7 +105499,6 @@
 0.0.0.0 taco.wahaca.co.uk
 0.0.0.0 tacojournal.com
 0.0.0.0 tad.tygem.com
-0.0.0.0 tadata.afafb.com
 0.0.0.0 taduhy.timberland.co.uk
 0.0.0.0 taemhn.zamst-online.jp
 0.0.0.0 tafeyoguv.pettywell.com

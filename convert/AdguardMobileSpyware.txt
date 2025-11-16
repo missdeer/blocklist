@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 15 Nov 2025 04:31:29 UTC
+# Updated at Sun, 16 Nov 2025 04:34:17 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -182,6 +182,7 @@
 0.0.0.0 beacons-prod.fubo.tv
 0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beha.ksmobile.com
+0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
@@ -512,6 +513,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcs-va.tiktokv.com
@@ -839,6 +841,7 @@
 0.0.0.0 trckr.contextualadv.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk2.pinterest.com
+0.0.0.0 trkapi.impact.com
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 tunein.adswizz.com

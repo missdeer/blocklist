@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 16 Nov 2025 04:34:18 UTC
+# Updated at Mon, 17 Nov 2025 04:35:20 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -112126,6 +112126,7 @@
 0.0.0.0 trk2.avalara.com
 0.0.0.0 trk2.informatech.com
 0.0.0.0 trk2.pinterest.com
+0.0.0.0 trkapi.impact.com
 0.0.0.0 trkcare.hmhn.org
 0.0.0.0 trkcmb.business.algeria.hsbc.com
 0.0.0.0 trkcmb.business.ciiom.hsbc.com

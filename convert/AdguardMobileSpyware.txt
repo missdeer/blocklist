@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 18 Nov 2025 04:33:42 UTC
+# Updated at Wed, 19 Nov 2025 04:33:45 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -148,6 +148,8 @@
 0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 app-log-oversea.immomo.com
+0.0.0.0 app-monitor.spacecape.com
 0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app.appsflyer.com
 0.0.0.0 appcpi.net
@@ -269,6 +271,7 @@
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 devlog-upload-os.hoyoverse.com
@@ -389,6 +392,7 @@
 0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hkrpg-log-upload-os.hoyoverse.com
+0.0.0.0 hlog.hiido.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hz-telemetry.adobe.io
@@ -401,6 +405,7 @@
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 infinario.com
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insights-categorizer-noneu.truecaller.com
@@ -432,6 +437,7 @@
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 loadus.exelator.com
 0.0.0.0 log-collector.shopee
+0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
@@ -469,21 +475,25 @@
 0.0.0.0 log.hiapkdownload.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jackpotmasterslots.com
+0.0.0.0 log.lnk.events
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.make50.com
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.oceanzz.xyz
 0.0.0.0 log.pdfviewerscannerstore.live
+0.0.0.0 log.phonefreshfix.live
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.snow.me
+0.0.0.0 log.suddenclean.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 log.umsns.com
+0.0.0.0 log.wigoliv.work
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.perfectworldgames.com
@@ -492,10 +502,12 @@
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logcollection.ronghub.com
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.growstarry.com
 0.0.0.0 logging.api.intuit.com
+0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
@@ -513,6 +525,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logz.tekiusa.com
 0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 mazu.sec.miui.com
@@ -713,6 +726,7 @@
 0.0.0.0 sq.requestads.com
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 stat.dp.vocalbeats.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.gspaceteam.com
 0.0.0.0 stat.m.360.cn
@@ -825,6 +839,7 @@
 0.0.0.0 tracking-service.glority.com
 0.0.0.0 tracking-widget.fillr.com
 0.0.0.0 tracking.aatkit.com
+0.0.0.0 tracking.affattr.com
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 tracking.carbonatixaudio.com
 0.0.0.0 tracking.directservices.it
@@ -846,6 +861,7 @@
 0.0.0.0 ts.line-apps.com
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 twns.p2ptun.qq.com
+0.0.0.0 tycollectproxy.tiyalive.com
 0.0.0.0 uaid.vtwenty.com
 0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 uc.ucweb.com

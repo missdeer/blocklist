@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 18 Nov 2025 04:33:42 UTC
+# Updated at Wed, 19 Nov 2025 04:33:46 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -4461,6 +4461,7 @@
 0.0.0.0 analytics.adam.page
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.adjust.com
+0.0.0.0 analytics.adjust.io
 0.0.0.0 analytics.adjust.net.in
 0.0.0.0 analytics.adjust.world
 0.0.0.0 analytics.adoffice.11st.co.kr
@@ -6515,7 +6516,9 @@
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-log-oversea.immomo.com
 0.0.0.0 app-measurement.com
+0.0.0.0 app-monitor.spacecape.com
 0.0.0.0 app-stats.supernotes.app
 0.0.0.0 app-tracking-gfa-collector.naver.com
 0.0.0.0 app-tracking.hlogo.de
@@ -8480,6 +8483,7 @@
 0.0.0.0 boqufs.2nn.jp
 0.0.0.0 boredcrown.com
 0.0.0.0 boringberry.com
+0.0.0.0 boringpirate.com
 0.0.0.0 bosrs.avenue.com
 0.0.0.0 botfaqtor.ru
 0.0.0.0 botradar.tech
@@ -13608,6 +13612,7 @@
 0.0.0.0 coqce.lyfe.com
 0.0.0.0 coral.bladestudy.net
 0.0.0.0 coral.defygravity.co
+0.0.0.0 coralcranes.com
 0.0.0.0 coralreverie.com
 0.0.0.0 core-cen-54.com
 0.0.0.0 core.airbridge.io
@@ -17834,6 +17839,7 @@
 0.0.0.0 detail.iaperformance.com.br
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detailedkitten.com
+0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 details.pella.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 detectdinner.com
@@ -30778,6 +30784,7 @@
 0.0.0.0 fljaxb.chalktalksports.com
 0.0.0.0 flmed0.tranquilpinnacle.com
 0.0.0.0 flnjn.coachoutlet.com
+0.0.0.0 floodedpixel.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flourishingcollaboration.com
 0.0.0.0 flourishingendeavor.com
@@ -34186,6 +34193,7 @@
 0.0.0.0 hlkhxw.ashampoo.com
 0.0.0.0 hlllo.legacyalliance.club
 0.0.0.0 hlnuh.condition1.com
+0.0.0.0 hlog.hiido.com
 0.0.0.0 hlogger.heraldcorp.com
 0.0.0.0 hlpfq.sigmasports.com
 0.0.0.0 hlrqi.lasioinc.com
@@ -34246,6 +34254,7 @@
 0.0.0.0 homebizplaza.com
 0.0.0.0 homecareresources.rosemarksystem.com
 0.0.0.0 homelycrown.com
+0.0.0.0 homelyheater.com
 0.0.0.0 homeslick.com
 0.0.0.0 honestharbor.com
 0.0.0.0 honeybulb.com
@@ -35265,6 +35274,7 @@
 0.0.0.0 inetstats.org
 0.0.0.0 inf.miui.com
 0.0.0.0 infamousstream.com
+0.0.0.0 infinario.com
 0.0.0.0 infinigraph.com
 0.0.0.0 infinity-tracking.com
 0.0.0.0 infinity-tracking.net
@@ -36525,6 +36535,7 @@
 0.0.0.0 jiohog.regalopublicidad.com
 0.0.0.0 jirafe.com
 0.0.0.0 jitsu.ixbt.com
+0.0.0.0 jitsu.ixbt.site
 0.0.0.0 jiujpc.asgoodasnew.fr
 0.0.0.0 jixie.io
 0.0.0.0 jizpyy.bett1.ch
@@ -39915,6 +39926,7 @@
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log-lb.skyperfectv.co.jp
+0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 log-player.arte.tv
 0.0.0.0 log-pub-hk.aoshitang.com
@@ -39998,6 +40010,7 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.kroffle.net
 0.0.0.0 log.krs-ix.ru
+0.0.0.0 log.lnk.events
 0.0.0.0 log.lovense-api.com
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.ma-jin.jp
@@ -40020,6 +40033,7 @@
 0.0.0.0 log.pdfreaders.net
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.perfecttitspics.com
+0.0.0.0 log.phonefreshfix.live
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pipeline.datarize.io
 0.0.0.0 log.pngindir.com
@@ -40045,6 +40059,7 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.strawpoll.com
 0.0.0.0 log.strm.yandex.ru
+0.0.0.0 log.suddenclean.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.tf.co.kr
@@ -40062,6 +40077,7 @@
 0.0.0.0 log.voicecloud.cn
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
+0.0.0.0 log.wigoliv.work
 0.0.0.0 log.xpln.tech
 0.0.0.0 log.yapaytech.com
 0.0.0.0 log.ycapp.yiche.com
@@ -40094,6 +40110,7 @@
 0.0.0.0 logbor.com
 0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 logcollect.totalcms.ncloud.or.kr
+0.0.0.0 logcollection.ronghub.com
 0.0.0.0 logcollector.note.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logcounter.com
@@ -40139,6 +40156,7 @@
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logr-ingest.com
+0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs-sg.rebxgame.com
@@ -40185,6 +40203,7 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logxp.ru
 0.0.0.0 logz.ru
+0.0.0.0 logz.tekiusa.com
 0.0.0.0 lohhp.champion.com
 0.0.0.0 lolhk.shopfurme.com
 0.0.0.0 lolly.needforsweet.de
@@ -49586,6 +49605,7 @@
 0.0.0.0 pre.sm.clinicas-veterinario.es
 0.0.0.0 prebid-log.getpublica.com
 0.0.0.0 prebid-server-canary.ifunny.co
+0.0.0.0 prebid.loopmertb.com
 0.0.0.0 preciousplanes.com
 0.0.0.0 precisear.com
 0.0.0.0 precisioncounter.com
@@ -53956,6 +53976,7 @@
 0.0.0.0 sgtm.infobus.eu
 0.0.0.0 sgtm.innova3it.com.br
 0.0.0.0 sgtm.iu-fernstudium.de
+0.0.0.0 sgtm.ixbt.site
 0.0.0.0 sgtm.joga.dk
 0.0.0.0 sgtm.joinamble.com
 0.0.0.0 sgtm.joyspringvitamins.com
@@ -61096,6 +61117,7 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dongqiudi.com
 0.0.0.0 stat.download.xunlei.com
+0.0.0.0 stat.dp.vocalbeats.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.eagleplatform.com
 0.0.0.0 stat.ecoiurislapagina.com
@@ -64077,6 +64099,7 @@
 0.0.0.0 tags.theklovestory.com
 0.0.0.0 tags.tiq.rbcinsurance.com
 0.0.0.0 tags.tiq.rbcprivateinsurance.com
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.toitpourtoi.fr
 0.0.0.0 tags.tommy.com
 0.0.0.0 tags.tryg.dk
@@ -65707,6 +65730,7 @@
 0.0.0.0 touch.thenavisway.com
 0.0.0.0 touch.yesim
 0.0.0.0 touchclarity.com
+0.0.0.0 toup.net
 0.0.0.0 tourism.visitorlando.com
 0.0.0.0 touristfuel.com
 0.0.0.0 tovery.net
@@ -67665,6 +67689,7 @@
 0.0.0.0 tracking.adpinfo.com
 0.0.0.0 tracking.adpri.org
 0.0.0.0 tracking.adweb.co.kr
+0.0.0.0 tracking.affattr.com
 0.0.0.0 tracking.afffcompensation.com
 0.0.0.0 tracking.affiliateclub.cz
 0.0.0.0 tracking.ai.rakuten.co.jp
@@ -69456,6 +69481,7 @@
 0.0.0.0 ty90nwjc8wjt-a.akamaihd.net
 0.0.0.0 tyafti.ullapopken.se
 0.0.0.0 tybfxw.puma.com
+0.0.0.0 tycollectproxy.tiyalive.com
 0.0.0.0 tykqtr.clubemarisol.com.br
 0.0.0.0 tyler.townsquaremedia.info
 0.0.0.0 tynt.com

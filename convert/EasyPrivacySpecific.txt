@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 18 Nov 2025 04:33:42 UTC
+# Updated at Wed, 19 Nov 2025 04:33:45 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -245,6 +245,7 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.g2.com
 0.0.0.0 dd.nytimes.com
+0.0.0.0 dd.viator.com
 0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 df.infra.shopee
 0.0.0.0 df.infra.sz.shopee

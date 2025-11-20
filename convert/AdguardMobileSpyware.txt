@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 19 Nov 2025 04:33:45 UTC
+# Updated at Thu, 20 Nov 2025 04:32:25 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -487,6 +487,7 @@
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
 0.0.0.0 log.snow.me
+0.0.0.0 log.stickflow.xyz
 0.0.0.0 log.suddenclean.com
 0.0.0.0 log.talkie-ai.com
 0.0.0.0 log.tiktokv.com
@@ -498,6 +499,7 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
+0.0.0.0 log2.ihubgo.info
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logapi-and.zhipin.com
@@ -754,6 +756,7 @@
 0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net
+0.0.0.0 stats.us-light-edge.com
 0.0.0.0 stbid.ru
 0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 stocks-analytics-events.apple.com

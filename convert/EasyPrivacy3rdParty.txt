@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 19 Nov 2025 04:33:45 UTC
+# Updated at Thu, 20 Nov 2025 04:32:25 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1253,6 +1253,7 @@
 0.0.0.0 statsjs.klevu.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 stormgate.production.raptive.com
 0.0.0.0 stream-log.dditscdn.com
 0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 sts.eccmp.com

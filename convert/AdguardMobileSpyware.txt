@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 20 Nov 2025 04:32:25 UTC
+# Updated at Fri, 21 Nov 2025 04:33:20 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -243,6 +243,7 @@
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 config.jpush.cn
 0.0.0.0 config.safedk.com
+0.0.0.0 config.toto.zipoapps.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 consent-manager-events.ogury.io
@@ -267,6 +268,7 @@
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
+0.0.0.0 datarangers-event.myrightone.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 de01.rayjump.com
@@ -751,6 +753,7 @@
 0.0.0.0 stats.grafana.org
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 stats.popcap.com
+0.0.0.0 stats.rong-edge.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 stats.sg-light-edge.com
@@ -848,6 +851,7 @@
 0.0.0.0 tracking.directservices.it
 0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking.iwhop.cn
+0.0.0.0 tracking.ksztone.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com

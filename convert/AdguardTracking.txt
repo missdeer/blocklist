@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 20 Nov 2025 04:32:25 UTC
+# Updated at Fri, 21 Nov 2025 04:33:20 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -8229,6 +8229,7 @@
 0.0.0.0 bimat.herveleger.com
 0.0.0.0 biminibliss.rwbimini.com
 0.0.0.0 binarycrest.com
+0.0.0.0 binarykite.com
 0.0.0.0 bingo.webspecmail.com
 0.0.0.0 binqn.personalcreations.com
 0.0.0.0 binspiredtees.com
@@ -14123,6 +14124,7 @@
 0.0.0.0 cv.2jikaikun.com
 0.0.0.0 cv.a-cial.com
 0.0.0.0 cv.a-hikkoshi.com
+0.0.0.0 cv.aedi.ai
 0.0.0.0 cv.ag.cybersecurity-jp.com
 0.0.0.0 cv.agent-sana.com
 0.0.0.0 cv.aqua-style.jp
@@ -18860,6 +18862,7 @@
 0.0.0.0 ebistoppan6.kyowahakko-bio-campaign3.com
 0.0.0.0 ebisu.saison-am.co.jp
 0.0.0.0 ebkvp.efavormart.com
+0.0.0.0 ebm.lfmall.co.kr
 0.0.0.0 ebmhpt.sneakscloud.com
 0.0.0.0 ebnpqi.carrefourlocation.fr
 0.0.0.0 ebpdjt.style--plus.jp
@@ -19094,6 +19097,7 @@
 0.0.0.0 eicyds.qoo10.jp
 0.0.0.0 eifjk.bookpinch.com
 0.0.0.0 eifkea.lfmaquinaseferramentas.com.br
+0.0.0.0 eightgreens.com
 0.0.0.0 eihtu.happiestbaby.com
 0.0.0.0 eiizoc.poeles-et-granules.fr
 0.0.0.0 eikwax.marmot.com
@@ -37454,6 +37458,7 @@
 0.0.0.0 lc-event.pixiv.net
 0.0.0.0 lc.caravanyou.com
 0.0.0.0 lc.manhealthsolutions.com
+0.0.0.0 lc.recopick.com
 0.0.0.0 lc.romegods.com
 0.0.0.0 lc.taintedlovetoday.com
 0.0.0.0 lc.thebugblues.com
@@ -40057,6 +40062,7 @@
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.snow.me
 0.0.0.0 log.snssdk.com
+0.0.0.0 log.stickflow.xyz
 0.0.0.0 log.strawpoll.com
 0.0.0.0 log.strm.yandex.ru
 0.0.0.0 log.suddenclean.com
@@ -40093,6 +40099,7 @@
 0.0.0.0 log1.wanmei.com
 0.0.0.0 log1.wtlogin.qq.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
+0.0.0.0 log2.ihubgo.info
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 log2.radiko.jp
@@ -62197,6 +62204,7 @@
 0.0.0.0 stats.unnaturalhistorytv.com
 0.0.0.0 stats.unusualtourist.com
 0.0.0.0 stats.urbanfinn.com
+0.0.0.0 stats.us-light-edge.com
 0.0.0.0 stats.useeffect.dev
 0.0.0.0 stats.uticorp.com
 0.0.0.0 stats.uygar.sh

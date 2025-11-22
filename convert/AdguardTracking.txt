@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 21 Nov 2025 04:33:20 UTC
+# Updated at Sat, 22 Nov 2025 04:31:04 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -2434,6 +2434,7 @@
 0.0.0.0 abgku.onewillow.com
 0.0.0.0 abilbao.mg.abilbao.cl
 0.0.0.0 abilityscale.com
+0.0.0.0 abilitytoucan.com
 0.0.0.0 abjectattempt.com
 0.0.0.0 abjtuq.exoticca.com
 0.0.0.0 abkobh.chobirich.com
@@ -7261,6 +7262,7 @@
 0.0.0.0 asset-app.discover.jll.com
 0.0.0.0 asset-protection-pages.protective.com
 0.0.0.0 asset.americanexpress.ca
+0.0.0.0 assets.9gtb.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.avadacom.com
 0.0.0.0 assets.ayp.vn
@@ -9318,6 +9320,7 @@
 0.0.0.0 cdn.kaizenplatform.net
 0.0.0.0 cdn.kmalgo.com
 0.0.0.0 cdn.listrakbi.com
+0.0.0.0 cdn.logbase.io
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 cdn.mediatradecraft.com
 0.0.0.0 cdn.memo.co
@@ -13378,6 +13381,7 @@
 0.0.0.0 config.ktbazarbd.com
 0.0.0.0 config.safedk.com
 0.0.0.0 config.sdk.kochava.dewrain.life
+0.0.0.0 config.toto.zipoapps.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 configchain.com
@@ -13544,6 +13548,7 @@
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.mg.thecaptainsclub.ae
 0.0.0.0 conversions.smyccorretores.com.br
+0.0.0.0 conversionsapigateway.com
 0.0.0.0 convertbatch.com
 0.0.0.0 convertexperiments.com
 0.0.0.0 convertglobal.com
@@ -17514,6 +17519,7 @@
 0.0.0.0 data.testing.alditalk-kundenbetreuung.de
 0.0.0.0 data.testing.o2.de
 0.0.0.0 data.testing.whatsappsim.de
+0.0.0.0 data.thoughtmetric.io
 0.0.0.0 data.tm-awx.com
 0.0.0.0 data.tmail.northeast.aaa.com
 0.0.0.0 data.todoalicante.es
@@ -17595,6 +17601,7 @@
 0.0.0.0 datamaster.com.cn
 0.0.0.0 datanexus.sosdividas.com.br
 0.0.0.0 dataperforma.com
+0.0.0.0 datarangers-event.myrightone.com
 0.0.0.0 datarating.com
 0.0.0.0 datarobot.edge46.testandtarget.omniture.com
 0.0.0.0 dataroid.com
@@ -17841,6 +17848,7 @@
 0.0.0.0 detail.iaperformance.com.br
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detailedkitten.com
+0.0.0.0 detaillog-global-dual.coolbcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 details.pella.com
 0.0.0.0 detect.rayjump.com
@@ -18468,6 +18476,7 @@
 0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dtzru.colorescience.com
 0.0.0.0 dualstack-cgicol.amap.com
+0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 duamgl.magdeburger-jobanzeiger.de
 0.0.0.0 dubuque.townsquaremedia.info
@@ -40121,6 +40130,7 @@
 0.0.0.0 logcollector.note.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logcounter.com
+0.0.0.0 logdata.hatspotlight.asia
 0.0.0.0 logdy.com
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logentries.com
@@ -40163,6 +40173,7 @@
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logr-ingest.com
+0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-partners.coupang.com
@@ -45810,6 +45821,7 @@
 0.0.0.0 objecthero.com
 0.0.0.0 objectsnetwork.com
 0.0.0.0 objevuj.amazingplaces.cz
+0.0.0.0 oblivionfleet.com
 0.0.0.0 obm.onlineburmesemarket.com
 0.0.0.0 obnqf.trollcoclothing.com
 0.0.0.0 obolb.growthbomb.us
@@ -53181,6 +53193,7 @@
 0.0.0.0 seniorliving.winchestergardens.com
 0.0.0.0 seniorliving.wyndemerelcs.com
 0.0.0.0 senlvg.secretsdujeu.com
+0.0.0.0 sensor.emolm.com
 0.0.0.0 sensor.grubhub.com
 0.0.0.0 sensor.org.ua
 0.0.0.0 sensors-log.dongqiudi.com
@@ -62002,6 +62015,7 @@
 0.0.0.0 stats.rocketgoboom.lol
 0.0.0.0 stats.rocketvalidator.com
 0.0.0.0 stats.roderickduenas.com
+0.0.0.0 stats.rong-edge.com
 0.0.0.0 stats.rs-online.com
 0.0.0.0 stats.ruhrfestspiele.de
 0.0.0.0 stats.rumundco.de
@@ -63477,6 +63491,7 @@
 0.0.0.0 t.hsms06.com
 0.0.0.0 t.huskers.com
 0.0.0.0 t.hypers.com.cn
+0.0.0.0 t.hyros.com
 0.0.0.0 t.illuma-tech.com
 0.0.0.0 t.imgur.com
 0.0.0.0 t.impact.duke.edu
@@ -67960,6 +67975,7 @@
 0.0.0.0 tracking.komoot.de
 0.0.0.0 tracking.kroll.com
 0.0.0.0 tracking.krone.at
+0.0.0.0 tracking.ksztone.com
 0.0.0.0 tracking.kyobo.co.kr
 0.0.0.0 tracking.lailiveevents.com
 0.0.0.0 tracking.laivideo.com
@@ -74569,6 +74585,7 @@
 0.0.0.0 wsicmo.bogsfootwear.com.au
 0.0.0.0 wsknow.net
 0.0.0.0 wsktql.mopar.eu
+0.0.0.0 wslog-global-dual.coolccloud.com
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wsnjjj.arredinitaly.com
 0.0.0.0 wsnrfb.modlily.com

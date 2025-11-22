@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 21 Nov 2025 04:33:20 UTC
+# Updated at Sat, 22 Nov 2025 04:31:04 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -71,6 +71,7 @@
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.oyorooms.com
+0.0.0.0 analytics.passes.com
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.productreview.com.au

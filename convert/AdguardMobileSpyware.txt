@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 21 Nov 2025 04:33:20 UTC
+# Updated at Sat, 22 Nov 2025 04:31:04 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -273,6 +273,7 @@
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 detaillog-global-dual.coolbcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 dev-apigw.samsungdmroute.com
@@ -303,6 +304,7 @@
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 dualstack-cgicol.amap.com
+0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dutils.com
 0.0.0.0 dxp.baidu.com
@@ -507,10 +509,12 @@
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logcollection.ronghub.com
+0.0.0.0 logdata.hatspotlight.asia
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.growstarry.com
 0.0.0.0 logging.api.intuit.com
+0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
@@ -711,6 +715,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 seller-log-collector.shopee
+0.0.0.0 sensor.emolm.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sentry.eks.hoyoverse.com
@@ -919,6 +924,7 @@
 0.0.0.0 wompanalytics.azurewebsites.net
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 ws.ksmobile.net
+0.0.0.0 wslog-global-dual.coolccloud.com
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 wzrkt.com
 0.0.0.0 xda.xiaodutv.com

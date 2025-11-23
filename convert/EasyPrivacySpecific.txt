@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 22 Nov 2025 04:31:04 UTC
+# Updated at Sun, 23 Nov 2025 04:39:06 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -850,6 +850,7 @@
 0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 web-perf.booking.com
+0.0.0.0 web.analytics.metrobyt-mobile.com
 0.0.0.0 webapi.3cx.com
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com

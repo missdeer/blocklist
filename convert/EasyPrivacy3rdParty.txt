@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 22 Nov 2025 04:31:04 UTC
+# Updated at Sun, 23 Nov 2025 04:39:06 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -202,6 +202,7 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analyticsehnwe.servicebus.windows.net
+0.0.0.0 analyticsplusdev.clientify.net
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 antillephone.com
 0.0.0.0 ao-freegeoip.herokuapp.com
@@ -272,8 +273,8 @@
 0.0.0.0 branch.io
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser.covatic.io
-0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 buffet.identityservices.io
 0.0.0.0 bundle.9gtb.com
 0.0.0.0 bundle.dyn-rev.app
 0.0.0.0 bundle.ppas.monster
@@ -1316,6 +1317,7 @@
 0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
+0.0.0.0 tag.getamigo.io
 0.0.0.0 tag.imagino.com
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv

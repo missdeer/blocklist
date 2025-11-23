@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 22 Nov 2025 04:31:04 UTC
+# Updated at Sun, 23 Nov 2025 04:39:06 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -676,6 +676,7 @@
 0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
+0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.pixverse.ai
 0.0.0.0 reporting.aatkit.com
@@ -747,6 +748,7 @@
 0.0.0.0 statclick.nate.com
 0.0.0.0 static.fengkongcloud.com
 0.0.0.0 statistic-overseas.yunxinfw.com
+0.0.0.0 statistic.live.126.net
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-proto.pandora.com

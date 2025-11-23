@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 22 Nov 2025 04:31:04 UTC
+# Updated at Sun, 23 Nov 2025 04:39:06 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -30878,6 +30878,7 @@
 0.0.0.0 followercounter.com
 0.0.0.0 followup.axa.co.jp
 0.0.0.0 fomhr.superlash.pl
+0.0.0.0 fontserif.com
 0.0.0.0 foodczar.com
 0.0.0.0 foodfunfestivals.com
 0.0.0.0 foodpackaging.kpfilms.com
@@ -42567,6 +42568,7 @@
 0.0.0.0 maxwell.france.tv
 0.0.0.0 maxymiser.com
 0.0.0.0 maxymiser.net
+0.0.0.0 maybetony.com
 0.0.0.0 maz.zba.jp
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb4a.com
@@ -50531,6 +50533,7 @@
 0.0.0.0 queenskart.com
 0.0.0.0 quelea.llresearch.dev
 0.0.0.0 quesid.com
+0.0.0.0 questionate.com
 0.0.0.0 questionpro.com
 0.0.0.0 questions.theanswerco.com
 0.0.0.0 questradeaffiliates.com
@@ -51084,6 +51087,7 @@
 0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
+0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.iciba.com
 0.0.0.0 report.mitsubishicars.com
@@ -54246,6 +54250,7 @@
 0.0.0.0 shows.anticipate-london.com
 0.0.0.0 showsteel.com
 0.0.0.0 shqmetrics.sony.com
+0.0.0.0 shredform.com
 0.0.0.0 shredquiz.com
 0.0.0.0 shrekis.life
 0.0.0.0 shrewsburyshow.com
@@ -61268,6 +61273,7 @@
 0.0.0.0 statistic.elkobraas.com
 0.0.0.0 statistic.gamona.de
 0.0.0.0 statistic.jac-systeme.de
+0.0.0.0 statistic.live.126.net
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 statistiche-free.com
 0.0.0.0 statistiche-web.com
@@ -73823,6 +73829,7 @@
 0.0.0.0 web-vitals.booking.com
 0.0.0.0 web.ajostg.cfs.com.au
 0.0.0.0 web.ajostg.colonialfirststate.com.au
+0.0.0.0 web.analytics.metrobyt-mobile.com
 0.0.0.0 web.autobodytoolmart.com
 0.0.0.0 web.bankofscotland.de
 0.0.0.0 web.behome.ae

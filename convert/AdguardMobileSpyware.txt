@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sun, 23 Nov 2025 04:39:06 UTC
+# Updated at Mon, 24 Nov 2025 04:40:26 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -756,6 +756,7 @@
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.calldorado.com
+0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 stats.fifthstarlabs.io
 0.0.0.0 stats.grafana.org
 0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com

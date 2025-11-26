@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 25 Nov 2025 04:35:31 UTC
+# Updated at Wed, 26 Nov 2025 04:35:28 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -41705,6 +41705,7 @@
 0.0.0.0 nukql.hyperlitemountaingear.com
 0.0.0.0 nuliq.calecimprofessional.com
 0.0.0.0 nullnorth.com
+0.0.0.0 nullradar.com
 0.0.0.0 numbers.coolconfetti.com
 0.0.0.0 numbers.monthlyphotos.com
 0.0.0.0 numerino.cz
@@ -50470,6 +50471,7 @@
 0.0.0.0 six9e.canal.fr
 0.0.0.0 sixauthority.com
 0.0.0.0 sixpants.com
+0.0.0.0 sixquickrun.com
 0.0.0.0 sixscissors.com
 0.0.0.0 sizcsi.eobuv.cz
 0.0.0.0 sizjrr.mirage.co.kr

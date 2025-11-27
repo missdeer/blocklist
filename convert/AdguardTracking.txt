@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 26 Nov 2025 04:35:28 UTC
+# Updated at Thu, 27 Nov 2025 04:34:35 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -4342,6 +4342,7 @@
 0.0.0.0 analytics-mkt.wemakeprice.com
 0.0.0.0 analytics-op.streak.ninja
 0.0.0.0 analytics-prd.aws.wehaa.net
+0.0.0.0 analytics-prod.readtheory.org
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-script.ad-shield.io
 0.0.0.0 analytics-sdk.yle.fi
@@ -4532,6 +4533,7 @@
 0.0.0.0 analytics.cornbreadorganics.com
 0.0.0.0 analytics.cornbreadrelief.com
 0.0.0.0 analytics.corusent.com
+0.0.0.0 analytics.cosmicstack.org
 0.0.0.0 analytics.cosmonova.net
 0.0.0.0 analytics.cosmopolitanmag.com.tr
 0.0.0.0 analytics.craftygoblin.nl
@@ -8806,6 +8808,7 @@
 0.0.0.0 c.webp2p.letv.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
+0.0.0.0 c.ypcdn.com
 0.0.0.0 c0.adalyser.com
 0.0.0.0 c00.adobe.com
 0.0.0.0 c0012.brsimg.com
@@ -30461,6 +30464,7 @@
 0.0.0.0 hellounbox.com
 0.0.0.0 helpcollar.com
 0.0.0.0 helpflame.com
+0.0.0.0 helpingbits.com
 0.0.0.0 helpster.met.vgwort.de
 0.0.0.0 hemblx.vans.cl
 0.0.0.0 hemcgm.smaphocase.com
@@ -40249,6 +40253,7 @@
 0.0.0.0 mgpnz.shopakira.com
 0.0.0.0 mgptul.finson.com
 0.0.0.0 mgrhe.myvolleybox.com
+0.0.0.0 mgs.instacart.com
 0.0.0.0 mgs123.com
 0.0.0.0 mgt.justia.info
 0.0.0.0 mgtif.percivalclo.com
@@ -40641,6 +40646,7 @@
 0.0.0.0 motorsports.locktonaffinity.net
 0.0.0.0 motrixi.com
 0.0.0.0 mouao.milkmakeup.com
+0.0.0.0 mountedbattery.com
 0.0.0.0 mouse.anthony-noel.com
 0.0.0.0 mouse.seekingtv.com
 0.0.0.0 mouse3k.com
@@ -45657,6 +45663,7 @@
 0.0.0.0 preflect.com
 0.0.0.0 premiumclub.tdgarden.com
 0.0.0.0 prepareplanes.com
+0.0.0.0 prepaymint.net
 0.0.0.0 preq.ems-ambulance.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 presetrabbits.com
@@ -71395,6 +71402,7 @@
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 y.timesunion.com
 0.0.0.0 y000.wyff4.com
+0.0.0.0 y194.asics.com
 0.0.0.0 y197.standardspeaker.com
 0.0.0.0 y494.wdsu.com
 0.0.0.0 y4e04gql5o1b.www.nookgaming.com
@@ -71476,6 +71484,7 @@
 0.0.0.0 yesss-a1at.mno.link
 0.0.0.0 yewrcd.govoyages.com
 0.0.0.0 yext-pixel.com
+0.0.0.0 yext.com
 0.0.0.0 yezztf.pinkelephant.co.kr
 0.0.0.0 yf5.voyage-prive.at
 0.0.0.0 yfaygn.natureetdecouvertes.com

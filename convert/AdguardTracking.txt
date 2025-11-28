@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 27 Nov 2025 04:34:35 UTC
+# Updated at Fri, 28 Nov 2025 04:34:15 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -26593,6 +26593,7 @@
 0.0.0.0 evnzcl.ranking.ac
 0.0.0.0 evolationst.mywellnessoffer.com
 0.0.0.0 evolu.adsdomaintracking.com
+0.0.0.0 evorra.net
 0.0.0.0 evs.data.ciceksepeti.com
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt.24.com
@@ -27218,6 +27219,7 @@
 0.0.0.0 flxr.myplan-c.com
 0.0.0.0 fly.caljetelite.com
 0.0.0.0 flyingfish.whoisrepresented.org
+0.0.0.0 flystranger.com
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fm.trustmartbdx.shop
 0.0.0.0 fma7.aegon.es
@@ -33645,6 +33647,7 @@
 0.0.0.0 l.yoka-yoka.jp
 0.0.0.0 l029.recordpatriot.com
 0.0.0.0 l2i.qualityinnlevis.com
+0.0.0.0 l5id.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 l997.lmtonline.com
 0.0.0.0 lab.analyticspodium.com
@@ -46677,6 +46680,7 @@
 0.0.0.0 rakwkm.leefiori.com
 0.0.0.0 rambunctiousflock.com
 0.0.0.0 ramp.purch.com
+0.0.0.0 rampanel.com
 0.0.0.0 rampmetrics.com
 0.0.0.0 randisphotos.com
 0.0.0.0 randiul.com
@@ -61834,6 +61838,7 @@
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
+0.0.0.0 tncid.app
 0.0.0.0 tncpzu.marelbo.com
 0.0.0.0 tnfeb.lights4fun.co.uk
 0.0.0.0 tnhcsf.holzkern.com

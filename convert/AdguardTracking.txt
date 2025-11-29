@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 28 Nov 2025 04:34:15 UTC
+# Updated at Sat, 29 Nov 2025 04:33:44 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9107,6 +9107,7 @@
 0.0.0.0 caqtp.duvindesign.com
 0.0.0.0 car-a8.tabirai.net
 0.0.0.0 car.sunnahbhesojcare.com
+0.0.0.0 carbongarden.net
 0.0.0.0 cardinal.businessfirstonline.co.uk
 0.0.0.0 cardinal.genx.be
 0.0.0.0 cardinal.krisenchat.de
@@ -26460,6 +26461,7 @@
 0.0.0.0 events-meta-events.outsideonline.com
 0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.usw2.cordial.com
+0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.absolutaimobiliaria.com.br
 0.0.0.0 events.agropetmineiro.com.br
 0.0.0.0 events.apester.com
@@ -27046,6 +27048,7 @@
 0.0.0.0 fieldconfig.com
 0.0.0.0 fieqk.hotelcollection.mx
 0.0.0.0 fifef.gohaus.com
+0.0.0.0 figsprotein.com
 0.0.0.0 fihln.skullcandy.ca
 0.0.0.0 fiicj.provenwinners.com
 0.0.0.0 fiimox.lebenskraftpur.de
@@ -36555,6 +36558,7 @@
 0.0.0.0 logperf.vnexpress.net
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 logr-ingest.com
+0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com
@@ -50572,6 +50576,7 @@
 0.0.0.0 sli.thedailybeast.com
 0.0.0.0 slickcontent.com
 0.0.0.0 slike.indiatimes.com
+0.0.0.0 slimesupplies.net
 0.0.0.0 slingpic.com
 0.0.0.0 slingshot.io
 0.0.0.0 slinksuggestion.com
@@ -59367,6 +59372,7 @@
 0.0.0.0 sync.bumlam.com
 0.0.0.0 sync.clearnview.com
 0.0.0.0 sync.ebis.ne.jp
+0.0.0.0 sync.getpublica.com
 0.0.0.0 sync.morgdm.ru
 0.0.0.0 sync.opendsp.ru
 0.0.0.0 sync.outbrain.com
@@ -66768,6 +66774,7 @@
 0.0.0.0 vafysu.ecco-verde.ch
 0.0.0.0 vaieit.seabags.com
 0.0.0.0 vakantie.ridderstee.nl
+0.0.0.0 valencia-beacons.xumo.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 validmemo.com
 0.0.0.0 valis-cpx.jp
@@ -70635,6 +70642,7 @@
 0.0.0.0 woutkw.type.jp
 0.0.0.0 wow.realthread.com
 0.0.0.0 wowanalytics.co.uk
+0.0.0.0 wowfunnow.com
 0.0.0.0 wowrdm.stepstone.at
 0.0.0.0 wozdcc.vidaxl.at
 0.0.0.0 wp-test.infonline.de

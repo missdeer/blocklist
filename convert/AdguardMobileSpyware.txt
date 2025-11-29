@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 28 Nov 2025 04:34:15 UTC
+# Updated at Sat, 29 Nov 2025 04:33:44 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -514,6 +514,7 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.growstarry.com
 0.0.0.0 logging.api.intuit.com
+0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 logs-ingress.svc.vinted.com

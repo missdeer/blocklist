@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 29 Nov 2025 04:33:44 UTC
+# Updated at Sun, 30 Nov 2025 04:40:09 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -42376,6 +42376,7 @@
 0.0.0.0 online.yodle.com
 0.0.0.0 onlinesellerenforcement.vorys.com
 0.0.0.0 onlineshop.ricoh.lu
+0.0.0.0 onlinestarten.net
 0.0.0.0 onlinewebstat.com
 0.0.0.0 onlinewebstats.com
 0.0.0.0 onlywoofs.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 30 Nov 2025 04:40:09 UTC
+# Updated at Mon, 01 Dec 2025 04:55:08 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -26158,6 +26158,7 @@
 0.0.0.0 esptap.ykshouse.com.tw
 0.0.0.0 esputnik.com
 0.0.0.0 esqxrp.bonprix-fl.be
+0.0.0.0 essaygiants.com
 0.0.0.0 essayspin.com
 0.0.0.0 essen.essentia-bd.com
 0.0.0.0 essential-apps-analytics.herokuapp.com
@@ -42496,6 +42497,7 @@
 0.0.0.0 oremark.com
 0.0.0.0 ores-fixed.mno.link
 0.0.0.0 organizations.stratfor.com
+0.0.0.0 orgbackups.com
 0.0.0.0 orgfh.getspeks.com
 0.0.0.0 orgmdx.systemthree.com
 0.0.0.0 orhzm.mythical.com

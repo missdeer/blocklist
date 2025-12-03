@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 02 Dec 2025 04:38:34 UTC
+# Updated at Wed, 03 Dec 2025 04:37:19 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3061,6 +3061,7 @@
 0.0.0.0 advance.moseasia.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advanced.praticaestoica.com.br
+0.0.0.0 advancedanalytics-websocket-pri-001.hexaglobe.net
 0.0.0.0 advancing.acams.org
 0.0.0.0 advangelists.com
 0.0.0.0 advconversion.com
@@ -6952,6 +6953,7 @@
 0.0.0.0 archived.first.eloqua.extrahop.com
 0.0.0.0 archived.learn.eloqua.extrahop.com
 0.0.0.0 archswimming.com
+0.0.0.0 arclet.net
 0.0.0.0 arcspire.io
 0.0.0.0 ardigital.anunciojuridico.com.br
 0.0.0.0 area.avadacom.com
@@ -42930,6 +42932,7 @@
 0.0.0.0 owl.sentrydiscord.dev
 0.0.0.0 owlreporter.com
 0.0.0.0 owlsr.us
+0.0.0.0 owlstwo.com
 0.0.0.0 owneriq.net
 0.0.0.0 ownpage.fr
 0.0.0.0 owqbsl.kuhl.com
@@ -49360,7 +49363,6 @@
 0.0.0.0 seniorliving.wyndemerelcs.com
 0.0.0.0 senlvg.secretsdujeu.com
 0.0.0.0 sensor.emolm.com
-0.0.0.0 sensor.grubhub.com
 0.0.0.0 sensor.org.ua
 0.0.0.0 sensors-log.dongqiudi.com
 0.0.0.0 sensors.ibreader.com
@@ -59184,6 +59186,7 @@
 0.0.0.0 stoen.solacebands.com
 0.0.0.0 stomachscience.com
 0.0.0.0 stonechin.com
+0.0.0.0 stonepole.com
 0.0.0.0 stopify.co
 0.0.0.0 stopstomach.com
 0.0.0.0 stopthink.onefamilyadviser.com
@@ -60797,6 +60800,7 @@
 0.0.0.0 tags.mattressfirm.com
 0.0.0.0 tags.microbank.com
 0.0.0.0 tags.mindbodyonline.com
+0.0.0.0 tags.mlytics.com
 0.0.0.0 tags.moneytopay.com
 0.0.0.0 tags.mutua.es
 0.0.0.0 tags.mwg.aaa.com
@@ -61345,6 +61349,7 @@
 0.0.0.0 tc.europcar.es
 0.0.0.0 tc.europcar.pt
 0.0.0.0 tc.mnbvcxzq.com
+0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tcactivity.net
 0.0.0.0 tcbphila.fmservice.com
 0.0.0.0 tcbps.ellos.us

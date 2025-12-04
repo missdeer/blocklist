@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 03 Dec 2025 04:37:19 UTC
+# Updated at Thu, 04 Dec 2025 04:38:28 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -9066,6 +9066,7 @@
 0.0.0.0 capigateway.thegamersclub.com.au
 0.0.0.0 capigtm.brechonaluz.com.br
 0.0.0.0 capriciouscorn.com
+0.0.0.0 captainstick.com
 0.0.0.0 captify.co.uk
 0.0.0.0 captivate.ai
 0.0.0.0 captivatingcanyon.com
@@ -28653,6 +28654,7 @@
 0.0.0.0 gostats.pl
 0.0.0.0 gostats.ru
 0.0.0.0 gostats.vn
+0.0.0.0 gotlunched.com
 0.0.0.0 goto.brentontv.com
 0.0.0.0 goto.firsttechfed.com
 0.0.0.0 goto.newmarklearning.com
@@ -30587,7 +30589,6 @@
 0.0.0.0 habib.miaziledstump.com
 0.0.0.0 habib.salamelectronic.com
 0.0.0.0 haccz.moonglow.com
-0.0.0.0 hackle.io
 0.0.0.0 hacx60.com
 0.0.0.0 haddock.jeffreyknox.dev
 0.0.0.0 haddock.simgenie.app
@@ -60562,6 +60563,7 @@
 0.0.0.0 tag2.uwv.nl
 0.0.0.0 tag4arm.com
 0.0.0.0 tagadmin.aumago.com
+0.0.0.0 tagbridge.vlp.cz
 0.0.0.0 tagcommander.com
 0.0.0.0 tagcommander.laredoute.be
 0.0.0.0 tagcommander.laredoute.ch
@@ -64417,6 +64419,7 @@
 0.0.0.0 tracker.xgen.dev
 0.0.0.0 tracker.yolo247.com
 0.0.0.0 tracker.zenia7.com
+0.0.0.0 tracker.zmaticoo.com
 0.0.0.0 trackerapi.ebxcdn.com
 0.0.0.0 trackerapi.service.echobox.com
 0.0.0.0 trackerhqu.com

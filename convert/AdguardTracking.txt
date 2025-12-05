@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 04 Dec 2025 04:38:28 UTC
+# Updated at Fri, 05 Dec 2025 04:38:03 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -4450,6 +4450,7 @@
 0.0.0.0 analytics.cityskydive.nl
 0.0.0.0 analytics.ciur.cz
 0.0.0.0 analytics.clac.io
+0.0.0.0 analytics.claudelog.com
 0.0.0.0 analytics.cleantech.training
 0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.clientify.net
@@ -17131,6 +17132,7 @@
 0.0.0.0 directrix.ru
 0.0.0.0 direfuldesk.com
 0.0.0.0 disagreeabledrop.com
+0.0.0.0 discopond.com
 0.0.0.0 discover-path.com
 0.0.0.0 discover.absciex.com.cn
 0.0.0.0 discover.amdesign.com
@@ -27355,6 +27357,7 @@
 0.0.0.0 flash-counter.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flashtalking.com
+0.0.0.0 flashtexting.com
 0.0.0.0 flask.us.nextdoor.com
 0.0.0.0 flavg.drinkfreespirits.com
 0.0.0.0 flbuhz.justlease.be
@@ -31422,6 +31425,7 @@
 0.0.0.0 i.deedmortgage.com
 0.0.0.0 i.do.adtrack.it
 0.0.0.0 i.findjoyinlife.com
+0.0.0.0 i.go.sohu.com
 0.0.0.0 i.moshimo.com
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 i.paypal.com
@@ -40899,6 +40903,7 @@
 0.0.0.0 monkey.colinjohnston.com
 0.0.0.0 monkey.compulsivo.co
 0.0.0.0 monkey.montgolfiere.be
+0.0.0.0 monkeyapes.com
 0.0.0.0 monkeystyping.com
 0.0.0.0 monkeytracker.cz
 0.0.0.0 monorail-edge.shopifysvc.com

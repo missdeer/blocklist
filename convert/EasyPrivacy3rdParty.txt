@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 05 Dec 2025 04:38:03 UTC
+# Updated at Sat, 06 Dec 2025 04:32:19 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1154,6 +1154,7 @@
 0.0.0.0 snowplowjs.darwin.cx
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
+0.0.0.0 sp.pcid.ca
 0.0.0.0 sp.tinymce.com
 0.0.0.0 spa-tracker.spapi.io
 0.0.0.0 speedtrap.shopdirect.com

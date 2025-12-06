@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 05 Dec 2025 04:38:03 UTC
+# Updated at Sat, 06 Dec 2025 04:32:19 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -10634,6 +10634,7 @@
 0.0.0.0 click.leasing.bankofamerica.com
 0.0.0.0 click.legacyscs-mail.com
 0.0.0.0 click.leinsterrugby.mobi
+0.0.0.0 click.lenovo.com
 0.0.0.0 click.level.centralmediacsoport.hu
 0.0.0.0 click.lifemission.church
 0.0.0.0 click.lilly-email.com
@@ -26668,6 +26669,7 @@
 0.0.0.0 events.gartland.com.au
 0.0.0.0 events.getmodemagic.com
 0.0.0.0 events.getsitectrl.com
+0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 events.hermanmiller.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
@@ -30548,6 +30550,7 @@
 0.0.0.0 gwt.businessheroes.io
 0.0.0.0 gwtc.sfr.fr
 0.0.0.0 gwupkw.flexform.com.br
+0.0.0.0 gx-target-experiments-frontend-api.gx.nvidia.com
 0.0.0.0 gximqn.lojamundi.com.br
 0.0.0.0 gxjnyy.contorion.fr
 0.0.0.0 gxleat.attenir.co.jp
@@ -32626,6 +32629,7 @@
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 ins.leavitt.com
 0.0.0.0 ins.oberpfalzmedien.de
+0.0.0.0 insectmacros.com
 0.0.0.0 inside-graph.com
 0.0.0.0 insides.honic.eu
 0.0.0.0 insight.apothekenblatt.de
@@ -45254,6 +45258,7 @@
 0.0.0.0 ph.bioharmonygoods1.com
 0.0.0.0 ph.newadsolutions.com
 0.0.0.0 ph.pulseofvitality.com
+0.0.0.0 phaseshift.almagrow.com
 0.0.0.0 phbnix.rocelec.com
 0.0.0.0 phbxqo.travelstay.com
 0.0.0.0 phcnvk.schalke04.de
@@ -45878,6 +45883,7 @@
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-platform.ex.co
+0.0.0.0 prd.api.bleacherreport.com
 0.0.0.0 prdwebcollector.ruetracking.com
 0.0.0.0 pre.click.s11.sfmc-osl.com
 0.0.0.0 pre.email-e2e.adobecjm.com
@@ -46021,6 +46027,7 @@
 0.0.0.0 prod.event.mwm-asset-manager.mwmwebapis.com
 0.0.0.0 prod.fennec.atp.fox
 0.0.0.0 prod.nitrosniffer.ottogroup.io
+0.0.0.0 prod.otel.kaizen.nvidia.com
 0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
@@ -54766,6 +54773,7 @@
 0.0.0.0 sp.notifysonic.com
 0.0.0.0 sp.pal-item.com
 0.0.0.0 sp.pamklein.com
+0.0.0.0 sp.pcid.ca
 0.0.0.0 sp.pnj.com
 0.0.0.0 sp.portclintonnewsherald.com
 0.0.0.0 sp.postcrescent.com
@@ -61564,8 +61572,9 @@
 0.0.0.0 tel.telegraaf.nl
 0.0.0.0 telecid.ru
 0.0.0.0 telegraf.detmir-stats.ru
-0.0.0.0 telegraph.prd.api.bleacherreport.com
 0.0.0.0 telegraph.prd.api.discomax.com
+0.0.0.0 telegraph.prd.api.discoveryplus.com
+0.0.0.0 telegraph.prd.api.hbomax.com
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetrics.klaviyo.com
@@ -61583,6 +61592,7 @@
 0.0.0.0 telemetry.commonspirit.org
 0.0.0.0 telemetry.doitbeststore.com
 0.0.0.0 telemetry.dzen.ru
+0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.goodlifefitness.com
 0.0.0.0 telemetry.individual.githubcopilot.com
 0.0.0.0 telemetry.insights.video.a2z.com

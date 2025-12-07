@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 06 Dec 2025 04:32:19 UTC
+# Updated at Sun, 07 Dec 2025 04:38:46 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -64456,6 +64456,7 @@
 0.0.0.0 tracking-config-service.glority.com
 0.0.0.0 tracking-explore-dev.agilent.com
 0.0.0.0 tracking-explore-uat.agilent.com
+0.0.0.0 tracking-live.kr3m.com
 0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 tracking-sales-pop.carecart.io

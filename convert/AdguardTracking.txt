@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 07 Dec 2025 04:38:46 UTC
+# Updated at Mon, 08 Dec 2025 04:41:17 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -3077,7 +3077,6 @@
 0.0.0.0 adwstats.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 adx.com.ru
-0.0.0.0 adx.promo
 0.0.0.0 adxcel-ec2.com
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxwxw.kp.ru

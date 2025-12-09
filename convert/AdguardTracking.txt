@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 08 Dec 2025 04:41:17 UTC
+# Updated at Tue, 09 Dec 2025 04:37:20 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -7221,6 +7221,7 @@
 0.0.0.0 asv.transsion.com
 0.0.0.0 asxmfj.myintent.org
 0.0.0.0 asxxlo.interflora.es
+0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 at-af.outfit7.com
 0.0.0.0 at-cddc.actu-juridique.fr
 0.0.0.0 at-go.experian.com
@@ -45700,6 +45701,7 @@
 0.0.0.0 pm.eu.viatrisconnect.com
 0.0.0.0 pm.eu.viatrisconnect.it
 0.0.0.0 pm.pmu.fr
+0.0.0.0 pm.redbull.com
 0.0.0.0 pm0.net
 0.0.0.0 pmazig.tycura.com
 0.0.0.0 pmazpg.legalzoom.com

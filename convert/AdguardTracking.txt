@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 10 Dec 2025 04:40:45 UTC
+# Updated at Thu, 11 Dec 2025 04:42:09 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -16332,7 +16332,6 @@
 0.0.0.0 data.service.movir.nl
 0.0.0.0 data.service.nordea.fi
 0.0.0.0 data.service.ohra.nl
-0.0.0.0 data.service.paypal.com
 0.0.0.0 data.services.chowtaifook.com
 0.0.0.0 data.servicing2.key.com
 0.0.0.0 data.sg-guest.princess.com
@@ -26435,6 +26434,7 @@
 0.0.0.0 floweryoperation.com
 0.0.0.0 flpfl.sokolovelaw.com
 0.0.0.0 flpwto.lohaco.jp
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 flspf.mysupplementstore.com
 0.0.0.0 fluctuo.com
 0.0.0.0 fluencymedia.com
@@ -35834,6 +35834,7 @@
 0.0.0.0 log.classting.com
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
+0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.collectaction.com
@@ -59531,6 +59532,7 @@
 0.0.0.0 tag.octopusenergy.fr
 0.0.0.0 tag.panorama.ai
 0.0.0.0 tag.phantomscreens.com.au
+0.0.0.0 tag.poomang.com
 0.0.0.0 tag.pprl.io
 0.0.0.0 tag.prospectdesk.ai
 0.0.0.0 tag.rendeuetop.com.br

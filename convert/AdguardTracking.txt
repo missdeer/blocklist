@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 11 Dec 2025 04:42:09 UTC
+# Updated at Fri, 12 Dec 2025 04:40:37 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -8105,6 +8105,7 @@
 0.0.0.0 big7.com
 0.0.0.0 bigbag.sandmanden.com
 0.0.0.0 bigcattracks.com
+0.0.0.0 bigfishapparel.com
 0.0.0.0 bigleapforward.org
 0.0.0.0 bigsauron.ru
 0.0.0.0 bigstats.net
@@ -8273,6 +8274,7 @@
 0.0.0.0 bluejay.schreinerei-virnich.de
 0.0.0.0 bluejay.wearegray.com
 0.0.0.0 bluekai.com
+0.0.0.0 bluenest.net
 0.0.0.0 blueoyster.click
 0.0.0.0 bluevinebooks.com
 0.0.0.0 blumenwiese.business-db.com
@@ -25645,6 +25647,7 @@
 0.0.0.0 eventos.isaabrahao.com.br
 0.0.0.0 eventrecorder.cm.bloomberg.com
 0.0.0.0 events-api.gazetadopovo.com.br
+0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
@@ -35898,6 +35901,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.particlenews.com
+0.0.0.0 log.pdfbookeditor.live
 0.0.0.0 log.pdfreaders.net
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.perfecttitspics.com
@@ -38593,6 +38597,7 @@
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 meter.bref.sh
 0.0.0.0 meter.rhinobag.de
+0.0.0.0 metis.truecaller.com
 0.0.0.0 metis.voysaude.com.br
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metric-api.newrelic.com
@@ -39835,6 +39840,7 @@
 0.0.0.0 mo.fbcapi.motocorpbd.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com
+0.0.0.0 mob2.cactus-bp.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.musicgostudio.com

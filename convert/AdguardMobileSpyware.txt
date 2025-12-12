@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 11 Dec 2025 04:42:09 UTC
+# Updated at Fri, 12 Dec 2025 04:40:37 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -331,6 +331,7 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
+0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
@@ -486,6 +487,7 @@
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.oceanzz.xyz
+0.0.0.0 log.pdfbookeditor.live
 0.0.0.0 log.pdfviewerscannerstore.live
 0.0.0.0 log.phonefreshfix.live
 0.0.0.0 log.pngindir.com
@@ -566,6 +568,7 @@
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com
+0.0.0.0 mob2.cactus-bp.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.musicgostudio.com

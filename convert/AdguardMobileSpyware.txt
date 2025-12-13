@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 12 Dec 2025 04:40:37 UTC
+# Updated at Sat, 13 Dec 2025 04:35:23 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -325,6 +325,7 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.aimailhome.io
+0.0.0.0 event.bigkeyboardeasyphone.com
 0.0.0.0 event.flareflow.tv
 0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.meloshort.com
@@ -405,6 +406,7 @@
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 iemiq.com
+0.0.0.0 iguazu.doordash.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impression.appsflyer.com
@@ -440,6 +442,7 @@
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 line1-log.biligame.net
+0.0.0.0 live.ravelin.click
 0.0.0.0 loadus.exelator.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-mediation.easemobi.net
@@ -626,6 +629,7 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 openlog.tapapis.cn
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
+0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com
 0.0.0.0 pangle-b.io
@@ -636,6 +640,7 @@
 0.0.0.0 payload.adadapted.com
 0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 perfsight.wetest.net
+0.0.0.0 perseus-productanalytics.deliveryhero.net
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 piano_log.kingsoft.jp
 0.0.0.0 pingma.qq.com
@@ -741,6 +746,7 @@
 0.0.0.0 sq.requestads.com
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 stat.apfgexfusion.com
 0.0.0.0 stat.dp.vocalbeats.com
 0.0.0.0 stat.duokanbox.com
 0.0.0.0 stat.gspaceteam.com

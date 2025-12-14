@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 13 Dec 2025 04:35:22 UTC
+# Updated at Sun, 14 Dec 2025 04:41:59 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -17890,6 +17890,7 @@
 0.0.0.0 eifkea.lfmaquinaseferramentas.com.br
 0.0.0.0 eiftfa.fashionette.de
 0.0.0.0 eightgreens.com
+0.0.0.0 eighthlayer.net
 0.0.0.0 eihtu.happiestbaby.com
 0.0.0.0 eiizoc.poeles-et-granules.fr
 0.0.0.0 eimcqw.dickies.com
@@ -30542,6 +30543,7 @@
 0.0.0.0 icugm.wagamama.us
 0.0.0.0 icvihl.cachecoeurlingerie.com
 0.0.0.0 icwmzb.talisa.fr
+0.0.0.0 icywinter.com
 0.0.0.0 iczrj.scentair.com
 0.0.0.0 id-go.experian.com
 0.0.0.0 id-visitors.com
@@ -39073,6 +39075,7 @@
 0.0.0.0 metrics.maxizoo.pl
 0.0.0.0 metrics.mcrewards.com
 0.0.0.0 metrics.mdstrm.com
+0.0.0.0 metrics.media-amazon.com
 0.0.0.0 metrics.mei.co.jp
 0.0.0.0 metrics.meiers-weltreisen.de
 0.0.0.0 metrics.meineversicherungswelt.de
@@ -59898,7 +59901,6 @@
 0.0.0.0 tags.theklovestory.com
 0.0.0.0 tags.tiq.rbcinsurance.com
 0.0.0.0 tags.tiq.rbcprivateinsurance.com
-0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.toitpourtoi.fr
 0.0.0.0 tags.tommy.com
 0.0.0.0 tags.tryg.dk
@@ -70099,6 +70101,7 @@
 0.0.0.0 whoaremyfriends.net
 0.0.0.0 whoisonline.net
 0.0.0.0 whoisvisiting.com
+0.0.0.0 wholepagecache.com
 0.0.0.0 wholesale.proximus.be
 0.0.0.0 whoogled.com
 0.0.0.0 whosclickingwho.com

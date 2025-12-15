@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 14 Dec 2025 04:41:59 UTC
+# Updated at Mon, 15 Dec 2025 04:48:48 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -29841,6 +29841,7 @@
 0.0.0.0 hevir.ryanandrose.co
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hey.sent-with-sendvio.com
+0.0.0.0 heycomputers.com
 0.0.0.0 heymatic.com
 0.0.0.0 heystaks.com
 0.0.0.0 hfc195b.com
@@ -36509,6 +36510,7 @@
 0.0.0.0 maddeningpowder.com
 0.0.0.0 madebyintent.com
 0.0.0.0 madlysuccessful.com
+0.0.0.0 madoverrice.com
 0.0.0.0 mafcq.herbaly.com
 0.0.0.0 magic.prism.gg
 0.0.0.0 magic.showheroff.com

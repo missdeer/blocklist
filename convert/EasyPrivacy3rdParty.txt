@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sun, 14 Dec 2025 04:41:58 UTC
+# Updated at Mon, 15 Dec 2025 04:48:48 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -110,6 +110,7 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.genial.ly
+0.0.0.0 analytics.getsnworks.com
 0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gooogol.com
@@ -1570,6 +1571,7 @@
 0.0.0.0 utics.nodejibi.in
 0.0.0.0 v.shopify.com
 0.0.0.0 validate.onecount.net
+0.0.0.0 vault.gostatera.com
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verify.authorize.net

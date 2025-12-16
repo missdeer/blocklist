@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 15 Dec 2025 04:48:48 UTC
+# Updated at Tue, 16 Dec 2025 04:42:56 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -121,6 +121,7 @@
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
+0.0.0.0 api.arity.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.bytebrew.io
 0.0.0.0 api.data-analytics.pokemon.com
@@ -251,6 +252,7 @@
 0.0.0.0 costco-adbutler.com
 0.0.0.0 counters.booking.com
 0.0.0.0 countly.globaldelight.net
+0.0.0.0 cpatrk.net
 0.0.0.0 crasheye.cn
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
@@ -571,6 +573,7 @@
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com
+0.0.0.0 mob2.bpt.apprevork.com
 0.0.0.0 mob2.cactus-bp.com
 0.0.0.0 mob2.healthapplines.com
 0.0.0.0 mob2.healthtrackergroup.com

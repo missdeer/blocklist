@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 16 Dec 2025 04:42:56 UTC
+# Updated at Wed, 17 Dec 2025 04:40:15 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -549,6 +549,7 @@
 0.0.0.0 a.aminess.com
 0.0.0.0 a.amnet.tw
 0.0.0.0 a.amw.com
+0.0.0.0 a.apkeditor.io
 0.0.0.0 a.appbaqend.com
 0.0.0.0 a.asistenciaparadeudas.com
 0.0.0.0 a.audifrance.fr
@@ -5518,6 +5519,7 @@
 0.0.0.0 api.apvsbrasilsimular.com.br
 0.0.0.0 api.archdesigncad.com.br
 0.0.0.0 api.arefinariagourmet.com.br
+0.0.0.0 api.arity.com
 0.0.0.0 api.arkrix.com
 0.0.0.0 api.armadillo.com.br
 0.0.0.0 api.arquitetofaz.com.br
@@ -29468,6 +29470,7 @@
 0.0.0.0 havjz.accessorize.com
 0.0.0.0 hawk.makroskop.eu
 0.0.0.0 hawk.mjsarfatti.com
+0.0.0.0 hayweb.net
 0.0.0.0 hazmatworkshop.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
@@ -29637,6 +29640,7 @@
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highmetrics.com
+0.0.0.0 highnoongear.com
 0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hijab.decentattire.com
 0.0.0.0 hijxfm.gaspedaal.nl
@@ -32060,7 +32064,6 @@
 0.0.0.0 jzyhcy.subwear.co.za
 0.0.0.0 jzzdsu.piscineshop.com
 0.0.0.0 k-analytix.com
-0.0.0.0 k-words.io
 0.0.0.0 k.brandalley.es
 0.0.0.0 k.brandalley.fr
 0.0.0.0 k.flynas.com

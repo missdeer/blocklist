@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 18 Dec 2025 04:41:28 UTC
+# Updated at Fri, 19 Dec 2025 04:41:14 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -750,6 +750,7 @@
 0.0.0.0 sdk-api.kidoz.net
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.starbolt.io
+0.0.0.0 sdkc.vervegroupinc.net
 0.0.0.0 sdkv2.imaginationunwired.com
 0.0.0.0 se.rfvtgbyhn.com
 0.0.0.0 search.adcaffe.com

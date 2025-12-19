@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 18 Dec 2025 04:41:28 UTC
+# Updated at Fri, 19 Dec 2025 04:41:13 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -342,6 +342,7 @@
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.backtrace.io
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
@@ -528,6 +529,7 @@
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.classdojo.com
 0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi

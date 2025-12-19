@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 18 Dec 2025 04:41:28 UTC
+# Updated at Fri, 19 Dec 2025 04:41:14 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -6370,6 +6370,7 @@
 0.0.0.0 app-log-oversea.immomo.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-monitor.spacecape.com
+0.0.0.0 app-performance.music.amazon.dev
 0.0.0.0 app-stats.supernotes.app
 0.0.0.0 app-tracking-gfa-collector.naver.com
 0.0.0.0 app-tracking.hlogo.de
@@ -8520,6 +8521,7 @@
 0.0.0.0 bronto.com
 0.0.0.0 brotherslocket.com
 0.0.0.0 brownboxgroup.com
+0.0.0.0 browser-fp.production.linktr.ee
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
@@ -8639,6 +8641,7 @@
 0.0.0.0 buzzard.donotresearch.net
 0.0.0.0 buzzard.ficabo.com.au
 0.0.0.0 buzzdeck.com
+0.0.0.0 buzzfry.com
 0.0.0.0 bv.bluffvalley.com
 0.0.0.0 bvaib.naenaes.com
 0.0.0.0 bvbam.heathstreetapparel.com
@@ -12573,6 +12576,7 @@
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 configchain.com
+0.0.0.0 configcontrol.com
 0.0.0.0 configure.adlermode.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmationngbs.reedexpo.co.uk
@@ -12793,6 +12797,7 @@
 0.0.0.0 cookies.siemens-healthineers.com
 0.0.0.0 cookies.siemens.com
 0.0.0.0 cookies.us.jll.com
+0.0.0.0 cookiestorybook.com
 0.0.0.0 cooladata.com
 0.0.0.0 coolestcatcare.com
 0.0.0.0 coolguesthouse.com
@@ -12803,6 +12808,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyfranchise.com
 0.0.0.0 copyrightaccesscontrols.com
+0.0.0.0 copytweaks.com
 0.0.0.0 copyvibes.com
 0.0.0.0 coqce.lyfe.com
 0.0.0.0 coral.bladestudy.net
@@ -13520,6 +13526,7 @@
 0.0.0.0 d.nordicbasketball.dk
 0.0.0.0 d.nordicbasketball.nl
 0.0.0.0 d.nordprotect.com
+0.0.0.0 d.nordvpn.com
 0.0.0.0 d.norsol.no
 0.0.0.0 d.patogupirkti.lt
 0.0.0.0 d.pharmafinancialadvisor.com
@@ -25483,6 +25490,7 @@
 0.0.0.0 events.asurion.com
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audioplace.me
+0.0.0.0 events.backtrace.io
 0.0.0.0 events.baselime.io
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.brightline.tv
@@ -31272,6 +31280,7 @@
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingestion.webanalytics.italia.it
+0.0.0.0 ingress.linktr.ee
 0.0.0.0 inistrack.net
 0.0.0.0 init.blackcrow.ai
 0.0.0.0 inixwg.vibrate.co.kr
@@ -35687,6 +35696,7 @@
 0.0.0.0 logs.appsource.microsoft.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 logs.chatboost-cv.algoage.co.jp
+0.0.0.0 logs.classdojo.com
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.dradis.netflix.com
@@ -38124,6 +38134,7 @@
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-cns.panasonic.com
 0.0.0.0 metrics-fe-na1.hubspot.com
+0.0.0.0 metrics-ingress-web.svc.vinted.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics-now.experian.com
 0.0.0.0 metrics-prod.suno.com
@@ -38573,6 +38584,7 @@
 0.0.0.0 metrics.usfoods.com
 0.0.0.0 metrics.vikingline.ee
 0.0.0.0 metrics.vikingline.fi
+0.0.0.0 metrics.vinted.lt
 0.0.0.0 metrics.viqeo.tv
 0.0.0.0 metrics.virginmedia.com
 0.0.0.0 metrics.vodafone.com.eg

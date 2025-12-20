@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 19 Dec 2025 04:41:13 UTC
+# Updated at Sat, 20 Dec 2025 04:35:31 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -69,6 +69,7 @@
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.app.funnelish.com
+0.0.0.0 analytics.artworkout.net
 0.0.0.0 analytics.baliusuperapp.xyz
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 analytics.datasavannah.com
@@ -331,6 +332,7 @@
 0.0.0.0 event.flareflow.tv
 0.0.0.0 event.karrotmarket.com
 0.0.0.0 event.meloshort.com
+0.0.0.0 event.mwm-bs.com
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
@@ -499,6 +501,7 @@
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
+0.0.0.0 log.smartclearpro.com
 0.0.0.0 log.snow.me
 0.0.0.0 log.stickflow.xyz
 0.0.0.0 log.suddenclean.com
@@ -629,6 +632,7 @@
 0.0.0.0 oldevent.togothermany.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 omni-ads.omni.news
+0.0.0.0 onegg.site
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 online-metrix.net
 0.0.0.0 open.oneplus.net

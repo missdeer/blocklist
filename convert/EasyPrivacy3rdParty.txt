@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 20 Dec 2025 04:35:31 UTC
+# Updated at Sun, 21 Dec 2025 04:43:16 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1369,6 +1369,7 @@
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr-experiments.parsely.com
 0.0.0.0 tr-op.datatrics.com
+0.0.0.0 tr.attribuly.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.datatrics.com
 0.0.0.0 tr.marsflag.com

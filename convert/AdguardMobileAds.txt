@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 22 Dec 2025 04:48:11 UTC
+# Updated at Tue, 23 Dec 2025 04:45:09 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -50,6 +50,7 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mediamixer.co.kr
 0.0.0.0 ad.mobiuspace.net
+0.0.0.0 ad.mojisead.co.kr
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.particlenews.com

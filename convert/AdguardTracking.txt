@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 22 Dec 2025 04:48:11 UTC
+# Updated at Tue, 23 Dec 2025 04:45:09 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -26323,6 +26323,7 @@
 0.0.0.0 flow.doormat.net.au
 0.0.0.0 flow.holgandisplaysupplies.com
 0.0.0.0 flow.polyguard.com
+0.0.0.0 flowersonthebay.com
 0.0.0.0 flowersornament.com
 0.0.0.0 flowerstreatment.com
 0.0.0.0 flowerycreature.com
@@ -26386,6 +26387,7 @@
 0.0.0.0 fodhv.thh-org.nl
 0.0.0.0 fogrm.macduggal.com
 0.0.0.0 fohne.joinpeep.io
+0.0.0.0 folderplan.com
 0.0.0.0 follow.51tripsbrand.com
 0.0.0.0 follow.bodyxtr.com
 0.0.0.0 follow.ciciunderwear.com
@@ -44922,6 +44924,7 @@
 0.0.0.0 ranklink.de
 0.0.0.0 ranlq.homedics.com
 0.0.0.0 rannat.varusteleka.com
+0.0.0.0 rapid-cdn.yottaa.com
 0.0.0.0 rapidcounter.com
 0.0.0.0 rapidstats.net
 0.0.0.0 rapidtrk.net
@@ -45933,6 +45936,7 @@
 0.0.0.0 ruhpbn.zhigaojixie.com
 0.0.0.0 ruilt.corporatecasuals.com
 0.0.0.0 rulrdow.solawave.co
+0.0.0.0 rum-ingress-coralogix.com
 0.0.0.0 rum-metrics.bunny.net
 0.0.0.0 rum.conde.io
 0.0.0.0 rum.condenastdigital.com

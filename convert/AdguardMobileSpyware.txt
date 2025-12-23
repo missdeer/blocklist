@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 22 Dec 2025 04:48:11 UTC
+# Updated at Tue, 23 Dec 2025 04:45:09 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -418,6 +418,7 @@
 0.0.0.0 impression.link
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 infinario.com
+0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insights-categorizer-noneu.truecaller.com
@@ -823,6 +824,7 @@
 0.0.0.0 tktracker.aotter.net
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-v2-boot.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
@@ -915,6 +917,7 @@
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs1.ksapisrv.com
 0.0.0.0 ulogs2.ksapisrv.com
+0.0.0.0 unisdk.proxima.nie.easebar.com
 0.0.0.0 up-hl.3g.qq.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net

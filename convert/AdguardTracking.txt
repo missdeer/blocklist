@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 24 Dec 2025 04:43:30 UTC
+# Updated at Thu, 25 Dec 2025 04:45:11 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -2998,6 +2998,7 @@
 0.0.0.0 adstk.io
 0.0.0.0 adstryker.shajgharbd.com
 0.0.0.0 adsunflower.com
+0.0.0.0 adsximg.com
 0.0.0.0 adtarget.barcainnovationhub.com
 0.0.0.0 adtarget.fcbarcelona.cat
 0.0.0.0 adtarget.fcbarcelona.com
@@ -5105,6 +5106,7 @@
 0.0.0.0 analytics.synchronyfinancial.com
 0.0.0.0 analytics.synchronyretail.com
 0.0.0.0 analytics.synchronyuniversity.com
+0.0.0.0 analytics.t-mobile.com
 0.0.0.0 analytics.taahirajewellery.com
 0.0.0.0 analytics.tabichan.jp
 0.0.0.0 analytics.tatadigital.com
@@ -12440,6 +12442,7 @@
 0.0.0.0 condor.oskarthoren.com
 0.0.0.0 condor.stadttunnel-feldkirch.at
 0.0.0.0 conductrics.com
+0.0.0.0 conduit-beacon-usw2.mtvnservices.com
 0.0.0.0 conduit-beacon.mtvnservices.com
 0.0.0.0 conf.international.baidu.com
 0.0.0.0 confe.dc.oppomobile.com
@@ -13062,6 +13065,7 @@
 0.0.0.0 cts.vresp.com
 0.0.0.0 ctx.toponefutures.com
 0.0.0.0 ctx.toponetrader.com
+0.0.0.0 ctxcollect.com
 0.0.0.0 ctyjsf.cellphones.com.vn
 0.0.0.0 ctzcqz.impromptugourmet.com
 0.0.0.0 cuarb.cartersoshkosh.ca
@@ -25376,6 +25380,7 @@
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 ext.goguardian.com
 0.0.0.0 ext.host-tracker.com
+0.0.0.0 external-api.impression-neo.naver.com
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 extole.com
 0.0.0.0 extole.io
@@ -26115,6 +26120,7 @@
 0.0.0.0 fout.jp
 0.0.0.0 fowl.teamyap.app
 0.0.0.0 fox.visionaudiovisual.com
+0.0.0.0 foxlagoon.com
 0.0.0.0 foxtinfo.foxt.com
 0.0.0.0 foxtrotdata.com
 0.0.0.0 fp-it.fengkongcloud.com
@@ -27278,6 +27284,7 @@
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
 0.0.0.0 grayscaleart.com
+0.0.0.0 graywords.net
 0.0.0.0 gre.groobee.io
 0.0.0.0 greasegarden.com
 0.0.0.0 greasysquare.com
@@ -29893,6 +29900,7 @@
 0.0.0.0 ihgfdc.miu-star.com.tw
 0.0.0.0 ihhwrq.peyrouse-hair-shop.com
 0.0.0.0 ihi.flowplayer.com
+0.0.0.0 ihmonitor.luckincoffee.us
 0.0.0.0 ihnbqe.shane.co.jp
 0.0.0.0 ihtfj.cozycartcats.com
 0.0.0.0 ihvnk.irisandromeo.com
@@ -37147,6 +37155,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 mato.clanto.cloud
+0.0.0.0 matomo-prod.cgorod.pw
 0.0.0.0 matomo.a1.by
 0.0.0.0 matomo.akbal.dev
 0.0.0.0 matomo.aksorn.com
@@ -37160,6 +37169,7 @@
 0.0.0.0 matomo.promobil.de
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io
+0.0.0.0 matomo.stackvaults.com
 0.0.0.0 matomo.unicaf.org
 0.0.0.0 matrk.pacificpower.net
 0.0.0.0 matrk.rockymountainpower.net
@@ -38439,6 +38449,7 @@
 0.0.0.0 module.sztosmenu.pl
 0.0.0.0 moduleanalysis.aliexpress.com
 0.0.0.0 moebel.medipax.de
+0.0.0.0 moengage.com
 0.0.0.0 moigv.spartan.com
 0.0.0.0 mojok.maxify.pro
 0.0.0.0 mojoz.amishtables.com
@@ -43709,6 +43720,7 @@
 0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 push2check.com
+0.0.0.0 pushd-android-logs.s3.amazonaws.com
 0.0.0.0 pushd.netky.tech
 0.0.0.0 pv.datacaciques.com
 0.0.0.0 pv.hd.sohu.com
@@ -44271,6 +44283,7 @@
 0.0.0.0 raunou.portobellostreet.es
 0.0.0.0 raven.konquadrat.de
 0.0.0.0 raven.omamao.ch
+0.0.0.0 raw.vidyard.com
 0.0.0.0 razzweb.com
 0.0.0.0 rbbgnn.hanshintigers.jp
 0.0.0.0 rbcdp.charleskeith.com
@@ -53783,6 +53796,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 static.runconverge.com
 0.0.0.0 static.target2sell.com
+0.0.0.0 static.terratraf.io
 0.0.0.0 static.user-red.com
 0.0.0.0 static0.hbl.baby
 0.0.0.0 static1.click.s11.sfmc-osl.com
@@ -57256,6 +57270,7 @@
 0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.ruthschris.com
 0.0.0.0 telemetry.schwinnfitness.com
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.sentara.com
 0.0.0.0 telemetry.sentarahealthplans.com
 0.0.0.0 telemetry.services.yofi.ai
@@ -62292,6 +62307,7 @@
 0.0.0.0 unicontainers.com
 0.0.0.0 unid.go.com
 0.0.0.0 unidentifiedanalytics.web.app
+0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 unified-ter-na.hismarttv.com
 0.0.0.0 unifiedwfo.verintsystemsinc.com
 0.0.0.0 uninterestedquarter.com
@@ -62454,6 +62470,7 @@
 0.0.0.0 usdbbx.mmartan.com.br
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
+0.0.0.0 use-trk.monetune.com
 0.0.0.0 usebc.vertellis.nl
 0.0.0.0 useinsider.com
 0.0.0.0 uselesslumber.com
@@ -62983,6 +63000,7 @@
 0.0.0.0 uwy4.aegon.es
 0.0.0.0 uwzdds.premiummobile.pl
 0.0.0.0 uxkxoi.pflege.de
+0.0.0.0 uxlog-api.danawa.com
 0.0.0.0 uxlog.next.koapp.com
 0.0.0.0 uxqzcu.raunt.com
 0.0.0.0 uyaawl.lampenwelt.at
@@ -65817,6 +65835,7 @@
 0.0.0.0 vsjvq.headstrongltd.com
 0.0.0.0 vsl-track.com
 0.0.0.0 vsl.eedn.fr
+0.0.0.0 vsn-analytics.aparentmedia.com
 0.0.0.0 vsogz.sokolovelaw.com
 0.0.0.0 vsqce.converse.com
 0.0.0.0 vsqyaz.sweetwater.com

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 24 Dec 2025 04:43:30 UTC
+# Updated at Thu, 25 Dec 2025 04:45:11 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -446,7 +446,6 @@
 0.0.0.0 exe.bid
 0.0.0.0 exelbid.com
 0.0.0.0 exponential.com
-0.0.0.0 external-api.impression-neo.naver.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 fiksu.com
 0.0.0.0 fluentmobile.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 24 Dec 2025 04:43:30 UTC
+# Updated at Thu, 25 Dec 2025 04:45:12 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -412,6 +412,7 @@
 0.0.0.0 ibd-as-api.iq.com
 0.0.0.0 iemiq.com
 0.0.0.0 iguazu.doordash.com
+0.0.0.0 ihmonitor.luckincoffee.us
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 impression.appsflyer.com
@@ -814,6 +815,7 @@
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.navigatorapp.net
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
@@ -928,6 +930,7 @@
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
+0.0.0.0 use-trk.monetune.com
 0.0.0.0 user-signals.production-public.tubi.io
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 usertrack.appcpi.net
@@ -942,6 +945,7 @@
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vk-analytics.ru
 0.0.0.0 volceapplog.com
+0.0.0.0 vsn-analytics.aparentmedia.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net

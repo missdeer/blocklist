@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 25 Dec 2025 04:45:12 UTC
+# Updated at Fri, 26 Dec 2025 04:41:31 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -936,7 +936,6 @@
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 usstat.icocofun.com
 0.0.0.0 utop.umengcloud.com
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 vcs.zijieapi.com

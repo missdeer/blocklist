@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 25 Dec 2025 04:45:11 UTC
+# Updated at Fri, 26 Dec 2025 04:41:32 UTC
 #
 
 0.0.0.0 0186141170.apps.iocnt.de
@@ -6368,6 +6368,7 @@
 0.0.0.0 apistape6.expoloucas.com.br
 0.0.0.0 apistape7.expoloucas.com.br
 0.0.0.0 apistape8.expoloucas.com.br
+0.0.0.0 apistats.rg.ru
 0.0.0.0 apiv4.classmanager.com
 0.0.0.0 apivd.justpracticesuccess.com
 0.0.0.0 apjcc.magbak.com
@@ -26357,6 +26358,7 @@
 0.0.0.0 fugetech.com
 0.0.0.0 fuhhg.tanaorjewelry.com
 0.0.0.0 fuicmy.hana-mail.jp
+0.0.0.0 fullrestore.net
 0.0.0.0 fullstory.com
 0.0.0.0 fumblingform.com
 0.0.0.0 fun-hits.com
@@ -29197,6 +29199,7 @@
 0.0.0.0 hinfogzi.sinful.co.uk
 0.0.0.0 hinfogzi.sinful.se
 0.0.0.0 hiperstat.com
+0.0.0.0 hippojump.com
 0.0.0.0 hirmatrix.hu
 0.0.0.0 histats.com
 0.0.0.0 historicalbeam.com
@@ -31008,6 +31011,7 @@
 0.0.0.0 invoc.us
 0.0.0.0 invoca.net
 0.0.0.0 invoca.solutions
+0.0.0.0 invoicetick.com
 0.0.0.0 inzicht.cz.nl
 0.0.0.0 io.narrative.io
 0.0.0.0 io.nodar.sa
@@ -55912,6 +55916,7 @@
 0.0.0.0 t.iwara.tv
 0.0.0.0 t.janieandjack.com
 0.0.0.0 t.jaxstatesports.com
+0.0.0.0 t.jibeno.xyz
 0.0.0.0 t.jmusports.com
 0.0.0.0 t.karitraa.ch
 0.0.0.0 t.karte.io
@@ -62962,7 +62967,6 @@
 0.0.0.0 utmjwd.mamasandpapas.com.kw
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 utqfh.dermdude.com
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 uts.auction.co.kr
 0.0.0.0 uts.gmarket.co.kr
 0.0.0.0 utsgw.auction.co.kr

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 30 Dec 2025 04:47:22 UTC
+# Updated at Wed, 31 Dec 2025 04:45:26 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -306,6 +306,7 @@
 0.0.0.0 dsptrack.mobshark.net
 0.0.0.0 dt.beyla.site
 0.0.0.0 dtcollect.newsbang.com
+0.0.0.0 dts-log.anker.com
 0.0.0.0 dualstack-cgicol.amap.com
 0.0.0.0 dualstack-collection.rong-edge.com
 0.0.0.0 dualstack-logs.amap.com
@@ -328,6 +329,7 @@
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
 0.0.0.0 event.aimailhome.io
+0.0.0.0 event.bblmw.com
 0.0.0.0 event.bigkeyboardeasyphone.com
 0.0.0.0 event.flareflow.tv
 0.0.0.0 event.karrotmarket.com
@@ -483,6 +485,7 @@
 0.0.0.0 log.easy39.com
 0.0.0.0 log.espn.com
 0.0.0.0 log.estand.jp
+0.0.0.0 log.eufylife.com
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
 0.0.0.0 log.goodreels.com
@@ -650,6 +653,7 @@
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com
 0.0.0.0 pendo-data-prod.box.com
+0.0.0.0 perf.bblmw.com
 0.0.0.0 perfsight.wetest.net
 0.0.0.0 perseus-productanalytics.deliveryhero.net
 0.0.0.0 pgapi.ksmobile.com

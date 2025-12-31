@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 30 Dec 2025 04:47:22 UTC
+# Updated at Wed, 31 Dec 2025 04:45:27 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -4302,6 +4302,7 @@
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-v2.wetransfer.com
 0.0.0.0 analytics-wcms.joins.net
+0.0.0.0 analytics-webhook.doximity.com
 0.0.0.0 analytics.126.net
 0.0.0.0 analytics.1800contacts.com
 0.0.0.0 analytics.1909callegari.com
@@ -12736,6 +12737,7 @@
 0.0.0.0 cooladata.com
 0.0.0.0 coolestcatcare.com
 0.0.0.0 coolguesthouse.com
+0.0.0.0 coolkidsdistrict.com
 0.0.0.0 coordinatedcoat.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 copperegg.com
@@ -13020,6 +13022,7 @@
 0.0.0.0 crown.crownshop.xyz
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
+0.0.0.0 crs.pa.br.de
 0.0.0.0 crss.corporate-rebels.com
 0.0.0.0 crsspxl.com
 0.0.0.0 crta.dailymail.co.uk
@@ -16941,6 +16944,7 @@
 0.0.0.0 dtpen-test.mno.link
 0.0.0.0 dtpen.mno.link
 0.0.0.0 dtr-onsite-feed.datarize.ai
+0.0.0.0 dts-log.anker.com
 0.0.0.0 dts.suchmeisterei.de
 0.0.0.0 dtscout.com
 0.0.0.0 dttin.inhhair.com
@@ -25612,6 +25616,7 @@
 0.0.0.0 event.aimailhome.io
 0.0.0.0 event.airbridge.io
 0.0.0.0 event.api.drift.com
+0.0.0.0 event.bblmw.com
 0.0.0.0 event.bigkeyboardeasyphone.com
 0.0.0.0 event.chitai-gorod.ru
 0.0.0.0 event.clientgear.com
@@ -35573,6 +35578,7 @@
 0.0.0.0 log.espn.com
 0.0.0.0 log.estand.jp
 0.0.0.0 log.etoday.co.kr
+0.0.0.0 log.eufylife.com
 0.0.0.0 log.g-enews.com
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
@@ -35837,6 +35843,7 @@
 0.0.0.0 loveseashore.com
 0.0.0.0 lovlf.perfume.com
 0.0.0.0 lowercases.com
+0.0.0.0 lowerthewatts.net
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 loxodo-ct.ext.nile.works
 0.0.0.0 lozqf.reef.com
@@ -36021,6 +36028,7 @@
 0.0.0.0 lucidel.com
 0.0.0.0 luckyorange.com
 0.0.0.0 luckyorange.net
+0.0.0.0 luckyshelf.com
 0.0.0.0 ludicrousarch.com
 0.0.0.0 lugansk-info.ru
 0.0.0.0 lujcig.modaforyou.pl
@@ -36040,6 +36048,7 @@
 0.0.0.0 lumpygnome.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 lumpywood.com
+0.0.0.0 lunarcave.com
 0.0.0.0 lunchroomlock.com
 0.0.0.0 lupa.eloe-health.com.br
 0.0.0.0 luptbq.lampsplus.com
@@ -36209,6 +36218,7 @@
 0.0.0.0 maddeningpowder.com
 0.0.0.0 madebyintent.com
 0.0.0.0 madlysuccessful.com
+0.0.0.0 madnessbuzz.com
 0.0.0.0 madoverrice.com
 0.0.0.0 mafcq.herbaly.com
 0.0.0.0 magic.prism.gg
@@ -43331,6 +43341,7 @@
 0.0.0.0 percentmobile.com
 0.0.0.0 perch.luckydiff.com
 0.0.0.0 perdp.bitsandpieces.com
+0.0.0.0 perf.bblmw.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
@@ -43472,6 +43483,7 @@
 0.0.0.0 pingma.qq.com
 0.0.0.0 pingmeter.com
 0.0.0.0 pingomatic.com
+0.0.0.0 pingpong.us
 0.0.0.0 pings.conviva.com
 0.0.0.0 pingtas.qq.com
 0.0.0.0 pinniped.quarantinecup.live
@@ -43583,6 +43595,7 @@
 0.0.0.0 pixel.tatpek.com
 0.0.0.0 pixel.thoughtmetric.io
 0.0.0.0 pixel.trackverify.com
+0.0.0.0 pixel.visitiq.io
 0.0.0.0 pixel.vreview.tv
 0.0.0.0 pixel.wandaloo.com
 0.0.0.0 pixel.watch
@@ -44208,6 +44221,7 @@
 0.0.0.0 propsynergy.com
 0.0.0.0 prospecteye.com
 0.0.0.0 protectcrev.com
+0.0.0.0 protected-api.branch.io
 0.0.0.0 protected-by.clarium.io
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com

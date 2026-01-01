@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 31 Dec 2025 04:45:27 UTC
+# Updated at Thu, 01 Jan 2026 04:54:00 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -4688,6 +4688,7 @@
 0.0.0.0 analytics.infosysbpm.com
 0.0.0.0 analytics.infosysprize.org
 0.0.0.0 analytics.innologica.com
+0.0.0.0 analytics.inquirernetwork.net
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.ishopchangi.com
 0.0.0.0 analytics.islamicfinder.org

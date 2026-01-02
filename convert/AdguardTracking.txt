@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 01 Jan 2026 04:54:00 UTC
+# Updated at Fri, 02 Jan 2026 04:49:10 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -36391,6 +36391,8 @@
 0.0.0.0 mango.srilabs.com
 0.0.0.0 mantrafox.com
 0.0.0.0 manufacturing.autodeskcommunications.com
+0.0.0.0 manydiamonds.com
+0.0.0.0 manyfishes.com
 0.0.0.0 map-s.online
 0.0.0.0 map.rockwellautomation.com
 0.0.0.0 mapbasin.com
@@ -37864,6 +37866,7 @@
 0.0.0.0 marriedmailbox.com
 0.0.0.0 marriedvalue.com
 0.0.0.0 marrowleaves.com
+0.0.0.0 marsnextdoor.com
 0.0.0.0 marsupial.dbcontractingltd.ca
 0.0.0.0 marsupial.kymellis.co
 0.0.0.0 marsupial.roleup.com
@@ -39025,6 +39028,7 @@
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mixplays.com
 0.0.0.0 mj23.eulerian.com
 0.0.0.0 mjblfp.sleekmarket.com
 0.0.0.0 mjfunt.bibi.com

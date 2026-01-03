@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 02 Jan 2026 04:49:09 UTC
+# Updated at Sat, 03 Jan 2026 04:39:44 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -492,6 +492,7 @@
 0.0.0.0 log.happyapkdown.com
 0.0.0.0 log.heartratepros.com
 0.0.0.0 log.hiapkdownload.com
+0.0.0.0 log.hotweathers.live
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 log.lnk.events

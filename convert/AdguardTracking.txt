@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 02 Jan 2026 04:49:10 UTC
+# Updated at Sat, 03 Jan 2026 04:39:45 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -673,6 +673,7 @@
 0.0.0.0 a.sky.teregaming.ca
 0.0.0.0 a.spv.se
 0.0.0.0 a.ss-serverside.space
+0.0.0.0 a.streamed.pk
 0.0.0.0 a.sublimatienederland.nl
 0.0.0.0 a.swd5.com
 0.0.0.0 a.tampermonkey.net
@@ -12759,6 +12760,7 @@
 0.0.0.0 coremetrics.com
 0.0.0.0 coremetrics.curioiogo.com
 0.0.0.0 coremotives.com
+0.0.0.0 corfu.blogvault.net
 0.0.0.0 corgibeachday.com
 0.0.0.0 corner-stats.sladewatkins.net
 0.0.0.0 cornershirts.com
@@ -15701,6 +15703,7 @@
 0.0.0.0 data.decathlon.fr
 0.0.0.0 data.decathlon.it
 0.0.0.0 data.decathlon.pl
+0.0.0.0 data.deep-content.io
 0.0.0.0 data.delivers.buick.com
 0.0.0.0 data.delivers.cadillac.com
 0.0.0.0 data.delivers.chevrolet.com
@@ -29510,6 +29513,7 @@
 0.0.0.0 gvyyri.major-auto.ru
 0.0.0.0 gw-analytics.panasonic.com
 0.0.0.0 gw-dv.vip
+0.0.0.0 gw-usa-tracker.zmaticoo.com
 0.0.0.0 gw.alliedhousing.com
 0.0.0.0 gw.conversionsapigateway.com
 0.0.0.0 gw.stape.fr
@@ -30867,6 +30871,7 @@
 0.0.0.0 imp.go.sohu.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 imp.startappservice.com
+0.0.0.0 imp_track.zmaticoo.com
 0.0.0.0 impala.vnv.nl
 0.0.0.0 import.goatmayoristas.com
 0.0.0.0 importantmeat.com
@@ -35595,6 +35600,7 @@
 0.0.0.0 log.heartratepros.com
 0.0.0.0 log.hiapkdownload.com
 0.0.0.0 log.hitsteps.com
+0.0.0.0 log.hotweathers.live
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.iflytek.com
 0.0.0.0 log.ifood.tv
@@ -45917,6 +45923,7 @@
 0.0.0.0 rtb.videonow.ru
 0.0.0.0 rtb.voltaxam.com
 0.0.0.0 rtbanalytics.com
+0.0.0.0 rtbuniverse.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.bytevcloud.com
 0.0.0.0 rtc.dymatrix.cloud

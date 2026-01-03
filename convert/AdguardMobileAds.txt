@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 02 Jan 2026 04:49:09 UTC
+# Updated at Sat, 03 Jan 2026 04:39:44 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -33,7 +33,6 @@
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.apps.fm
 0.0.0.0 ad.apsalar.com
-0.0.0.0 ad.bandlab.io
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 ad.daum.net

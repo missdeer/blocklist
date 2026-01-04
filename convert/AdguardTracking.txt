@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 03 Jan 2026 04:39:45 UTC
+# Updated at Sun, 04 Jan 2026 04:54:16 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -39296,6 +39296,7 @@
 0.0.0.0 moqap.goodevas.ca
 0.0.0.0 more-data.ru
 0.0.0.0 more.socialflow.com
+0.0.0.0 morefolks.com
 0.0.0.0 morefriendly.com
 0.0.0.0 moreinfo.onnowdigital.com
 0.0.0.0 moreinfo.powerpro360.com
@@ -40098,6 +40099,7 @@
 0.0.0.0 ni8.lafuma.com
 0.0.0.0 nia.nialaya.com
 0.0.0.0 nialuk.dorifurniture.co.kr
+0.0.0.0 nicefollows.com
 0.0.0.0 nicky.murphyfurniture.ie
 0.0.0.0 nid.thesun.co.uk
 0.0.0.0 nidays.switzerland.ni.com
@@ -57068,6 +57070,7 @@
 0.0.0.0 t.iuhoosiers.com
 0.0.0.0 t.iwara.tv
 0.0.0.0 t.janieandjack.com
+0.0.0.0 t.jasper.ai
 0.0.0.0 t.jaxstatesports.com
 0.0.0.0 t.jibeno.xyz
 0.0.0.0 t.jmusports.com
@@ -63642,6 +63645,7 @@
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 use-trk.monetune.com
+0.0.0.0 use.hetzner.com
 0.0.0.0 usebc.vertellis.nl
 0.0.0.0 useinsider.com
 0.0.0.0 uselesslumber.com

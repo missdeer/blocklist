@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 05 Jan 2026 05:01:48 UTC
+# Updated at Tue, 06 Jan 2026 04:47:36 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -37,6 +37,7 @@
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advmob.cn
 0.0.0.0 adx-in.ads.heytapmobile.com
+0.0.0.0 aet.spotify.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
@@ -47,7 +48,9 @@
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 am.yahoo.co.jp
 0.0.0.0 amp-error-reporting.appspot.com
+0.0.0.0 amplilab.thepure.app
 0.0.0.0 amplitude.life360.com
+0.0.0.0 amplitude.thepure.app
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 an.batmobi.net
 0.0.0.0 analy.qq.com
@@ -214,6 +217,7 @@
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 client-events-ingress.bookbub.com
+0.0.0.0 client-events.gurushots.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 clientlog.perfectworldgames.com
@@ -531,6 +535,7 @@
 0.0.0.0 logend.cookpad.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.growstarry.com
+0.0.0.0 logger.radiatetheworld.com
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 logreport-global-dual.coolbcloud.com
@@ -590,6 +595,7 @@
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
+0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
@@ -778,6 +784,7 @@
 0.0.0.0 statistic.live.126.net
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 stats-a.maxthon.com
+0.0.0.0 stats-api.skylum.com
 0.0.0.0 stats-proto.pandora.com
 0.0.0.0 stats-sg.ganymede.eu
 0.0.0.0 stats.abbi.io
@@ -814,6 +821,7 @@
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.vbnmhjlp.com
+0.0.0.0 tc.weszxdrf.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 telemetry.api.swiftkey.com

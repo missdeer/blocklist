@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 06 Jan 2026 04:47:36 UTC
+# Updated at Wed, 07 Jan 2026 04:49:16 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -200,6 +200,7 @@
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 braveglobal.tv
 0.0.0.0 bs.nakanohito.jp
+0.0.0.0 bstream.kzhi.tech
 0.0.0.0 bts-la.ucweb.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.sayhi.360.cn
@@ -456,6 +457,7 @@
 0.0.0.0 lg-release-tracking-8080.gcld-line.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 live.ravelin.click
+0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-mediation.easemobi.net

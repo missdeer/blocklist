@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 06 Jan 2026 04:47:36 UTC
+# Updated at Wed, 07 Jan 2026 04:49:16 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3299,6 +3299,7 @@
 0.0.0.0 aerospace-controls.ieeecss.org
 0.0.0.0 aests.aesthency.com
 0.0.0.0 aesus.so-net.ne.jp
+0.0.0.0 aet.spotify.com
 0.0.0.0 aeuati.wedio.com
 0.0.0.0 aeucrt.mistergooddeal.com
 0.0.0.0 aexhyo.pilatos.com
@@ -4173,10 +4174,12 @@
 0.0.0.0 amphibian.studionimbus.nl
 0.0.0.0 amphibian.tboa.club
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 amplilab.thepure.app
 0.0.0.0 amplitude-experiment.bandlab.com
 0.0.0.0 amplitude.bandlab.com
 0.0.0.0 amplitude.chess.com
 0.0.0.0 amplitude.life360.com
+0.0.0.0 amplitude.thepure.app
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
@@ -4374,6 +4377,7 @@
 0.0.0.0 analytics.api.justeattakeaway.com
 0.0.0.0 analytics.app.funnelish.com
 0.0.0.0 analytics.applycreatures.com
+0.0.0.0 analytics.apps.seabroadnet.com
 0.0.0.0 analytics.appsbnet.com.br
 0.0.0.0 analytics.appservice.tech
 0.0.0.0 analytics.aqua-wise.com
@@ -8598,6 +8602,7 @@
 0.0.0.0 bsptz.shopthemint.com
 0.0.0.0 bstias.avilon.ru
 0.0.0.0 bstjb.jackler.ca
+0.0.0.0 bstream.kzhi.tech
 0.0.0.0 bstswa.libri.hu
 0.0.0.0 bstyjo.reelflyrod.com
 0.0.0.0 bsytzb.hago.kr
@@ -11305,6 +11310,7 @@
 0.0.0.0 client-data.knak.io
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client-events-ingress.bookbub.com
+0.0.0.0 client-events.gurushots.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
@@ -25620,6 +25626,7 @@
 0.0.0.0 ettkn.lemanmercer.com
 0.0.0.0 etual.boggbag.com
 0.0.0.0 etude.epidemiologie-pop-ge.ch
+0.0.0.0 etx.indiatimes.com
 0.0.0.0 etyper.com
 0.0.0.0 etznkn.ec-store.net
 0.0.0.0 etzqwj.canevas.com
@@ -25771,6 +25778,7 @@
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventcollector.mcf-prod.a.intuit.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+0.0.0.0 eventcom.api.np.km.playstation.net
 0.0.0.0 eventexistence.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog-aws.jftechws.com
@@ -29936,6 +29944,7 @@
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highmetrics.com
 0.0.0.0 highnoongear.com
+0.0.0.0 hightouch-events.com
 0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hijab.decentattire.com
 0.0.0.0 hijxfm.gaspedaal.nl
@@ -34355,6 +34364,7 @@
 0.0.0.0 lkhpb.marciano.com
 0.0.0.0 lkhrtf.beveragefactory.com
 0.0.0.0 lkj23jlkajsa.realestate.help
+0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 lkluoz.saraceniwines.com
 0.0.0.0 lkmvsp.capvacances.fr
 0.0.0.0 lkocef.pixartprinting.fr
@@ -35888,6 +35898,7 @@
 0.0.0.0 logger.goeuro.com
 0.0.0.0 logger.growstarry.com
 0.0.0.0 logger.nerdwallet.com
+0.0.0.0 logger.radiatetheworld.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
 0.0.0.0 logger.torimochi-ad.net
@@ -39372,6 +39383,7 @@
 0.0.0.0 mob2.healthtrackergroup.com
 0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 mob2.mymusic2025.com
+0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobiexchange.com
@@ -40910,6 +40922,7 @@
 0.0.0.0 ok.usa-perks.org
 0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 okafo.scentit.se
+0.0.0.0 okaysurethat.com
 0.0.0.0 okcmg.rogerssportinggoods.com
 0.0.0.0 okgfn.ugg.com
 0.0.0.0 okhwxl.rnainc.jp
@@ -40926,6 +40939,7 @@
 0.0.0.0 oldandindie.com
 0.0.0.0 oldevent.togothermany.com
 0.0.0.0 oldfashionedoffer.com
+0.0.0.0 oldportcoffee.com
 0.0.0.0 oleqk.owlcrate.com
 0.0.0.0 oletzi.shurgard.fr
 0.0.0.0 olfdr.dxl.com
@@ -41065,6 +41079,7 @@
 0.0.0.0 one-workspace.matrix42.com
 0.0.0.0 one.ledstrips.dk
 0.0.0.0 one2.onestep.fr
+0.0.0.0 onecrow.net
 0.0.0.0 onedropocean.com
 0.0.0.0 onefeed.co.uk
 0.0.0.0 onegg.site
@@ -41351,6 +41366,7 @@
 0.0.0.0 owlreporter.com
 0.0.0.0 owlsr.us
 0.0.0.0 owlstwo.com
+0.0.0.0 owltin.com
 0.0.0.0 owneriq.net
 0.0.0.0 ownpage.fr
 0.0.0.0 owqbsl.kuhl.com
@@ -43739,6 +43755,7 @@
 0.0.0.0 pixad.com.tr
 0.0.0.0 pixanalytics.com
 0.0.0.0 pixel-config.reddit.com
+0.0.0.0 pixel-conversion.apps.seabroadnet.com
 0.0.0.0 pixel-img.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.1und1.de
@@ -44672,6 +44689,7 @@
 0.0.0.0 puja.amardeeprawat.com
 0.0.0.0 pukri.climit.com
 0.0.0.0 puls.lv
+0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulsaredit.com
 0.0.0.0 pulsatingmeadow.com
 0.0.0.0 pulse-stat.com
@@ -55520,6 +55538,7 @@
 0.0.0.0 statowl.com
 0.0.0.0 statpipe.ru
 0.0.0.0 stats-a.maxthon.com
+0.0.0.0 stats-api.skylum.com
 0.0.0.0 stats-blog.lewsion.com
 0.0.0.0 stats-connect.comet.it
 0.0.0.0 stats-dev.brid.tv
@@ -59401,6 +59420,7 @@
 0.0.0.0 tk.interflora.fr
 0.0.0.0 tk.interflora.it
 0.0.0.0 tk.jim-joe.fr
+0.0.0.0 tk.jtbc.co.kr
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tk.kidsaround.com
 0.0.0.0 tk.kitchendiet.fr
@@ -60951,6 +60971,7 @@
 0.0.0.0 traceworks.com
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 tracing.roblox.com
+0.0.0.0 tracing.yelp.com
 0.0.0.0 track-acton.healthengine.com.au
 0.0.0.0 track-aws.notsy.io
 0.0.0.0 track-e.infineon.com
@@ -69332,6 +69353,7 @@
 0.0.0.0 yaudience.com
 0.0.0.0 yawsyi.freedomliftsystems.com
 0.0.0.0 yaxlek.dandy-house.co.jp
+0.0.0.0 yazio-analytics.com
 0.0.0.0 yazzuf.joyn.de
 0.0.0.0 yb.trck.richmarketwaves.com
 0.0.0.0 ybczal.bitterliebe.com

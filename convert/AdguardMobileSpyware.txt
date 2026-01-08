@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 07 Jan 2026 04:49:16 UTC
+# Updated at Thu, 08 Jan 2026 04:47:15 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -328,6 +328,7 @@
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 ets.easybrain.com
+0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -568,6 +569,7 @@
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
+0.0.0.0 mebed.dm-event.net
 0.0.0.0 mediation-tracking.prd.mz.internal.unity3d.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 meitustat.com
@@ -753,6 +755,7 @@
 0.0.0.0 sensor.emolm.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
+0.0.0.0 sensorsdata-datasink.stardust-tv.com
 0.0.0.0 sentry.eks.hoyoverse.com
 0.0.0.0 service-api.flarelane.com
 0.0.0.0 sf16-static.i18n-pglstatp.com

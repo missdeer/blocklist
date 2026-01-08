@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 07 Jan 2026 04:49:16 UTC
+# Updated at Thu, 08 Jan 2026 04:47:15 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5817,6 +5817,7 @@
 0.0.0.0 api.estudiodearte.net
 0.0.0.0 api.eusoupixel.com
 0.0.0.0 api.evandrocanello.com.br
+0.0.0.0 api.eventbus.me
 0.0.0.0 api.evoluaemsegredo.com.br
 0.0.0.0 api.evoluamaiscursosonline.com.br
 0.0.0.0 api.exc.mob.com
@@ -25714,6 +25715,7 @@
 0.0.0.0 evasivejar.com
 0.0.0.0 evdni.littlesleepies.com
 0.0.0.0 event-action.popinfo.jp
+0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-api.hackle.io
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-collector.prd.data.s.joyn.de
@@ -26423,6 +26425,7 @@
 0.0.0.0 felidae.mysuperportal.com
 0.0.0.0 felidae.theforeignarchitect.com
 0.0.0.0 felidae.top10partnersuche.ch
+0.0.0.0 fem.gprod.postmedia.digital
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fennecdz.petitfennec.dz
 0.0.0.0 ferret.ecvan.io
@@ -27949,6 +27952,7 @@
 0.0.0.0 gr-go.experian.com
 0.0.0.0 gracefulmilk.com
 0.0.0.0 grado.ufv.es
+0.0.0.0 graffiti-tags.apple.com
 0.0.0.0 grainmass.com
 0.0.0.0 grandfatherguitar.com
 0.0.0.0 grandjunction.townsquaremedia.info
@@ -38197,6 +38201,7 @@
 0.0.0.0 measuring-pixel-service.alza.cz
 0.0.0.0 meat.midanmarketing.com
 0.0.0.0 meatydime.com
+0.0.0.0 mebed.dm-event.net
 0.0.0.0 mebjj.jaxxon.com
 0.0.0.0 mec.hilton.com
 0.0.0.0 mecfo.cbdmd.com
@@ -44235,6 +44240,7 @@
 0.0.0.0 prbii.rugs-direct.com
 0.0.0.0 prchecker.info
 0.0.0.0 prcji.kennyflowers.com
+0.0.0.0 prd-collect-llm.xverse.cn
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-platform.ex.co
@@ -46295,6 +46301,7 @@
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumanalytics.com
 0.0.0.0 rumstat.cdnvideo.ru
+0.0.0.0 rumt-sg.com
 0.0.0.0 rumt-zh.com
 0.0.0.0 run.surveyjump.com
 0.0.0.0 runnzk.pch-shop.de
@@ -47226,6 +47233,7 @@
 0.0.0.0 securedigital.wealth.mandg.com
 0.0.0.0 secureforms.fircosoft.com
 0.0.0.0 secureforms.xperthr.co.uk
+0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemetrics.blackrock.com
 0.0.0.0 securemetrics.carecredit.com
 0.0.0.0 securemetrics.experience.apple
@@ -47379,6 +47387,7 @@
 0.0.0.0 sensors.ibreader.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
+0.0.0.0 sensorsdata-datasink.stardust-tv.com
 0.0.0.0 sensorsdata.cn
 0.0.0.0 sensorsdata.glowapp.vip
 0.0.0.0 sentifi.com
@@ -57581,6 +57590,7 @@
 0.0.0.0 t.hawaiiathletics.com
 0.0.0.0 t.hawkeyesports.com
 0.0.0.0 t.helpingamericatoday.com
+0.0.0.0 t.hentaivox.com
 0.0.0.0 t.herceptin.com
 0.0.0.0 t.herdzone.com
 0.0.0.0 t.herfinances.com

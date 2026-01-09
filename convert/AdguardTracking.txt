@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 08 Jan 2026 04:47:15 UTC
+# Updated at Fri, 09 Jan 2026 04:48:16 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3752,6 +3752,7 @@
 0.0.0.0 aikhra.londonclub.sk
 0.0.0.0 aikrir.lcwaikiki.com
 0.0.0.0 ailzgt.cyberport.at
+0.0.0.0 aim-tag.hcn.health
 0.0.0.0 aim.loc.kr
 0.0.0.0 aimco.cos.com
 0.0.0.0 aimediagroup.com
@@ -13043,6 +13044,7 @@
 0.0.0.0 csdpn.hurraheroes.mx
 0.0.0.0 csdri.gardner-white.com
 0.0.0.0 csdrnf.a24.kr
+0.0.0.0 cse.rakanto.com
 0.0.0.0 cse3.chausport.com
 0.0.0.0 csebt.bloomist.com
 0.0.0.0 csemail.bonusbingo.com
@@ -30465,6 +30467,7 @@
 0.0.0.0 hvrzig.e-domizil.ch
 0.0.0.0 hvteqk.snowleader.com
 0.0.0.0 hvzbn.humbler.com
+0.0.0.0 hw-t.hypers.com.cn
 0.0.0.0 hwa.his.huawei.com
 0.0.0.0 hwbjer.jjunheating.com
 0.0.0.0 hwcias.medpets.be
@@ -42866,6 +42869,7 @@
 0.0.0.0 pailcrime.com
 0.0.0.0 pailpatch.com
 0.0.0.0 painstakingpickle.com
+0.0.0.0 paintmogul.com
 0.0.0.0 paintpear.com
 0.0.0.0 pajjqi.welovecouture.com
 0.0.0.0 pajsb.coopsleepgoods.com
@@ -43599,6 +43603,7 @@
 0.0.0.0 petal.calyxflowers.com
 0.0.0.0 petals.calyxflowers.com
 0.0.0.0 petametrics.com
+0.0.0.0 petitechili.com
 0.0.0.0 peueg.swankybadger.com
 0.0.0.0 peztd.eastperry.com
 0.0.0.0 pezvbz.99flower.co.kr
@@ -45623,6 +45628,7 @@
 0.0.0.0 reply.wellpointnextrx.com
 0.0.0.0 replyemails.united.com
 0.0.0.0 replymgt.careerbuilder.com
+0.0.0.0 repo.rakanto.com
 0.0.0.0 report-edge.agora.io
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
@@ -68623,6 +68629,7 @@
 0.0.0.0 wsnjjj.arredinitaly.com
 0.0.0.0 wsqbs.kickit.net
 0.0.0.0 wstat.ozon.ru
+0.0.0.0 wstats.ageverif.com
 0.0.0.0 wstatslive.com
 0.0.0.0 wstfad.hausgold.de
 0.0.0.0 wsytyz.tts.ru

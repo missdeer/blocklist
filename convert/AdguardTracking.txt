@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 09 Jan 2026 04:48:16 UTC
+# Updated at Sat, 10 Jan 2026 04:40:50 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -38172,6 +38172,7 @@
 0.0.0.0 mdxtz.lorex.com
 0.0.0.0 me.saddherbazar.xyz
 0.0.0.0 me.sms2aim.com
+0.0.0.0 me9ddf.moebelix
 0.0.0.0 meadowlark.hownow.guide
 0.0.0.0 meadowlark.psynapse.no
 0.0.0.0 meadowlullaby.com
@@ -43690,6 +43691,7 @@
 0.0.0.0 pig.nigano.com
 0.0.0.0 pig.notion.chat
 0.0.0.0 pigeon.thankyuu.com
+0.0.0.0 pigeonkit.com
 0.0.0.0 pigeonsetc.com
 0.0.0.0 pigmentpaper.com
 0.0.0.0 pihxmq.98doci.com
@@ -45114,6 +45116,7 @@
 0.0.0.0 quick-counter.net
 0.0.0.0 quicklyedit.com
 0.0.0.0 quicksandear.com
+0.0.0.0 quicktrick.net
 0.0.0.0 quiddity.goguardian.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 quietyellowday.com

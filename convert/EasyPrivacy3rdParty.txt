@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 09 Jan 2026 04:48:16 UTC
+# Updated at Sat, 10 Jan 2026 04:40:50 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -369,6 +369,7 @@
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.net-logger.com
+0.0.0.0 collector.pmc.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collector5.zipy.ai
 0.0.0.0 commerce.bing.com

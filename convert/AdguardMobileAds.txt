@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Sat, 10 Jan 2026 04:40:50 UTC
+# Updated at Sun, 11 Jan 2026 04:53:43 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -691,6 +691,7 @@
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 playgap.b-cdn.net
 0.0.0.0 playhaven.com
+0.0.0.0 playwire.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 pn.ybp.yahoo.com

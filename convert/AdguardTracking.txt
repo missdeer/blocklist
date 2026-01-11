@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 10 Jan 2026 04:40:50 UTC
+# Updated at Sun, 11 Jan 2026 04:53:43 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8636,6 +8636,7 @@
 0.0.0.0 bubblyaction.com
 0.0.0.0 bucsh.goodcatholic.com
 0.0.0.0 budapest.imprenditore-vero.com
+0.0.0.0 buddycanvas.com
 0.0.0.0 budibu.saksfifthavenue.com
 0.0.0.0 buf.lemonde.fr
 0.0.0.0 bug.onlinedating.de
@@ -45468,6 +45469,7 @@
 0.0.0.0 recv-entry.tbs.co.jp
 0.0.0.0 recv-jnn.tbs.co.jp
 0.0.0.0 recv.tbs.co.jp
+0.0.0.0 recyclehits.com
 0.0.0.0 red.belle-body.de
 0.0.0.0 red.bollsen.fr
 0.0.0.0 red.despegue.uno
@@ -45962,6 +45964,7 @@
 0.0.0.0 roaddynamics.com
 0.0.0.0 roadrunner.ausmv.com.au
 0.0.0.0 roadwalks.com
+0.0.0.0 roamhousing.com
 0.0.0.0 rob.megaopen.ru
 0.0.0.0 robinsfcu.fmservice.com
 0.0.0.0 robotgarages.com

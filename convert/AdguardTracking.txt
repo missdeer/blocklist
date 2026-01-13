@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 12 Jan 2026 04:56:34 UTC
+# Updated at Tue, 13 Jan 2026 04:49:00 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -25718,6 +25718,7 @@
 0.0.0.0 evanescentedge.com
 0.0.0.0 evasivejar.com
 0.0.0.0 evdni.littlesleepies.com
+0.0.0.0 evencoating.com
 0.0.0.0 event-action.popinfo.jp
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-api.hackle.io

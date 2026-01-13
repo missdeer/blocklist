@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 12 Jan 2026 04:56:34 UTC
+# Updated at Tue, 13 Jan 2026 04:49:00 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -407,6 +407,7 @@
 0.0.0.0 guid.tpns.sgp.tencent.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
+0.0.0.0 hb-mob2.optiword.com
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 hilton.data.adobedc.net
 0.0.0.0 hit.gemius.pl
@@ -832,6 +833,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.codefusion.technology
+0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.voxeet.com
@@ -865,6 +867,7 @@
 0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.aieic.com
+0.0.0.0 track.applicaster.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.extra.app
 0.0.0.0 track.hk01.com

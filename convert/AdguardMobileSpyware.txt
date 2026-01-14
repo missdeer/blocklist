@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 13 Jan 2026 04:49:00 UTC
+# Updated at Wed, 14 Jan 2026 04:52:38 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -565,6 +565,7 @@
 0.0.0.0 logz.tekiusa.com
 0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 m.vpadn.com
+0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
@@ -636,6 +637,9 @@
 0.0.0.0 ndct-data.video.iqiyi.com
 0.0.0.0 nelo2-col.linecorp.com
 0.0.0.0 netapm.music.163.com
+0.0.0.0 news-app-events.apple.com
+0.0.0.0 news-events.apple.com
+0.0.0.0 news-sports-events.apple.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 node.aibeacon.jp
 0.0.0.0 notes-analytics-events.apple.com
@@ -765,6 +769,7 @@
 0.0.0.0 sg.log.ulivetv.net
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sia.internet.apps.samsung.com
+0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.discover.com

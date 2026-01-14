@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 13 Jan 2026 04:49:00 UTC
+# Updated at Wed, 14 Jan 2026 04:52:39 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -13369,7 +13369,6 @@
 0.0.0.0 cz-go.experian.com
 0.0.0.0 cz-mktg.vodafone.com
 0.0.0.0 cz.inform.janssenpro.eu
-0.0.0.0 cza.crazygames.com
 0.0.0.0 czcqb.skinvirtue.com.au
 0.0.0.0 czdxto.radiopopular.pt
 0.0.0.0 czhjf.baublestockings.com
@@ -16851,6 +16850,7 @@
 0.0.0.0 doporucim.zjistitcenu.cz
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
+0.0.0.0 doppler.hulu.com
 0.0.0.0 doqcj.miraclegro.com
 0.0.0.0 doqgzc.smartphoto.fi
 0.0.0.0 dormouse.consentkit.com
@@ -25861,6 +25861,7 @@
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.il.fi
 0.0.0.0 events.info.mandirikartukredit.com
+0.0.0.0 events.insiad.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.just-eat.ch
 0.0.0.0 events.just-eat.co.uk
@@ -29785,6 +29786,7 @@
 0.0.0.0 hazmatworkshop.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
+0.0.0.0 hb-mob2.optiword.com
 0.0.0.0 hbahrd.yogibo.jp
 0.0.0.0 hbbtv-track.prosieben.de
 0.0.0.0 hbbtv-track.prosiebensat1puls4.com
@@ -35760,7 +35762,6 @@
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
 0.0.0.0 log.getadblock.com
-0.0.0.0 log.go.com
 0.0.0.0 log.gobankingrates.com
 0.0.0.0 log.gomlab.com
 0.0.0.0 log.goodnovel.com
@@ -36074,7 +36075,6 @@
 0.0.0.0 lp.smartbusiness.samsung.com
 0.0.0.0 lp.solutions.cegos.it
 0.0.0.0 lp.sophos.com
-0.0.0.0 lp.spac.me
 0.0.0.0 lp.strayer.edu
 0.0.0.0 lp.techhosted.ba
 0.0.0.0 lp.tfd-corp.co.jp
@@ -36388,6 +36388,7 @@
 0.0.0.0 ma.uslawns.com
 0.0.0.0 ma.zoho.eu
 0.0.0.0 maaiuh.tomorrowland.co.jp
+0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 mabzz.bluecorncandles.com
 0.0.0.0 macaw.ianmitchell.dev
 0.0.0.0 mackaytracking.newyorklifeinvestments.com
@@ -40166,7 +40167,10 @@
 0.0.0.0 newjersey.pgaofamericagolf.com
 0.0.0.0 newlog.overwolf.com
 0.0.0.0 newrrb.bid
+0.0.0.0 news-app-events.apple.com
+0.0.0.0 news-events.apple.com
 0.0.0.0 news-info.gcgfinancial.com
+0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news.aeromarkltd.co.uk
 0.0.0.0 news.azcapitoltimes.com
 0.0.0.0 news.bestcompaniesgroup.com
@@ -45197,6 +45201,7 @@
 0.0.0.0 r-log.dable.io
 0.0.0.0 r.aachener-zeitung.de
 0.0.0.0 r.akipam.com
+0.0.0.0 r.anime-go.cc
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.bollsen-gehoerschutz.de
@@ -47000,6 +47005,7 @@
 0.0.0.0 scfql.marleylilly.com
 0.0.0.0 scgou.littlepassports.com
 0.0.0.0 scholar.google.com
+0.0.0.0 scholarloop.com
 0.0.0.0 schpa.newroadadvertising.com
 0.0.0.0 schrl.nkuku.com
 0.0.0.0 sci.intuit.ca
@@ -47292,6 +47298,7 @@
 0.0.0.0 seek.intel.com
 0.0.0.0 seek.uwa.edu.au
 0.0.0.0 seekmyshop.com
+0.0.0.0 seekremote.com
 0.0.0.0 seenvault.com
 0.0.0.0 seespice.com
 0.0.0.0 segapi.splice.com
@@ -49269,6 +49276,7 @@
 0.0.0.0 sk.cloudbazaar.xyz
 0.0.0.0 sk.go.pacs.academy
 0.0.0.0 sk0.monnierfreres.eu
+0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 skaqaz.witt-weiden.ch
 0.0.0.0 skbx.dreamisfree.com
 0.0.0.0 skbx.lorenzo.world
@@ -59001,6 +59009,7 @@
 0.0.0.0 telemetry.codefusion.technology
 0.0.0.0 telemetry.commonspirit.org
 0.0.0.0 telemetry.doitbeststore.com
+0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.dzen.ru
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 telemetry.goodlifefitness.com
@@ -59030,6 +59039,7 @@
 0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.svc.transifex.net
 0.0.0.0 telemetry.swe.quicinc.com
+0.0.0.0 telemetry.tataritv.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telemetry.vaultdcr.com
 0.0.0.0 telemetry.voxeet.com
@@ -61041,6 +61051,7 @@
 0.0.0.0 track.apexhq.com
 0.0.0.0 track.apharmaceuticaph.com.br
 0.0.0.0 track.aplaut.io
+0.0.0.0 track.applicaster.com
 0.0.0.0 track.appsclub.mobi
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.aprila.no
@@ -62597,6 +62608,7 @@
 0.0.0.0 trafficby.net
 0.0.0.0 trafficfacts.com
 0.0.0.0 trafficjoint.com
+0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trafficmaxx.de
 0.0.0.0 trafficregenerator.com
 0.0.0.0 trafficscanner.pl

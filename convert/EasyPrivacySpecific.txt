@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 13 Jan 2026 04:49:00 UTC
+# Updated at Wed, 14 Jan 2026 04:52:38 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -701,6 +701,7 @@
 0.0.0.0 t.deepnote.com
 0.0.0.0 t.factorform.com
 0.0.0.0 t.freelancer.com
+0.0.0.0 t.gazetteer.co
 0.0.0.0 t.goodchop.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.ionos.com

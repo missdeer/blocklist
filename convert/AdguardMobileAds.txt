@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 13 Jan 2026 04:49:00 UTC
+# Updated at Wed, 14 Jan 2026 04:52:38 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -296,6 +296,7 @@
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atti.com
 0.0.0.0 audiomob.com
+0.0.0.0 axon.ai
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 bannerflow.com
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -447,6 +448,7 @@
 0.0.0.0 exponential.com
 0.0.0.0 featured.perfectionholic.com
 0.0.0.0 fiksu.com
+0.0.0.0 fingerhi.net
 0.0.0.0 fluentmobile.com
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com

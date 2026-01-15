@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 14 Jan 2026 04:52:38 UTC
+# Updated at Thu, 15 Jan 2026 04:49:49 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -349,6 +349,7 @@
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 events-stream-svc.cordial.com
+0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events.api.red.wemesh.ca
 0.0.0.0 events.appsflyer.com
@@ -359,6 +360,7 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 events.fubo.tv
 0.0.0.0 events.funnelish.com
+0.0.0.0 events.gonative.io
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 events.lbesecapi.com
@@ -566,6 +568,7 @@
 0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 m.vpadn.com
 0.0.0.0 mab-mob2.websearchapp.com
+0.0.0.0 matomo.podslink.net
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us

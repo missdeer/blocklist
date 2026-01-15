@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 14 Jan 2026 04:52:39 UTC
+# Updated at Thu, 15 Jan 2026 04:49:48 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8167,6 +8167,7 @@
 0.0.0.0 bicp-analytics.postscript.io
 0.0.0.0 bid.run
 0.0.0.0 bidbpo.dr-10.com
+0.0.0.0 bidder.doceree.com
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 bidpapers.com
@@ -13023,6 +13024,7 @@
 0.0.0.0 cs.analytics.lego.com
 0.0.0.0 cs.chaussea.com
 0.0.0.0 cs.hot.net.il
+0.0.0.0 cs.media.net
 0.0.0.0 cs.nexttv.co.il
 0.0.0.0 cs.zg-api.com
 0.0.0.0 cs0008sbeda.enzyme-supply.com
@@ -25811,6 +25813,7 @@
 0.0.0.0 events-jp.splash-screen.net
 0.0.0.0 events-meta-events.outsideonline.com
 0.0.0.0 events-stream-svc.cordial.com
+0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.absolutaimobiliaria.com.br
@@ -25855,6 +25858,7 @@
 0.0.0.0 events.getsitectrl.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 events.giftya.com
+0.0.0.0 events.gonative.io
 0.0.0.0 events.groggs.com
 0.0.0.0 events.hermanmiller.com
 0.0.0.0 events.iap.unity3d.com
@@ -26831,6 +26835,7 @@
 0.0.0.0 fpc.gartner.com
 0.0.0.0 fpc.sage.com
 0.0.0.0 fpc.utexas.edu
+0.0.0.0 fpcdn.io
 0.0.0.0 fpcs.wellshaved.gr
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fpdtag.tealiumdemo.com
@@ -26843,6 +26848,7 @@
 0.0.0.0 fpida.une-nana-cool.com
 0.0.0.0 fpida.wacoalholdings.jp
 0.0.0.0 fpida.yue-japan.com
+0.0.0.0 fpjs.io
 0.0.0.0 fpnpmcdn.net
 0.0.0.0 fprnt.com
 0.0.0.0 fpss.allsmart.gr
@@ -35762,6 +35768,7 @@
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 log.geetest.com
 0.0.0.0 log.getadblock.com
+0.0.0.0 log.go.com
 0.0.0.0 log.gobankingrates.com
 0.0.0.0 log.gomlab.com
 0.0.0.0 log.goodnovel.com
@@ -38085,6 +38092,7 @@
 0.0.0.0 matomo.mobilism.org
 0.0.0.0 matomo.motorpresse.de
 0.0.0.0 matomo.oekoloewe.de
+0.0.0.0 matomo.podslink.net
 0.0.0.0 matomo.promobil.de
 0.0.0.0 matomo.shoppersguide.com.ph
 0.0.0.0 matomo.similarweb.io
@@ -46314,6 +46322,7 @@
 0.0.0.0 rulrdow.solawave.co
 0.0.0.0 rum-ingress-coralogix.com
 0.0.0.0 rum-metrics.bunny.net
+0.0.0.0 rum.api.intuit.com
 0.0.0.0 rum.conde.io
 0.0.0.0 rum.condenastdigital.com
 0.0.0.0 rum.corewebvitals.io
@@ -54318,6 +54327,7 @@
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 st.fahrkartenshop2-bahn.de
 0.0.0.0 st.film.ru
+0.0.0.0 st.freedom24.com
 0.0.0.0 st.hbrd.io
 0.0.0.0 st.iceportal.de
 0.0.0.0 st.ingrossocucinemoderne.it
@@ -68483,6 +68493,7 @@
 0.0.0.0 windsurf-telemetry.codeium.com
 0.0.0.0 wing.wingshackwings.com
 0.0.0.0 winnersmindset.org
+0.0.0.0 winsurbox.com
 0.0.0.0 wioaavu.enkay.com
 0.0.0.0 wipe.de
 0.0.0.0 wirecomic.com

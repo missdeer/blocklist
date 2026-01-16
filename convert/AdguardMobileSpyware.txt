@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 15 Jan 2026 04:49:49 UTC
+# Updated at Fri, 16 Jan 2026 04:47:41 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -157,6 +157,7 @@
 0.0.0.0 app-monitor.spacecape.com
 0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 app.appsflyer.com
+0.0.0.0 app.siteperformancetest.net
 0.0.0.0 appcpi.net
 0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
@@ -324,6 +325,7 @@
 0.0.0.0 edith-seb.xiaohongshu.com
 0.0.0.0 edmanalytics.pandahall.com
 0.0.0.0 elephantdata.net
+0.0.0.0 engagelab.cc
 0.0.0.0 esa-reg-eup.myoppo.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sandai.net
@@ -400,6 +402,7 @@
 0.0.0.0 gid.tapapis.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 global-sis.engagelab.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gnsnpaw.com
 0.0.0.0 googleadapis.l.google.com

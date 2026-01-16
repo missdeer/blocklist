@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 15 Jan 2026 04:49:48 UTC
+# Updated at Fri, 16 Jan 2026 04:47:41 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5231,6 +5231,7 @@
 0.0.0.0 analytics.viisviis.fi
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.vinevida.com
+0.0.0.0 analytics.vinovo.si
 0.0.0.0 analytics.viture.dev
 0.0.0.0 analytics.vivantskincare.com
 0.0.0.0 analytics.vivint.com
@@ -49036,6 +49037,7 @@
 0.0.0.0 shapecomb.com
 0.0.0.0 share.vollrath.com
 0.0.0.0 shareasale.com
+0.0.0.0 sharedswap.com
 0.0.0.0 sharepoint.click.s11.sfmc-osl.com
 0.0.0.0 sharevault.cloud
 0.0.0.0 shark.getplayback.com
@@ -49061,6 +49063,7 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shippinginsights.com
+0.0.0.0 shirtseasons.com
 0.0.0.0 shirtsidewalk.com
 0.0.0.0 shiveringspot.com
 0.0.0.0 shiverscissors.com
@@ -57506,6 +57509,7 @@
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.cmuchippewas.com
 0.0.0.0 t.coffeecircle.com
+0.0.0.0 t.collectiveaudience.co
 0.0.0.0 t.colonia.tech
 0.0.0.0 t.comm.giving.duke.edu
 0.0.0.0 t.community.emporiaresearch.com

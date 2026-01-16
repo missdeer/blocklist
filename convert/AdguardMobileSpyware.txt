@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 16 Jan 2026 04:47:41 UTC
+# Updated at Fri, 16 Jan 2026 22:40:53 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -110,6 +110,7 @@
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
+0.0.0.0 analytics.wachanga.app
 0.0.0.0 analytics.wildlifestudios.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 andmlb.kshwtj.com
@@ -456,6 +457,7 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 itracking.ikameglobal.com
 0.0.0.0 jdlog.uu.cc
 0.0.0.0 jpush.io
@@ -726,6 +728,7 @@
 0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.pixverse.ai
+0.0.0.0 report.starshort.online
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com
@@ -959,6 +962,7 @@
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us04logfiles.zoom.us
+0.0.0.0 usage.digitalconcerthall.com
 0.0.0.0 usage.influxdata.com
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 use-cr.svr-algorix.com
@@ -971,6 +975,7 @@
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 validate.appsflyer.com
 0.0.0.0 vcs.zijieapi.com
+0.0.0.0 verifysession.uxcam.com
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vik-analytics.moonactive.net
 0.0.0.0 viva.api.xiaoying.co

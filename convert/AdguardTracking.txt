@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 16 Jan 2026 04:47:41 UTC
+# Updated at Fri, 16 Jan 2026 22:40:53 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -4451,6 +4451,7 @@
 0.0.0.0 analytics.carecreditprovidercenter.com
 0.0.0.0 analytics.cartoonnetwork.jp
 0.0.0.0 analytics.cartoonnetworkasia.com
+0.0.0.0 analytics.carvana.io
 0.0.0.0 analytics.cashably.com
 0.0.0.0 analytics.castel.jp
 0.0.0.0 analytics.castelliinaria.info
@@ -4777,6 +4778,7 @@
 0.0.0.0 analytics.lasegunda.ecn.cl
 0.0.0.0 analytics.lashjungle.com
 0.0.0.0 analytics.launch.bz
+0.0.0.0 analytics.launcherleaks.net
 0.0.0.0 analytics.lavosperformance.com
 0.0.0.0 analytics.law.badriver-nsn.gov
 0.0.0.0 analytics.law.cityofsanmateo.org
@@ -5160,6 +5162,7 @@
 0.0.0.0 analytics.thereadyproducts.com
 0.0.0.0 analytics.theta360.com
 0.0.0.0 analytics.ticimax.cloud
+0.0.0.0 analytics.ticketmaster.com
 0.0.0.0 analytics.tiendaenoferta.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.timbertrove.com
@@ -5239,6 +5242,7 @@
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 analytics.voxbusinesscard.com
 0.0.0.0 analytics.vpplayer.tech
+0.0.0.0 analytics.wachanga.app
 0.0.0.0 analytics.wadimanuka.com
 0.0.0.0 analytics.waifu2x.org
 0.0.0.0 analytics.waltherapparelwebshop.nl
@@ -6792,6 +6796,7 @@
 0.0.0.0 app.siemens-energy.com
 0.0.0.0 app.siemensplmevents.com
 0.0.0.0 app.site123.com
+0.0.0.0 app.siteperformancetest.net
 0.0.0.0 app.siusalukis.com
 0.0.0.0 app.sjsuspartans.com
 0.0.0.0 app.sjuhawks.com
@@ -8814,7 +8819,6 @@
 0.0.0.0 c.statcounter.com
 0.0.0.0 c.tbex.ru
 0.0.0.0 c.tyb.xyz
-0.0.0.0 c.us.heap-api.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.webp2p.letv.com
 0.0.0.0 c.wort-suche.com
@@ -25336,6 +25340,7 @@
 0.0.0.0 engage.worldofconcrete.com
 0.0.0.0 engage2demand.cisco.com
 0.0.0.0 engagefront.theweathernetwork.com
+0.0.0.0 engagelab.cc
 0.0.0.0 engagements.appsflyer.com
 0.0.0.0 engagemetrics.cisco.com
 0.0.0.0 engagetosell.com
@@ -27528,6 +27533,7 @@
 0.0.0.0 glkge.ekster.com
 0.0.0.0 glob13lid3.click.s11.sfmc-osl.com
 0.0.0.0 global-go.experian.com
+0.0.0.0 global-sis.engagelab.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 global.raboag.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -29859,6 +29865,7 @@
 0.0.0.0 healthfirstst.mywellnessoffer.com
 0.0.0.0 healthier.aahs.org
 0.0.0.0 healthy.spartanburgregional.com
+0.0.0.0 heap-api.com
 0.0.0.0 heap.drop.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 heartbeat.crackle.com
@@ -31612,6 +31619,7 @@
 0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 ingest.make.rvohealth.com
+0.0.0.0 ingest.webcol.sdp.peacocktv.com
 0.0.0.0 ingestion.webanalytics.italia.it
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 inistrack.net
@@ -31914,6 +31922,7 @@
 0.0.0.0 iqvhap.globalrose.com
 0.0.0.0 iqvjv.dillards.com
 0.0.0.0 iqyioj.harryanddavid.com
+0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 ir.ecomatelas.fr
 0.0.0.0 ir.impressiverevenue.com
 0.0.0.0 irdlevxe.shelterbyg.dk
@@ -39242,6 +39251,7 @@
 0.0.0.0 mixedreading.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mixpanel.tigocloud.net
 0.0.0.0 mixplays.com
 0.0.0.0 mj23.eulerian.com
 0.0.0.0 mjafvw.jungborn.de
@@ -45659,6 +45669,7 @@
 0.0.0.0 report.iciba.com
 0.0.0.0 report.oewa.at
 0.0.0.0 report.pixverse.ai
+0.0.0.0 report.starshort.online
 0.0.0.0 report2.iciba.com
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.aatkit.com
@@ -48371,6 +48382,7 @@
 0.0.0.0 servertype.selfiestore.uz
 0.0.0.0 servervmidia.venturohub.com
 0.0.0.0 servestats.com
+0.0.0.0 service-ad-image-ga-weighted.prd.pluto.tv
 0.0.0.0 service-ad-impression-proxy-use1-1.prd.pluto.tv
 0.0.0.0 service-api.flarelane.com
 0.0.0.0 service-ens.sueddeutsche.de
@@ -49323,6 +49335,7 @@
 0.0.0.0 sksvu.battlbox.com
 0.0.0.0 skueel.ozernyi-gatne.com.ua
 0.0.0.0 skullmagnets.com
+0.0.0.0 skullteeth.com
 0.0.0.0 skunk.gameworkersolidarity.com
 0.0.0.0 skvmc.atomstoastronauts.com
 0.0.0.0 skxbbj.clasic.jp
@@ -51920,6 +51933,7 @@
 0.0.0.0 sp.pal-item.com
 0.0.0.0 sp.pamklein.com
 0.0.0.0 sp.pcid.ca
+0.0.0.0 sp.pluto.tv
 0.0.0.0 sp.pnj.com
 0.0.0.0 sp.portclintonnewsherald.com
 0.0.0.0 sp.postcrescent.com
@@ -52130,6 +52144,7 @@
 0.0.0.0 sqgvl.naoskingdom.com
 0.0.0.0 sqhlta.rockdenim.no
 0.0.0.0 sqmazf.workamajig.com
+0.0.0.0 squadtee.net
 0.0.0.0 squalidscrew.com
 0.0.0.0 squarecamel.com
 0.0.0.0 squarespace.anneclaireexperience.com
@@ -61478,6 +61493,7 @@
 0.0.0.0 track.ogrogotioman.com
 0.0.0.0 track.ogrowthlabs.com
 0.0.0.0 track.onahole.com
+0.0.0.0 track.opentable.com
 0.0.0.0 track.oportalbemviver.com
 0.0.0.0 track.oregonstateintl.com
 0.0.0.0 track.organicbazar.net
@@ -61970,6 +61986,7 @@
 0.0.0.0 tracking.care.essentiahealth.org
 0.0.0.0 tracking.care.muschealth.org
 0.0.0.0 tracking.care.salinasvalleyhealth.com
+0.0.0.0 tracking.carfax.com
 0.0.0.0 tracking.carpshop24.com
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.cds.dmm
@@ -64245,6 +64262,7 @@
 0.0.0.0 usabilitybook.com
 0.0.0.0 usabilitytools.com
 0.0.0.0 usabilla.com
+0.0.0.0 usage.digitalconcerthall.com
 0.0.0.0 usage.growthbook.io
 0.0.0.0 usage.ideasnap.co
 0.0.0.0 usage.influxdata.com
@@ -64938,6 +64956,7 @@
 0.0.0.0 verdantsculpture.com
 0.0.0.0 verified.beefbooster.com
 0.0.0.0 verifiedarts.com
+0.0.0.0 verifysession.uxcam.com
 0.0.0.0 verseballs.com
 0.0.0.0 vertical-leap.co.uk
 0.0.0.0 vertical-leap.net

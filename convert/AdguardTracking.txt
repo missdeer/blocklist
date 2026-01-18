@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 17 Jan 2026 04:39:31 UTC
+# Updated at Sun, 18 Jan 2026 04:49:15 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -54397,6 +54397,7 @@
 0.0.0.0 staging-mirror.cloud.s11.sfmc-osl.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stakedances.com
+0.0.0.0 stakeschips.com
 0.0.0.0 stakingbasket.com
 0.0.0.0 stakingshock.com
 0.0.0.0 stakingsmile.com

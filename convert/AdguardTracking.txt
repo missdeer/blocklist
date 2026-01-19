@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 18 Jan 2026 04:49:15 UTC
+# Updated at Mon, 19 Jan 2026 04:58:00 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -59309,8 +59309,10 @@
 0.0.0.0 tikjv.aninebing.com
 0.0.0.0 tiktok-user-events.boloforms.com
 0.0.0.0 tilhyw.lampen24.nl
+0.0.0.0 tiltonbots.com
 0.0.0.0 tim.nextinpact.com
 0.0.0.0 time.metimespain.com
+0.0.0.0 timecrossed.com
 0.0.0.0 timing.whenandhowagency.com
 0.0.0.0 timit.mno.link
 0.0.0.0 timon.zijieapi.com

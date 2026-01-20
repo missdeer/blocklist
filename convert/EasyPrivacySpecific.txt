@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 19 Jan 2026 04:58:01 UTC
+# Updated at Tue, 20 Jan 2026 04:53:14 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -820,6 +820,7 @@
 0.0.0.0 trends.privacywall.org
 0.0.0.0 trk.decido.io
 0.0.0.0 trk.tirto.id
+0.0.0.0 trusty-shovel-1234.paul-f22.workers.dev
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 two.cm.com

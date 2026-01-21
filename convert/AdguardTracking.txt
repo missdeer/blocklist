@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 20 Jan 2026 04:53:14 UTC
+# Updated at Wed, 21 Jan 2026 04:52:23 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -4791,6 +4791,7 @@
 0.0.0.0 agcmtb.nameit.com
 0.0.0.0 agcs-knowledge.allianz.com
 0.0.0.0 agenciaplanner.arenaeletromusic.com.br
+0.0.0.0 agencysignals.com
 0.0.0.0 agencysst.mda-digital.com
 0.0.0.0 agenda.avadacom.com
 0.0.0.0 agenda.onlineretailer.com
@@ -14676,6 +14677,7 @@
 0.0.0.0 consent.clientemais.paodeacucar.com
 0.0.0.0 consent.online.paodeacucar.com
 0.0.0.0 consentag.eu
+0.0.0.0 console.data4.net
 0.0.0.0 consolidata.ai
 0.0.0.0 consultantchow.com
 0.0.0.0 consulting.guidehouse.com
@@ -44437,6 +44439,7 @@
 0.0.0.0 events-ingestion.services.gorgias.com
 0.0.0.0 events-jp.splash-screen.net
 0.0.0.0 events-meta-events.outsideonline.com
+0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
@@ -52836,6 +52839,7 @@
 0.0.0.0 js.monetize-ssp.com
 0.0.0.0 js.passaro-de-fogo.biz
 0.0.0.0 js.ptengine.jp
+0.0.0.0 js.pulseinsights.com
 0.0.0.0 js.stroeermediabrands.de
 0.0.0.0 jsahu.shoesforall.com
 0.0.0.0 jsbmf.heymistr.com
@@ -58300,6 +58304,7 @@
 0.0.0.0 loon.davidalindahl.com
 0.0.0.0 loon.jrmyfranck.com
 0.0.0.0 loopfuse.net
+0.0.0.0 loosecase.com
 0.0.0.0 looseloaf.com
 0.0.0.0 lopley.com
 0.0.0.0 loqueveo.libertadinmobiliaria.es
@@ -58325,6 +58330,7 @@
 0.0.0.0 lovlf.perfume.com
 0.0.0.0 lowercases.com
 0.0.0.0 lowerthewatts.net
+0.0.0.0 lowkeypalmtree.com
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 loxodo-ct.ext.nile.works
 0.0.0.0 lozqf.reef.com
@@ -60684,6 +60690,7 @@
 0.0.0.0 melodiouscomposition.com
 0.0.0.0 melodiousharmony.com
 0.0.0.0 melodioussymphony.com
+0.0.0.0 melodyglobe.com
 0.0.0.0 meltmilk.com
 0.0.0.0 member.email.seasoned.co
 0.0.0.0 member.oewa.at
@@ -69666,6 +69673,7 @@
 0.0.0.0 rovememoirs.com
 0.0.0.0 rover.powerpeptides.com
 0.0.0.0 royalcount.de
+0.0.0.0 royalespring.com
 0.0.0.0 royalfamily.royalchaga.sk
 0.0.0.0 royalsbagels.com
 0.0.0.0 royalsweeper.com
@@ -84879,6 +84887,7 @@
 0.0.0.0 stats.simplytel.de
 0.0.0.0 stats.simzdarma.cz
 0.0.0.0 stats.sirdata.com
+0.0.0.0 stats.sirdata.eu
 0.0.0.0 stats.ski.com
 0.0.0.0 stats.slideshare.net
 0.0.0.0 stats.smartertravel.com

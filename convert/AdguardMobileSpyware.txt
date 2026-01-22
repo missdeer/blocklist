@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 21 Jan 2026 04:52:22 UTC
+# Updated at Thu, 22 Jan 2026 04:55:20 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -119,6 +119,7 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
+0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
@@ -222,6 +223,7 @@
 0.0.0.0 client-events-ingress.bookbub.com
 0.0.0.0 client-events.gurushots.com
 0.0.0.0 client-log.box.com
+0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 clientlog3.music.163.com
@@ -269,6 +271,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
 0.0.0.0 data-detect.nie.easebar.com
+0.0.0.0 data-p.gryphline.com
 0.0.0.0 data.eu.pendo.io
 0.0.0.0 data.kuiniuca.com
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -334,6 +337,8 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
+0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-search.jorte.com
 0.0.0.0 event-us.ssp.taxssp.com
@@ -347,6 +352,7 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
 0.0.0.0 eventgw.twilio.com
+0.0.0.0 eventlog.gryphline.com
 0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-api.towneers.prod.data.krmt.io
@@ -383,6 +389,7 @@
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fp-it.fengkongcloud.com
+0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
@@ -481,6 +488,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adtimaserver.vn
@@ -494,6 +502,7 @@
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cleansweepplu.com
+0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
@@ -641,6 +650,7 @@
 0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mtrace.qq.com
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 native-log-collect.gryphline.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 ndct-data.video.iqiyi.com
 0.0.0.0 nelo2-col.linecorp.com

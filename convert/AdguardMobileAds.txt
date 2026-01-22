@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 21 Jan 2026 04:52:22 UTC
+# Updated at Thu, 22 Jan 2026 04:55:20 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -297,6 +297,7 @@
 0.0.0.0 atti.com
 0.0.0.0 audiomob.com
 0.0.0.0 axon.ai
+0.0.0.0 banner.bet365partners.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 bannerflow.com
 0.0.0.0 banners-slb.mobile.yandex.net

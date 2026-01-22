@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 21 Jan 2026 04:52:23 UTC
+# Updated at Thu, 22 Jan 2026 04:55:20 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -6718,6 +6718,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
+0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api-ktm.kkday.com
 0.0.0.0 api-meta.mercelsantos.com.br
 0.0.0.0 api-notify.markarch.com
@@ -13370,6 +13371,7 @@
 0.0.0.0 client-log.karte.io
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client-sdk.hackle.io
+0.0.0.0 client-telemetry-preauth.hingeprod.net
 0.0.0.0 client-telemetry.hingeprod.net
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client.botchk.net
@@ -15776,6 +15778,7 @@
 0.0.0.0 d18082025.123maridodealuguel.com.br
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
+0.0.0.0 d1dxoqu0t5mb7j.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1gwclp1pmzk26.cloudfront.net
@@ -17996,6 +17999,7 @@
 0.0.0.0 data-nl.elektroniknet.de
 0.0.0.0 data-nl.medical-design.news
 0.0.0.0 data-nl.tageskarte.io
+0.0.0.0 data-p.gryphline.com
 0.0.0.0 data-ssl.catererglobal.com
 0.0.0.0 data-ssl.cityjobs.com
 0.0.0.0 data-ssl.cwjobs.co.uk
@@ -44348,6 +44352,8 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-dot-procolor-backend.appspot.com
+0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
+0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 event-router.chime.com
@@ -44417,6 +44423,7 @@
 0.0.0.0 eventexistence.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventlog-aws.jftechws.com
+0.0.0.0 eventlog.gryphline.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlog.outbrain.com
@@ -45760,6 +45767,7 @@
 0.0.0.0 foxtinfo.foxt.com
 0.0.0.0 foxtrotdata.com
 0.0.0.0 fp-it.fengkongcloud.com
+0.0.0.0 fp-sa-it.fengkongcloud.com
 0.0.0.0 fp.buildwithrise.ca
 0.0.0.0 fp.buildwithrise.com
 0.0.0.0 fp.dawnhouseliving.com
@@ -63085,6 +63093,7 @@
 0.0.0.0 narwhal.quickbudget.xyz
 0.0.0.0 nasrul.bunonfabrics.com
 0.0.0.0 natasha.bulkbookstore.com
+0.0.0.0 native-log-collect.gryphline.com
 0.0.0.0 native.ai
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 natpal.com
@@ -84537,6 +84546,7 @@
 0.0.0.0 stats.innoforge.com.au
 0.0.0.0 stats.innoq.com
 0.0.0.0 stats.inselloft-norderney.de
+0.0.0.0 stats.insighttimer.com
 0.0.0.0 stats.instabudget.app
 0.0.0.0 stats.instawares.com
 0.0.0.0 stats.interactjs.io
@@ -91736,6 +91746,7 @@
 0.0.0.0 trackinginternal.ti.com
 0.0.0.0 trackinginternal.ti.com.cn
 0.0.0.0 trackinglabs.com
+0.0.0.0 trackinglibrary.prodperfect.com
 0.0.0.0 trackinglrus.wolterskluwer.com
 0.0.0.0 trackingmail.martigo.com
 0.0.0.0 trackingmms.accenture.com

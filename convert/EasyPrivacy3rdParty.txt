@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 21 Jan 2026 04:52:22 UTC
+# Updated at Thu, 22 Jan 2026 04:55:21 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -734,6 +734,7 @@
 0.0.0.0 galileotelemetry.tencent.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gateway.foresee.com
+0.0.0.0 gcp.fasthorse.workers.dev
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 geo.bdg.com
 0.0.0.0 geo.ertya.com

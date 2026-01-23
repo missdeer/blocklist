@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 22 Jan 2026 04:55:20 UTC
+# Updated at Fri, 23 Jan 2026 04:51:23 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -58019,6 +58019,7 @@
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-v4-insight.kaizenplatform.net
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
 0.0.0.0 log.adap.tv
@@ -58045,6 +58046,7 @@
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cleansweepplu.com
+0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.cloud.sbs.co.kr
 0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.collectaction.com
@@ -78018,6 +78020,7 @@
 0.0.0.0 soundstocking.com
 0.0.0.0 source-66584305d5.mainpost.de
 0.0.0.0 source-ed91a21bf0.dastelefonbuch.de
+0.0.0.0 sourcecodeinfo.com
 0.0.0.0 sourceoak.com
 0.0.0.0 southwest.pgaofamericagolf.com
 0.0.0.0 sowa.carhartt.com
@@ -92065,6 +92068,7 @@
 0.0.0.0 tritethunder.com
 0.0.0.0 tritetongue.com
 0.0.0.0 triton.companyegg.com
+0.0.0.0 triumphbull.com
 0.0.0.0 trj.valuecommerce.com
 0.0.0.0 trk-egestas.com
 0.0.0.0 trk.365dagensuccesvol.nl

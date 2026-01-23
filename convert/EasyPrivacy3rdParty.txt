@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 22 Jan 2026 04:55:21 UTC
+# Updated at Fri, 23 Jan 2026 04:51:23 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -99,6 +99,7 @@
 0.0.0.0 analytics.digitalpfizer.com
 0.0.0.0 analytics.disney.go.com
 0.0.0.0 analytics.disneyinternational.com
+0.0.0.0 analytics.distributednews.com
 0.0.0.0 analytics.dv.socure.io
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net

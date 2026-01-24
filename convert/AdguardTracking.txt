@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 23 Jan 2026 04:51:23 UTC
+# Updated at Sat, 24 Jan 2026 04:41:40 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5750,6 +5750,7 @@
 0.0.0.0 analytics.esim.io
 0.0.0.0 analytics.esporteinterativo.com.br
 0.0.0.0 analytics.essenzasegreta.com
+0.0.0.0 analytics.everythingstream.com
 0.0.0.0 analytics.evo.co.uk
 0.0.0.0 analytics.ewz.ch
 0.0.0.0 analytics.expertstores.co.za
@@ -5890,6 +5891,7 @@
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.iss.one
 0.0.0.0 analytics.itabus.it
+0.0.0.0 analytics.itbox.ua
 0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.joegetaway.se
 0.0.0.0 analytics.joincambridge.com
@@ -45975,6 +45977,7 @@
 0.0.0.0 frogsfinds.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 frontend-logger.flippback.com
+0.0.0.0 frontier.capcutw.us
 0.0.0.0 frontier.musical.ly
 0.0.0.0 frontierconsul02.tsunagaru-office.com
 0.0.0.0 fronttoad.com
@@ -57952,6 +57955,7 @@
 0.0.0.0 load.zelim.milezbracelets.nl
 0.0.0.0 load.zippedmenswear.co.uk
 0.0.0.0 load.zyd.fastcabling.com
+0.0.0.0 loaddisplay.com
 0.0.0.0 loadedhearts.com
 0.0.0.0 loader.mantis-intelligence.com
 0.0.0.0 loadsurprise.com
@@ -62696,6 +62700,7 @@
 0.0.0.0 mssdk.bytedance.com
 0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mssdk.tiktokw.us
+0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
 0.0.0.0 mssfv.aspinaloflondon.com
 0.0.0.0 mst.physiotherapie-mobili.de
 0.0.0.0 mst.rnd.de
@@ -63492,6 +63497,7 @@
 0.0.0.0 nialuk.dorifurniture.co.kr
 0.0.0.0 nice.theperryai.com
 0.0.0.0 nicefollows.com
+0.0.0.0 nicehuh.com
 0.0.0.0 nicky.murphyfurniture.ie
 0.0.0.0 nid.thesun.co.uk
 0.0.0.0 nidays.switzerland.ni.com
@@ -67192,6 +67198,7 @@
 0.0.0.0 pinniped.quarantinecup.live
 0.0.0.0 pinniped.resist.bot
 0.0.0.0 pinniped.spacecountdown.com
+0.0.0.0 pinpoint.espn.com
 0.0.0.0 pinptg.milleni.com.tr
 0.0.0.0 pinvf.australianopaldirect.com
 0.0.0.0 pipe-collect.ebu.io
@@ -92947,6 +92954,7 @@
 0.0.0.0 tybfxw.puma.com
 0.0.0.0 tycollectproxy.tiyalive.com
 0.0.0.0 tynt.com
+0.0.0.0 typepredict.com
 0.0.0.0 typewebsite.com
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
@@ -93985,6 +93993,7 @@
 0.0.0.0 utlbs.stoffwechsel-gesund.de
 0.0.0.0 utmjwd.mamasandpapas.com.kw
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 utopiaband.net
 0.0.0.0 utqfh.dermdude.com
 0.0.0.0 uts.auction.co.kr
 0.0.0.0 uts.gmarket.co.kr

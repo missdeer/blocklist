@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 25 Jan 2026 04:56:54 UTC
+# Updated at Mon, 26 Jan 2026 05:00:12 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -58875,6 +58875,7 @@
 0.0.0.0 magic.mindcrowd.org
 0.0.0.0 magic.prism.gg
 0.0.0.0 magicaljoin.com
+0.0.0.0 magicalpiano.com
 0.0.0.0 magicminibox.com
 0.0.0.0 magiq.com
 0.0.0.0 magnetmail1.net
@@ -91006,6 +91007,7 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 trackerstats.davidthe.dev
 0.0.0.0 trackgun.alrajhi-capital.com
+0.0.0.0 trackhorizon.nnmtools.com
 0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-api.g2.com
@@ -96485,6 +96487,7 @@
 0.0.0.0 vipimo.accessbdd.com
 0.0.0.0 vipsj.zgallerie.com
 0.0.0.0 vipwfa.footway.ch
+0.0.0.0 viralfoodie.net
 0.0.0.0 viralninjas.com
 0.0.0.0 virbe.sokolovelaw.com
 0.0.0.0 virlji.turtlefur.com

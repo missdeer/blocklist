@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 26 Jan 2026 05:00:11 UTC
+# Updated at Tue, 27 Jan 2026 04:53:50 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -862,6 +862,7 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net
+0.0.0.0 loader.mantis-intelligence.com
 0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.cookieyes.com

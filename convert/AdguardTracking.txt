@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 26 Jan 2026 05:00:12 UTC
+# Updated at Tue, 27 Jan 2026 04:53:48 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -94078,6 +94078,7 @@
 0.0.0.0 v476.reporterherald.com
 0.0.0.0 v812.lakecountystar.com
 0.0.0.0 vacationbetter.inspirato.com
+0.0.0.0 vacationsgolf.com
 0.0.0.0 vafqt.supergoop.com
 0.0.0.0 vafsxc.radioparts.com.au
 0.0.0.0 vafysu.ecco-verde.ch
@@ -97640,6 +97641,7 @@
 0.0.0.0 whimsicalgrove.com
 0.0.0.0 whimsicalvantage.com
 0.0.0.0 whimsicalzenith.com
+0.0.0.0 whimsygadget.com
 0.0.0.0 whippet.ianglover.com
 0.0.0.0 whippet.miniforetak.no
 0.0.0.0 whirlwealth.com

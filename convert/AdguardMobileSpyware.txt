@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 26 Jan 2026 05:00:12 UTC
+# Updated at Tue, 27 Jan 2026 04:53:48 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -540,6 +540,7 @@
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 log.umsns.com
+0.0.0.0 log.weathertrip.net
 0.0.0.0 log.wigoliv.work
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com

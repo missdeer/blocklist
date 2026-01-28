@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 27 Jan 2026 04:53:49 UTC
+# Updated at Wed, 28 Jan 2026 04:52:14 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -54,6 +54,7 @@
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.egdata.app
 0.0.0.0 analytics.eip.telegraph.co.uk
+0.0.0.0 analytics.eternagame.org
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
@@ -654,6 +655,7 @@
 0.0.0.0 srv.plesk.com
 0.0.0.0 ss.esade.edu
 0.0.0.0 ss.photospecialist.co.uk
+0.0.0.0 sst.brodo.com
 0.0.0.0 sst.bwt.com
 0.0.0.0 sst.shopware.com
 0.0.0.0 st.sawlive.tv
@@ -691,6 +693,7 @@
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
+0.0.0.0 stats2.helpmonks.com
 0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 statsegg.cdngeek.com
 0.0.0.0 storage.lulu-row1.com

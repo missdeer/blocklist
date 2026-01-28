@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 27 Jan 2026 04:53:48 UTC
+# Updated at Wed, 28 Jan 2026 04:52:14 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -138,6 +138,7 @@
 0.0.0.0 ads-sdk.nianticlabs.com
 0.0.0.0 ads-segment-profile-noneu.truecaller.com
 0.0.0.0 ads-server.mxplay.com
+0.0.0.0 ads-static.phonepe.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.adadapted.com
 0.0.0.0 ads.adinmotech.com
@@ -159,6 +160,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pdbarea.com
+0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 ads.smrtbid.com
@@ -334,6 +336,7 @@
 0.0.0.0 brealtime.com
 0.0.0.0 brokerbabe.com
 0.0.0.0 bstgms4y.com
+0.0.0.0 bstream.channelcom.tech
 0.0.0.0 bu1.duba.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 burstnet.com
@@ -471,6 +474,7 @@
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 geede.info
 0.0.0.0 geoloc.yospace.com
+0.0.0.0 ggbond.peaksite.tech
 0.0.0.0 glance.inmobi.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 global.appnext.com

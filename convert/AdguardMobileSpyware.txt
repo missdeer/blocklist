@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 28 Jan 2026 04:52:14 UTC
+# Updated at Thu, 29 Jan 2026 05:10:17 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -900,6 +900,7 @@
 0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.midway.run
 0.0.0.0 track.mobshark.net
+0.0.0.0 track.onef.pro
 0.0.0.0 track.pingstart.com
 0.0.0.0 track.starmakerstudios.com
 0.0.0.0 track.taimi.com

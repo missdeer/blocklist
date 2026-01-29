@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 28 Jan 2026 04:52:14 UTC
+# Updated at Thu, 29 Jan 2026 05:10:18 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -405,6 +405,7 @@
 0.0.0.0 d-load.org
 0.0.0.0 d.kugou.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net
+0.0.0.0 d1tru86qrby720.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
 0.0.0.0 d2nrdy2pg3k168.cloudfront.net
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
@@ -909,6 +910,7 @@
 0.0.0.0 wordego.com
 0.0.0.0 wtraff.com
 0.0.0.0 www.adbert.com.tw
+0.0.0.0 x3m.biz
 0.0.0.0 xdrig.com
 0.0.0.0 ximad.com
 0.0.0.0 yandexadexchange.net

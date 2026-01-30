@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 29 Jan 2026 05:10:18 UTC
+# Updated at Fri, 30 Jan 2026 05:13:15 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3774,6 +3774,7 @@
 0.0.0.0 add.ardoreyewear.co.uk
 0.0.0.0 addfreestats.com
 0.0.0.0 addictedattention.com
+0.0.0.0 addressfriend.com
 0.0.0.0 ade.deskstyle.info
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ade.hirose-fx.co.jp
@@ -5400,6 +5401,7 @@
 0.0.0.0 analytic.hawaii.aaa.com
 0.0.0.0 analytic.hotelclub.com
 0.0.0.0 analytic.imlive.com
+0.0.0.0 analytic.is
 0.0.0.0 analytic.kim-tetzlaff.dk
 0.0.0.0 analytic.newmexico.aaa.com
 0.0.0.0 analytic.northernnewengland.aaa.com
@@ -9420,6 +9422,7 @@
 0.0.0.0 bluejay.schreinerei-virnich.de
 0.0.0.0 bluejay.wearegray.com
 0.0.0.0 bluekai.com
+0.0.0.0 bluelionlabs.net
 0.0.0.0 bluelp.2ask.blue.com.hk
 0.0.0.0 bluenest.net
 0.0.0.0 blueoyster.click
@@ -20018,6 +20021,7 @@
 0.0.0.0 e.smashpoint.pro
 0.0.0.0 e.sourcr.com
 0.0.0.0 e.standardresume.co
+0.0.0.0 e.tapdb.ap-sg.tapapis.com
 0.0.0.0 e.thedailybeast.com
 0.0.0.0 e.theorchestraplace.com
 0.0.0.0 e.truedata.co
@@ -67616,6 +67620,7 @@
 0.0.0.0 ip.momentummedia.com.au
 0.0.0.0 ip.net.jumia.cm
 0.0.0.0 ip.prvtx.net
+0.0.0.0 ip.xindong.com
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
@@ -74420,6 +74425,7 @@
 0.0.0.0 logapi.zhipin.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logbor.com
+0.0.0.0 logc-sg.tsd.xindong.com
 0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 logcollect.totalcms.ncloud.or.kr
 0.0.0.0 logcollection.ronghub.com
@@ -81359,6 +81365,7 @@
 0.0.0.0 openinternetexchange.com
 0.0.0.0 openinternetexchange.net
 0.0.0.0 openlog.tapapis.cn
+0.0.0.0 openlog.tapapis.com
 0.0.0.0 openpanel.dev
 0.0.0.0 openrate.aweber.com
 0.0.0.0 openstat.net
@@ -104895,6 +104902,7 @@
 0.0.0.0 t.xeloda.com
 0.0.0.0 t.xolairhcp.com
 0.0.0.0 t.xoom.com
+0.0.0.0 t.y8.com
 0.0.0.0 t.yesware.com
 0.0.0.0 t.yogabars.in
 0.0.0.0 t.yourcaraccidentcheck.com

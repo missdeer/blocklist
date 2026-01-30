@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 29 Jan 2026 05:10:17 UTC
+# Updated at Fri, 30 Jan 2026 05:13:14 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -324,6 +324,7 @@
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 e-ssl.apsalar.com
+0.0.0.0 e.tapdb.ap-sg.tapapis.com
 0.0.0.0 eats-ads-event-capture.coupang.com
 0.0.0.0 ec.adadapted.com
 0.0.0.0 edith-seb.xiaohongshu.com
@@ -464,6 +465,7 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-in-logser.realme.com
 0.0.0.0 iot-logser.realme.com
+0.0.0.0 ip.xindong.com
 0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 itracking.ikameglobal.com
 0.0.0.0 jdlog.uu.cc
@@ -551,6 +553,7 @@
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logc-sg.tsd.xindong.com
 0.0.0.0 logcollection.ronghub.com
 0.0.0.0 logdata.hatspotlight.asia
 0.0.0.0 logend.cookpad.com
@@ -677,6 +680,7 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 open.oneplus.net
 0.0.0.0 openlog.tapapis.cn
+0.0.0.0 openlog.tapapis.com
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 overseauspider.yuanshen.com

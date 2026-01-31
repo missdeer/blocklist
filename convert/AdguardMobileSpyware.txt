@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 30 Jan 2026 05:13:14 UTC
+# Updated at Sat, 31 Jan 2026 05:05:57 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -338,6 +338,7 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 event-dot-learning-piano.appspot.com
+0.0.0.0 event-gateway.data.karrotmarket.com
 0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
 0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -411,6 +412,7 @@
 0.0.0.0 gid.tapapis.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gnsnpaw.com

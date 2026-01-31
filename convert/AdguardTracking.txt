@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 30 Jan 2026 05:13:15 UTC
+# Updated at Sat, 31 Jan 2026 05:05:58 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -811,6 +811,7 @@
 0.0.0.0 1k5vz1ejbcx.staging.probemas.com
 0.0.0.0 1l-hit.vkplay.ru
 0.0.0.0 1l-view.my.games
+0.0.0.0 1mythtracker.xyz
 0.0.0.0 1p-data.com
 0.0.0.0 1p3293dngsv.dodofacile.fr
 0.0.0.0 1phrzgfqiym8.marketingtornado.ca
@@ -59325,6 +59326,7 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-dot-procolor-backend.appspot.com
+0.0.0.0 event-gateway.data.karrotmarket.com
 0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
 0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -61555,6 +61557,7 @@
 0.0.0.0 gjrjr.maxa-group.com
 0.0.0.0 gjrrr.hotelcollection.com
 0.0.0.0 gjtrack.uc.cn
+0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 gk.gkservices.com
 0.0.0.0 gkbhuss.geekbuying.com
 0.0.0.0 gkcmok.superx.co.kr
@@ -69384,6 +69387,7 @@
 0.0.0.0 lime.supplementsquick.com
 0.0.0.0 lime.tripmap.com
 0.0.0.0 lime.viaggisicuri.com
+0.0.0.0 limecodesign.com
 0.0.0.0 limepeal.com
 0.0.0.0 limpet.eddiehinkle.com
 0.0.0.0 limpet.pioneerlandscapingllc.com

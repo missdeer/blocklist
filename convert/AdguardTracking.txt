@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 02 Feb 2026 05:37:32 UTC
+# Updated at Tue, 03 Feb 2026 05:18:37 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -77085,6 +77085,7 @@
 0.0.0.0 member.email.seasoned.co
 0.0.0.0 member.oewa.at
 0.0.0.0 member.usenix.org
+0.0.0.0 membernook.com
 0.0.0.0 members.simplicity.coop
 0.0.0.0 membership.mortonarb.org
 0.0.0.0 memecounter.com
@@ -79335,6 +79336,7 @@
 0.0.0.0 moth.jkundp.at
 0.0.0.0 moth.underscoretw.com
 0.0.0.0 motion.kollmorgen.com
+0.0.0.0 motionarray.net
 0.0.0.0 motionflowers.com
 0.0.0.0 motionlessbelief.com
 0.0.0.0 motionlessmeeting.com

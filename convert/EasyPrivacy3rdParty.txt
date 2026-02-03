@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 02 Feb 2026 05:37:32 UTC
+# Updated at Tue, 03 Feb 2026 05:18:38 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -176,6 +176,7 @@
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.shorthand.com
 0.0.0.0 analytics.sitewit.com
+0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.strangeloopnetworks.com
@@ -313,6 +314,7 @@
 0.0.0.0 castify-trk.playitviral.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
+0.0.0.0 cdn-a.raptor.digital
 0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn-eu.usefathom.com
 0.0.0.0 cdn.9gtb.com
@@ -1502,6 +1504,7 @@
 0.0.0.0 tracker.xgen.dev
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackersimulator.org
+0.0.0.0 trackhorizon.nnmtools.com
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-api.hotmart.com

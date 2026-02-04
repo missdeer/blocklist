@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 03 Feb 2026 05:18:37 UTC
+# Updated at Wed, 04 Feb 2026 05:12:52 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -377,6 +377,7 @@
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
+0.0.0.0 events.production.us1.pgw-pci.klarna.net
 0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com

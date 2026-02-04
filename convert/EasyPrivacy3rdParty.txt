@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Tue, 03 Feb 2026 05:18:38 UTC
+# Updated at Wed, 04 Feb 2026 05:12:52 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -20,6 +20,7 @@
 0.0.0.0 a.vturb.net
 0.0.0.0 aan.amazon.com
 0.0.0.0 ab.dns-finder.com
+0.0.0.0 acds-events.adobe.io
 0.0.0.0 activity-flow.vtex.com
 0.0.0.0 activity.wisepops.com
 0.0.0.0 ad-shield.io
@@ -223,6 +224,7 @@
 0.0.0.0 api.country.is
 0.0.0.0 api.croct.io
 0.0.0.0 api.june.so
+0.0.0.0 api.reo.dev
 0.0.0.0 api.visitorapi.com
 0.0.0.0 api.wipmania.com
 0.0.0.0 app.adjust.com
@@ -864,6 +866,7 @@
 0.0.0.0 links.voyeurweb.com
 0.0.0.0 lit.connatix.com
 0.0.0.0 literally-analytics.appspot.com
+0.0.0.0 live.exchangesolutions.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
@@ -1092,6 +1095,7 @@
 0.0.0.0 pt.ispot.tv
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 pub.sheknows.com
+0.0.0.0 public.9gtb.com
 0.0.0.0 pulse.ecmapps.com
 0.0.0.0 pulse.shopflo.com
 0.0.0.0 px.marchex.io

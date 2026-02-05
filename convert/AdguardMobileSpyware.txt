@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 04 Feb 2026 05:12:52 UTC
+# Updated at Thu, 05 Feb 2026 05:20:36 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -192,6 +192,7 @@
 0.0.0.0 beacons-prod.fubo.tv
 0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beha.ksmobile.com
+0.0.0.0 bi-report.maxnapps.com
 0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bidder.dsp.outfit7.com
@@ -549,6 +550,7 @@
 0.0.0.0 log.wigoliv.work
 0.0.0.0 log.yougameover.com
 0.0.0.0 log1.apkomega.com
+0.0.0.0 log1.cmpassport.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.ihubgo.info

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 05 Feb 2026 05:20:37 UTC
+# Updated at Fri, 06 Feb 2026 05:19:05 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -71869,6 +71869,8 @@
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 iclxlm.drink.ch
 0.0.0.0 icmakp.united-arrows.tw
+0.0.0.0 iconmediapixel-ipv4.com
+0.0.0.0 iconmediapixel.com
 0.0.0.0 icstats.nl
 0.0.0.0 ictls.takeaware.nl
 0.0.0.0 ictrjw.barcastores.com
@@ -72521,6 +72523,7 @@
 0.0.0.0 in.vertaz.com.br
 0.0.0.0 inaftracker.com
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 inbdut.marinbrasil.com.br
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 inbound-analytics.pixlee.com
@@ -80505,6 +80508,7 @@
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log-verify.mob.com
 0.0.0.0 log.51changdu.com
+0.0.0.0 log.ablyft.com
 0.0.0.0 log.adap.tv
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 log.affiliate.rakuten.co.jp
@@ -85050,6 +85054,7 @@
 0.0.0.0 minibilling.com
 0.0.0.0 minigame5-normal-hl.zijieapi.com
 0.0.0.0 minigame5-normal-lq.zijieapi.com
+0.0.0.0 minimetrika.xsolla.com
 0.0.0.0 mink.faq-bregenzerwald.com
 0.0.0.0 minkatu.com
 0.0.0.0 minnow.clintwinter.me
@@ -119089,6 +119094,7 @@
 0.0.0.0 ultund.misterspex.nl
 0.0.0.0 ulyfrf.dekruidenbaron.nl
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
+0.0.0.0 um.merinfo.se
 0.0.0.0 umami.aigenerations.net
 0.0.0.0 umami.is
 0.0.0.0 umami.spencerdevs.xyz
@@ -123589,6 +123595,7 @@
 0.0.0.0 wgztae.audials.com
 0.0.0.0 wh.giftd.tech
 0.0.0.0 whahmy.timberland.es
+0.0.0.0 whale.camera
 0.0.0.0 whale.gdebrauwer.dev
 0.0.0.0 whatif.fr.adobe.com
 0.0.0.0 whatif.it.adobe.com

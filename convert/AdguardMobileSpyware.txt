@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 05 Feb 2026 05:20:36 UTC
+# Updated at Fri, 06 Feb 2026 05:19:04 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -445,6 +445,7 @@
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 infinario.com
 0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 innovads-server.poster.appsinnova.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Fri, 06 Feb 2026 05:19:04 UTC
+# Updated at Sat, 07 Feb 2026 05:09:48 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -146,6 +146,7 @@
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cfa.fidelity.com
 0.0.0.0 check3.tiaa.org
+0.0.0.0 chloro.trip.com
 0.0.0.0 chronicle.medal.tv
 0.0.0.0 cl.canva.com
 0.0.0.0 cl.t3n.de
@@ -573,6 +574,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 private.wccftech.com
 0.0.0.0 prod-events.nykaa.com
+0.0.0.0 prop.astonvillanews.co.uk
 0.0.0.0 proxima.midjourney.com
 0.0.0.0 pt.blubrry.com
 0.0.0.0 pulsar.ebay.com

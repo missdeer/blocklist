@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 06 Feb 2026 05:19:05 UTC
+# Updated at Sat, 07 Feb 2026 05:09:48 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5999,6 +5999,7 @@
 0.0.0.0 analytics.ecoslay.com
 0.0.0.0 analytics.edaily.co.kr
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 analytics.editorialedomani.it
 0.0.0.0 analytics.effectory.com
 0.0.0.0 analytics.egdata.app
 0.0.0.0 analytics.egernsund.com
@@ -8713,6 +8714,7 @@
 0.0.0.0 atom-log.3.cn
 0.0.0.0 atom-qa.warnermedia.com
 0.0.0.0 atom.warnermedia.com
+0.0.0.0 atomictrackercollector-i5adxi4wfq-uc.a.run.app
 0.0.0.0 atouicib.dcongress.com
 0.0.0.0 atpns.nuwavenow.com
 0.0.0.0 atr.andreaterecomienda.co
@@ -19935,6 +19937,7 @@
 0.0.0.0 dct.mango-office.ru
 0.0.0.0 dcudi.basbleu.com
 0.0.0.0 dd.control4.com
+0.0.0.0 dd.g2.com
 0.0.0.0 dd.reuters.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 ddb.dirtydogbeautyclub.com
@@ -64532,6 +64535,7 @@
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.togothermany.com
 0.0.0.0 event.tosspayments.com
+0.0.0.0 event.tradedealer.ru
 0.0.0.0 event.ucarpac.com
 0.0.0.0 event.webcollage.net
 0.0.0.0 event.wondershare.com
@@ -90510,6 +90514,7 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.safe-installation.com
+0.0.0.0 pixel.scoring.ru
 0.0.0.0 pixel.sibellemodas.com.br
 0.0.0.0 pixel.smartnews.com
 0.0.0.0 pixel.sojern.com

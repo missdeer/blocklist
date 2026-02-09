@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 08 Feb 2026 05:36:59 UTC
+# Updated at Mon, 09 Feb 2026 05:41:06 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -15346,6 +15346,7 @@
 0.0.0.0 counter.ok.ee
 0.0.0.0 counter.packa2.cz
 0.0.0.0 counter.pixplug.in
+0.0.0.0 counter.powr.io
 0.0.0.0 counter.pr-cy.ru
 0.0.0.0 counter.proxycrawl.com
 0.0.0.0 counter.rambler.ru
@@ -64722,6 +64723,7 @@
 0.0.0.0 events.whisk.com
 0.0.0.0 events.wonderstory.es
 0.0.0.0 events.xletix.com
+0.0.0.0 events1.avantisvideo.com
 0.0.0.0 events2.directos.eu
 0.0.0.0 eventsapi.grocerkey.com
 0.0.0.0 eventsmall.com
@@ -75015,6 +75017,7 @@
 0.0.0.0 lake.studydrive.net
 0.0.0.0 lakerspreferences.gleague.nba.com
 0.0.0.0 lakerspreferences.nba.com
+0.0.0.0 lakesecure.com
 0.0.0.0 lalu.lalumini.com.br
 0.0.0.0 lamborghini.euroshop.com.pe
 0.0.0.0 lameletters.com
@@ -91032,6 +91035,7 @@
 0.0.0.0 prebid-log.getpublica.com
 0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 prebid.loopmertb.com
+0.0.0.0 prebid.tapatalk.com
 0.0.0.0 preciousplanes.com
 0.0.0.0 precisear.com
 0.0.0.0 precisioncounter.com
@@ -92175,6 +92179,7 @@
 0.0.0.0 radiantcanopy.com
 0.0.0.0 radiantlullaby.com
 0.0.0.0 radiateprose.com
+0.0.0.0 radiosfax.com
 0.0.0.0 rafvj.alluremedical.com
 0.0.0.0 ragpq.stashtea.com
 0.0.0.0 rahatnew.volora.xyz
@@ -114930,6 +114935,7 @@
 0.0.0.0 tp.your-look-for-less.nl
 0.0.0.0 tp.your-look-for-less.se
 0.0.0.0 tp2p.kg.qq.com
+0.0.0.0 tp88trk.com
 0.0.0.0 tpa7.iahorro.com
 0.0.0.0 tpbywf.emp-shop.pl
 0.0.0.0 tpe.theparticipanteffect.com
@@ -118733,6 +118739,7 @@
 0.0.0.0 twcdgc.opodo.ch
 0.0.0.0 twcount.com
 0.0.0.0 tweetdeck.net.anwalt.de
+0.0.0.0 twelvedawn.com
 0.0.0.0 twf.wechselfabrik.de
 0.0.0.0 twfcgu.the-couple.com
 0.0.0.0 twhkzm.getstact.com

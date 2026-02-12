@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 11 Feb 2026 05:41:21 UTC
+# Updated at Thu, 12 Feb 2026 05:38:09 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5447,6 +5447,7 @@
 0.0.0.0 alligator.crousille.ch
 0.0.0.0 alligator.remotecyberwork.com
 0.0.0.0 allinsurance.allinsure.ca
+0.0.0.0 allnewhost.com
 0.0.0.0 alloutdubstep.com
 0.0.0.0 allsunflowers.com
 0.0.0.0 alltracked.com
@@ -10509,6 +10510,7 @@
 0.0.0.0 calltracks.com
 0.0.0.0 calmcactus.com
 0.0.0.0 calmstudent.com
+0.0.0.0 calvarycards.com
 0.0.0.0 calypsocapsule.com
 0.0.0.0 camel.gastro-plan.app
 0.0.0.0 camel.nonpopularopinion.com
@@ -110282,6 +110284,7 @@
 0.0.0.0 stats.jhsheridan.com
 0.0.0.0 stats.jiosaavn.com
 0.0.0.0 stats.jjude.com
+0.0.0.0 stats.jkdesa.com
 0.0.0.0 stats.jmmr.dev
 0.0.0.0 stats.joaopedro.dev
 0.0.0.0 stats.johanneswienke.de
@@ -110429,6 +110432,7 @@
 0.0.0.0 stats.nodewood.com
 0.0.0.0 stats.noeticflow.com
 0.0.0.0 stats.nonprofit.foundation
+0.0.0.0 stats.norton.com
 0.0.0.0 stats.nortonhealthcare.com
 0.0.0.0 stats.ntietz.com
 0.0.0.0 stats.nullsecure.com
@@ -114892,6 +114896,7 @@
 0.0.0.0 tortoise.trysmartplan.com
 0.0.0.0 toru0vane.com
 0.0.0.0 tos.botex.dk
+0.0.0.0 totem.tvmaze.com
 0.0.0.0 touao.thesewingstudio.co.uk
 0.0.0.0 toucan.ateliermilky.com
 0.0.0.0 toucan.the-faithful.com

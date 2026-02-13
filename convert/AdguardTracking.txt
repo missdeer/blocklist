@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 12 Feb 2026 05:38:09 UTC
+# Updated at Fri, 13 Feb 2026 05:33:56 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8644,6 +8644,7 @@
 0.0.0.0 at-go.experian.com
 0.0.0.0 at-o.net
 0.0.0.0 at.agentcrate.com
+0.0.0.0 at.artistchai.co.kr
 0.0.0.0 at.attualityofficial.com
 0.0.0.0 at.badische-zeitung.de
 0.0.0.0 at.choicefurnituresuperstore.co.uk
@@ -18503,6 +18504,7 @@
 0.0.0.0 data.armexdef.uk
 0.0.0.0 data.artangels.net
 0.0.0.0 data.articles.ringcentral.com
+0.0.0.0 data.artistchai.co.kr
 0.0.0.0 data.artnekretnine.com
 0.0.0.0 data.aschito.com
 0.0.0.0 data.ashbourne-co.com
@@ -20545,6 +20547,7 @@
 0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 dlog.pwsdk.com
 0.0.0.0 dlqxtm.sssports.com
+0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 dls-b23-link.ip.twelve99.net.iberostar.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls2s.appsflyer.com
@@ -74412,6 +74415,7 @@
 0.0.0.0 kaocko.swaglift.com
 0.0.0.0 kapetracking.com
 0.0.0.0 kaqzb.fatbikeskopen.nl
+0.0.0.0 karrot-pixel.business.daangn.com
 0.0.0.0 karte.io
 0.0.0.0 kascb.jamsworld.com
 0.0.0.0 kataribe.kataribecms.com
@@ -75325,6 +75329,7 @@
 0.0.0.0 lgbdxo.azazie.com
 0.0.0.0 lgcns.goldenplanet.co.kr
 0.0.0.0 lgdpf.roark.com
+0.0.0.0 lgecokr.api.useinsider.com
 0.0.0.0 lgforbes.akamaized.net
 0.0.0.0 lghsf.draperjames.com
 0.0.0.0 lghsws.europcar.com.au

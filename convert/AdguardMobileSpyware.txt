@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 12 Feb 2026 05:38:08 UTC
+# Updated at Fri, 13 Feb 2026 05:33:56 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -955,6 +955,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 trkapi.impact.com
+0.0.0.0 trkcliq.com
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 tunein.adswizz.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 13 Feb 2026 05:33:56 UTC
+# Updated at Sat, 14 Feb 2026 05:12:44 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -9769,6 +9769,7 @@
 0.0.0.0 bkzgyz.t-2.net
 0.0.0.0 bl-1.com
 0.0.0.0 black25.cursosflexcompany.com.br
+0.0.0.0 blackbelted.com
 0.0.0.0 blackberry.basf.com
 0.0.0.0 blackberry.basf.de
 0.0.0.0 blackberry.btc-europe.com
@@ -10580,6 +10581,7 @@
 0.0.0.0 canid.20inchlabs.com
 0.0.0.0 canidae.collectingsocialphoto.org
 0.0.0.0 canidae.fidum.uk
+0.0.0.0 cannonborough.com
 0.0.0.0 cannonchange.com
 0.0.0.0 canopylabs.com
 0.0.0.0 canttouchme.broring.com
@@ -83162,6 +83164,7 @@
 0.0.0.0 measure.wearebazoo.com
 0.0.0.0 measure.zency.dk
 0.0.0.0 measure2.zeproc.com
+0.0.0.0 measureadv.com
 0.0.0.0 measuremap.com
 0.0.0.0 measurement.befestigungsfuchs.de
 0.0.0.0 measurement.kilamobler.se
@@ -90776,6 +90779,7 @@
 0.0.0.0 plausible.zest.dev
 0.0.0.0 plausible.zorin.com
 0.0.0.0 plavxml.com
+0.0.0.0 player-analytics.mp.lura.live
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player-feedback.p7s1video.net
 0.0.0.0 player-telemetry.vimeo.com
@@ -114850,6 +114854,7 @@
 0.0.0.0 tofusquirrel.com
 0.0.0.0 tojdz.sillysanta.nl
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 token.awswaf.com
 0.0.0.0 tokhb.denatuuralsmedicijn.nl
 0.0.0.0 tokti.sokolovelaw.com
 0.0.0.0 toldyouso.lol
@@ -116067,6 +116072,7 @@
 0.0.0.0 trace.popin.cc
 0.0.0.0 trace.qq.com
 0.0.0.0 trace.rememberapp.co.kr
+0.0.0.0 trace.shengshu-ai.com
 0.0.0.0 trace.zhiyan.tencent-cloud.net
 0.0.0.0 trace21.dsb-ebusiness.com
 0.0.0.0 traceprof.com
@@ -118408,6 +118414,7 @@
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 trkapi.impact.com
 0.0.0.0 trkcare.hmhn.org
+0.0.0.0 trkcliq.com
 0.0.0.0 trkcmb.business.algeria.hsbc.com
 0.0.0.0 trkcmb.business.hsbc.ae
 0.0.0.0 trkcmb.business.hsbc.co.in

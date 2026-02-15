@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 14 Feb 2026 05:12:44 UTC
+# Updated at Sun, 15 Feb 2026 05:23:21 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -15410,6 +15410,7 @@
 0.0.0.0 countvoncount.goguardian.com
 0.0.0.0 countyou.de
 0.0.0.0 countz.com
+0.0.0.0 couponrail.com
 0.0.0.0 courageousbaby.com
 0.0.0.0 covatic.io
 0.0.0.0 cover.mycar.online
@@ -16438,6 +16439,7 @@
 0.0.0.0 dai1c.protislank.nl
 0.0.0.0 dai1c.sukrin.be
 0.0.0.0 dai1c.sukrin.nl
+0.0.0.0 dailydomino.com
 0.0.0.0 dajdnm.splits59.com
 0.0.0.0 dalnaz.alechrzest.pl
 0.0.0.0 damagedadvice.com
@@ -74017,6 +74019,7 @@
 0.0.0.0 jiankongbao.com
 0.0.0.0 jibyrm.jeep-official.it
 0.0.0.0 jiebm.us.davines.com
+0.0.0.0 jigsawlucky.com
 0.0.0.0 jihzn.feature.com
 0.0.0.0 jilks.bravelittleones.com
 0.0.0.0 jimbm.charlestyrwhitt.com
@@ -87534,6 +87537,7 @@
 0.0.0.0 onelink.me
 0.0.0.0 onelinksmartscript.appsflyer.com
 0.0.0.0 onenet.gakujutsu.com
+0.0.0.0 onespecify.com
 0.0.0.0 onestat.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 onetag.co.kr
@@ -114854,7 +114858,6 @@
 0.0.0.0 tofusquirrel.com
 0.0.0.0 tojdz.sillysanta.nl
 0.0.0.0 tok.vaicore.xyz
-0.0.0.0 token.awswaf.com
 0.0.0.0 tokhb.denatuuralsmedicijn.nl
 0.0.0.0 tokti.sokolovelaw.com
 0.0.0.0 toldyouso.lol

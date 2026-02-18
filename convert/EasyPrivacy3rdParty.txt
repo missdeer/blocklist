@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Tue, 17 Feb 2026 05:24:35 UTC
+# Updated at Wed, 18 Feb 2026 05:35:50 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -868,6 +868,7 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 live.exchangesolutions.com
 0.0.0.0 livecounter.theyosh.nl
+0.0.0.0 livesearch-metrics.magento-ds.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net

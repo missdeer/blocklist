@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 18 Feb 2026 05:35:51 UTC
+# Updated at Thu, 19 Feb 2026 05:25:15 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -18634,7 +18634,6 @@
 0.0.0.0 data-nl.elektroniknet.de
 0.0.0.0 data-nl.medical-design.news
 0.0.0.0 data-nl.tageskarte.io
-0.0.0.0 data-p.gryphline.com
 0.0.0.0 data-ssl.catererglobal.com
 0.0.0.0 data-ssl.cityjobs.com
 0.0.0.0 data-ssl.cwjobs.co.uk

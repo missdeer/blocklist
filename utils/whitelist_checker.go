@@ -19,6 +19,7 @@ var (
 		equal(`behance.net`),
 		equal(`soundcloud.com`),
 		equal(`global.ssl.fastly.net`),
+		suffix(`gyrovague.com`),
 		suffix(`msedge.net`),
 		suffix(`internetdownloadmanager.com`),
 		suffix(`.alcohol-soft.com`),

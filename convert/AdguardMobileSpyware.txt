@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 19 Feb 2026 12:17:03 UTC
+# Updated at Fri, 20 Feb 2026 05:19:37 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -262,7 +262,6 @@
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 costco-adbutler.com
 0.0.0.0 counters.booking.com
-0.0.0.0 countly.globaldelight.net
 0.0.0.0 cpatrk.net
 0.0.0.0 crasheye.cn
 0.0.0.0 crs-event.line.me

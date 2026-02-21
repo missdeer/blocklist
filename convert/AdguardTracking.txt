@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 20 Feb 2026 05:19:36 UTC
+# Updated at Sat, 21 Feb 2026 05:10:10 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -10711,6 +10711,7 @@
 0.0.0.0 byjpsr.bobags.com.br
 0.0.0.0 bykwtf.victoriassecret.ae
 0.0.0.0 bynvhb.godiva.com
+0.0.0.0 byoviral.com
 0.0.0.0 byqdtp.interpark.com
 0.0.0.0 bysbpc.teufelaudio.nl
 0.0.0.0 bysfnu.bodeboca.com
@@ -121564,6 +121565,7 @@
 0.0.0.0 tracking.trutv.com
 0.0.0.0 tracking.turbowinbet.com
 0.0.0.0 tracking.tving.com
+0.0.0.0 tracking.twelveapp.sh
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.umbrella.com
 0.0.0.0 tracking.umms.org

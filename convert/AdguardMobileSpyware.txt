@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 20 Feb 2026 05:19:37 UTC
+# Updated at Sat, 21 Feb 2026 05:10:09 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -946,6 +946,7 @@
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 tracking.purchasely.io
 0.0.0.0 tracking.trnox.com
+0.0.0.0 tracking.twelveapp.sh
 0.0.0.0 tracking.viewlift.com
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 traffic.calldorado.com

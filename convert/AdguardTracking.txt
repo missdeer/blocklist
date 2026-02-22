@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 21 Feb 2026 05:10:10 UTC
+# Updated at Sun, 22 Feb 2026 05:19:19 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -83864,6 +83864,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 locateskill.com
 0.0.0.0 location.cyou
+0.0.0.0 location.dynabic.com
 0.0.0.0 lock.ottuhr.com
 0.0.0.0 lockuplookup.com
 0.0.0.0 lockview.cn

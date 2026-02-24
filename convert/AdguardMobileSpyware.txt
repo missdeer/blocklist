@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 23 Feb 2026 05:39:34 UTC
+# Updated at Tue, 24 Feb 2026 05:25:03 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -585,6 +585,7 @@
 0.0.0.0 logservice1.dbankcloud.cn
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logsink.zedge.net
+0.0.0.0 logssug.ucweb.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logz.tekiusa.com
 0.0.0.0 lw-c-log.lastwarapp.com

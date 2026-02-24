@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 23 Feb 2026 05:39:32 UTC
+# Updated at Tue, 24 Feb 2026 05:25:04 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -880,6 +880,7 @@
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 u-ad.info
+0.0.0.0 ucads.ucweb.com
 0.0.0.0 ufz.doesxyz.com
 0.0.0.0 ultraadserver.com
 0.0.0.0 umbel.com

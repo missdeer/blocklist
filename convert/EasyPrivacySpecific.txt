@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 28 Feb 2026 04:59:56 UTC
+# Updated at Sun, 01 Mar 2026 05:20:57 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -437,6 +437,7 @@
 0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-2ffe60ee.westpac.com.au
 0.0.0.0 log-gateway.zoom.us
+0.0.0.0 log.arkansasonline.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
@@ -653,6 +654,7 @@
 0.0.0.0 sp.ecosia.org
 0.0.0.0 sp.justwatch.com
 0.0.0.0 sp.pcoptimum.ca
+0.0.0.0 sp.pluto.tv
 0.0.0.0 sp.welcometothejungle.com
 0.0.0.0 spaning.creavite.co
 0.0.0.0 spectrum.gettyimages.com

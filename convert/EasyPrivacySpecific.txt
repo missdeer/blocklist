@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 10 Mar 2026 05:13:26 UTC
+# Updated at Wed, 11 Mar 2026 05:15:05 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -527,6 +527,9 @@
 0.0.0.0 p.codio.com
 0.0.0.0 p.controld.com
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 p.mdb.tools
+0.0.0.0 p.midbound.click
+0.0.0.0 p.midbound.net
 0.0.0.0 p.minds.com
 0.0.0.0 p.spotidownloader.com
 0.0.0.0 pac.thescottishsun.co.uk

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 10 Mar 2026 05:13:25 UTC
+# Updated at Wed, 11 Mar 2026 05:15:05 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -185,6 +185,7 @@
 0.0.0.0 b99.yahoo.co.jp
 0.0.0.0 banner.appsflyer.com
 0.0.0.0 batsavcdn.ksmobile.net
+0.0.0.0 bdtelemetry.amazon
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
@@ -619,7 +620,6 @@
 0.0.0.0 metrics.spbtv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 mgs123.com
-0.0.0.0 minor-api-os.hoyoverse.com
 0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mlb.did.ijinshan.com
@@ -770,6 +770,7 @@
 0.0.0.0 rtlog.isnssdk.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rts.mobula.sdk.duapps.com
+0.0.0.0 rum.us-east-1.amazonaws.com
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 s3-analytics-events.easybrain.com
@@ -897,7 +898,6 @@
 0.0.0.0 tr.line.me
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr6.snapchat.com
-0.0.0.0 trace-v1.free-reels.com
 0.0.0.0 trace.free-reels.com
 0.0.0.0 trace.qq.com
 0.0.0.0 traces.sr.roku.com

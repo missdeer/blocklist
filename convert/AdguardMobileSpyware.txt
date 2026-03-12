@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 12 Mar 2026 05:19:04 UTC
+# Updated at Thu, 12 Mar 2026 21:17:40 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -414,13 +414,19 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.ucweb.com
+0.0.0.0 global-report.ml.youngjoygame.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 gnsnpaw.com
 0.0.0.0 googleadapis.l.google.com
+0.0.0.0 gplog-sg.byteoversea.com
+0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
+0.0.0.0 gsdk-quic-gcp-va.bytegsdk.com
+0.0.0.0 gsdk-va.bytegsdk.com
+0.0.0.0 gsdk19-va.bytegsdk.com
 0.0.0.0 guid.tpns.sgp.tencent.com
 0.0.0.0 hb-af-us-central1.outfit7.com
 0.0.0.0 hb-failover-stpceyl2ua-uw.a.run.app
@@ -484,6 +490,7 @@
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 log-nontt.bytegsdk.com
 0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-sg.capcutapi.com

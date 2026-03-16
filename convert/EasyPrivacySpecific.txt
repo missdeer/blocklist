@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 15 Mar 2026 05:40:45 UTC
+# Updated at Mon, 16 Mar 2026 05:54:13 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -409,8 +409,6 @@
 0.0.0.0 intent.pcworld.idg.com.au
 0.0.0.0 intent.techadvisor.com
 0.0.0.0 internal-analytics.odoo.com
-0.0.0.0 internal-e.posthog.com
-0.0.0.0 internal-t.posthog.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
@@ -538,6 +536,7 @@
 0.0.0.0 papi.stylar.ai
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 pcp.coupert.com
+0.0.0.0 pepin.padlet.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performance-logger.minted.com
 0.0.0.0 perr.hola.org

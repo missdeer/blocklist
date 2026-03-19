@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 18 Mar 2026 05:38:35 UTC
+# Updated at Thu, 19 Mar 2026 05:34:37 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -798,7 +798,9 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdks.stats-locations.com
 0.0.0.0 seller-log-collector.shopee
+0.0.0.0 sensor.aqhg.online
 0.0.0.0 sensor.emolm.com
+0.0.0.0 sensor.photogrid.app
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sensorsdata-datasink.stardust-tv.com

@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sun, 22 Mar 2026 05:22:27 UTC
+# Updated at Mon, 23 Mar 2026 05:44:09 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -253,6 +253,7 @@
 0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 b.bedop.com
 0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
+0.0.0.0 banner.appsflyersdk.com
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
@@ -747,6 +748,7 @@
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 futurehybrid.tech
+0.0.0.0 fvalid.appsflyersdk.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 g.msn.com
 0.0.0.0 g2insights-cdn.azureedge.net
@@ -995,6 +997,7 @@
 0.0.0.0 octopart-analytics.com
 0.0.0.0 oda.markitondemand.com
 0.0.0.0 olytics.omeda.com
+0.0.0.0 onelinksmartscript.appsflyersdk.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onetrust.com
 0.0.0.0 open.oneplus.net
@@ -1353,6 +1356,7 @@
 0.0.0.0 t.greenbids.ai
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
+0.0.0.0 t.ltiquery.com
 0.0.0.0 t.menepe.com
 0.0.0.0 t.metrilo.com
 0.0.0.0 t.mydialoginsight.com
@@ -1656,6 +1660,7 @@
 0.0.0.0 vtrk.dv.tech
 0.0.0.0 vwonwkaqvq-a.global.ssl.fastly.net
 0.0.0.0 w4o7aea80ss3-a.akamaihd.net
+0.0.0.0 wa.appsflyersdk.com
 0.0.0.0 watchtower.graindata.com
 0.0.0.0 wco.crownpeak.com
 0.0.0.0 wds.weqs.me
@@ -1664,6 +1669,7 @@
 0.0.0.0 web-vitals-script.leaderint.workers.dev
 0.0.0.0 web1.51.la
 0.0.0.0 websdk.appsflyer.com
+0.0.0.0 websdk.appsflyersdk.com
 0.0.0.0 websecurity.norton.com
 0.0.0.0 webservices.websitepros.com
 0.0.0.0 webstats.thaindian.com

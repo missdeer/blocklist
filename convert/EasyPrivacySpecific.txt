@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 22 Mar 2026 05:22:27 UTC
+# Updated at Mon, 23 Mar 2026 05:44:09 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -520,6 +520,7 @@
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onesignal.com
+0.0.0.0 op.dragonfru.it
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 otel-mobile.doordash.com

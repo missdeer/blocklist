@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 24 Mar 2026 05:35:47 UTC
+# Updated at Wed, 25 Mar 2026 05:35:41 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -453,6 +453,7 @@
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 infinario.com
 0.0.0.0 ingest.m2catalyst.com
+0.0.0.0 ingest.skarb.work
 0.0.0.0 innovads-server.poster.appsinnova.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 insights-categorizer-noneu.truecaller.com

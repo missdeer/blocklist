@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sun, 29 Mar 2026 05:47:33 UTC
+# Updated at Mon, 30 Mar 2026 06:04:03 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -819,6 +819,7 @@
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 impress.vcita.com
+0.0.0.0 impression.appsflyer.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 infinityid.condenastdigital.com
@@ -999,6 +1000,7 @@
 0.0.0.0 octopart-analytics.com
 0.0.0.0 oda.markitondemand.com
 0.0.0.0 olytics.omeda.com
+0.0.0.0 onelinksmartscript.appsflyer.com
 0.0.0.0 onelinksmartscript.appsflyersdk.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onetrust.com
@@ -1182,6 +1184,7 @@
 0.0.0.0 scripts.psyma.com
 0.0.0.0 sd-tagging.azurefd.net
 0.0.0.0 sdk.51.la
+0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdtagging.azureedge.net
 0.0.0.0 seal.digicert.com

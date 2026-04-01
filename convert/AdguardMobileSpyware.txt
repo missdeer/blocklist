@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 31 Mar 2026 05:48:59 UTC
+# Updated at Wed, 01 Apr 2026 06:01:35 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -381,6 +381,7 @@
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.production.us1.pgw-pci.klarna.net
+0.0.0.0 events.split.io
 0.0.0.0 events.swiftlycontent.net
 0.0.0.0 events.swishapps.ai
 0.0.0.0 events.textme-app.com
@@ -663,6 +664,7 @@
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 mosspf.net
 0.0.0.0 mossturbo.com
+0.0.0.0 mp-gb-sdklog.kurogames.net
 0.0.0.0 ms-report.uu.cc
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg-intl.qy.net
@@ -732,6 +734,7 @@
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 prod-analytics.royal.drmgms.com
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
+0.0.0.0 prod-ue1-metrics.hingeprod.net
 0.0.0.0 prod.report.nacustomerexperience.citi.com
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
@@ -890,6 +893,7 @@
 0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 telemetry.split.io
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com

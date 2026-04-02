@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 01 Apr 2026 06:01:35 UTC
+# Updated at Thu, 02 Apr 2026 05:45:50 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -356,6 +356,7 @@
 0.0.0.0 cafe-latte.myshoplus.com
 0.0.0.0 cashprom.ru
 0.0.0.0 casino-ad-mediation.me2zengame.com
+0.0.0.0 catsonictp.com
 0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-api.admost.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 01 Apr 2026 06:01:35 UTC
+# Updated at Thu, 02 Apr 2026 05:45:50 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -156,6 +156,7 @@
 0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 app-analytics-services.com
+0.0.0.0 app-log-lab.immomo.com
 0.0.0.0 app-log-oversea.immomo.com
 0.0.0.0 app-monitor.spacecape.com
 0.0.0.0 app-tracking.hlogo.de
@@ -170,6 +171,7 @@
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 apptics.zoho.in
 0.0.0.0 apsrgeo.amap.com
+0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 arcspire.io
 0.0.0.0 asanalytics.booking.com
 0.0.0.0 astat.bugly.qq.com
@@ -397,6 +399,7 @@
 0.0.0.0 fm-analytics-api.pocketfm.com
 0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 fp-sa-it.fengkongcloud.com
+0.0.0.0 fpconfig.net
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
@@ -456,6 +459,7 @@
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 infinario.com
+0.0.0.0 ingest.databuckets.com
 0.0.0.0 ingest.m2catalyst.com
 0.0.0.0 ingest.skarb.work
 0.0.0.0 innovads-server.poster.appsinnova.com
@@ -635,6 +639,7 @@
 0.0.0.0 mgs123.com
 0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
+0.0.0.0 mixpanel-proxy-ivbdkvonca-uc.a.run.app
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com
@@ -714,6 +719,7 @@
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com
+0.0.0.0 pco-sm-log.tantanapp.com
 0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 perf.bblmw.com
 0.0.0.0 perfsight.wetest.net
@@ -768,6 +774,7 @@
 0.0.0.0 report.apkpure.net
 0.0.0.0 report.pixverse.ai
 0.0.0.0 report.starshort.online
+0.0.0.0 report.tantanapp.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com
@@ -885,6 +892,7 @@
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tc.weszxdrf.com
+0.0.0.0 tc.zxcvbnml.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 telemetry.api.swiftkey.com

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 02 Apr 2026 05:45:50 UTC
+# Updated at Fri, 03 Apr 2026 05:46:10 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -248,6 +248,7 @@
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 api-ad-callback.falconnet.app
 0.0.0.0 api-ad-callback.mobiuspace.net
+0.0.0.0 api-v2.shareitgames.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.adaether.com
 0.0.0.0 api.ads.newsdigest.jp
@@ -270,6 +271,7 @@
 0.0.0.0 api.sve.cc
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.youngle.tech
+0.0.0.0 api2.wshareit.com
 0.0.0.0 apis.appnxt.net
 0.0.0.0 apishow.babybus.com
 0.0.0.0 app-ads-services.com
@@ -464,6 +466,7 @@
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
 0.0.0.0 flygo.ru
+0.0.0.0 fnyfeds.com
 0.0.0.0 focas.jp
 0.0.0.0 freewheel-jitt.sanoma.fi
 0.0.0.0 friendlyduck.com
@@ -594,6 +597,7 @@
 0.0.0.0 maxesads.ru
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbn.com.ua
+0.0.0.0 mcds.dalyfeds.com
 0.0.0.0 mcoreads.com
 0.0.0.0 med-api.admost.com
 0.0.0.0 medialand.ru
@@ -738,6 +742,7 @@
 0.0.0.0 pub1.co
 0.0.0.0 pubnative.info
 0.0.0.0 pubnative.net
+0.0.0.0 pullcf.com
 0.0.0.0 pushad.metajoy.services
 0.0.0.0 px.adhigh.net
 0.0.0.0 qist.me

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 02 Apr 2026 05:45:50 UTC
+# Updated at Fri, 03 Apr 2026 05:46:10 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -364,6 +364,7 @@
 0.0.0.0 events-api.soundcloud.com
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 events-collector-api.viacom.tech
+0.0.0.0 events-noneu.truecaller.com
 0.0.0.0 events-stream-svc.cordial.com
 0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events-stream-svc.usw2.cordial.com
@@ -698,6 +699,7 @@
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 ntracker-collector.naver.com
+0.0.0.0 ntus.bidease.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 obus-in.dc.heytapmobile.com
 0.0.0.0 oldevent.togothermany.com
@@ -742,6 +744,7 @@
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
 0.0.0.0 prod-ue1-metrics.hingeprod.net
 0.0.0.0 prod.report.nacustomerexperience.citi.com
+0.0.0.0 profiler-collector.dalyfeds.com
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 0.0.0.0 prugskh.com
@@ -776,6 +779,7 @@
 0.0.0.0 report.starshort.online
 0.0.0.0 report.tantanapp.com
 0.0.0.0 reporting.aatkit.com
+0.0.0.0 reporttk.com
 0.0.0.0 reportwest-midas.codmwest.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 rlog-api.under9.co
@@ -905,6 +909,7 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
+0.0.0.0 thinkingdata.cn
 0.0.0.0 tjinit-event.babybus.com
 0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tknet.rayjump.com
@@ -936,6 +941,7 @@
 0.0.0.0 track.applicaster.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.extra.app
+0.0.0.0 track.hily.com
 0.0.0.0 track.hk01.com
 0.0.0.0 track.ktplay.com
 0.0.0.0 track.lc.quark.cn

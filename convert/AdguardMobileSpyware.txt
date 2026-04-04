@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 03 Apr 2026 05:46:10 UTC
+# Updated at Sat, 04 Apr 2026 05:24:21 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -95,6 +95,7 @@
 0.0.0.0 analytics.oliveapp.net
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.prod.mybuddy.ai
+0.0.0.0 analytics.prod.tophat.withbuddies.com
 0.0.0.0 analytics.projectcarmen.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
@@ -120,6 +121,7 @@
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api-fp-retry-sa.fengkongcloud.com
+0.0.0.0 api-log-upload.wenext.technology
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
@@ -193,6 +195,7 @@
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.shazam.com
+0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacons-prod.fubo.tv
 0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 beha.ksmobile.com
@@ -290,6 +293,7 @@
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 detaillog-global-dual.coolbcloud.com
+0.0.0.0 detaillog-global-dual.coolccloud.com
 0.0.0.0 detaillog-global-dual.coolgcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 detailroi.com
@@ -591,6 +595,7 @@
 0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 logreport-global-dual.coolbcloud.com
 0.0.0.0 logreport-global-dual.coolhcloud.com
+0.0.0.0 logretrieve.duetapp.net
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 logs.amap.com
@@ -636,6 +641,7 @@
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.sp0n.io
 0.0.0.0 metrics.spbtv.com
+0.0.0.0 metrics.taimi.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 mgs123.com
 0.0.0.0 mintegral.net
@@ -775,6 +781,7 @@
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.1-1.io
 0.0.0.0 report.apkpure.net
+0.0.0.0 report.duetapp.net
 0.0.0.0 report.pixverse.ai
 0.0.0.0 report.starshort.online
 0.0.0.0 report.tantanapp.com
@@ -872,6 +879,7 @@
 0.0.0.0 stats.rong-edge.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 stats.samsungpass.com
+0.0.0.0 stats.sdk.banuba.net
 0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 stats.studyquicks.com
 0.0.0.0 stats.sxp.smartclip.net

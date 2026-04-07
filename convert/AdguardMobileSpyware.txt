@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 06 Apr 2026 06:04:36 UTC
+# Updated at Tue, 07 Apr 2026 05:52:05 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -152,8 +152,10 @@
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.branch.io
 0.0.0.0 apishowstats.babybus.com
+0.0.0.0 apm-fe.rnote.com
 0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
+0.0.0.0 apm-native.redbascket.com
 0.0.0.0 apm-native.xiaohongshu.com
 0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 app-analytics-ru.huami.com
@@ -500,6 +502,7 @@
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 live.ravelin.click
 0.0.0.0 lklfwu-inapps.appsflyersdk.com
+0.0.0.0 lng.xiaohongshu.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 log-collector.shopee
 0.0.0.0 log-mediation.easemobi.net
@@ -560,6 +563,7 @@
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.pullcenter.live
 0.0.0.0 log.pvpgang.com
+0.0.0.0 log.qrscanner.live
 0.0.0.0 log.scanqrcodedesign.live
 0.0.0.0 log.smartclearpro.com
 0.0.0.0 log.snow.me
@@ -895,6 +899,7 @@
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.castle.io
+0.0.0.0 t2.xiaohongshu.com
 0.0.0.0 tagdelivery.mayoclinic.org
 0.0.0.0 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 0.0.0.0 tags.creditkarma.com

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 07 Apr 2026 05:52:05 UTC
+# Updated at Wed, 08 Apr 2026 05:52:56 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -290,6 +290,7 @@
 0.0.0.0 data.sec.miui.com
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 datarangers-event.myrightone.com
+0.0.0.0 datasink.sensorsjourney.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 de01.rayjump.com

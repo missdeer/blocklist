@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 09 Apr 2026 05:53:54 UTC
+# Updated at Fri, 10 Apr 2026 06:04:50 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -536,6 +536,7 @@
 0.0.0.0 log.cleansweepplu.com
 0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 log.documentmanagerpdfdocxlssale.live
+0.0.0.0 log.documentreaderapp.com
 0.0.0.0 log.down61.com
 0.0.0.0 log.dramaboxdb.com
 0.0.0.0 log.easy39.com

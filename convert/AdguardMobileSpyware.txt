@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 11 Apr 2026 05:36:35 UTC
+# Updated at Sun, 12 Apr 2026 06:00:27 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -258,6 +258,7 @@
 0.0.0.0 collect.wehearfm.com
 0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 collector.brandify.com
+0.0.0.0 collector.gamechanger.io
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.vhx.tv
 0.0.0.0 confe.dc.oppomobile.com

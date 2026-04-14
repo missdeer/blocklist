@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 13 Apr 2026 06:23:58 UTC
+# Updated at Tue, 14 Apr 2026 06:07:01 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -770,6 +770,7 @@
 0.0.0.0 px.ucweb.com
 0.0.0.0 px.wpk.quark.cn
 0.0.0.0 qa-events-schema.viacom.tech
+0.0.0.0 qbk1.com
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 r-log.dable.io

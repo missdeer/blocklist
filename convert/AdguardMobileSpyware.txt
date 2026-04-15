@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 14 Apr 2026 06:07:01 UTC
+# Updated at Wed, 15 Apr 2026 06:06:11 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -175,6 +175,7 @@
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 apptics.zoho.in
 0.0.0.0 apsrgeo.amap.com
+0.0.0.0 aptoide-rtb.aptoide.com
 0.0.0.0 aqueduct-collector-prod.alar.my
 0.0.0.0 arcspire.io
 0.0.0.0 asanalytics.booking.com
@@ -308,6 +309,7 @@
 0.0.0.0 dfe.mic.mob.com
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 diagnostics.rakam.io
 0.0.0.0 dig.bdurl.net
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
@@ -777,6 +779,7 @@
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.browser.miui.com
 0.0.0.0 rabbit.meitustat.com
+0.0.0.0 rakam-api.aptoide.com
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 receiver.habby.mobi
@@ -785,6 +788,7 @@
 0.0.0.0 relap.io
 0.0.0.0 remain.appcpi.net
 0.0.0.0 report-edge.agora.io
+0.0.0.0 report-edge.rtesvc.com
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 report.1-1.io
@@ -972,6 +976,7 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.uc.cn
 0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.a11.vega.aurion11.io
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 tracker.mtrtb.com

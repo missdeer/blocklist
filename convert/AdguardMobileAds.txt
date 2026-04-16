@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 15 Apr 2026 06:06:11 UTC
+# Updated at Thu, 16 Apr 2026 06:09:35 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -330,6 +330,7 @@
 0.0.0.0 betrad.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 bi.yeshen.com
+0.0.0.0 bidder.a11.vega.aurion11.io
 0.0.0.0 bidjora.com
 0.0.0.0 bidsms.com
 0.0.0.0 bidsopt.com

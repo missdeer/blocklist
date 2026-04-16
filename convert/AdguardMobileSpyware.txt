@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 15 Apr 2026 06:06:11 UTC
+# Updated at Thu, 16 Apr 2026 06:09:35 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -432,6 +432,7 @@
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 gjtrack.ucweb.com
+0.0.0.0 global-receiver-ta.thinkingdata.cn
 0.0.0.0 global-report.ml.youngjoygame.com
 0.0.0.0 global-sis.engagelab.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -930,7 +931,6 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
-0.0.0.0 thinkingdata.cn
 0.0.0.0 tjinit-event.babybus.com
 0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tknet.rayjump.com

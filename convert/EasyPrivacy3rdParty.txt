@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 16 Apr 2026 06:09:35 UTC
+# Updated at Fri, 17 Apr 2026 06:09:55 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -798,6 +798,7 @@
 0.0.0.0 happen.spkt.io
 0.0.0.0 harvest.graindata.com
 0.0.0.0 hb.vhsrv.com
+0.0.0.0 heartbeat-pearl.vercel.app
 0.0.0.0 helix.bitformations.ca
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com

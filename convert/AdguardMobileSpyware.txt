@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 17 Apr 2026 06:09:56 UTC
+# Updated at Sat, 18 Apr 2026 05:46:35 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -728,6 +728,7 @@
 0.0.0.0 openlog.tapapis.cn
 0.0.0.0 openlog.tapapis.com
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
+0.0.0.0 otel-collector.reliability.smartnews.net
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.statp.com

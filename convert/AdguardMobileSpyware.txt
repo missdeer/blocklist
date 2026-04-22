@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 21 Apr 2026 06:09:45 UTC
+# Updated at Wed, 22 Apr 2026 06:07:11 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -94,6 +94,7 @@
 0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 analytics.oliveapp.net
 0.0.0.0 analytics.picsart.com
+0.0.0.0 analytics.pocketfm.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 analytics.prod.tophat.withbuddies.com
 0.0.0.0 analytics.projectcarmen.com
@@ -229,6 +230,7 @@
 0.0.0.0 census-app.scorecardresearch.com
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 cgicol.amap.com
+0.0.0.0 cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 client-events-ingress.bookbub.com
@@ -671,6 +673,7 @@
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mobileapptracking.com
+0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mobilelog.ws.pho.to
 0.0.0.0 mobiletelemetry.ebay.com

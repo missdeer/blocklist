@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 22 Apr 2026 06:07:10 UTC
+# Updated at Thu, 23 Apr 2026 06:14:12 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -617,6 +617,8 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moba8.net
+0.0.0.0 mobads-logs.bcebos.com
+0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
@@ -938,6 +940,7 @@
 0.0.0.0 ximad.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yc-ads.s3.amazonaws.com
+0.0.0.0 yfanads.com
 0.0.0.0 yieldkit.com
 0.0.0.0 yieldmo.com
 0.0.0.0 ykad-data.youku.com

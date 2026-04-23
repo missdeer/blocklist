@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 22 Apr 2026 06:07:11 UTC
+# Updated at Thu, 23 Apr 2026 06:14:12 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -463,6 +463,7 @@
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ibd-as-api.iq.com
+0.0.0.0 id6.me
 0.0.0.0 iemiq.com
 0.0.0.0 iguazu.doordash.com
 0.0.0.0 ihmonitor.luckincoffee.us
@@ -987,6 +988,7 @@
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 tracker.srta.spectrum.com
 0.0.0.0 tracker.str-nrg.com
+0.0.0.0 tracker.tianmu.mobi
 0.0.0.0 tracker.ulivetv.net
 0.0.0.0 trackernew.ulivetv.net
 0.0.0.0 trackers.fubo.tv
@@ -1043,6 +1045,7 @@
 0.0.0.0 ulogs2.ksapisrv.com
 0.0.0.0 unisdk.proxima.nie.easebar.com
 0.0.0.0 up-hl.3g.qq.com
+0.0.0.0 upc.zztfly.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 us-east-1.paa-reporting-advertising.amazon

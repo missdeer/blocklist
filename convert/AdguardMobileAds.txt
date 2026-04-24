@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 23 Apr 2026 06:14:12 UTC
+# Updated at Fri, 24 Apr 2026 06:18:08 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -494,6 +494,7 @@
 0.0.0.0 go.admost.com
 0.0.0.0 go.mobstitialtag.com
 0.0.0.0 go.vrvm.com
+0.0.0.0 goads2023.com
 0.0.0.0 goi08150kh.com
 0.0.0.0 googleadservices.com
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com

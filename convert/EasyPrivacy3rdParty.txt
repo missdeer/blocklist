@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 25 Apr 2026 05:54:22 UTC
+# Updated at Sun, 26 Apr 2026 06:17:00 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1107,6 +1107,7 @@
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prism.app-us1.com
+0.0.0.0 privacy-analytics-proxy.cookiebot.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 processor.asccommunications.com

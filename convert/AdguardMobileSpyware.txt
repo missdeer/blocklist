@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Sat, 25 Apr 2026 05:54:22 UTC
+# Updated at Sun, 26 Apr 2026 06:16:58 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -313,7 +313,6 @@
 0.0.0.0 dflow.log.hunantv.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 diagnostics.rakam.io
-0.0.0.0 dig.bdurl.net
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 dispatcher.upmc.uc.cn

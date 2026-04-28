@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 27 Apr 2026 06:37:54 UTC
+# Updated at Tue, 28 Apr 2026 06:38:57 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -700,6 +700,8 @@
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 p1-lm.adukwai.com
 0.0.0.0 p16-ad.byteoversea.com
+0.0.0.0 p3-ad-sign.byteimg.com
+0.0.0.0 p3-ad-sign.byteimg.com.queniusy.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 painsko.com
 0.0.0.0 pangle.io

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 27 Apr 2026 06:37:54 UTC
+# Updated at Tue, 28 Apr 2026 06:38:57 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -443,7 +443,6 @@
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gpm-mon-va.bytegsdk.com
 0.0.0.0 gpm-mon-va.byteoversea.com
-0.0.0.0 grs.dbankcloud
 0.0.0.0 grs.hicloud.com
 0.0.0.0 gsdk-quic-gcp-va.bytegsdk.com
 0.0.0.0 gsdk-va.bytegsdk.com

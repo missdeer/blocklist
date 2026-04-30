@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 29 Apr 2026 06:32:18 UTC
+# Updated at Thu, 30 Apr 2026 06:36:15 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -683,6 +683,7 @@
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon11-misc-lq.fqnovel.com
 0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
@@ -844,6 +845,7 @@
 0.0.0.0 sensor.aqhg.online
 0.0.0.0 sensor.emolm.com
 0.0.0.0 sensor.photogrid.app
+0.0.0.0 sensors.dito.ph
 0.0.0.0 sensors.snappea.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 sensorsdata-datasink.stardust-tv.com
@@ -944,6 +946,7 @@
 0.0.0.0 tnc-sg.capcutapi.com
 0.0.0.0 tnc-v2-boot.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
+0.0.0.0 tnc3-alisc1.bytedance.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 tobapplog.tobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com

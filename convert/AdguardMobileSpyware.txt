@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 04 May 2026 06:48:18 UTC
+# Updated at Tue, 05 May 2026 06:25:39 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -19,6 +19,7 @@
 0.0.0.0 adfuture.cn
 0.0.0.0 adj.st
 0.0.0.0 adrevenue.appsflyer.com
+0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-api.x.com
 0.0.0.0 ads-image.production-public.tubi.io
 0.0.0.0 ads-img-al.xhscdn.com
@@ -282,6 +283,7 @@
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 cws-hulu.conviva.com
+0.0.0.0 cxlog.shinhansec.com
 0.0.0.0 d.applvn.com
 0.0.0.0 d.reddit.com
 0.0.0.0 data-detect.nie.easebar.com
@@ -589,9 +591,11 @@
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log1.cmpassport.com
 0.0.0.0 log1.perfectworldgames.com
+0.0.0.0 log1.pwsdk.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log2.ihubgo.info
 0.0.0.0 log2.perfectworldgames.com
+0.0.0.0 log2.pwsdk.com
 0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 logapi.bodyevey.com

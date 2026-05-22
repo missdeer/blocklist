@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 21 May 2026 08:00:24 UTC
+# Updated at Fri, 22 May 2026 07:51:24 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -262,7 +262,6 @@
 0.0.0.0 collect.serious.li
 0.0.0.0 collect.ureca-lab.com
 0.0.0.0 collect.wehearfm.com
-0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.gamechanger.io
 0.0.0.0 collector.scopely.io
@@ -301,6 +300,7 @@
 0.0.0.0 datasink.sensorsjourney.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 dc.oppomobile.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 detaillog-global-dual.coolbcloud.com

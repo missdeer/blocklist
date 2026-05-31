@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 30 May 2026 06:52:48 UTC
+# Updated at Sun, 31 May 2026 07:50:00 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -13,6 +13,7 @@
 0.0.0.0 682a5845.b-cdn.net
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
+0.0.0.0 a.cineflix.st
 0.0.0.0 a.emea01.idio.episerver.net
 0.0.0.0 a.getflowbox.com
 0.0.0.0 a.hcaptcha.com

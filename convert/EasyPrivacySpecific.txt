@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 01 Jun 2026 09:32:47 UTC
+# Updated at Tue, 02 Jun 2026 08:43:03 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -47,6 +47,7 @@
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.ahrefs.dev
 0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.atom.com
 0.0.0.0 analytics.bitchute.com
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com

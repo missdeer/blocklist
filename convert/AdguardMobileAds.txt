@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 03 Jun 2026 09:00:38 UTC
+# Updated at Thu, 04 Jun 2026 08:24:30 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -13,6 +13,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 883.engine.mobileapptracking.com
 0.0.0.0 a.applvn.com
+0.0.0.0 a.line.me
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 aatkit.com
 0.0.0.0 abbott.vo.llnwd.net

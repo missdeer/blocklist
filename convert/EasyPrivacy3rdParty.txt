@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 12 Jun 2026 08:38:53 UTC
+# Updated at Sat, 13 Jun 2026 07:53:47 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -160,6 +160,7 @@
 0.0.0.0 analytics.pagefly.io
 0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.piksel.com
+0.0.0.0 analytics.pingaja.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pixels.ai
 0.0.0.0 analytics.plasmic.app
@@ -1315,6 +1316,7 @@
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
 0.0.0.0 stats.netdriven.com
+0.0.0.0 stats.nkkk.de
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.ozwebsites.biz
 0.0.0.0 stats.phoenix-widget.com

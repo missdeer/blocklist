@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 18 Jun 2026 08:53:17 UTC
+# Updated at Fri, 19 Jun 2026 09:09:14 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -890,6 +890,7 @@
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-api.skylum.com
 0.0.0.0 stats-proto.pandora.com
+0.0.0.0 stats-sdk.tange365.com
 0.0.0.0 stats-sg.ganymede.eu
 0.0.0.0 stats.abbi.io
 0.0.0.0 stats.appsflyer.com

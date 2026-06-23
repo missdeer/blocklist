@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 22 Jun 2026 09:53:05 UTC
+# Updated at Tue, 23 Jun 2026 07:55:33 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -200,15 +200,18 @@
 0.0.0.0 collector-direct.xhamster.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
+0.0.0.0 collector.feedzop.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.quillbot.com
+0.0.0.0 collector.quizzop.com
 0.0.0.0 collector.spankbang.party
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.theconversation.com
+0.0.0.0 collector.umogames.com
 0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
@@ -249,6 +252,7 @@
 0.0.0.0 d712.theinformation.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 dabu.askmediagroup.com
+0.0.0.0 dap.hindustantimes.com
 0.0.0.0 data.allstate.com
 0.0.0.0 data.barry-callebaut.com
 0.0.0.0 data.debugbear.com

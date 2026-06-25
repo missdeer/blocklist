@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 24 Jun 2026 07:50:52 UTC
+# Updated at Thu, 25 Jun 2026 07:52:04 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -456,6 +456,7 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
+0.0.0.0 log.strawpoll.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger007.cam4.com

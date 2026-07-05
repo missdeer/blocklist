@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 04 Jul 2026 06:55:11 UTC
+# Updated at Sun, 05 Jul 2026 07:34:31 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -65,6 +65,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com
+0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-fe.digital-cloud.medallia.ca
 0.0.0.0 analytics-fe.digital-cloud.medallia.com
 0.0.0.0 analytics-ipv6.tiktokw.us

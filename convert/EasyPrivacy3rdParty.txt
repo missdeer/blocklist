@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 08 Jul 2026 06:35:40 UTC
+# Updated at Thu, 09 Jul 2026 07:48:21 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -859,6 +859,7 @@
 0.0.0.0 insight.mintel.com
 0.0.0.0 insight.rapid7.com
 0.0.0.0 insights.algolia.io
+0.0.0.0 insights.playpilot.net
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 intake-analytics.wikimedia.org

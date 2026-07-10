@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 09 Jul 2026 07:48:20 UTC
+# Updated at Fri, 10 Jul 2026 07:46:31 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -747,6 +747,7 @@
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 payload.adadapted.com
+0.0.0.0 pbs.inmobi.com
 0.0.0.0 pco-sm-log.tantanapp.com
 0.0.0.0 pendo-data-prod.box.com
 0.0.0.0 perf.bblmw.com
@@ -1080,6 +1081,7 @@
 0.0.0.0 vk-analytics.ru
 0.0.0.0 volceapplog.com
 0.0.0.0 vsn-analytics.aparentmedia.com
+0.0.0.0 w.inmobi.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net

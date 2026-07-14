@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 13 Jul 2026 07:31:30 UTC
+# Updated at Tue, 14 Jul 2026 06:20:25 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -341,6 +341,7 @@
 0.0.0.0 cdn.9gtb.com
 0.0.0.0 cdn.debugbear.com
 0.0.0.0 cdn.polarbyte.com
+0.0.0.0 cdn.prod.euid.eu
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdns.brsrvr.com

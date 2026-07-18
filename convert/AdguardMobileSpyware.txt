@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 17 Jul 2026 06:24:02 UTC
+# Updated at Sat, 18 Jul 2026 06:13:41 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -932,7 +932,6 @@
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 tc.weszxdrf.com
 0.0.0.0 tc.zxcvbnml.com
-0.0.0.0 tdid.m.qq.com
 0.0.0.0 tealand.cmcm.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.canva.com

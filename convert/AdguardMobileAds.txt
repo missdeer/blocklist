@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Mon, 20 Jul 2026 07:21:13 UTC
+# Updated at Tue, 21 Jul 2026 06:37:21 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -96,6 +96,7 @@
 0.0.0.0 adgrx.com
 0.0.0.0 adhitzads.com
 0.0.0.0 adhood.com
+0.0.0.0 adhub.porcino-kinoko.workers.dev
 0.0.0.0 adinfo.tango.me
 0.0.0.0 adition.com
 0.0.0.0 adkmob.com

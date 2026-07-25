@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 24 Jul 2026 06:35:04 UTC
+# Updated at Sat, 25 Jul 2026 06:26:04 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8816,6 +8816,7 @@
 0.0.0.0 atgt.grafana.com
 0.0.0.0 athena-event-provider.n11.com
 0.0.0.0 athena.accsc.com.au
+0.0.0.0 athena.archive.org
 0.0.0.0 athena.nederlandseloterij.nl
 0.0.0.0 athena.toto.nl
 0.0.0.0 athenainstitute.biz
@@ -110017,7 +110018,6 @@
 0.0.0.0 funoverflow.com
 0.0.0.0 funsdata.com
 0.0.0.0 funstage.com
-0.0.0.0 funtoyplanet.com
 0.0.0.0 fuooms.aetrex.com
 0.0.0.0 fuoqr.comfortorthowear.com
 0.0.0.0 fupbi.gopurebeauty.com
@@ -136668,6 +136668,7 @@
 0.0.0.0 onelink.appsflyer.com
 0.0.0.0 onelink.me
 0.0.0.0 onelinksmartscript.appsflyer.com
+0.0.0.0 onemorebump.com
 0.0.0.0 onenet.gakujutsu.com
 0.0.0.0 oneservice.premiumfruitbd.com
 0.0.0.0 onespecify.com
@@ -136701,6 +136702,7 @@
 0.0.0.0 onlinestarten.net
 0.0.0.0 onlinewebstat.com
 0.0.0.0 onlinewebstats.com
+0.0.0.0 onlystreets.com
 0.0.0.0 onlywoofs.com
 0.0.0.0 onmuf.eshopygo.it
 0.0.0.0 onnie.roolee.com
@@ -140320,6 +140322,7 @@
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.stats.live-video.net
 0.0.0.0 playerhappy.com
+0.0.0.0 playerscache.com
 0.0.0.0 playfulriver.com
 0.0.0.0 plbcsd.vidaxl.se
 0.0.0.0 plbusiness.samsung.com
@@ -140989,6 +140992,7 @@
 0.0.0.0 provenpixel.com
 0.0.0.0 providence.voxmedia.com
 0.0.0.0 providers.mhc.net
+0.0.0.0 provingmagic.com
 0.0.0.0 provize.3dfitness.cz
 0.0.0.0 provize.brilas.cz
 0.0.0.0 provize.dzumdzum.cz

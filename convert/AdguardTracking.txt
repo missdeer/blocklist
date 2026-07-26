@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 25 Jul 2026 06:26:04 UTC
+# Updated at Sun, 26 Jul 2026 06:44:22 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -142023,6 +142023,7 @@
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.radicalxchange.org
 0.0.0.0 rabbit.upwardhomes.net
+0.0.0.0 rabbitboots.com
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rabiul.petalcalyx.com
@@ -150714,6 +150715,7 @@
 0.0.0.0 siivqn.bricoman.it
 0.0.0.0 silentcredit.com
 0.0.0.0 silentjackal.com
+0.0.0.0 silentsingle.com
 0.0.0.0 siliconslow.com
 0.0.0.0 silkworm.boxmood.be
 0.0.0.0 silkworm.preventingsuicideinsussex.org

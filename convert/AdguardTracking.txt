@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 27 Jul 2026 07:42:50 UTC
+# Updated at Tue, 28 Jul 2026 06:35:49 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3805,6 +3805,7 @@
 0.0.0.0 acv.mc-nurse.net
 0.0.0.0 acv.mc-pharma.net
 0.0.0.0 acv.me-hikari.net
+0.0.0.0 acv.mira-dsp.com
 0.0.0.0 acv.next-air-wifi.com
 0.0.0.0 acv.next-internet.info
 0.0.0.0 acv.nft-hikari.net
@@ -6668,6 +6669,7 @@
 0.0.0.0 analytics.subzero-wolf.com
 0.0.0.0 analytics.superstructure.ai
 0.0.0.0 analytics.surfline.com
+0.0.0.0 analytics.sutochno.ru
 0.0.0.0 analytics.sve.cc
 0.0.0.0 analytics.sydney.edu.au
 0.0.0.0 analytics.syf.com
@@ -17381,6 +17383,7 @@
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3lqotgbn3npr.cloudfront.net
+0.0.0.0 d3lw7s0briwuoi.cloudfront.net
 0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
@@ -109203,6 +109206,7 @@
 0.0.0.0 find-ip-address.org
 0.0.0.0 find.api.micloud.xiaomi.net.iberostar.com
 0.0.0.0 find.tjmartbd.com
+0.0.0.0 findcalculator.com
 0.0.0.0 finderlocator.com
 0.0.0.0 findthetruth.allergyai.com
 0.0.0.0 findyourdailyjoy.com
@@ -109459,6 +109463,7 @@
 0.0.0.0 fly.caljetelite.com
 0.0.0.0 fly.ofernandoluz.com
 0.0.0.0 fly.pid.edu.pl
+0.0.0.0 flyflightstar.com
 0.0.0.0 flyingfish.whoisrepresented.org
 0.0.0.0 flystranger.com
 0.0.0.0 flznib.weblio.jp
@@ -109561,6 +109566,7 @@
 0.0.0.0 foodstats.eurofins.de
 0.0.0.0 foomjy.teacollection.com
 0.0.0.0 foot.wiki
+0.0.0.0 footballmedal.com
 0.0.0.0 footprint.frizznflame.com
 0.0.0.0 footprintdns.com
 0.0.0.0 footprintlive.com
@@ -111022,6 +111028,7 @@
 0.0.0.0 globalmac13.click.s11.sfmc-osl.com
 0.0.0.0 globalmag3.click.s11.sfmc-osl.com
 0.0.0.0 globalmx13.click.s11.sfmc-osl.com
+0.0.0.0 globalorders.net
 0.0.0.0 globalorders3.click.s11.sfmc-osl.com
 0.0.0.0 globalrepair3.click.s11.sfmc-osl.com
 0.0.0.0 globalrp3.click.s11.sfmc-osl.com

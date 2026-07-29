@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 28 Jul 2026 06:35:49 UTC
+# Updated at Wed, 29 Jul 2026 06:40:38 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5457,6 +5457,7 @@
 0.0.0.0 al.yslabo.net
 0.0.0.0 al.zenjirou.jp
 0.0.0.0 aladdinupdate.blackrock.com
+0.0.0.0 aladinia.app
 0.0.0.0 alamin.annawabi.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 alba.alalikexpress.com
@@ -6042,6 +6043,7 @@
 0.0.0.0 analytics.crawfordcountybank.com
 0.0.0.0 analytics.crea.ca
 0.0.0.0 analytics.creem.com
+0.0.0.0 analytics.crewly.pl
 0.0.0.0 analytics.cycleworld.com
 0.0.0.0 analytics.cyrillus.be
 0.0.0.0 analytics.cyrillus.fr
@@ -6861,6 +6863,7 @@
 0.0.0.0 analytics2.craftsportswear.com
 0.0.0.0 analytics2.tvreport.co.kr
 0.0.0.0 analyticsbusiness.ing.ro
+0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticshipaa.cloud.coveo.com
 0.0.0.0 analyticsmgun.raidrive.com
@@ -11279,6 +11282,7 @@
 0.0.0.0 carp.amespacios.com
 0.0.0.0 carp.spotonevent.no
 0.0.0.0 carpets.mobilecarpetsandflooring.com
+0.0.0.0 carpoolmatch.com
 0.0.0.0 carpoolqueen.com
 0.0.0.0 carreira.brunaeugenio.com.br
 0.0.0.0 carreras.unisabana.edu.co
@@ -11625,6 +11629,7 @@
 0.0.0.0 cdp.cashback-cards.ch
 0.0.0.0 cdp.cloud.unity.cn
 0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 cdp.customer.io
 0.0.0.0 cdp.getswisscard.ch
 0.0.0.0 cdp.miles-and-more-cards.ch
 0.0.0.0 cdp.swisscard.ch
@@ -15050,6 +15055,7 @@
 0.0.0.0 cloud.mktg.salesforce.com
 0.0.0.0 cloud.mktg1.paypal.com
 0.0.0.0 cloud.mktgc.salesforce.com
+0.0.0.0 cloud.monolytics.app
 0.0.0.0 cloud.more.comcater.com.au
 0.0.0.0 cloud.mortgage.arvest.com
 0.0.0.0 cloud.moyagi.com
@@ -22739,6 +22745,7 @@
 0.0.0.0 e082.ukiahdailyjournal.com
 0.0.0.0 e1.usenarae.com
 0.0.0.0 e1c.curtisswrightds.com
+0.0.0.0 e2.sy-d.io
 0.0.0.0 e2.thedailybeast.com
 0.0.0.0 e2.wlessin.com
 0.0.0.0 e20d8e38992b.o3n.io
@@ -109427,6 +109434,7 @@
 0.0.0.0 flourishingendeavor.com
 0.0.0.0 flourishinginnovation.com
 0.0.0.0 flourishingpartnership.com
+0.0.0.0 flow-control.profitroom.net
 0.0.0.0 flow.curendo.de
 0.0.0.0 flow.doormat.net.au
 0.0.0.0 flow.laminaatenparket.nl
@@ -111756,6 +111764,7 @@
 0.0.0.0 good.debbeq.com
 0.0.0.0 good.iamandco.com
 0.0.0.0 goodcounter.org
+0.0.0.0 goodfoodtours.com
 0.0.0.0 goods.preoponno.com
 0.0.0.0 goodsign.email
 0.0.0.0 google-pagerank.net
@@ -135218,6 +135227,7 @@
 0.0.0.0 netmonitor.fi
 0.0.0.0 netratings.com
 0.0.0.0 netstats.dk
+0.0.0.0 netsurfconsult.com
 0.0.0.0 nettokom-lp.information.nettokom.de
 0.0.0.0 netupdater.info
 0.0.0.0 network.cogentco.com
@@ -136275,6 +136285,7 @@
 0.0.0.0 offerstrategy.com
 0.0.0.0 offgridcrops.com
 0.0.0.0 office.click.s11.sfmc-osl.com
+0.0.0.0 officestylist.com
 0.0.0.0 offshoreassets.com
 0.0.0.0 offshorecyclone.com
 0.0.0.0 offshoregeology.com

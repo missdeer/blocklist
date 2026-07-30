@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 29 Jul 2026 06:40:38 UTC
+# Updated at Thu, 30 Jul 2026 06:36:22 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -539,6 +539,7 @@
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ocular.hotukdeals.com
 0.0.0.0 ohm-dot-hackster-io.appspot.com
+0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onesignal.com

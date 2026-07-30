@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 29 Jul 2026 06:40:38 UTC
+# Updated at Thu, 30 Jul 2026 06:36:22 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -6844,6 +6844,7 @@
 0.0.0.0 analytics.wrc.nic.in
 0.0.0.0 analytics.xiloc.net
 0.0.0.0 analytics.xoomenergy.com
+0.0.0.0 analytics.xxcontent.lol
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yofbrc.com
 0.0.0.0 analytics.yoonek.com.au
@@ -108595,6 +108596,7 @@
 0.0.0.0 farhp.nadaderm.com
 0.0.0.0 farid.leevado.com
 0.0.0.0 farmergoldfish.com
+0.0.0.0 faro.civitai
 0.0.0.0 faroz.offer.farozamart.com
 0.0.0.0 farshake.com
 0.0.0.0 farsnails.com
@@ -116327,6 +116329,7 @@
 0.0.0.0 honestdata.honesteco.org
 0.0.0.0 honestharbor.com
 0.0.0.0 honeybulb.com
+0.0.0.0 honeybutterbliss.com
 0.0.0.0 honeywarm-ss.checkoutera.com
 0.0.0.0 honorablehydrant.com
 0.0.0.0 honorableland.com
@@ -140484,6 +140487,7 @@
 0.0.0.0 pool4.ioam.de
 0.0.0.0 pool5.ioam.de
 0.0.0.0 poolcushions.com
+0.0.0.0 poolprochem.com
 0.0.0.0 pop.alliedhousing.com
 0.0.0.0 pop.alrifai.happycustomer.io
 0.0.0.0 pop.deinkinderdoc.de
@@ -144895,6 +144899,7 @@
 0.0.0.0 scgou.littlepassports.com
 0.0.0.0 scholar.google.com
 0.0.0.0 scholarloop.com
+0.0.0.0 schoolpaws.com
 0.0.0.0 schouder.somt.nl
 0.0.0.0 schpa.newroadadvertising.com
 0.0.0.0 schrl.nkuku.com
@@ -150780,6 +150785,7 @@
 0.0.0.0 simplify.razorsync.com
 0.0.0.0 simplycast.us
 0.0.0.0 simplymeasured.com
+0.0.0.0 simplyradon.com
 0.0.0.0 simulateswing.com
 0.0.0.0 simule.ademiconbr.com
 0.0.0.0 sincerebuffalo.com
@@ -155168,6 +155174,7 @@
 0.0.0.0 sokutei.car2828.jp
 0.0.0.0 sol.sunnaenergia.com.br
 0.0.0.0 solarislabyrinth.com
+0.0.0.0 solarrecharge.net
 0.0.0.0 sole.bkosmetik.com
 0.0.0.0 sole.pretto.fr
 0.0.0.0 sole.riverwalkdental.com.au

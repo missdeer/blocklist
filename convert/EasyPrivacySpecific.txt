@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 30 Jul 2026 06:36:22 UTC
+# Updated at Fri, 31 Jul 2026 06:51:34 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -89,6 +89,7 @@
 0.0.0.0 analytics.silktide.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
+0.0.0.0 analytics.tempy.email
 0.0.0.0 analytics.ticketmaster
 0.0.0.0 analytics.tomato.gg
 0.0.0.0 analytics.tradedoubler.com

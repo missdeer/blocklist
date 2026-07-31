@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 30 Jul 2026 06:36:22 UTC
+# Updated at Fri, 31 Jul 2026 06:51:34 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3530,6 +3530,7 @@
 0.0.0.0 abo.schibsted.no
 0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 aboutcorgis.com
 0.0.0.0 above.50degreesintheshade.com
 0.0.0.0 above.fearlessgrad.com
 0.0.0.0 abovechat.com
@@ -5457,7 +5458,6 @@
 0.0.0.0 al.yslabo.net
 0.0.0.0 al.zenjirou.jp
 0.0.0.0 aladdinupdate.blackrock.com
-0.0.0.0 aladinia.app
 0.0.0.0 alamin.annawabi.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 alba.alalikexpress.com
@@ -5533,6 +5533,7 @@
 0.0.0.0 alluxio.moseasia.com
 0.0.0.0 allvfz.chapellerie-traclet.com
 0.0.0.0 allvideometrika.com
+0.0.0.0 allycoop.com
 0.0.0.0 almhhn.pet-friends.co.kr
 0.0.0.0 almondbuns.com
 0.0.0.0 alnop.skidznyc.com
@@ -17524,6 +17525,7 @@
 0.0.0.0 daniel.bartenderlab.com
 0.0.0.0 danv01ao0kdr2.cloudfront.net
 0.0.0.0 dap.amsterdam.nl
+0.0.0.0 dap.hindustantimes.com
 0.0.0.0 dap.livemint.com
 0.0.0.0 dap.worldota.net
 0.0.0.0 dapperdiscussion.com
@@ -155723,6 +155725,7 @@
 0.0.0.0 specialevent.informaengage.com
 0.0.0.0 specialscissors.com
 0.0.0.0 specialstat.com
+0.0.0.0 specialtypin.com
 0.0.0.0 specola.coertini.com
 0.0.0.0 spectacularstamp.com
 0.0.0.0 spectate.com
@@ -155732,6 +155735,7 @@
 0.0.0.0 speederpro-ss.zavydeals.com
 0.0.0.0 speederproshop-ss.checkoutera.com
 0.0.0.0 speedtracker.de
+0.0.0.0 speedysteaks.com
 0.0.0.0 spelar.org
 0.0.0.0 spellingthoughts.com
 0.0.0.0 spellknight.com
@@ -165733,6 +165737,7 @@
 0.0.0.0 stats-a.maxthon.com
 0.0.0.0 stats-api.skylum.com
 0.0.0.0 stats-blog.lewsion.com
+0.0.0.0 stats-cdn.polyspeak.ai
 0.0.0.0 stats-connect.comet.it
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 stats-iobit-com.us-east-1.elasticbeanstalk.com

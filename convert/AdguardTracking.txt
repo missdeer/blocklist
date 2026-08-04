@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 03 Aug 2026 07:38:00 UTC
+# Updated at Tue, 04 Aug 2026 06:36:17 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -176628,15 +176628,8 @@
 0.0.0.0 ulyfrf.dekruidenbaron.nl
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 um.merinfo.se
-0.0.0.0 umami.aigenerations.net
+0.0.0.0 umami
 0.0.0.0 umami.is
-0.0.0.0 umami.spencerdevs.xyz
-0.0.0.0 umami.subdavis.com
-0.0.0.0 umami.syg.ma
-0.0.0.0 umami.vidcore.net
-0.0.0.0 umami.vidfast
-0.0.0.0 umami.vidfast.pro
-0.0.0.0 umami.vidup.to
 0.0.0.0 umamix.fadunews.in
 0.0.0.0 umazvs.raybiotech.com
 0.0.0.0 umbel.com
@@ -176655,7 +176648,7 @@
 0.0.0.0 umlkp.snydersfurniture.com
 0.0.0.0 umlvbe.rucipello.com
 0.0.0.0 umnoho.bazaarmall.co.kr
-0.0.0.0 umommy.online
+0.0.0.0 umommy.cyou
 0.0.0.0 umrvmb.net.anwalt.de
 0.0.0.0 umtzwr.adidas.co.kr
 0.0.0.0 umuiz.heritagecares.com

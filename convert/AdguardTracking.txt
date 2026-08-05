@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 04 Aug 2026 06:36:17 UTC
+# Updated at Wed, 05 Aug 2026 06:36:57 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -108584,6 +108584,7 @@
 0.0.0.0 fancyrat.keurslager-goeminne.be
 0.0.0.0 fangfeeling.com
 0.0.0.0 fanistallaonlinelimited.com
+0.0.0.0 fanless.net
 0.0.0.0 fanplayr.com
 0.0.0.0 fapi.ametistaaliancas.com.br
 0.0.0.0 fapi.apolodog.com.br
@@ -111965,6 +111966,7 @@
 0.0.0.0 gsg9.carrefour-banque.fr
 0.0.0.0 gsght.com
 0.0.0.0 gsimedia.net
+0.0.0.0 gsitrix.com
 0.0.0.0 gsjznb.damondmotorsports.com
 0.0.0.0 gslclvw.lackorecouture.com
 0.0.0.0 gslive.edm.globalsources.com
@@ -116908,6 +116910,7 @@
 0.0.0.0 idot.cz
 0.0.0.0 idqwqm.kkday.com
 0.0.0.0 idsfq.katespade.de
+0.0.0.0 idsmodules.com
 0.0.0.0 idsod.catholic.com
 0.0.0.0 idsqb.evanalexandergrooming.com
 0.0.0.0 idtvo.ezrider.nl
@@ -131554,6 +131557,7 @@
 0.0.0.0 metricas.tufcleaning.ca
 0.0.0.0 metricas.wbeduca.com.br
 0.0.0.0 metricas.zionerp.com.br
+0.0.0.0 metricfresh.com
 0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-api.librato.com
@@ -139606,6 +139610,7 @@
 0.0.0.0 party.oewheelsllc.com
 0.0.0.0 party.partyhalli.fi
 0.0.0.0 party.petland.dk
+0.0.0.0 partycharge.com
 0.0.0.0 parves.doctorshopbd.com
 0.0.0.0 pass-1234.com
 0.0.0.0 passivepolo.com
@@ -155097,6 +155102,7 @@
 0.0.0.0 snowdayonline.xyz
 0.0.0.0 snowflake.qq.com
 0.0.0.0 snowmentor.com
+0.0.0.0 snowpeaksoftware.com
 0.0.0.0 snowplow-collector
 0.0.0.0 snowplow-pixel.tradingview.com
 0.0.0.0 snowsignal.com
@@ -155192,6 +155198,7 @@
 0.0.0.0 soloqmyl.tefcold.ru
 0.0.0.0 soloqmyl.tefcold.sk
 0.0.0.0 solosduetstrios.com
+0.0.0.0 solsticeblack.com
 0.0.0.0 solucionestech.personal.com.ar
 0.0.0.0 solution.resonac.com
 0.0.0.0 solutions.a-1freeman.com
@@ -155471,6 +155478,7 @@
 0.0.0.0 sonar.semantiqo.com
 0.0.0.0 songs.newdelica.com
 0.0.0.0 songsterritory.com
+0.0.0.0 sonicsessions.net
 0.0.0.0 sonne.helgahilft.com
 0.0.0.0 sono.filhosehabitos.com.br
 0.0.0.0 sonoow.ecco-verde.pl

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 05 Aug 2026 06:36:57 UTC
+# Updated at Thu, 06 Aug 2026 06:40:10 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -127601,6 +127601,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.ntvplus.tv
 0.0.0.0 logs.openbank.com
+0.0.0.0 logs.profi.ru
 0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.roku.com
 0.0.0.0 logs.spilgames.com
@@ -167411,6 +167412,7 @@
 0.0.0.0 subscribe.veracity.com
 0.0.0.0 subscriber.franchiseinsights.com
 0.0.0.0 subscriber.smallbusinessstartup.com
+0.0.0.0 subscriberlists.com
 0.0.0.0 subscribetest.veracity.com
 0.0.0.0 subscription.accenturejo.adobesandbox.com
 0.0.0.0 subscription.coface.com
@@ -167458,6 +167460,7 @@
 0.0.0.0 success.vertigisstudio.com
 0.0.0.0 successbuffet.com
 0.0.0.0 successfultogether.co.uk
+0.0.0.0 successmenu.com
 0.0.0.0 succulents.pasiora.de
 0.0.0.0 suchanalytik.hideandsec.sh
 0.0.0.0 sucmetrics.hypovereinsbank.de
@@ -169661,7 +169664,6 @@
 0.0.0.0 target.zinia.de
 0.0.0.0 targetab.metrobyt-mobile.com
 0.0.0.0 targetads.io
-0.0.0.0 targetfax.com
 0.0.0.0 targetfuel.com
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 targeting.tbt.arcpublishing.com
@@ -170494,6 +170496,7 @@
 0.0.0.0 tics.seeker.gg
 0.0.0.0 tics.techdirt.com
 0.0.0.0 ticvui.alexandani.com
+0.0.0.0 tidaldrops.com
 0.0.0.0 tidymitten.com
 0.0.0.0 tidysprite.com
 0.0.0.0 tieszhu.com

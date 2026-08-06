@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Wed, 05 Aug 2026 06:36:56 UTC
+# Updated at Thu, 06 Aug 2026 06:40:10 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -621,6 +621,7 @@
 0.0.0.0 logs.gshopper.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.nebulahoroscope.com
+0.0.0.0 logs.profi.ru
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1407.xiti.com

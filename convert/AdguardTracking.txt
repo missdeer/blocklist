@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 06 Aug 2026 06:40:10 UTC
+# Updated at Fri, 07 Aug 2026 05:47:15 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -7139,6 +7139,7 @@
 0.0.0.0 api.amplitudeexperiment.com
 0.0.0.0 api.anacorso.com.br
 0.0.0.0 api.analebear.com
+0.0.0.0 api.analytics.dobrosvyaz.com
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.anandainsights.com.br
 0.0.0.0 api.anapaulacarvalho.com
@@ -21995,6 +21996,7 @@
 0.0.0.0 discreetquarter.com
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 displaymarketplace.com
+0.0.0.0 distantflame.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 distilltable.com
 0.0.0.0 distiltag.com
@@ -120086,6 +120088,7 @@
 0.0.0.0 kitabisa.tokyobola.click
 0.0.0.0 kitbit.net
 0.0.0.0 kitchen.juicer.cc
+0.0.0.0 kitchenbasin.com
 0.0.0.0 kite.cardneyestate.co.uk
 0.0.0.0 kite.devin.website
 0.0.0.0 kite.ibirthdayclub.com
@@ -139970,6 +139973,7 @@
 0.0.0.0 pinniped.spacecountdown.com
 0.0.0.0 pinptg.milleni.com.tr
 0.0.0.0 pinvf.australianopaldirect.com
+0.0.0.0 pipadvance.com
 0.0.0.0 pipe-collect.ebu.io
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipeline.rd.nl
@@ -140564,6 +140568,7 @@
 0.0.0.0 postgraduate2.smu.edu.sg
 0.0.0.0 posthog.football24.ua
 0.0.0.0 posthog.lingvanex.com
+0.0.0.0 posthog.russpass.ru
 0.0.0.0 posthog.tarnkappe.info
 0.0.0.0 postman.postman.legacyfa-asia.com
 0.0.0.0 postmaster.asteriabd.com
@@ -170331,6 +170336,7 @@
 0.0.0.0 tfoydw.topvintage.be
 0.0.0.0 tfoyfx.dukefotografia.com
 0.0.0.0 tfpeev.chanluu.com
+0.0.0.0 tfpodf.ars.appsflyersdk.com
 0.0.0.0 tfrln.prostatehealthreport.com
 0.0.0.0 tftjgl.brice.fr
 0.0.0.0 tftkzr.happy-size.at

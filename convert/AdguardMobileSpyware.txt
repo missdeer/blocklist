@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 06 Aug 2026 06:40:10 UTC
+# Updated at Fri, 07 Aug 2026 05:47:09 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -944,6 +944,7 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleport.soom.la
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
+0.0.0.0 tfpodf.ars.appsflyersdk.com
 0.0.0.0 tjinit-event.babybus.com
 0.0.0.0 tjinit-global-register.babybus.com
 0.0.0.0 tknet.rayjump.com

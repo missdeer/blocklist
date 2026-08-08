@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 07 Aug 2026 05:47:15 UTC
+# Updated at Sat, 08 Aug 2026 05:06:46 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3512,6 +3512,7 @@
 0.0.0.0 abilbao.mg.abilbao.cl
 0.0.0.0 abilityscale.com
 0.0.0.0 abilitytoucan.com
+0.0.0.0 abilityworkout.com
 0.0.0.0 abjectattempt.com
 0.0.0.0 abjtuq.exoticca.com
 0.0.0.0 abkobh.chobirich.com
@@ -9725,6 +9726,7 @@
 0.0.0.0 bestclimbers.net
 0.0.0.0 bestill.help.no
 0.0.0.0 bestshoesboot.com
+0.0.0.0 bestsportsbra.com
 0.0.0.0 besucher.nona.de
 0.0.0.0 besucherzaehler-counter.de
 0.0.0.0 besucherzaehler-homepage.de
@@ -11580,6 +11582,7 @@
 0.0.0.0 cdn.resonate.com
 0.0.0.0 cdn.rlets.com
 0.0.0.0 cdn.saltstone.shop
+0.0.0.0 cdn.seline.com
 0.0.0.0 cdn.seonintelligence.com
 0.0.0.0 cdn.sgmntfy.com
 0.0.0.0 cdn.shoplondon.dk

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 08 Aug 2026 05:06:46 UTC
+# Updated at Sun, 09 Aug 2026 05:13:30 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -21998,6 +21998,7 @@
 0.0.0.0 discreetfield.com
 0.0.0.0 discreetquarter.com
 0.0.0.0 dispatcher.upmc.uc.cn
+0.0.0.0 dispeldesign.com
 0.0.0.0 displaymarketplace.com
 0.0.0.0 distantflame.com
 0.0.0.0 distillery.wistia.com

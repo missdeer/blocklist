@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 09 Aug 2026 05:13:30 UTC
+# Updated at Mon, 10 Aug 2026 05:39:56 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5685,6 +5685,7 @@
 0.0.0.0 amplitude.thepure.app
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
+0.0.0.0 ampscamp.net
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 amqbl.ballarddesigns.com
 0.0.0.0 ams-beacons.xumo.com

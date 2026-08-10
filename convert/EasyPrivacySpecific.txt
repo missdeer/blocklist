@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 09 Aug 2026 05:13:32 UTC
+# Updated at Mon, 10 Aug 2026 05:39:56 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -387,6 +387,7 @@
 0.0.0.0 goatcounter.ssp.sh
 0.0.0.0 graylog.prod.cams.run
 0.0.0.0 grgnsht.nzxt.com
+0.0.0.0 grow.urbandictionary.network
 0.0.0.0 gtm.lercio.it
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtm.xtb.com

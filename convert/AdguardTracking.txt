@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 10 Aug 2026 05:39:56 UTC
+# Updated at Tue, 11 Aug 2026 05:16:58 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5923,6 +5923,7 @@
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.audionow.de
 0.0.0.0 analytics.authoritymedia.com
+0.0.0.0 analytics.autoodb.com
 0.0.0.0 analytics.avcdn.net
 0.0.0.0 analytics.avis.lu
 0.0.0.0 analytics.aweber.com
@@ -116026,6 +116027,7 @@
 0.0.0.0 hello.trailblazers.com
 0.0.0.0 hellosherpa.com
 0.0.0.0 hellosmpl.com
+0.0.0.0 hellospur.com
 0.0.0.0 hellounbox.com
 0.0.0.0 help.quantumtemple.io
 0.0.0.0 helpcollar.com
@@ -116669,6 +116671,7 @@
 0.0.0.0 humanclick.com
 0.0.0.0 humanz.com
 0.0.0.0 humayun.meowmesh.com
+0.0.0.0 humbleroots.net
 0.0.0.0 humdrumhobbies.com
 0.0.0.0 humdrumtouch.com
 0.0.0.0 hummingbird.mavencoalition.io
@@ -119880,6 +119883,7 @@
 0.0.0.0 kaqzb.fatbikeskopen.nl
 0.0.0.0 karo.karomallonline.com
 0.0.0.0 karrot-pixel.business.daangn.com
+0.0.0.0 kartbarriersystem.com
 0.0.0.0 karte.io
 0.0.0.0 kascb.jamsworld.com
 0.0.0.0 kataribe.kataribecms.com
@@ -130773,6 +130777,7 @@
 0.0.0.0 mas.hronboard.me
 0.0.0.0 mas.protecmedia.com
 0.0.0.0 maschine.bengs-modellbau.de
+0.0.0.0 masseurexpress.com
 0.0.0.0 massivemark.com
 0.0.0.0 massmail.ficci.com
 0.0.0.0 master-shopify-tracker.s3.amazonaws.com

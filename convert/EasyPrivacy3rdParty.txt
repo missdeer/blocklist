@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Mon, 10 Aug 2026 05:39:55 UTC
+# Updated at Tue, 11 Aug 2026 05:16:58 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -1212,6 +1212,7 @@
 0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 rudder-tracking.rudderstack.com
 0.0.0.0 rum-collector.leaderint.workers.dev
+0.0.0.0 rum.aliyuncs.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.corewebvitals.io

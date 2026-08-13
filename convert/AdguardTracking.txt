@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 12 Aug 2026 05:42:53 UTC
+# Updated at Thu, 13 Aug 2026 05:45:09 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -141933,6 +141933,7 @@
 0.0.0.0 quick-counter.net
 0.0.0.0 quicklyedit.com
 0.0.0.0 quicksandear.com
+0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quiddity.goguardian.com
 0.0.0.0 quietknowledge.com
@@ -177756,6 +177757,7 @@
 0.0.0.0 vdzpnx.gnc.com.mx
 0.0.0.0 vdzrjr.kenminkyosai.or.jp
 0.0.0.0 vebed.tennibot.com
+0.0.0.0 vectorshirt.com
 0.0.0.0 veduy.com
 0.0.0.0 vedznh.cumhuriyet.com.tr
 0.0.0.0 veersantrealestate.dubaii.me
@@ -180184,6 +180186,7 @@
 0.0.0.0 violationalert.newbalance.com
 0.0.0.0 violationalert.prowl.ecobee.com
 0.0.0.0 violationalert.squareup.com
+0.0.0.0 violetdemise.com
 0.0.0.0 vip.gophersport.com
 0.0.0.0 vip.granicus.com
 0.0.0.0 vip.maxtor.com

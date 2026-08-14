@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 13 Aug 2026 05:45:09 UTC
+# Updated at Fri, 14 Aug 2026 05:42:58 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -7390,6 +7390,7 @@
 0.0.0.0 api.findenkaereste.dk
 0.0.0.0 api.fiodeminastricot.com.br
 0.0.0.0 api.firebim.com.br
+0.0.0.0 api.firwinds.site
 0.0.0.0 api.flatroninformatica.com.br
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.flordelizdesignfloral.com.br
@@ -16803,7 +16804,6 @@
 0.0.0.0 curalate.com
 0.0.0.0 curatedtea.com
 0.0.0.0 curbminers.com
-0.0.0.0 curbneon.com
 0.0.0.0 cure.curedpharmacy.com
 0.0.0.0 cure.trueface.org
 0.0.0.0 curiosity-seven.vercel.app
@@ -110514,6 +110514,7 @@
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 genieedmp.com
 0.0.0.0 genieesspv.jp
+0.0.0.0 geniuslinkcdn.com
 0.0.0.0 genova.gas-up.it
 0.0.0.0 geo-service.adtelligent.com
 0.0.0.0 geo.bluedot.io
@@ -121049,6 +121050,7 @@
 0.0.0.0 lineside.networkrail.co.uk
 0.0.0.0 linezing.com
 0.0.0.0 ling.ibcppsicanalise.com.br
+0.0.0.0 ling.willowmovies.com
 0.0.0.0 link-dev.biopharmadive.com
 0.0.0.0 link-dev.customerexperiencedive.com
 0.0.0.0 link-dev.greetz.nl
@@ -136793,6 +136795,7 @@
 0.0.0.0 open.rye.com
 0.0.0.0 openapilobalid3.click.s11.sfmc-osl.com
 0.0.0.0 openclick.com
+0.0.0.0 opendatastats.net
 0.0.0.0 openfpcdn.io
 0.0.0.0 openhit.com
 0.0.0.0 openinstall.io
@@ -176239,6 +176242,7 @@
 0.0.0.0 twirll-stape-int.twirll.com
 0.0.0.0 twistairclub.net.anwalt.de
 0.0.0.0 twistloss.com
+0.0.0.0 twisty.net
 0.0.0.0 twitter.sx
 0.0.0.0 twiz.wizaly.fr
 0.0.0.0 twjobq.sixt.co.uk
@@ -180419,6 +180423,7 @@
 0.0.0.0 volts.shopping.naver.com
 0.0.0.0 volume.vytalise.co.uk
 0.0.0.0 volume.vytalise.eu
+0.0.0.0 volumesystem.com
 0.0.0.0 voluumtlkrnarketing.com
 0.0.0.0 vonagebusiness.telesphere.com
 0.0.0.0 vonht.foragehyperfoods.com
@@ -180716,6 +180721,7 @@
 0.0.0.0 waawuu.highfashionhome.com
 0.0.0.0 wabsgz.studocu.com
 0.0.0.0 waet.datalogue.de
+0.0.0.0 wafflemakers.net
 0.0.0.0 waffles.cohnacrylics.com
 0.0.0.0 wafoub.graindemalice.fr
 0.0.0.0 waghth.democrata.com.br
@@ -181262,6 +181268,7 @@
 0.0.0.0 webmetrics.zebra.com
 0.0.0.0 weborama-tech.ru
 0.0.0.0 weborama.com
+0.0.0.0 webpagekit.com
 0.0.0.0 webpageviews.click
 0.0.0.0 webprospector.de
 0.0.0.0 webpushstat-sgp.engagelab.com
@@ -181449,6 +181456,7 @@
 0.0.0.0 wes.marketing.wtinternal-sandbox.com
 0.0.0.0 wesbgz.travel.co.jp
 0.0.0.0 westeuropeid3.click.s11.sfmc-osl.com
+0.0.0.0 westsideglobe.com
 0.0.0.0 wev.myvitalityz.site
 0.0.0.0 wevbgr.vidaxl.it
 0.0.0.0 wewbxx.hircus.fr

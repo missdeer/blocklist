@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 15 Aug 2026 04:40:09 UTC
+# Updated at Sun, 16 Aug 2026 04:22:31 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -514,6 +514,7 @@
 0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
+0.0.0.0 monitor.ebay.com
 0.0.0.0 mp.imgur.com
 0.0.0.0 mp.sintra.ai
 0.0.0.0 mp.theepochtimes.com

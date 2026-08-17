@@ -4,10 +4,10 @@ go 1.25.0
 
 require (
 	github.com/missdeer/golib v1.0.9
-	golang.org/x/net v0.57.0
+	golang.org/x/net v0.58.0
 )
 
 require (
 	golang.org/x/sync v0.22.0 // indirect
-	golang.org/x/text v0.40.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 )

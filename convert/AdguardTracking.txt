@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 18 Aug 2026 04:45:10 UTC
+# Updated at Wed, 19 Aug 2026 04:46:29 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -7566,6 +7566,7 @@
 0.0.0.0 analytics.3q.sa
 0.0.0.0 analytics.7-herbs.com
 0.0.0.0 analytics.74.ru
+0.0.0.0 analytics.7reels.cc
 0.0.0.0 analytics.a-f.io
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.adam.page
@@ -8252,6 +8253,7 @@
 0.0.0.0 analytics.neruzksa.com
 0.0.0.0 analytics.net.dz.jumia.com
 0.0.0.0 analytics.netkeiba.com
+0.0.0.0 analytics.netronline.dev
 0.0.0.0 analytics.newdirectionsaromatics.ca
 0.0.0.0 analytics.newdirectionsaromatics.com
 0.0.0.0 analytics.neworleanssaints.com
@@ -8550,6 +8552,7 @@
 0.0.0.0 analytics.stocksport-online.de
 0.0.0.0 analytics.streamfab
 0.0.0.0 analytics.streamingworld.xyz
+0.0.0.0 analytics.streamvaultsrc.click
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 analytics.styria.hr
 0.0.0.0 analytics.subzero-wolf.com
@@ -11866,6 +11869,7 @@
 0.0.0.0 ballr.jamesoro.com
 0.0.0.0 ballsbanana.com
 0.0.0.0 balneario.cursodetti.com.br
+0.0.0.0 balsamicpixels.com
 0.0.0.0 bam-x.com
 0.0.0.0 bamfd.hellobatch.com
 0.0.0.0 bamib.lanural.co
@@ -12148,6 +12152,7 @@
 0.0.0.0 beautifulrope.com
 0.0.0.0 beautycrew.e.aremedia.com.au
 0.0.0.0 beautyheaven.e.aremedia.com.au
+0.0.0.0 beautylulu.com
 0.0.0.0 beaver.bluebunnypaper.com
 0.0.0.0 beaver.brush.ninja
 0.0.0.0 beaver.livechatlabs.com
@@ -12510,6 +12515,7 @@
 0.0.0.0 bigdata.clarin.com
 0.0.0.0 bigfishapparel.com
 0.0.0.0 biggerbling.com
+0.0.0.0 bighornbasin.net
 0.0.0.0 bigleapforward.org
 0.0.0.0 bigsauron.ru
 0.0.0.0 bigstats.net
@@ -20359,6 +20365,7 @@
 0.0.0.0 cochin.net.anwalt.de
 0.0.0.0 cocjl.statefortyeight.com
 0.0.0.0 cockroach.head4work.com.au
+0.0.0.0 cocoacafes.com
 0.0.0.0 coconut.flyingsquirrelsports.ca
 0.0.0.0 coconut.flyingsquirrelsports.com
 0.0.0.0 coconut.flyingsquirrelsports.us
@@ -23190,6 +23197,7 @@
 0.0.0.0 damselfly.vegenook.com
 0.0.0.0 danatrak.com
 0.0.0.0 danbury.townsquarenewsletters.com
+0.0.0.0 dancingmarmot.com
 0.0.0.0 dandr.alexandriauk.com
 0.0.0.0 dandydune.com
 0.0.0.0 dandyglow.com
@@ -264098,7 +264106,6 @@
 0.0.0.0 quhdnr.musiciansfriend.com
 0.0.0.0 quick-counter.net
 0.0.0.0 quicklyedit.com
-0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quiddity.goguardian.com
 0.0.0.0 quietknowledge.com

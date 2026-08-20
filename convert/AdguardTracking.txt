@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 19 Aug 2026 04:46:29 UTC
+# Updated at Thu, 20 Aug 2026 04:46:49 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -7494,6 +7494,7 @@
 0.0.0.0 analytic20.detik.com
 0.0.0.0 analytically.net
 0.0.0.0 analytics-api.a-f.io
+0.0.0.0 analytics-api.byub.org
 0.0.0.0 analytics-api.dvdfab
 0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.invideo.io
@@ -7698,6 +7699,7 @@
 0.0.0.0 analytics.butenas.de
 0.0.0.0 analytics.byeternify.com
 0.0.0.0 analytics.byondesign.com
+0.0.0.0 analytics.byub.org
 0.0.0.0 analytics.calculavalorvivienda.es
 0.0.0.0 analytics.calibrecleaning.com.au
 0.0.0.0 analytics.callbell.eu
@@ -8576,6 +8578,7 @@
 0.0.0.0 analytics.t-mobile.com
 0.0.0.0 analytics.taahirajewellery.com
 0.0.0.0 analytics.tabichan.jp
+0.0.0.0 analytics.talentegy.com
 0.0.0.0 analytics.talokaivo.fi
 0.0.0.0 analytics.tashandley.com
 0.0.0.0 analytics.tatadigital.com
@@ -12099,6 +12102,7 @@
 0.0.0.0 beacon.ehow.com
 0.0.0.0 beacon.elairaspirit.com
 0.0.0.0 beacon.eleos.co.uk
+0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.geniee.jp
 0.0.0.0 beacon.gtv-pub.com
 0.0.0.0 beacon.gu-web.net
@@ -12142,6 +12146,7 @@
 0.0.0.0 beam.remp.nv.ua
 0.0.0.0 beamvolcano.com
 0.0.0.0 beancontrol.com
+0.0.0.0 beandelight.com
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
 0.0.0.0 bear.builtbyborda.com
@@ -14703,6 +14708,7 @@
 0.0.0.0 cdn.memo.co
 0.0.0.0 cdn.meno-me.com
 0.0.0.0 cdn.metodolumens.com.br
+0.0.0.0 cdn.mgln.ai
 0.0.0.0 cdn.mircheigeshoa.com
 0.0.0.0 cdn.moengage.com
 0.0.0.0 cdn.monlabubu.ch
@@ -30211,6 +30217,7 @@
 0.0.0.0 earnbaht.com
 0.0.0.0 earopro-ss.checkoutera.com
 0.0.0.0 earthlybuzz.com
+0.0.0.0 earthsauce.com
 0.0.0.0 earthups.com
 0.0.0.0 earthworm.creatifmediagroup.com
 0.0.0.0 earthworm.elenabirkenwald.com
@@ -222087,6 +222094,7 @@
 0.0.0.0 fit.fitpen.com
 0.0.0.0 fit.wingsfit1.com
 0.0.0.0 fitanalytics.com
+0.0.0.0 fitgreatest.com
 0.0.0.0 fitibeats-ss.checkoutera.com
 0.0.0.0 fitibeats-ss.offeroshop.com
 0.0.0.0 fitnessmapper.com
@@ -231790,6 +231798,7 @@
 0.0.0.0 healthier.luminishealth.org
 0.0.0.0 healthy.partandparcel.com.au
 0.0.0.0 healthy.spartanburgregional.com
+0.0.0.0 healthyclad.com
 0.0.0.0 heap-api.com
 0.0.0.0 heap.drop.com
 0.0.0.0 heapanalytics.com
@@ -232638,6 +232647,7 @@
 0.0.0.0 hubble.mrstarsky.com
 0.0.0.0 hubble.netease.com
 0.0.0.0 hubble.remmenexpert.nl
+0.0.0.0 hubcapcafe.net
 0.0.0.0 hubkgy.yves-rocher.sk
 0.0.0.0 hubmetric.samsclub.com
 0.0.0.0 hubmetrics.samsclub.com
@@ -237586,6 +237596,7 @@
 0.0.0.0 leafpilot.com
 0.0.0.0 leaity.dlm1947.com
 0.0.0.0 leaplunchroom.com
+0.0.0.0 leapquick.com
 0.0.0.0 learn.acpprograms.org
 0.0.0.0 learn.aiu.edu.au
 0.0.0.0 learn.aiu.sg
@@ -245491,6 +245502,7 @@
 0.0.0.0 losecounter.de
 0.0.0.0 losslace.com
 0.0.0.0 losstrack.com
+0.0.0.0 lostwaxlab.com
 0.0.0.0 lotto.expresshub.com.bd
 0.0.0.0 loudlunch.com
 0.0.0.0 loumax.resamatic.fr
@@ -256480,6 +256492,7 @@
 0.0.0.0 novak.warwoodtool.com
 0.0.0.0 novamedicpro-ss.checkoutera.com
 0.0.0.0 novaseekers.com
+0.0.0.0 novazen.net
 0.0.0.0 novedades.telecomfibercorp.com.ar
 0.0.0.0 novi.webnovi.eu
 0.0.0.0 novigrad.piko.hr
@@ -261721,6 +261734,7 @@
 0.0.0.0 photohints.com
 0.0.0.0 photorank.me
 0.0.0.0 photospace.life
+0.0.0.0 photosubscribe.com
 0.0.0.0 photovault.pics
 0.0.0.0 photovault.store
 0.0.0.0 php.panasiaticsolutions.com
@@ -262382,6 +262396,7 @@
 0.0.0.0 pointlesspocket.com
 0.0.0.0 pointlessprofit.com
 0.0.0.0 pointmediatracker.com
+0.0.0.0 pointsshare.com
 0.0.0.0 poirot.custommade.com
 0.0.0.0 poisedfuel.com
 0.0.0.0 poisedpig.com

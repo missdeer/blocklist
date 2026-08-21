@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 20 Aug 2026 04:46:49 UTC
+# Updated at Fri, 21 Aug 2026 04:49:04 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -6367,6 +6367,7 @@
 0.0.0.0 afd.baidu.com
 0.0.0.0 afdbwq.blivakker.no
 0.0.0.0 afecvu.bulevip.com
+0.0.0.0 afeteforfood.com
 0.0.0.0 afevxr.guydemarle.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 aff-report.lbesecapi.com
@@ -221119,6 +221120,7 @@
 0.0.0.0 fahmta.xcweather.co.uk
 0.0.0.0 faibl.org
 0.0.0.0 fail.adr.ec
+0.0.0.0 fairanalytics.de
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 fairfeeling.com
 0.0.0.0 fairiesbranch.com
@@ -222351,6 +222353,7 @@
 0.0.0.0 fmgmail.rollowealth.com
 0.0.0.0 fmhzi.ergopouch.com.au
 0.0.0.0 fmjgtp.dentalspeed.com
+0.0.0.0 fml-x.com
 0.0.0.0 fmlau.ocoabeauty.com
 0.0.0.0 fmlnqh.benditoconforto.com.br
 0.0.0.0 fmnoa.rarecarat.com
@@ -264346,7 +264349,6 @@
 0.0.0.0 rampanel.com
 0.0.0.0 rampmetrics.com
 0.0.0.0 rand.propspotter.com.au
-0.0.0.0 randisphotos.com
 0.0.0.0 randiul.com
 0.0.0.0 random.amuuzbouche.com
 0.0.0.0 random.osorteiodosprimos.me
@@ -267870,6 +267872,7 @@
 0.0.0.0 scnon.perpetualtraffic.com
 0.0.0.0 scode.randomhouse.com
 0.0.0.0 scoegp.learnandmaster.com
+0.0.0.0 scollect.17173.com
 0.0.0.0 sconnectstats.mckesson.com
 0.0.0.0 scookies-adobe.24plus.be
 0.0.0.0 scookies-adobe.cbc.be

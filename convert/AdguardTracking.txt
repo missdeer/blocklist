@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 21 Aug 2026 04:49:04 UTC
+# Updated at Sat, 22 Aug 2026 04:42:36 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8480,6 +8480,7 @@
 0.0.0.0 analytics.securebanklogin.com
 0.0.0.0 analytics.sedrajewellery.com
 0.0.0.0 analytics.seekxr.com
+0.0.0.0 analytics.sen.go.kr
 0.0.0.0 analytics.send.cm
 0.0.0.0 analytics.sensorpartners.com
 0.0.0.0 analytics.servettefc.ch
@@ -8542,6 +8543,7 @@
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.spark.co.nz
 0.0.0.0 analytics.spearly.com
+0.0.0.0 analytics.sportera.fans
 0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.sposadeste.com
 0.0.0.0 analytics.ssmas.com
@@ -11895,6 +11897,7 @@
 0.0.0.0 bank.svb.com
 0.0.0.0 banks.adpinfo.com
 0.0.0.0 banner.appsflyer.com
+0.0.0.0 bannerave.com
 0.0.0.0 banopz.superkancl.cz
 0.0.0.0 banstat.nadavi.net
 0.0.0.0 baptisttop1000.com
@@ -12154,6 +12157,7 @@
 0.0.0.0 bear.datingrelationshipsadvice.com
 0.0.0.0 bear.jake.nyc
 0.0.0.0 bear.modulr.design
+0.0.0.0 beastbook.net
 0.0.0.0 beat.yourtv.jp
 0.0.0.0 beautifulrope.com
 0.0.0.0 beautycrew.e.aremedia.com.au
@@ -13280,6 +13284,7 @@
 0.0.0.0 burldh.made-kim.co.kr
 0.0.0.0 burnbubble.com
 0.0.0.0 burner.bodyline.ro
+0.0.0.0 burningclock.com
 0.0.0.0 burpee.thesculptsociety.com
 0.0.0.0 burstbeacon.com
 0.0.0.0 burt.io
@@ -14352,6 +14357,7 @@
 0.0.0.0 cardinal.newman.is
 0.0.0.0 cardinal.zenting.app
 0.0.0.0 cardmethod.com
+0.0.0.0 cardproducer.com
 0.0.0.0 cards-clnxml-services.net.mydays.de
 0.0.0.0 care.advancedscare.com
 0.0.0.0 care.alaricong.com
@@ -22042,6 +22048,7 @@
 0.0.0.0 cuarb.cartersoshkosh.ca
 0.0.0.0 cubchannel.com
 0.0.0.0 cube.1800striper.com
+0.0.0.0 cubeface.com
 0.0.0.0 cubeglobal.net
 0.0.0.0 cubepins.com
 0.0.0.0 cubicmandarin.com
@@ -28340,6 +28347,7 @@
 0.0.0.0 defeatedbadge.com
 0.0.0.0 defensevest.com
 0.0.0.0 defygravity.convio.com
+0.0.0.0 defyingbelief.com
 0.0.0.0 degnsn.birebin.com
 0.0.0.0 degree.insead.edu
 0.0.0.0 degreechariot.com
@@ -245761,7 +245769,6 @@
 0.0.0.0 lpserver.maxfocos.com.br
 0.0.0.0 lpstape.safebras.com.br
 0.0.0.0 lpsuu.coastpay.com
-0.0.0.0 lptag.liveperson.net
 0.0.0.0 lptamura.amortecedorestamura.com
 0.0.0.0 lptest.dg.test.ajo.adobe.com
 0.0.0.0 lptest.email-mobiledx.cjm.adobe.com
@@ -257863,6 +257870,7 @@
 0.0.0.0 online.siteboosters.de
 0.0.0.0 online.spsglobal.com
 0.0.0.0 online.yodle.com
+0.0.0.0 onlinemediahelper.com
 0.0.0.0 onlinesellerenforcement.vorys.com
 0.0.0.0 onlineshop.ricoh.de
 0.0.0.0 onlineshop.ricoh.it
@@ -296612,6 +296620,7 @@
 0.0.0.0 sulkycook.com
 0.0.0.0 sumaiya.sumaiyahairtonic.com
 0.0.0.0 sumatra.ai
+0.0.0.0 sumetrika.com
 0.0.0.0 summary.bookoff.co.jp
 0.0.0.0 summary.bookoffonline.co.jp
 0.0.0.0 summerobject.com
@@ -314791,6 +314800,7 @@
 0.0.0.0 xsrzqh.vietnamplus.vn
 0.0.0.0 xsswcg.moglix.com
 0.0.0.0 xstat.gazeta.bo
+0.0.0.0 xstats.st
 0.0.0.0 xswrjv.murad.com
 0.0.0.0 xtatwn.hillbergandberk.com
 0.0.0.0 xtazfx.50factory.com

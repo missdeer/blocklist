@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sun, 23 Aug 2026 04:47:28 UTC
+# Updated at Mon, 24 Aug 2026 04:55:44 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -117,6 +117,7 @@
 0.0.0.0 b629.electronicdesign.com
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
+0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.shazam.com
@@ -155,6 +156,7 @@
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cdp.howtotrade.com
 0.0.0.0 cfa.fidelity.com
+0.0.0.0 check2.bankofscotland.co.uk
 0.0.0.0 check2.lloydsbank.co.uk
 0.0.0.0 check3.tiaa.org
 0.0.0.0 chloro.trip.com
@@ -898,6 +900,7 @@
 0.0.0.0 u.strike.bz
 0.0.0.0 u1sdata.webullfintech.com
 0.0.0.0 u46.pnc.com
+0.0.0.0 u47.pnc.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 ua.indianexpress.com

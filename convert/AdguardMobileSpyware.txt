@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 24 Aug 2026 04:55:44 UTC
+# Updated at Tue, 25 Aug 2026 04:48:25 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -1078,6 +1078,7 @@
 0.0.0.0 verifysession.uxcam.com
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 vik-analytics.moonactive.net
+0.0.0.0 visit-server.inmobi-choice.io
 0.0.0.0 viva.api.xiaoying.co
 0.0.0.0 vk-analytics.ru
 0.0.0.0 volceapplog.com

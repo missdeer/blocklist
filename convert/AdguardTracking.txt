@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 24 Aug 2026 04:55:44 UTC
+# Updated at Tue, 25 Aug 2026 04:48:26 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -237859,6 +237859,7 @@
 0.0.0.0 life.reliefly.co
 0.0.0.0 life.safetynest.com.au
 0.0.0.0 life.trywellife.com
+0.0.0.0 lifecoverdirect.com
 0.0.0.0 lifescience.item24.de
 0.0.0.0 lifescience.item24.it
 0.0.0.0 lifestyle.edm.globalsources.com
@@ -250662,6 +250663,7 @@
 0.0.0.0 mengis-linden.org
 0.0.0.0 mennoc.mezlan.com
 0.0.0.0 mensch.ekd.de
+0.0.0.0 mentalreef.com
 0.0.0.0 menteechain.com
 0.0.0.0 mentor.adrianscalper.com
 0.0.0.0 mentor.direitocomprado.com.br
@@ -254167,6 +254169,7 @@
 0.0.0.0 miseventos.orem.com.mx
 0.0.0.0 missionrewards.com
 0.0.0.0 misst.mibiota.de
+0.0.0.0 missvent.com
 0.0.0.0 mistervillas.com
 0.0.0.0 mistyhorizon.com
 0.0.0.0 miszfe.glamira.es
@@ -258428,6 +258431,7 @@
 0.0.0.0 p.ryanhalliday.com
 0.0.0.0 p.sadoc.com.br
 0.0.0.0 p.smartertravel.com
+0.0.0.0 p.softmedia.cz
 0.0.0.0 p.statp.com
 0.0.0.0 p.tizonaa.com
 0.0.0.0 p.versacommerce.de
@@ -311935,6 +311939,7 @@
 0.0.0.0 vision.neurobiocomportementalisme.com
 0.0.0.0 visioncriticalpanels.com
 0.0.0.0 visistat.com
+0.0.0.0 visit-server.inmobi-choice.io
 0.0.0.0 visit.adelaide.edu.au
 0.0.0.0 visit.argfuscator.net
 0.0.0.0 visit.asb.co.nz

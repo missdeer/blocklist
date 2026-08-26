@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 25 Aug 2026 04:48:26 UTC
+# Updated at Wed, 26 Aug 2026 04:50:14 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -10887,6 +10887,7 @@
 0.0.0.0 art.happycustomer.io
 0.0.0.0 art.limbsaver.happycustomer.io
 0.0.0.0 art.rollinart.at
+0.0.0.0 artbranch.net
 0.0.0.0 artefact.is
 0.0.0.0 artfut.com
 0.0.0.0 arthas.moseasia.com
@@ -11438,6 +11439,7 @@
 0.0.0.0 auto.boostpouchco.com
 0.0.0.0 auto.scissorsscotch.com
 0.0.0.0 autoaffiliatenetwork.com
+0.0.0.0 autoappearancetraining.com
 0.0.0.0 autoaudience.com
 0.0.0.0 autoconfig.directory.avadacom.com
 0.0.0.0 autodiscover.admin.avadacom.com
@@ -12274,6 +12276,7 @@
 0.0.0.0 bewsgxy.solidandstriped.com
 0.0.0.0 beyolp.pebmed.com.br
 0.0.0.0 beyond.bluewolf.com
+0.0.0.0 beyondgoodness.com
 0.0.0.0 beyondmeasure.rigoltech.com
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 bez.vowega.de
@@ -12774,6 +12777,7 @@
 0.0.0.0 blue.bpsdepot.nl
 0.0.0.0 blue.unitedbyblue.com
 0.0.0.0 bluecava.com
+0.0.0.0 bluecollarmuse.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluecore.com
 0.0.0.0 bluecounter.de
@@ -220857,6 +220861,8 @@
 0.0.0.0 exapxl.de
 0.0.0.0 exbujk.glamood.com
 0.0.0.0 exc.ns.nl
+0.0.0.0 excess-ga.duolingo.com
+0.0.0.0 excess.duolingo.com
 0.0.0.0 exch.adaptable.nl
 0.0.0.0 exch.bolderman.nl
 0.0.0.0 exch.de-duurzame-jongens.nl
@@ -256075,6 +256081,7 @@
 0.0.0.0 newsale.bdpriyostore.com
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsbotnet.com
+0.0.0.0 newscompiler.com
 0.0.0.0 newserv.xyz
 0.0.0.0 newserver.bangla99.com
 0.0.0.0 newserver.bardapraia.com.pt
@@ -256816,6 +256823,7 @@
 0.0.0.0 num.irp.gg
 0.0.0.0 numbers.coolconfetti.com
 0.0.0.0 numbers.monthlyphotos.com
+0.0.0.0 numericblog.com
 0.0.0.0 numerino.cz
 0.0.0.0 numerousnest.com
 0.0.0.0 nums.upscale.app

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 26 Aug 2026 04:50:14 UTC
+# Updated at Thu, 27 Aug 2026 15:08:33 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8714,6 +8714,7 @@
 0.0.0.0 analytics.warnertv.fr
 0.0.0.0 analytics.washingtoncountybank.com
 0.0.0.0 analytics.watchcredo.com
+0.0.0.0 analytics.watchott.org
 0.0.0.0 analytics.wavelz.com
 0.0.0.0 analytics.wayland.app
 0.0.0.0 analytics.webads.eu
@@ -11936,6 +11937,7 @@
 0.0.0.0 bastingart.com
 0.0.0.0 basuey.toyscenter.it
 0.0.0.0 bat.bing.com
+0.0.0.0 bat.bing.net
 0.0.0.0 bat.heelix.be
 0.0.0.0 batman.avadacom.com
 0.0.0.0 batmobile.com.tw
@@ -12517,6 +12519,7 @@
 0.0.0.0 bidpapers.com
 0.0.0.0 bidr.io
 0.0.0.0 bidrbu.bett1.at
+0.0.0.0 bidscube.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bienvivre.chartwell.com
 0.0.0.0 biesn.crossrope.com
@@ -20412,7 +20415,6 @@
 0.0.0.0 cohfp.chairish.com
 0.0.0.0 coikujte.g-heat.com
 0.0.0.0 coin.historyhoard.com
-0.0.0.0 cointent.com
 0.0.0.0 col.casa.it
 0.0.0.0 col.idealista.com
 0.0.0.0 col.idealista.fr
@@ -220256,11 +220258,14 @@
 0.0.0.0 eu-cdn.kgm-motors.co.uk
 0.0.0.0 eu-data.kameleoon.io
 0.0.0.0 eu-email.mail.fieldview.trimble.com
+0.0.0.0 eu-onrt-stsdk.vivoglobal.com
+0.0.0.0 eu-ort-stsdk.vivoglobal.com
 0.0.0.0 eu-south-2.alb.pulse.perfmetrics.netflix.com
 0.0.0.0 eu-south-dev2.cloud.s11.sfmc-osl.com
 0.0.0.0 eu-south-hosting.cloud.s11.sfmc-osl.com
 0.0.0.0 eu-south-integration.cloud.s11.sfmc-osl.com
 0.0.0.0 eu-south-us-west-2.cloud.s11.sfmc-osl.com
+0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-survey.com
 0.0.0.0 eu-we3id3.click.s11.sfmc-osl.com
 0.0.0.0 eu-west-1-cluster1.net.mydays.de
@@ -220851,6 +220856,7 @@
 0.0.0.0 ewstv.wxyz.com
 0.0.0.0 ewtlvx.olliscience.com
 0.0.0.0 ewygto.swanicoco.co.kr
+0.0.0.0 ex-adreq-asia.vivoglobal.com
 0.0.0.0 ex.pudaierbangladesh.com
 0.0.0.0 exact.purify-waters.com
 0.0.0.0 exactag.com
@@ -221772,6 +221778,7 @@
 0.0.0.0 felidae.mysuperportal.com
 0.0.0.0 felidae.theforeignarchitect.com
 0.0.0.0 felidae.top10partnersuche.ch
+0.0.0.0 felinesocial.com
 0.0.0.0 felix.alpinloacker.com
 0.0.0.0 felix.feelgrounds.com
 0.0.0.0 fellowshipvillage.fellowshiplifeinc.org
@@ -223496,6 +223503,7 @@
 0.0.0.0 gamefowl.karlsutt.com
 0.0.0.0 gamefowl.nonprofit.foundation
 0.0.0.0 gamergirl.pro
+0.0.0.0 gamerone.net
 0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gamingfun.me
 0.0.0.0 gamma.ui.system.netsalesmedia.pl
@@ -225279,7 +225287,6 @@
 0.0.0.0 gocpi.quadrant.gg
 0.0.0.0 gocuxy.baycrews.jp
 0.0.0.0 god.jewelpalace.in
-0.0.0.0 goddesslamps.com
 0.0.0.0 godhat.com
 0.0.0.0 godseedband.com
 0.0.0.0 godvd.cleansimpleeats.com
@@ -225317,6 +225324,7 @@
 0.0.0.0 good.iamandco.com
 0.0.0.0 good.mindbustingescaperooms.com
 0.0.0.0 good.store.kazistorebd.com
+0.0.0.0 goodandwild.com
 0.0.0.0 goodcounter.org
 0.0.0.0 goodfoodtours.com
 0.0.0.0 goodsign.email
@@ -234869,6 +234877,7 @@
 0.0.0.0 init.blackcrow.ai
 0.0.0.0 init.izoa.fr
 0.0.0.0 inixwg.vibrate.co.kr
+0.0.0.0 inkcoupon.com
 0.0.0.0 inlks.topliftpros.com
 0.0.0.0 inlog01.hket.com
 0.0.0.0 inmmyp.lenspecsmu.ru
@@ -236300,6 +236309,7 @@
 0.0.0.0 jugvl.transformationprotein.com
 0.0.0.0 juicebard.com
 0.0.0.0 juiceblocks.com
+0.0.0.0 juicemovement.com
 0.0.0.0 juicingoasis.com
 0.0.0.0 juicyt.juicysms.com
 0.0.0.0 jujrwt.kasseler-jobanzeiger.de
@@ -254176,6 +254186,7 @@
 0.0.0.0 missionrewards.com
 0.0.0.0 misst.mibiota.de
 0.0.0.0 missvent.com
+0.0.0.0 mistertees.net
 0.0.0.0 mistervillas.com
 0.0.0.0 mistyhorizon.com
 0.0.0.0 miszfe.glamira.es
@@ -300079,6 +300090,7 @@
 0.0.0.0 thingstaste.com
 0.0.0.0 think.lavidahomes.com.au
 0.0.0.0 think.phdinc.com
+0.0.0.0 thinkingdata.cn
 0.0.0.0 thinkitten.com
 0.0.0.0 thinkitwice.com
 0.0.0.0 thirdrespect.com

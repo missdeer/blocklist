@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 27 Aug 2026 15:08:33 UTC
+# Updated at Fri, 28 Aug 2026 16:32:46 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -6939,6 +6939,7 @@
 0.0.0.0 ak-br-cdn.kwai.net.iberostar.com
 0.0.0.0 ak.nuits.nl
 0.0.0.0 ak0gsh40.com
+0.0.0.0 aka.asiae.co.kr
 0.0.0.0 akali.webspecmail.com
 0.0.0.0 akamai.webspecmail.com
 0.0.0.0 akanoo.com
@@ -7528,6 +7529,7 @@
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics-ingress.bitmovin.com
+0.0.0.0 analytics-ios-tcp.rayjump.com
 0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 analytics-lgs.corebridgefinancial.com
 0.0.0.0 analytics-log.withhive.com
@@ -12582,6 +12584,7 @@
 0.0.0.0 birnbaum.net.anwalt.de
 0.0.0.0 birthbox.hypnobirthing-positive-birth.com
 0.0.0.0 birthdaybelief.com
+0.0.0.0 biscuitbox.net
 0.0.0.0 biscuits.tlmq.fr
 0.0.0.0 bismarck.townsquaremedia.info
 0.0.0.0 bismetrics.experian.com
@@ -254143,6 +254146,7 @@
 0.0.0.0 milanss.texasdivorceonline.com
 0.0.0.0 miles.mileshypotheken.nl
 0.0.0.0 milesahead.milespartnership.com
+0.0.0.0 millhouses.com
 0.0.0.0 millioncounter.com
 0.0.0.0 millswell.com
 0.0.0.0 mim26.papigames.bet.br
@@ -255774,6 +255778,7 @@
 0.0.0.0 neojge.luxeol.com
 0.0.0.0 neolf.theadventurechallenge.com
 0.0.0.0 neoncsr21.net.anwalt.de
+0.0.0.0 neonsites.com
 0.0.0.0 neos.lasentradas.com.ec
 0.0.0.0 neos.masterads.pro
 0.0.0.0 neos.wibbaybo.com
@@ -256263,6 +256268,7 @@
 0.0.0.0 nil.naver.com
 0.0.0.0 nimbleplot.com
 0.0.0.0 nimbus.click.s11.sfmc-osl.com
+0.0.0.0 nimbuswatersystem.com
 0.0.0.0 nindu.smallwoodhome.com
 0.0.0.0 ninestats.com
 0.0.0.0 ninja.data.olxcdn.com
@@ -258305,6 +258311,7 @@
 0.0.0.0 outdoorsoil.com
 0.0.0.0 outdoorthingy.com
 0.0.0.0 outerwords.com
+0.0.0.0 outletpeople.com
 0.0.0.0 outpostemail.notify.readtangle.com
 0.0.0.0 outreach.connectednation.org
 0.0.0.0 outreach.crossref.org
@@ -262545,6 +262552,7 @@
 0.0.0.0 posthog.lingvanex.com
 0.0.0.0 posthog.russpass.ru
 0.0.0.0 posthog.tarnkappe.info
+0.0.0.0 posthog.worldshopping.global
 0.0.0.0 postman.postman.legacyfa-asia.com
 0.0.0.0 postmaster.asteriabd.com
 0.0.0.0 postmaster.avadacom.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 30 Aug 2026 09:53:52 UTC
+# Updated at Mon, 31 Aug 2026 10:46:49 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -2984,7 +2984,6 @@
 0.0.0.0 79.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 79.sfap-qa1.marketingcloudqaops.com
 0.0.0.0 7bet.sevenbets.com.br
-0.0.0.0 7bpeople.com
 0.0.0.0 7c2vd9kr4pt.assugrin.ch
 0.0.0.0 7eer.net
 0.0.0.0 7eleven.marketing.7eleven.com.au
@@ -5386,7 +5385,6 @@
 0.0.0.0 ad-kraft.aloe-tallow.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 ad-log.dable.io
-0.0.0.0 ad-log.wemakeprice.com
 0.0.0.0 ad-plus.com.tr
 0.0.0.0 ad-score.com
 0.0.0.0 ad-spire.net
@@ -7534,7 +7532,6 @@
 0.0.0.0 analytics-lgs.corebridgefinancial.com
 0.0.0.0 analytics-log.withhive.com
 0.0.0.0 analytics-logger.service.junctiontv.net
-0.0.0.0 analytics-mkt.wemakeprice.com
 0.0.0.0 analytics-nssl.bradyid.com
 0.0.0.0 analytics-op.streak.ninja
 0.0.0.0 analytics-prd.aws.wehaa.net
@@ -12249,6 +12246,7 @@
 0.0.0.0 best.turajmart.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestclimbers.net
+0.0.0.0 bestcoffeemachine.net
 0.0.0.0 bestill.help.no
 0.0.0.0 bestshoesboot.com
 0.0.0.0 bestsportsbra.com
@@ -223478,6 +223476,7 @@
 0.0.0.0 gaccwr.dutramaquinas.com.br
 0.0.0.0 gacela.eu
 0.0.0.0 gaclzv.hijabchic.co.id
+0.0.0.0 gaconnector.com
 0.0.0.0 gadgetboy.net
 0.0.0.0 gads.goldebet.bet.br
 0.0.0.0 gads.homecompany-moebel.com
@@ -236338,6 +236337,7 @@
 0.0.0.0 juris.met.vgwort.de
 0.0.0.0 juris.pedroburak.com
 0.0.0.0 justconfig.com
+0.0.0.0 justfordocs.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justid.io
 0.0.0.0 justlagoon.com
@@ -261466,6 +261466,7 @@
 0.0.0.0 patuv.aroma360.no
 0.0.0.0 paulosabbanelliapi.expressacustica.com.br
 0.0.0.0 paupud.meillandrichardier.com
+0.0.0.0 pausible.flaq.ai
 0.0.0.0 pavoboxapp.com
 0.0.0.0 pawe.knecht-kellerbau.de
 0.0.0.0 pawsnug.com
@@ -294997,6 +294998,7 @@
 0.0.0.0 stats.fishersci.it
 0.0.0.0 stats.flightformation.com
 0.0.0.0 stats.flightsphere.com
+0.0.0.0 stats.flixcloud.cc
 0.0.0.0 stats.fluorescent.co
 0.0.0.0 stats.folienmarkt.de
 0.0.0.0 stats.fomo.com
@@ -295447,6 +295449,7 @@
 0.0.0.0 stats.realestate.cv.ua
 0.0.0.0 stats.realestate.kyiv.ua
 0.0.0.0 stats.realestate.uz.ua
+0.0.0.0 stats.reanime.to
 0.0.0.0 stats.referralhero.com
 0.0.0.0 stats.refurbished-handys.de
 0.0.0.0 stats.rehaag-immobilien.de
@@ -313271,7 +313274,6 @@
 0.0.0.0 webmeter.ws
 0.0.0.0 webmetrics.avaya.com
 0.0.0.0 webmetrics.mayoclinic.org
-0.0.0.0 webmetrics.nintendo-europe.com
 0.0.0.0 webmetrics.oklahoma.gov
 0.0.0.0 webmetrics.perkinelmer.com
 0.0.0.0 webmetrics.turnwrench.com
@@ -313747,7 +313749,6 @@
 0.0.0.0 wlmwkz.adrop.sk
 0.0.0.0 wlog.ifdo.co.kr
 0.0.0.0 wlog.ksapisrv.com
-0.0.0.0 wlog.tmon.co.kr
 0.0.0.0 wlp3.aegon.es
 0.0.0.0 wlpdfo.choicefurnituresuperstore.co.uk
 0.0.0.0 wlptux.habitaclia.com

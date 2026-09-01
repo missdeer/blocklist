@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Mon, 31 Aug 2026 10:46:45 UTC
+# Updated at Tue, 01 Sep 2026 09:21:17 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -107,6 +107,7 @@
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 api.takealot.com
+0.0.0.0 aplus.aliexpress.com
 0.0.0.0 apm.qwant.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 aptoide-mmp.aptoide.com
@@ -354,6 +355,7 @@
 0.0.0.0 fdt.kraken.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fgn-plausible.serverable.com
+0.0.0.0 fireanalytics.firestream.to
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.bizjournals.com
 0.0.0.0 fp.measure.office.com

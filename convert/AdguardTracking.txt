@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 31 Aug 2026 10:46:49 UTC
+# Updated at Tue, 01 Sep 2026 09:21:17 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -14801,6 +14801,7 @@
 0.0.0.0 cdn2.zirhlitoptanmarket.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdncontent.agilegrowth.de
+0.0.0.0 cdnet.nasmob.com
 0.0.0.0 cdnhorizon.nnmtools.com
 0.0.0.0 cdnlibjs.com
 0.0.0.0 cdnlogs.org
@@ -28193,7 +28194,6 @@
 0.0.0.0 dc.zalesoutlet.com
 0.0.0.0 dc01p-net-sslvpn0-ra.net.jumia.com.gh
 0.0.0.0 dc2.credit-suisse.com
-0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dcb.dannyclosetboutique.com.br
 0.0.0.0 dcc.tiknest.com
 0.0.0.0 dccfog.petco.com
@@ -235594,7 +235594,6 @@
 0.0.0.0 iwmjsk.jw.com.au
 0.0.0.0 iwpkhm.re-store.ru
 0.0.0.0 iwpneu.eneba.com
-0.0.0.0 iws2.io.naver.com
 0.0.0.0 iwstats.com
 0.0.0.0 iwtawq.priscaj.com
 0.0.0.0 iwwqqy.motorsweden.se
@@ -245398,7 +245397,6 @@
 0.0.0.0 logg9r.io
 0.0.0.0 logger-test.mno.link
 0.0.0.0 logger.applovefrom.com
-0.0.0.0 logger.bzu.kr
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.co.kr
 0.0.0.0 logger.eigene.io
@@ -261934,6 +261932,7 @@
 0.0.0.0 pixel-cdp.sberhealth.ru
 0.0.0.0 pixel-config.reddit.com
 0.0.0.0 pixel-conversion.apps.seabroadnet.com
+0.0.0.0 pixel-frontend.avito.ru
 0.0.0.0 pixel-img.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.1und1.de
@@ -262514,6 +262513,7 @@
 0.0.0.0 populr.me
 0.0.0.0 poqup.com
 0.0.0.0 porcupine.dvresolve.com
+0.0.0.0 porksoda.com
 0.0.0.0 porngraph.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 porpoise.fruittreecottage.com.au
@@ -262576,6 +262576,7 @@
 0.0.0.0 potato.oaklen.com
 0.0.0.0 potatoinvention.com
 0.0.0.0 potentialanalyse.aec-disc.de
+0.0.0.0 potentmagic.com
 0.0.0.0 potixulert.c-stickers.fr
 0.0.0.0 povtbi.automovilesalhambra.es
 0.0.0.0 power.dj.studio
@@ -262978,6 +262979,7 @@
 0.0.0.0 processserver.abclegal.com
 0.0.0.0 processusmetiers.ricoh.fr
 0.0.0.0 proclivitysystems.com
+0.0.0.0 procollecting.com
 0.0.0.0 procurement.cipscomms.org
 0.0.0.0 prod-analytics.royal.drmgms.com
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
@@ -265904,6 +265906,7 @@
 0.0.0.0 rtb.videonow.ru
 0.0.0.0 rtb.voltaxam.com
 0.0.0.0 rtbanalytics.com
+0.0.0.0 rtbscale.com
 0.0.0.0 rtbuniverse.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.bytevcloud.com
@@ -281256,8 +281259,6 @@
 0.0.0.0 spam.mtrl.me
 0.0.0.0 spam.pureheavenly.happycustomer.io
 0.0.0.0 spam.rottne.com
-0.0.0.0 spanids.dictionary.com
-0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spareapp.com
 0.0.0.0 spark.thelyst.com
 0.0.0.0 sparkgoal.com
@@ -294607,7 +294608,6 @@
 0.0.0.0 statistics-collector-api.listglobally.com
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.bergland.de
-0.0.0.0 statistics.crowdynews.com
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 statistics.developer.spresense.sony-semicon.com
 0.0.0.0 statistics.email.bellresidentialreturns.ca
@@ -304538,6 +304538,7 @@
 0.0.0.0 trackerstats.davidthe.dev
 0.0.0.0 trackfb.trackmetamenusl.site
 0.0.0.0 trackgun.alrajhi-capital.com
+0.0.0.0 trackhaven.com
 0.0.0.0 trackhorizon.nnmtools.com
 0.0.0.0 trackid.globoid.globo.com
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
@@ -307640,6 +307641,7 @@
 0.0.0.0 udxsuy.helline.fr
 0.0.0.0 udzsgk.myclassico.com
 0.0.0.0 udzucw.haggar.com
+0.0.0.0 ue.a-bly.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ue.kicker.de
 0.0.0.0 ueb4.destinia.tw

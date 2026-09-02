@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 01 Sep 2026 09:21:17 UTC
+# Updated at Wed, 02 Sep 2026 08:43:25 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -456,7 +456,6 @@
 0.0.0.0 11dkim1._domainkey.mch.chase.com
 0.0.0.0 11dkim1._domainkey.mcmap.chase.com
 0.0.0.0 11dkim1._domainkey.snapcap.com
-0.0.0.0 11nux.com
 0.0.0.0 1204.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 12041.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 12053.editor-qa1.marketingcloudqaapis.com
@@ -1259,7 +1258,6 @@
 0.0.0.0 20087.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 20087.sfap-qa1.marketingcloudqaops.com
 0.0.0.0 20096.sfap-qa1.marketingcloudqaops.com
-0.0.0.0 200summit.com
 0.0.0.0 2010.avadacom.com
 0.0.0.0 20100.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 20100.sock-qa1.marketingcloudqaops.com
@@ -1325,7 +1323,6 @@
 0.0.0.0 20476.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 20476.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 20476.ftp-qa1.marketingcloudqaops.com
-0.0.0.0 204st.us
 0.0.0.0 2050.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 20515.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 20555.editor-qa1.marketingcloudqaapis.com
@@ -5345,6 +5342,7 @@
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 acuityplatform.com
+0.0.0.0 acustomizedgift.com
 0.0.0.0 acv.au-hikari-kddi.com
 0.0.0.0 acv.auhikari-norikae.com
 0.0.0.0 acv.aun-company.com
@@ -14390,6 +14388,7 @@
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
 0.0.0.0 carmen.golem.de
+0.0.0.0 carmen2.golem.de
 0.0.0.0 carmona.anunciojuridico.com.br
 0.0.0.0 carp.amespacios.com
 0.0.0.0 carp.spotonevent.no
@@ -219541,6 +219540,7 @@
 0.0.0.0 emealandingpage.ajo1emea.adls.adobevlab.com
 0.0.0.0 emealandingpage.ajo2emea.adls.adobevlab.com
 0.0.0.0 emedns.bonify.de
+0.0.0.0 emergency.zeta-ai.io
 0.0.0.0 emerheat-ss.shopperlo.com
 0.0.0.0 emerheat-ss.wellheater.com
 0.0.0.0 emersonecologics.com.102.122.207.net
@@ -236488,6 +236488,7 @@
 0.0.0.0 kalwub.mizuho-re.co.jp
 0.0.0.0 kameleoon.com
 0.0.0.0 kameleoon.eu
+0.0.0.0 kameleoon.io
 0.0.0.0 kameo.32degrees.com
 0.0.0.0 kampaania.aripaevmeedia.ee
 0.0.0.0 kampanja.bhtelecom.ba
@@ -257114,6 +257115,7 @@
 0.0.0.0 o.techmaniak.pl
 0.0.0.0 o.webmd.com
 0.0.0.0 o.xbox.com
+0.0.0.0 o11y-proxy-otel-frontend.meli.com
 0.0.0.0 o1lvz.poopy.co
 0.0.0.0 o2de.mno.link
 0.0.0.0 o2o.api.xiaomi.com
@@ -263413,6 +263415,7 @@
 0.0.0.0 puffypurpose.com
 0.0.0.0 pufjc.attunemedspa.com
 0.0.0.0 pufqhd.rounz.com
+0.0.0.0 pugspress.com
 0.0.0.0 pugvm.durangoboots.com
 0.0.0.0 puiwrs.misterspex.de
 0.0.0.0 puja.amardeeprawat.com
@@ -264628,6 +264631,7 @@
 0.0.0.0 rechenschieber.transfermarkt.us
 0.0.0.0 rechenschieber.transfermarkt.world
 0.0.0.0 recid.aquatalia.com
+0.0.0.0 recipepile.net
 0.0.0.0 recipepin.com
 0.0.0.0 reciprocoachadmin.admin.reciprocoach.com
 0.0.0.0 reciprocoachemail.email.reciprocoach.com
@@ -264667,6 +264671,7 @@
 0.0.0.0 redbricksoap.com
 0.0.0.0 redcounter.net
 0.0.0.0 reddwarf.till-sanders.de
+0.0.0.0 redexecs.com
 0.0.0.0 redistats.com
 0.0.0.0 redstatcounter.com
 0.0.0.0 redt.bagatt.com

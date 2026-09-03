@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Wed, 02 Sep 2026 08:43:22 UTC
+# Updated at Thu, 03 Sep 2026 08:52:15 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -58,6 +58,7 @@
 0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics-assets.tes.com
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com

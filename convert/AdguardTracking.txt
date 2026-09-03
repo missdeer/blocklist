@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 02 Sep 2026 08:43:25 UTC
+# Updated at Thu, 03 Sep 2026 08:52:14 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -235304,7 +235304,6 @@
 0.0.0.0 ipcc.vnpt.com.vn
 0.0.0.0 ipcd-ts.optimizate.com
 0.0.0.0 ipcfgw.pieces.com
-0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 ipclt.pleasershoes.com
 0.0.0.0 ipcount.net
 0.0.0.0 ipcounter.de

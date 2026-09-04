@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 03 Sep 2026 08:52:14 UTC
+# Updated at Fri, 04 Sep 2026 08:47:30 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -2354,7 +2354,6 @@
 0.0.0.0 3558.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3558.sock-qa1.marketingcloudqaops.com
 0.0.0.0 360i.com
-0.0.0.0 360tag.com
 0.0.0.0 3617.connector-qa1.marketingcloudqaapis.com
 0.0.0.0 3617.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 3643.editor-qa1.marketingcloudqaapis.com
@@ -2966,7 +2965,6 @@
 0.0.0.0 777.triple7towing.co
 0.0.0.0 7775.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 7794933491.transcribetotext.ai
-0.0.0.0 77tracking.com
 0.0.0.0 780.ftp-qa1.marketingcloudqaops.com
 0.0.0.0 7800.editor-qa1.marketingcloudqaapis.com
 0.0.0.0 7800.sock-qa1.marketingcloudqaops.com
@@ -5030,7 +5028,6 @@
 0.0.0.0 abcd.vedobi.com
 0.0.0.0 abclag.ohboy.com.br
 0.0.0.0 abcompteur.com
-0.0.0.0 abcstats.com
 0.0.0.0 abdelrhman.gherasstore.com
 0.0.0.0 abdpac.williamsshoes.com.au
 0.0.0.0 abdrjm.eurostarshotels.de
@@ -5132,6 +5129,7 @@
 0.0.0.0 ac-email-tracking.primeline.nl
 0.0.0.0 ac-email-tracking.qander.nl
 0.0.0.0 ac-email-tracking.staedion.nl
+0.0.0.0 ac.conel.jp
 0.0.0.0 ac.ecai-report.com
 0.0.0.0 ac.geechs-job.com
 0.0.0.0 ac.khatirchoyabd.com
@@ -5158,7 +5156,6 @@
 0.0.0.0 accelerate.teachertee.com
 0.0.0.0 accept.alalikexpress.com
 0.0.0.0 acceptcards.americanexpress.co.uk
-0.0.0.0 access-analyze.org
 0.0.0.0 access.acspubs.org
 0.0.0.0 access.hikaritv.net
 0.0.0.0 access.moseasia.com
@@ -5190,7 +5187,6 @@
 0.0.0.0 acelogger.heraldcorp.com
 0.0.0.0 acemetrics.aaa.com
 0.0.0.0 acesso.imobiliariarspicarras.com.br
-0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
 0.0.0.0 acfoin.deppoavantaj.com
 0.0.0.0 acfth.broadwayinchicago.com
@@ -5371,7 +5367,6 @@
 0.0.0.0 acwbzb.compagniedesspas.fr
 0.0.0.0 acweb.clog.jp
 0.0.0.0 acxajt.jimmykey.com
-0.0.0.0 acxiom-online.com
 0.0.0.0 aczoh.myhealth-lifestyle.com
 0.0.0.0 ad-a8.www.zeiri4.com
 0.0.0.0 ad-api-log.colopl.jp
@@ -6754,6 +6749,7 @@
 0.0.0.0 agora.webspecmail.com
 0.0.0.0 agorahtag.tech
 0.0.0.0 agrak.mojo.shop
+0.0.0.0 agrau.aii.sh
 0.0.0.0 agreeablearch.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 agrep.reneecosmetics.in
@@ -18918,6 +18914,7 @@
 0.0.0.0 clientlog.midomi.com
 0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 clientlog.pwsdk.com
+0.0.0.0 clientlog.wanmei.com
 0.0.0.0 clientlog3.music.163.com
 0.0.0.0 clientlogdep.music.163.com
 0.0.0.0 clientlogger.marketplace.aws.a2z.com
@@ -21089,6 +21086,7 @@
 0.0.0.0 consulting.mcgladrey.com
 0.0.0.0 consulting.ramboll.com
 0.0.0.0 consumer.inform.equifax.com
+0.0.0.0 consumerdebtnegotiation.com
 0.0.0.0 consumerknowhow.com
 0.0.0.0 consumerpilot.mektri.com
 0.0.0.0 consumerpilot.mektri.net
@@ -28753,6 +28751,7 @@
 0.0.0.0 digital.ridgewoodbank.com
 0.0.0.0 digital.setpointis.com
 0.0.0.0 digital.zowi.nl
+0.0.0.0 digitalatticnewsletter.com
 0.0.0.0 digitalblend.net
 0.0.0.0 digitalcamp.co.kr
 0.0.0.0 digitalixir.cleannfreshny.com
@@ -236056,6 +236055,7 @@
 0.0.0.0 jnros.fresh.com
 0.0.0.0 jnsol.sokolovelaw.com
 0.0.0.0 jnsoxa.fcmm.kr
+0.0.0.0 jnt.welt.de
 0.0.0.0 jnunn.alppouch.com
 0.0.0.0 jnvfm.blackmagic.com
 0.0.0.0 jnwpr.chefstore.com
@@ -254135,6 +254135,7 @@
 0.0.0.0 miexgq.forevernew.co.nz
 0.0.0.0 mightyspiders.com
 0.0.0.0 migratelobalid3.click.s11.sfmc-osl.com
+0.0.0.0 migstat.com
 0.0.0.0 mika.kiddiprint.com
 0.0.0.0 mikoi.railblaza.com
 0.0.0.0 mila.klike.ai
@@ -263383,6 +263384,7 @@
 0.0.0.0 pub.updates.cambridge.org
 0.0.0.0 pub.uq.uniqlo.com.my
 0.0.0.0 pub.venpro.abbvie.com
+0.0.0.0 pubbug.com
 0.0.0.0 pubexchange.com
 0.0.0.0 pubfs.com
 0.0.0.0 pubimgs.com
@@ -263395,7 +263397,6 @@
 0.0.0.0 publictelemetry.tophat.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
-0.0.0.0 publishflow.com
 0.0.0.0 pubperf.com
 0.0.0.0 pubstr.acs.org
 0.0.0.0 pubstr.acspubs.org
@@ -264852,6 +264853,7 @@
 0.0.0.0 rent.trs-rentelco.com
 0.0.0.0 rental.skinnerudlejning.dk
 0.0.0.0 rentinfinity.com
+0.0.0.0 rentinfrared.com
 0.0.0.0 rentpenny.com
 0.0.0.0 reobi.anderswhitesydney.com
 0.0.0.0 rep.lebes.com.br
@@ -265005,6 +265007,7 @@
 0.0.0.0 reptile.delopoulos.gr
 0.0.0.0 reptile.o-lit.fr
 0.0.0.0 republica.cursodetti.com.br
+0.0.0.0 republicfarm.net
 0.0.0.0 req.mediabuyeracademy.com
 0.0.0.0 reqssx.centerparcs.fr
 0.0.0.0 reqstat.api.mega.co.nz
@@ -265161,6 +265164,7 @@
 0.0.0.0 retrievemint.com
 0.0.0.0 retro.geeklife.fr
 0.0.0.0 retrocrypt.com
+0.0.0.0 retrorays.com
 0.0.0.0 retzrtz.wohnmeile.de
 0.0.0.0 reuat.zestypaws.com
 0.0.0.0 reuei.covertecproducts.com
@@ -265582,6 +265586,7 @@
 0.0.0.0 robotrefinery.com
 0.0.0.0 robotsrefinery.com
 0.0.0.0 rockagainst.com
+0.0.0.0 rockcarving.com
 0.0.0.0 rocket.bubble.dk
 0.0.0.0 rocketmonitor.com
 0.0.0.0 rockstarwriter.com
@@ -266074,6 +266079,7 @@
 0.0.0.0 rubelhasanrokib.ruchibazar.com
 0.0.0.0 rubicon.wellsfargo.com
 0.0.0.0 rubolite.ems-dental.com
+0.0.0.0 rubouthunger.com
 0.0.0.0 rubyswinehouse.com
 0.0.0.0 rucounter.ru
 0.0.0.0 rudder-server-prd.arena.im
@@ -267252,6 +267258,7 @@
 0.0.0.0 saffronrefuge.com
 0.0.0.0 safs.lilac.pk
 0.0.0.0 sageanalyst.net
+0.0.0.0 sagetrack.net
 0.0.0.0 sagor.aloha-jewelry.co
 0.0.0.0 sagor.healthyeatsbd.com
 0.0.0.0 sagor.ovation-designs.com
@@ -267597,6 +267604,7 @@
 0.0.0.0 sanders.sanderswellnesslayton.com
 0.0.0.0 sandstrophies.com
 0.0.0.0 sandypocket.com
+0.0.0.0 sandytaco.com
 0.0.0.0 sangkf.otto.sk
 0.0.0.0 sanity-dataplane.rudderstack.com
 0.0.0.0 sanl.champssports.ca
@@ -267968,6 +267976,7 @@
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
+0.0.0.0 screenphotos.com
 0.0.0.0 screenshare.pics
 0.0.0.0 screenshot.best
 0.0.0.0 screenshots.goguardian.com
@@ -268496,7 +268505,6 @@
 0.0.0.0 sellup.badana.cl
 0.0.0.0 selphiu.com
 0.0.0.0 sem.tkc-biyou.jp
-0.0.0.0 semanticverses.com
 0.0.0.0 semasio.net
 0.0.0.0 sematext.com
 0.0.0.0 semcusto.solucaogratuita.site
@@ -305694,7 +305702,6 @@
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 trackingapi.meinprospekt.de
 0.0.0.0 trackingavatar.revoicer.com
-0.0.0.0 trackinglabs.com
 0.0.0.0 trackinglibrary.prodperfect.com
 0.0.0.0 trackinglrus.wolterskluwer.com
 0.0.0.0 trackingmail.martigo.com
@@ -306188,7 +306195,6 @@
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 treatmentforgout.com
 0.0.0.0 treatoceans.com
-0.0.0.0 treconeanalytics.com
 0.0.0.0 treefrog.kaffeknappen.no
 0.0.0.0 treefrog.mii-chi.app
 0.0.0.0 treefrog.walkingwithdaddy.com

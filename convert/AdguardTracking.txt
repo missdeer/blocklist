@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 05 Sep 2026 08:18:03 UTC
+# Updated at Sun, 06 Sep 2026 08:36:43 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -296660,6 +296660,7 @@
 0.0.0.0 successbuffet.com
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 successmenu.com
+0.0.0.0 successoutcome.com
 0.0.0.0 succulents.pasiora.de
 0.0.0.0 suchanalytik.hideandsec.sh
 0.0.0.0 sucmetrics.hypovereinsbank.de
@@ -296696,6 +296697,7 @@
 0.0.0.0 suncanny.marvelhq.com
 0.0.0.0 suncorp.activate.ensighten.com
 0.0.0.0 sundaysky.com
+0.0.0.0 sunflaggroup.com
 0.0.0.0 sunios.de
 0.0.0.0 sunrise.adnanagic.com
 0.0.0.0 sunrise.sm-project.com

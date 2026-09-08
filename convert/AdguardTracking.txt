@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 07 Sep 2026 09:15:41 UTC
+# Updated at Tue, 08 Sep 2026 08:49:02 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3387,6 +3387,7 @@
 0.0.0.0 a2.americasavingsexperts.com
 0.0.0.0 a2.avomeen.com
 0.0.0.0 a2.borgentech.com
+0.0.0.0 a2.cineflix.st
 0.0.0.0 a2email.a2.yourfavoriteknifegirl.com
 0.0.0.0 a2email.buybetterblades.com
 0.0.0.0 a2email.cutcoguy.com
@@ -280679,6 +280680,7 @@
 0.0.0.0 soggysponge.com
 0.0.0.0 sogtm.academy.org.il
 0.0.0.0 sogtm.colman.ac.il
+0.0.0.0 sogu.tripster.ru
 0.0.0.0 sohan.sodaibari.com
 0.0.0.0 sohiuc.sheego.de
 0.0.0.0 soilcontent.com

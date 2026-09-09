@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 08 Sep 2026 08:49:02 UTC
+# Updated at Wed, 09 Sep 2026 08:55:20 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -258179,6 +258179,7 @@
 0.0.0.0 orlqtz.lampenwelt.ch
 0.0.0.0 oropz.ultimatelinings.com
 0.0.0.0 orqhz.alexandrebirman.com
+0.0.0.0 orsdls.di.runestone.samsung.com
 0.0.0.0 orsds.ziavia.com
 0.0.0.0 orsmfg.notino.de
 0.0.0.0 ortkrq.damyller.com.br
@@ -265908,6 +265909,7 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta.redhomestore.com
 0.0.0.0 rta2.metro.co.uk
+0.0.0.0 rta2.newscientist.com
 0.0.0.0 rta2.newzit.com
 0.0.0.0 rtag.farmers.com
 0.0.0.0 rtattr.skyup.aero
@@ -275072,6 +275074,7 @@
 0.0.0.0 shatterloop.com
 0.0.0.0 shazzat.prinush.com
 0.0.0.0 shbtjz.directours.com
+0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 sheargovernor.com
 0.0.0.0 sheba.dhakapharmachy.com
 0.0.0.0 sheep.littleboat.digital
@@ -294944,6 +294947,7 @@
 0.0.0.0 stats.drypers.com.ph
 0.0.0.0 stats.dt-esthetique.ch
 0.0.0.0 stats.duetcode.io
+0.0.0.0 stats.dulo
 0.0.0.0 stats.dupress.com
 0.0.0.0 stats.dwermke.com
 0.0.0.0 stats.earlygame.com
@@ -296701,6 +296705,7 @@
 0.0.0.0 sundaysky.com
 0.0.0.0 sunflaggroup.com
 0.0.0.0 sunios.de
+0.0.0.0 sunnylettings.com
 0.0.0.0 sunrise.adnanagic.com
 0.0.0.0 sunrise.sm-project.com
 0.0.0.0 sunsetcampfires.com
@@ -296767,6 +296772,7 @@
 0.0.0.0 surveyscout.com
 0.0.0.0 surveywriter.com
 0.0.0.0 survicate.com
+0.0.0.0 sushivolant.com
 0.0.0.0 sustainability.ricoh.co.za
 0.0.0.0 sustaindenim.com
 0.0.0.0 sut.dailyfx.com
@@ -308201,6 +308207,7 @@
 0.0.0.0 urcaq.eberjey.com
 0.0.0.0 urdam.hillcrestmemorialgarden.com
 0.0.0.0 urdap.forever21.com
+0.0.0.0 ureca.samsungapps.com
 0.0.0.0 urehgr.halekulani.com
 0.0.0.0 ureoaw.netthandelen.no
 0.0.0.0 ureruadebis.papawash.com

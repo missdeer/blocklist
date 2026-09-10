@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 09 Sep 2026 08:55:20 UTC
+# Updated at Thu, 10 Sep 2026 08:54:09 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -20190,6 +20190,7 @@
 0.0.0.0 cloudpages.email.sysco.com
 0.0.0.0 cloudpg.email.vimeo.com
 0.0.0.0 clouds.stapepeople.com
+0.0.0.0 cloudx.io
 0.0.0.0 clover.luckycharmgold.com
 0.0.0.0 cloverkeys.com
 0.0.0.0 cloverleaf.infor.com
@@ -239954,6 +239955,7 @@
 0.0.0.0 lmzyh.adanola.com
 0.0.0.0 ln.loudnoise.nl
 0.0.0.0 lndata.com
+0.0.0.0 lndrsapi.com
 0.0.0.0 lnezkw.iturbo.fr
 0.0.0.0 lnfqk.showerenvy.com
 0.0.0.0 lng.xiaohongshu.com
@@ -262192,6 +262194,7 @@
 0.0.0.0 pl02.owen.prolitteris.ch
 0.0.0.0 pla-tk.flipkart.net
 0.0.0.0 pla.pearlinsurance.com
+0.0.0.0 pla.uqload.vc
 0.0.0.0 pla.wigglepixel.nl
 0.0.0.0 placeframe.com
 0.0.0.0 placemypixel.com
@@ -299723,10 +299726,12 @@
 0.0.0.0 tech.tejomed.com
 0.0.0.0 tech.wellbots.fr
 0.0.0.0 techads.nazifshop.com
+0.0.0.0 techcatcher.com
 0.0.0.0 techconverter.com
 0.0.0.0 techdrivethru.com
 0.0.0.0 techgifts.tradeshow.globalsources.com
 0.0.0.0 techlab-cdn.com
+0.0.0.0 techmix.net
 0.0.0.0 technical-service.net
 0.0.0.0 technical.kyzen.com
 0.0.0.0 techno.technostorm.de
@@ -299981,6 +299986,7 @@
 0.0.0.0 text.mitarbeiterangebote.de
 0.0.0.0 text.rahmenvereinbarungen.de
 0.0.0.0 textbondy.com
+0.0.0.0 texturehunt.com
 0.0.0.0 texturetrick.com
 0.0.0.0 teyourmarketing.trungaleegan.com
 0.0.0.0 teyvmb.moniquelhuillier.com
@@ -301552,6 +301558,7 @@
 0.0.0.0 topdepo.com
 0.0.0.0 tophits4u.de
 0.0.0.0 topicalcartel.com
+0.0.0.0 topicjungle.com
 0.0.0.0 topiz.ru
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.eu
@@ -307317,6 +307324,7 @@
 0.0.0.0 tusk-us.happymammoth.com
 0.0.0.0 tutbc1.www.tapmyback.com
 0.0.0.0 tutorials.karachitutor.com
+0.0.0.0 tutorshelf.com
 0.0.0.0 tutu.lendoncapital.com
 0.0.0.0 tuty.tutyiandsisu.com.au
 0.0.0.0 tuvevx.agent-sana.com

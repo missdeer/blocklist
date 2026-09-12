@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 11 Sep 2026 08:52:03 UTC
+# Updated at Sat, 12 Sep 2026 08:35:29 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -210,6 +210,7 @@
 0.0.0.0 bi-report.maxnapps.com
 0.0.0.0 bi-tracker-global.rivergame.net
 0.0.0.0 bi.manhuaren.com
+0.0.0.0 bid.ctv.house
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
 0.0.0.0 bisrtb.vidazoo.com
@@ -540,6 +541,7 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.bloodsugars.live
+0.0.0.0 log.calomeal.com
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
 0.0.0.0 log.cleanerwish.live

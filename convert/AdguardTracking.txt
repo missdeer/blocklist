@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 11 Sep 2026 08:52:04 UTC
+# Updated at Sat, 12 Sep 2026 08:35:30 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -12506,6 +12506,7 @@
 0.0.0.0 bia.brightinfo.com
 0.0.0.0 bibglj.timberland.fr
 0.0.0.0 bicp-analytics.postscript.io
+0.0.0.0 bid.ctv.house
 0.0.0.0 bid.run
 0.0.0.0 bidbpo.dr-10.com
 0.0.0.0 bidder.doceree.com
@@ -12781,6 +12782,7 @@
 0.0.0.0 blue.bpsdepot.co.uk
 0.0.0.0 blue.bpsdepot.nl
 0.0.0.0 blue.unitedbyblue.com
+0.0.0.0 bluebellbooks.com
 0.0.0.0 bluecava.com
 0.0.0.0 bluecollarmuse.com
 0.0.0.0 blueconic.net
@@ -223849,6 +223851,7 @@
 0.0.0.0 get.ukg.mx
 0.0.0.0 get.ukg.nl
 0.0.0.0 get4click.ru
+0.0.0.0 getads.ru
 0.0.0.0 getaliveblue-ss.olladeals.com
 0.0.0.0 getaquafusion-ss.checkoutera.com
 0.0.0.0 getaway.cybeartrack.com.au
@@ -245225,6 +245228,7 @@
 0.0.0.0 log.bloodppressure.info
 0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.bunjang.co.kr
+0.0.0.0 log.calomeal.com
 0.0.0.0 log.classting.com
 0.0.0.0 log.cleandesigner.live
 0.0.0.0 log.cleanertoolboxonline.live
@@ -255462,6 +255466,7 @@
 0.0.0.0 mybloglog.com
 0.0.0.0 mycounter.com.ua
 0.0.0.0 mycounter.ua
+0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 mydeze.croisierenet.com
 0.0.0.0 myecmz.gruener.at
 0.0.0.0 myevents.thalesgroup.com

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 11 Sep 2026 08:52:04 UTC
+# Updated at Sat, 12 Sep 2026 08:35:29 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -71,6 +71,7 @@
 0.0.0.0 ad.youku.com
 0.0.0.0 ad.zankhana.ltd
 0.0.0.0 ad.zijieapi.com
+0.0.0.0 ad2.fivecdm.com
 0.0.0.0 ad6media.fr
 0.0.0.0 adadvisor.net
 0.0.0.0 adballoon.sooplive.com

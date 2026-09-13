@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 12 Sep 2026 08:35:30 UTC
+# Updated at Sun, 13 Sep 2026 09:25:42 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -12783,6 +12783,7 @@
 0.0.0.0 blue.bpsdepot.nl
 0.0.0.0 blue.unitedbyblue.com
 0.0.0.0 bluebellbooks.com
+0.0.0.0 bluebirdteam.com
 0.0.0.0 bluecava.com
 0.0.0.0 bluecollarmuse.com
 0.0.0.0 blueconic.net
@@ -13152,6 +13153,7 @@
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
 0.0.0.0 broadstreet.ai
+0.0.0.0 broflask.com
 0.0.0.0 broker.datazoom.io
 0.0.0.0 bronto.com
 0.0.0.0 bronze.bygg.com.br

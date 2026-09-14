@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 13 Sep 2026 09:25:42 UTC
+# Updated at Mon, 14 Sep 2026 09:47:02 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -21802,6 +21802,7 @@
 0.0.0.0 crypto-o.click
 0.0.0.0 cryptonow.algomoneo.com
 0.0.0.0 crystalboulevard.com
+0.0.0.0 crystaldewfarm.com
 0.0.0.0 crzohw.intersport.gr
 0.0.0.0 cs.analytics.lego.com
 0.0.0.0 cs.avito.ru
@@ -28340,6 +28341,7 @@
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 decidedrum.com
 0.0.0.0 decideinteractive.com
+0.0.0.0 decimalnet.com
 0.0.0.0 decisionhut.com
 0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
@@ -234900,6 +234902,7 @@
 0.0.0.0 inlks.topliftpros.com
 0.0.0.0 inlog01.hket.com
 0.0.0.0 inmmyp.lenspecsmu.ru
+0.0.0.0 inmobicdn.net
 0.0.0.0 inmtuj.jobs.ie
 0.0.0.0 inmuzp.popsockets.com
 0.0.0.0 innae.mftstamps.com
@@ -297347,6 +297350,7 @@
 0.0.0.0 sync.playhood.nl
 0.0.0.0 sync.programmatica.com
 0.0.0.0 sync.taboola.com
+0.0.0.0 synccache.com
 0.0.0.0 syndesmos.bambelo.com
 0.0.0.0 synergy-e.com
 0.0.0.0 synonymoussticks.com

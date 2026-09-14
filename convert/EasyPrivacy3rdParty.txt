@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sun, 13 Sep 2026 09:25:41 UTC
+# Updated at Mon, 14 Sep 2026 09:47:01 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -729,6 +729,7 @@
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.paramount.tech
 0.0.0.0 events.pickrr.com
+0.0.0.0 events.plutus.ninja
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.shareably.net
 0.0.0.0 events.shoplift.ai

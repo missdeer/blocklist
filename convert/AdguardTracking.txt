@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 14 Sep 2026 09:47:02 UTC
+# Updated at Tue, 15 Sep 2026 09:21:27 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -3356,6 +3356,7 @@
 0.0.0.0 a.ttest.fr
 0.0.0.0 a.tunley-environmental.com
 0.0.0.0 a.twofaceaesthetics.com
+0.0.0.0 a.ussp.io
 0.0.0.0 a.uwhealth.org
 0.0.0.0 a.visme.co
 0.0.0.0 a.vital-health-path.com
@@ -12512,6 +12513,7 @@
 0.0.0.0 bidder.doceree.com
 0.0.0.0 bidder.dsp.outfit7.com
 0.0.0.0 bidder.mdspinc.com
+0.0.0.0 bidderstack.com
 0.0.0.0 bidef.sokolovelaw.com
 0.0.0.0 bidmachine.io
 0.0.0.0 bidpapers.com
@@ -21809,6 +21811,7 @@
 0.0.0.0 cs.chaussea.com
 0.0.0.0 cs.cs.iconicinfluencers.com
 0.0.0.0 cs.hot.net.il
+0.0.0.0 cs.ifedata.ru
 0.0.0.0 cs.media.net
 0.0.0.0 cs.nexttv.co.il
 0.0.0.0 cs.sphinxbiz.co.in
@@ -29408,6 +29411,7 @@
 0.0.0.0 drflexa-ss.checkoutera.com
 0.0.0.0 drga.dubairealestate.net
 0.0.0.0 drhsder4m.marinapinhasdermatologia.com.br
+0.0.0.0 driedwheat.com
 0.0.0.0 driftingchef.com
 0.0.0.0 driftpizza.com
 0.0.0.0 drive.lotuscarrental.is
@@ -221122,6 +221126,7 @@
 0.0.0.0 fabcharting.com
 0.0.0.0 fabcourses.iapcollege.com
 0.0.0.0 fabio.ilydecor.com
+0.0.0.0 fabledglory.com
 0.0.0.0 fabledsoul.com
 0.0.0.0 fabricww.com
 0.0.0.0 fabryczna.viessmann.pl
@@ -221307,6 +221312,7 @@
 0.0.0.0 fauzxn.hairlavie.com
 0.0.0.0 favbt.theweeklyedition.com
 0.0.0.0 favor1.fractal.jp
+0.0.0.0 faxardent.net
 0.0.0.0 faxcoupons.com
 0.0.0.0 faxsmarter.instantinfo.com
 0.0.0.0 fayhbg.sifjakobs.se
@@ -222062,6 +222068,7 @@
 0.0.0.0 fireworkanalytics.com
 0.0.0.0 fireworkcamp.com
 0.0.0.0 firing.hearthfireclay.org
+0.0.0.0 firmasset.com
 0.0.0.0 first-id.fr
 0.0.0.0 first.aguiarinjurylawyers.com
 0.0.0.0 first.aquatime.ro
@@ -235187,6 +235194,7 @@
 0.0.0.0 intelligenceretarget.com
 0.0.0.0 intelligentbusinessconcepts.e.epiqnotification.com
 0.0.0.0 intelligentscissors.com
+0.0.0.0 intent.ai
 0.0.0.0 intent.cbsi.com
 0.0.0.0 intentlens.com
 0.0.0.0 interact.enco.io
@@ -254828,6 +254836,7 @@
 0.0.0.0 mp3king.club
 0.0.0.0 mp5.multi-prets.com
 0.0.0.0 mparticle.com
+0.0.0.0 mpartner.digital
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 mpecom-analyticevents-prod.boyner.com.tr
 0.0.0.0 mpfmb.eightsaintsskincare.com
@@ -255541,6 +255550,7 @@
 0.0.0.0 myvisitors.se
 0.0.0.0 myvisualiq.net
 0.0.0.0 myw.business-unicorn.com
+0.0.0.0 myweb3id.io
 0.0.0.0 mywebstats.com.au
 0.0.0.0 mywebstats.org
 0.0.0.0 mywedding-beacon.team-rec.jp
@@ -257905,6 +257915,7 @@
 0.0.0.0 onestat.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 onetag.co.kr
+0.0.0.0 onetarget.ru
 0.0.0.0 ongc.justmusic.co.il
 0.0.0.0 onghfx.revolve.com
 0.0.0.0 ongreed.ongreed.com
@@ -258459,6 +258470,7 @@
 0.0.0.0 p.data.cctv.com
 0.0.0.0 p.ejs.dev
 0.0.0.0 p.eneba.com
+0.0.0.0 p.food.ru
 0.0.0.0 p.gazeta.pl
 0.0.0.0 p.gm99.com
 0.0.0.0 p.iforge.app
@@ -265939,6 +265951,7 @@
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb-trk4.linkedin.com
 0.0.0.0 rtb-us-east.linkedin.com
+0.0.0.0 rtb.dynotech.io
 0.0.0.0 rtb.loopa.net.au
 0.0.0.0 rtb.videonow.ru
 0.0.0.0 rtb.voltaxam.com
@@ -275782,6 +275795,7 @@
 0.0.0.0 smart46.lplnow.com
 0.0.0.0 smart62.lplnow.com
 0.0.0.0 smart98.lplnow.com
+0.0.0.0 smartcallback.ru
 0.0.0.0 smartcam.adt-worldwide.com
 0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 smartctr.com
@@ -281213,6 +281227,7 @@
 0.0.0.0 sp.lansingstatejournal.com
 0.0.0.0 sp.lapaula.sk
 0.0.0.0 sp.ldnews.com
+0.0.0.0 sp.linkssp.ru
 0.0.0.0 sp.lohud.com
 0.0.0.0 sp.mansfieldnewsjournal.com
 0.0.0.0 sp.marionstar.com
@@ -297335,12 +297350,14 @@
 0.0.0.0 sync.1dmp.io
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.adsp.io
 0.0.0.0 sync.adspend.space
 0.0.0.0 sync.bruno.wine
 0.0.0.0 sync.bumlam.com
 0.0.0.0 sync.clearnview.com
 0.0.0.0 sync.ebis.ne.jp
 0.0.0.0 sync.getpublica.com
+0.0.0.0 sync.gonet-ads.com
 0.0.0.0 sync.inmobi.com
 0.0.0.0 sync.liveclin.com
 0.0.0.0 sync.morgdm.ru
@@ -299299,6 +299316,7 @@
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 targetlr.adobe.com
 0.0.0.0 targetman.ru
+0.0.0.0 targetrtb.com
 0.0.0.0 targetsecure.kohler.com
 0.0.0.0 targetsoc.spela.svenskaspel.se
 0.0.0.0 targettur.www.svenskaspel.se

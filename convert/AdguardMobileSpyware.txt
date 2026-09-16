@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 15 Sep 2026 09:21:27 UTC
+# Updated at Wed, 16 Sep 2026 09:14:33 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -868,6 +868,7 @@
 0.0.0.0 sg01.rayjump.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 skadsdk.appsflyersdk.com
+0.0.0.0 skadsdkless.appsflyersdk.com
 0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.discover.com

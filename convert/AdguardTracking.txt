@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 15 Sep 2026 09:21:27 UTC
+# Updated at Wed, 16 Sep 2026 09:14:33 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -222122,6 +222122,7 @@
 0.0.0.0 firstbank.fmservice.com
 0.0.0.0 firstendpoint.com
 0.0.0.0 firstgb.simplysensitivitychecks.com
+0.0.0.0 firsthoughtstudios.com
 0.0.0.0 firstparty.accountable.de
 0.0.0.0 firstparty.accountable.eu
 0.0.0.0 firstparty.alloyio.com
@@ -223499,6 +223500,7 @@
 0.0.0.0 gacela.eu
 0.0.0.0 gaclzv.hijabchic.co.id
 0.0.0.0 gaconnector.com
+0.0.0.0 gadata.motorpresse.de
 0.0.0.0 gadgetboy.net
 0.0.0.0 gads.goldebet.bet.br
 0.0.0.0 gads.homecompany-moebel.com
@@ -234905,6 +234907,7 @@
 0.0.0.0 init.blackcrow.ai
 0.0.0.0 init.izoa.fr
 0.0.0.0 inixwg.vibrate.co.kr
+0.0.0.0 inkcarts.net
 0.0.0.0 inkcoupon.com
 0.0.0.0 inlks.topliftpros.com
 0.0.0.0 inlog01.hket.com
@@ -236363,6 +236366,7 @@
 0.0.0.0 juris.pedroburak.com
 0.0.0.0 justconfig.com
 0.0.0.0 justfordocs.com
+0.0.0.0 justice.maybeoneday.ch
 0.0.0.0 justicejudo.com
 0.0.0.0 justid.io
 0.0.0.0 justlagoon.com
@@ -237520,6 +237524,7 @@
 0.0.0.0 launch.turnsignal.io
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchjack.com
+0.0.0.0 launchkite.com
 0.0.0.0 launchpad-email.swapcard.com
 0.0.0.0 laura.elements-lighting.fr
 0.0.0.0 lauren.glassworkslondon.com
@@ -245581,6 +245586,7 @@
 0.0.0.0 love.foxana.ch
 0.0.0.0 love.lwbern.ch
 0.0.0.0 lovelydrum.com
+0.0.0.0 lovesbooks.com
 0.0.0.0 loveseashore.com
 0.0.0.0 lowercases.com
 0.0.0.0 lowerthewatts.net
@@ -264217,6 +264223,7 @@
 0.0.0.0 quhdnr.musiciansfriend.com
 0.0.0.0 quick-counter.net
 0.0.0.0 quicklyedit.com
+0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quiddity.goguardian.com
 0.0.0.0 quietknowledge.com
@@ -275600,6 +275607,7 @@
 0.0.0.0 sk.skinnify.co
 0.0.0.0 sk0.monnierfreres.eu
 0.0.0.0 skadsdk.appsflyersdk.com
+0.0.0.0 skadsdkless.appsflyersdk.com
 0.0.0.0 skaqaz.witt-weiden.ch
 0.0.0.0 skbnfa.filorga.com
 0.0.0.0 skbs.kettlebellbigsix.com
@@ -300116,6 +300124,7 @@
 0.0.0.0 thebestpaints.com
 0.0.0.0 thebigvan.com
 0.0.0.0 thebrainybulb.com
+0.0.0.0 thecodingpad.com
 0.0.0.0 thecounter.com
 0.0.0.0 thecounter.net
 0.0.0.0 thecrazychili.com

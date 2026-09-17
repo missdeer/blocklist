@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 16 Sep 2026 09:14:33 UTC
+# Updated at Thu, 17 Sep 2026 09:22:57 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8802,6 +8802,7 @@
 0.0.0.0 analyticsresults.smartexperts.de
 0.0.0.0 analyticsresults.zahltsichausbildung.de
 0.0.0.0 analyticss.miraiclinical.com
+0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 analyticsssl.forcepoint.com
 0.0.0.0 analyticsstp.simcorner.com
 0.0.0.0 analyticssystems.net
@@ -11918,6 +11919,7 @@
 0.0.0.0 barracuda.civicdatalibrary.org
 0.0.0.0 barracuda.verto.exchange
 0.0.0.0 barrelcider.com
+0.0.0.0 bartcons.com
 0.0.0.0 bartdta.jameslane.com.au
 0.0.0.0 bartdta.sleepinggiant.com.au
 0.0.0.0 base.vrielingassuradeuren.nl
@@ -21530,6 +21532,7 @@
 0.0.0.0 counter.tldw.me
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.ukr.net
+0.0.0.0 counter.wargamings.net
 0.0.0.0 counter.web.money
 0.0.0.0 counter.websiteout.net
 0.0.0.0 counter.websitevoice.com
@@ -236215,6 +236218,7 @@
 0.0.0.0 jqezp.aroma360.nl
 0.0.0.0 jqflf.homefurnitureandpatio.com
 0.0.0.0 jqguzn.pnxdesign.co.kr
+0.0.0.0 jqioregvpxgte.website
 0.0.0.0 jqjvj.makewellness.com
 0.0.0.0 jqlzwb.bauhaus.fi
 0.0.0.0 jqmft.pyramidcollection.com
@@ -237623,6 +237627,7 @@
 0.0.0.0 ldpsww.autocreditexpress.com
 0.0.0.0 ldqbuy.sport-express.ru
 0.0.0.0 ldqtdd.peing.net
+0.0.0.0 ldrws.com
 0.0.0.0 ldsptuen.smiletrainafrica.org
 0.0.0.0 ldugvf.bolf.hu
 0.0.0.0 ldvalc.manzara.cz
@@ -239832,6 +239837,7 @@
 0.0.0.0 lite.lchfarkivet.se
 0.0.0.0 litix.io
 0.0.0.0 litos.moventashop.com
+0.0.0.0 littlegeese.com
 0.0.0.0 littlesun.net
 0.0.0.0 live-st.rldatix.com
 0.0.0.0 live-st.rldatix.de
@@ -250616,6 +250622,7 @@
 0.0.0.0 mediahub.pitbull-store.co.uk
 0.0.0.0 mediahub.pitbull.pl
 0.0.0.0 medialog.smartmediarep.com
+0.0.0.0 mediamaker.net
 0.0.0.0 mediameter.by
 0.0.0.0 mediametrics.ru
 0.0.0.0 mediams.mb.softbank.jp
@@ -250850,6 +250857,7 @@
 0.0.0.0 metagtm.devicepandora.com
 0.0.0.0 metagtm.pormade.com.br
 0.0.0.0 metajaws.com
+0.0.0.0 metalsfactory.com
 0.0.0.0 metalyzer.com
 0.0.0.0 metawelcome.com
 0.0.0.0 metc.banfield.com
@@ -254813,6 +254821,7 @@
 0.0.0.0 mouse.seekingtv.com
 0.0.0.0 mouse3k.com
 0.0.0.0 mouseflow.com
+0.0.0.0 mousescene.com
 0.0.0.0 mousestats.com
 0.0.0.0 mousetrace.com
 0.0.0.0 movable-ink-6710.com
@@ -262403,6 +262412,7 @@
 0.0.0.0 plus.tovari.fi
 0.0.0.0 plusavecmoins.adp.ca
 0.0.0.0 pluto.msfin.at
+0.0.0.0 pluxpdzouwubj.space
 0.0.0.0 plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
 0.0.0.0 plwfwc.teknozone.it
 0.0.0.0 plwnxe.pascalcoste-shopping.com
@@ -265227,6 +265237,7 @@
 0.0.0.0 revi.rcs.it
 0.0.0.0 review.teradata.com
 0.0.0.0 review.thereviewguys.com.au
+0.0.0.0 reviewacousticguitar.com
 0.0.0.0 revivalvoice.com
 0.0.0.0 revolt.almouj.com
 0.0.0.0 revolt.autoeco.ro
@@ -312033,6 +312044,7 @@
 0.0.0.0 violationalert.squareup.com
 0.0.0.0 violationalert.track-us.panasonic.com
 0.0.0.0 violetdemise.com
+0.0.0.0 viowrel.com
 0.0.0.0 vip.gophersport.com
 0.0.0.0 vip.granicus.com
 0.0.0.0 vip.maxtor.com

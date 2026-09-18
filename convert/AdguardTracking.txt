@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 17 Sep 2026 09:22:57 UTC
+# Updated at Fri, 18 Sep 2026 08:57:33 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -6752,7 +6752,6 @@
 0.0.0.0 agora.webspecmail.com
 0.0.0.0 agorahtag.tech
 0.0.0.0 agrak.mojo.shop
-0.0.0.0 agrau.aii.sh
 0.0.0.0 agreeablearch.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 agrep.reneecosmetics.in
@@ -13168,6 +13167,7 @@
 0.0.0.0 brownmouse.net
 0.0.0.0 browser-fp.production.linktr.ee
 0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0 browser-intake-datadoghq.eu
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
 0.0.0.0 browser.events.data.msn.cn
@@ -222143,6 +222143,7 @@
 0.0.0.0 fishersfinds.com
 0.0.0.0 fishhoo.com
 0.0.0.0 fishing.bucketbro.com.au
+0.0.0.0 fishingrodsgalore.com
 0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fishspies.com
 0.0.0.0 fit.bedrijfsfitnessnederland.nl
@@ -245491,7 +245492,6 @@
 0.0.0.0 logs.adplay.ru
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.appsource.microsoft.com
-0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 logs.chatboost-cv.algoage.co.jp
 0.0.0.0 logs.classdojo.com
 0.0.0.0 logs.datadoghq.com
@@ -255196,6 +255196,7 @@
 0.0.0.0 mud4.destinia.com.eg
 0.0.0.0 muddledaftermath.com
 0.0.0.0 muddledmemory.com
+0.0.0.0 muddlingthroughcode.com
 0.0.0.0 muehldorf.patientenformular.info
 0.0.0.0 mueoh.besynchro.com
 0.0.0.0 mugapi.lazzarionline.com
@@ -255817,6 +255818,7 @@
 0.0.0.0 needyneedle.com
 0.0.0.0 nehalist.io
 0.0.0.0 nehcj.tryprodenta.com
+0.0.0.0 neighborhoodbiketours.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nejmxt.vivishoeshoe.com
 0.0.0.0 nejzq.champssports.com
@@ -256175,6 +256177,7 @@
 0.0.0.0 newsstat.dallasnews.com
 0.0.0.0 newsstats.seat.co.uk
 0.0.0.0 newsuccesssecret.com
+0.0.0.0 newsvehicles.com
 0.0.0.0 newt.javier.dev
 0.0.0.0 newtest.wunderman-email.cjm.adobe.com
 0.0.0.0 neww.zahabperfumes.com
@@ -258313,6 +258316,7 @@
 0.0.0.0 otik.de
 0.0.0.0 otioqs.srcasino.es
 0.0.0.0 otkhyc.bueromarkt-ag.de
+0.0.0.0 otl.minefun.io
 0.0.0.0 otlhn.fentybeauty.com
 0.0.0.0 otlsb.simplynootropics.com
 0.0.0.0 otm.otraderquemultiplica.com.br
@@ -264976,6 +264980,7 @@
 0.0.0.0 repdata.ydr.com
 0.0.0.0 repdata.yorkdispatch.com
 0.0.0.0 repeatsweater.com
+0.0.0.0 repfineart.com
 0.0.0.0 repixel.co
 0.0.0.0 replaceroute.com
 0.0.0.0 replay.reviews.io

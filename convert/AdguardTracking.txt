@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 19 Sep 2026 08:45:03 UTC
+# Updated at Sun, 20 Sep 2026 09:13:57 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -281435,6 +281435,7 @@
 0.0.0.0 speaker.paco-benitez.com
 0.0.0.0 special.kvetinyexpres.cz
 0.0.0.0 specialevent.informaengage.com
+0.0.0.0 specialreview.net
 0.0.0.0 specialscissors.com
 0.0.0.0 specialstat.com
 0.0.0.0 specialtypin.com

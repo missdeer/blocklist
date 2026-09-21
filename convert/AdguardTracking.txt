@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 20 Sep 2026 09:13:57 UTC
+# Updated at Mon, 21 Sep 2026 09:51:30 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -296797,6 +296797,7 @@
 0.0.0.0 superficialeyes.com
 0.0.0.0 superficialspring.com
 0.0.0.0 superficialsquare.com
+0.0.0.0 superstarorganizer.com
 0.0.0.0 superstat.info
 0.0.0.0 superstats.com
 0.0.0.0 superstats.observepoint.com

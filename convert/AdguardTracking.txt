@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 22 Sep 2026 09:14:50 UTC
+# Updated at Wed, 23 Sep 2026 09:15:08 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -13487,6 +13487,7 @@
 0.0.0.0 bznxqj.fiat.it
 0.0.0.0 bzpgi.plankandbeam.com
 0.0.0.0 bzqxze.remixshop.com
+0.0.0.0 bzr.openai.com
 0.0.0.0 bzrcdn.openai.com
 0.0.0.0 bzrch.heyskipperfishing.com
 0.0.0.0 bzrpp.nakednutrition.ca
@@ -265001,6 +265002,7 @@
 0.0.0.0 repfineart.com
 0.0.0.0 repixel.co
 0.0.0.0 replaceroute.com
+0.0.0.0 replantable.com
 0.0.0.0 replay.reviews.io
 0.0.0.0 replaybird.com
 0.0.0.0 replies.womenhighinpower.com
@@ -268556,6 +268558,7 @@
 0.0.0.0 seehits.com
 0.0.0.0 seek.intel.com
 0.0.0.0 seek.uwa.edu.au
+0.0.0.0 seekingdreams.com
 0.0.0.0 seekingquest.com
 0.0.0.0 seekremote.com
 0.0.0.0 seenvault.com
@@ -275436,6 +275439,7 @@
 0.0.0.0 silentjackal.com
 0.0.0.0 silentsingle.com
 0.0.0.0 siliconslow.com
+0.0.0.0 siliconuser.com
 0.0.0.0 silkworm.boxmood.be
 0.0.0.0 silkworm.margrietprinssen.nl
 0.0.0.0 silkworm.preventingsuicideinsussex.org
@@ -275842,6 +275846,7 @@
 0.0.0.0 smart46.lplnow.com
 0.0.0.0 smart62.lplnow.com
 0.0.0.0 smart98.lplnow.com
+0.0.0.0 smartbuildnow.com
 0.0.0.0 smartcallback.ru
 0.0.0.0 smartcam.adt-worldwide.com
 0.0.0.0 smartcard.apps.coloros.com
@@ -296155,6 +296160,7 @@
 0.0.0.0 stomachscience.com
 0.0.0.0 stonepole.com
 0.0.0.0 stonetumble.com
+0.0.0.0 stopcast.net
 0.0.0.0 stopify.co
 0.0.0.0 stopstomach.com
 0.0.0.0 storage.velpa.pl

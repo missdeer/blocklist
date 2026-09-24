@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 23 Sep 2026 09:15:08 UTC
+# Updated at Thu, 24 Sep 2026 09:14:47 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8543,6 +8543,7 @@
 0.0.0.0 analytics.spark.co.nz
 0.0.0.0 analytics.spearly.com
 0.0.0.0 analytics.sportera.fans
+0.0.0.0 analytics.sportigio.com
 0.0.0.0 analytics.sports.ru
 0.0.0.0 analytics.sposadeste.com
 0.0.0.0 analytics.ssmas.com
@@ -12154,6 +12155,7 @@
 0.0.0.0 beam.koddi.com
 0.0.0.0 beam.remp.impresa.pt
 0.0.0.0 beam.remp.nv.ua
+0.0.0.0 beam.telegram.hr
 0.0.0.0 beamvolcano.com
 0.0.0.0 beancontrol.com
 0.0.0.0 beandelight.com
@@ -13721,6 +13723,7 @@
 0.0.0.0 campaign.shl.com
 0.0.0.0 campaign.ssab.com
 0.0.0.0 campaign.tandemdiabetes.com
+0.0.0.0 campaign.telegram.hr
 0.0.0.0 campaign.viessmann-cold.com
 0.0.0.0 campaigncog.com
 0.0.0.0 campaigninfo.motorolasolutions.com
@@ -304645,6 +304648,7 @@
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 tracker.str-nrg.com
 0.0.0.0 tracker.swedish.org
+0.0.0.0 tracker.telegram.hr
 0.0.0.0 tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.tianmu.mobi

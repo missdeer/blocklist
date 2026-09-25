@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 24 Sep 2026 09:14:46 UTC
+# Updated at Fri, 25 Sep 2026 09:33:06 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -658,6 +658,7 @@
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.claspws.tv
 0.0.0.0 metrics.happycolor.app
+0.0.0.0 metrics.li
 0.0.0.0 metrics.macys.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.sp0n.io

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Fri, 25 Sep 2026 09:33:06 UTC
+# Updated at Sat, 26 Sep 2026 09:17:51 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -284,6 +284,7 @@
 0.0.0.0 app-ads-services.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
+0.0.0.0 app.bxapi.de
 0.0.0.0 app.ssp.yahoo.com
 0.0.0.0 appbaqend.com
 0.0.0.0 appboy-images.com
@@ -712,6 +713,7 @@
 0.0.0.0 p3-ad-sign.byteimg.com.queniusy.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 painsko.com
+0.0.0.0 palateonce.com
 0.0.0.0 pangle.io
 0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 pangolin16.sgsnssdk.com

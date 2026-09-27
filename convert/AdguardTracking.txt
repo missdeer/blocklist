@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 26 Sep 2026 09:17:52 UTC
+# Updated at Sun, 27 Sep 2026 09:57:35 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -7311,6 +7311,7 @@
 0.0.0.0 amazing.tagpeak.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazingentri.stape.dev
+0.0.0.0 amazinglea.com
 0.0.0.0 amazy.ru
 0.0.0.0 ambasador.montessorikurz.cz
 0.0.0.0 ambasador.montessorispolecne.cz
@@ -10892,7 +10893,9 @@
 0.0.0.0 art.limbsaver.happycustomer.io
 0.0.0.0 art.rollinart.at
 0.0.0.0 artbranch.net
+0.0.0.0 artcat.net
 0.0.0.0 artefact.is
+0.0.0.0 artfulsavage.com
 0.0.0.0 artfut.com
 0.0.0.0 arthas.moseasia.com
 0.0.0.0 artho.arthobd.com
@@ -22306,6 +22309,7 @@
 0.0.0.0 cutechin.com
 0.0.0.0 cutie.kidsmagictree.com
 0.0.0.0 cutld.kahootsfeedandpet.com
+0.0.0.0 cutsmarter.net
 0.0.0.0 cutzl.authorsuccess.com
 0.0.0.0 cuwtqn.doseofcolors.com
 0.0.0.0 cux.io
@@ -25312,6 +25316,7 @@
 0.0.0.0 data-sst.florianhorsefood.nl
 0.0.0.0 data-stream.level.agency
 0.0.0.0 data-us.hilo.com
+0.0.0.0 data-www-weaver.wanted.co.kr
 0.0.0.0 data.07eins.com
 0.0.0.0 data.123drogisterij.nl
 0.0.0.0 data.130combinacoes.com

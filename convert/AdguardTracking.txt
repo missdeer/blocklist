@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 27 Sep 2026 09:57:35 UTC
+# Updated at Mon, 28 Sep 2026 10:48:28 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -219659,6 +219659,7 @@
 0.0.0.0 encompassreport.elliemae.com
 0.0.0.0 encouragingthread.com
 0.0.0.0 endgl.cgenetool.com
+0.0.0.0 endhairfall.com
 0.0.0.0 endjb.trendozashop.com
 0.0.0.0 endlesstrust.com
 0.0.0.0 endljp.168chasa.bg

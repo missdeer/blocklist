@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 28 Sep 2026 10:48:28 UTC
+# Updated at Tue, 29 Sep 2026 10:36:27 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -5590,6 +5590,7 @@
 0.0.0.0 add.ardoreyewear.co.uk
 0.0.0.0 addfreestats.com
 0.0.0.0 addictedattention.com
+0.0.0.0 addmoves.com
 0.0.0.0 addressfriend.com
 0.0.0.0 ade.deskstyle.info
 0.0.0.0 ade.googlesyndication.com
@@ -10905,6 +10906,7 @@
 0.0.0.0 arthurbrent.kindencoludens.nl
 0.0.0.0 arthurbrent.vandervelden.com
 0.0.0.0 arthurbrent.werkenbijambiq.nl
+0.0.0.0 arthustler.net
 0.0.0.0 articledemon.com
 0.0.0.0 articles.usa-savings-journal.com
 0.0.0.0 artistchristinacarmel.ericksonbuilt.com
@@ -29777,6 +29779,7 @@
 0.0.0.0 dustaclean-ss.checkoutera.com
 0.0.0.0 dustapro-ss.topashopo.com
 0.0.0.0 dustavacuum-ss.checkoutera.com
+0.0.0.0 dusthorses.com
 0.0.0.0 dustydime.com
 0.0.0.0 dustyhammer.com
 0.0.0.0 duthc.drshumardworkshop.com
@@ -232157,6 +232160,7 @@
 0.0.0.0 hits-secure.guardian.co.uk
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.guardian.co.uk
+0.0.0.0 hits.letras.mus.br
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hits.top.lv
 0.0.0.0 hits2u.com
@@ -304996,6 +305000,7 @@
 0.0.0.0 tracking.dokabathworks.com.br
 0.0.0.0 tracking.domapostas.bet
 0.0.0.0 tracking.doyoulovesalt.com
+0.0.0.0 tracking.dpmlol.com
 0.0.0.0 tracking.dpstampede.com
 0.0.0.0 tracking.drs.de
 0.0.0.0 tracking.drstefanopavani.com.br

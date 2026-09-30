@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 29 Sep 2026 10:36:27 UTC
+# Updated at Wed, 30 Sep 2026 10:25:43 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -11569,6 +11569,7 @@
 0.0.0.0 axkcmb.mosigra.ru
 0.0.0.0 axljfv.therosebay.co.kr
 0.0.0.0 axnskz.power-stones.jp
+0.0.0.0 axonsite.com
 0.0.0.0 axoqjt.gommadiretto.it
 0.0.0.0 axoqvl.daf-shoes.com
 0.0.0.0 axp.2822news.com
@@ -21506,7 +21507,6 @@
 0.0.0.0 counter-gratis.com
 0.0.0.0 counter-kostenlos.info
 0.0.0.0 counter-kostenlos.net
-0.0.0.0 counter-mdpr.freetls.fastly.net
 0.0.0.0 counter-treff.de
 0.0.0.0 counter.1gb.ru
 0.0.0.0 counter.24log.es
@@ -232864,6 +232864,7 @@
 0.0.0.0 hyper-boundary-gate.net.mydays.de
 0.0.0.0 hyperactivate.com
 0.0.0.0 hypercarart.com
+0.0.0.0 hyperfrost.net
 0.0.0.0 hyperionm68-121.app.chronicle.com
 0.0.0.0 hyperlegend.com
 0.0.0.0 hypestat.com
@@ -296756,6 +296757,7 @@
 0.0.0.0 substantialgrade.com
 0.0.0.0 subx.alpinawein.de
 0.0.0.0 suc.aliqrashop.com
+0.0.0.0 succeedscene.com
 0.0.0.0 success.act-on.com
 0.0.0.0 success.azzure-it.com
 0.0.0.0 success.benico.com
@@ -308438,6 +308440,7 @@
 0.0.0.0 userreport.com
 0.0.0.0 userreporting.cloud.unity3d.com
 0.0.0.0 users.51.la
+0.0.0.0 users.vidy.st
 0.0.0.0 usersid3.click.s11.sfmc-osl.com
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 usesfathom.com

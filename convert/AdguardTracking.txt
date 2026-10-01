@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 30 Sep 2026 10:25:43 UTC
+# Updated at Thu, 01 Oct 2026 10:53:02 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -30808,6 +30808,7 @@
 0.0.0.0 edqmrt.spinlife.com
 0.0.0.0 edrone.me
 0.0.0.0 edsawa.simplynursery.com
+0.0.0.0 edshowpigs.com
 0.0.0.0 edt02.net
 0.0.0.0 edtp.de
 0.0.0.0 edu.bodyandbrowseducation.com
@@ -224857,7 +224858,6 @@
 0.0.0.0 gnrnc.intermobilifurniture.ro
 0.0.0.0 gnsdp.toms.com
 0.0.0.0 gnshwf.room-park.ru
-0.0.0.0 gnsnpaw.com
 0.0.0.0 gnuavcpc.woods.se
 0.0.0.0 gnwiwc.store.lapine.co.jp
 0.0.0.0 gnzcmh.sangishop.jp
@@ -255684,6 +255684,7 @@
 0.0.0.0 namrinfo.motorolasolutions.com
 0.0.0.0 nanalytics.virginaustralia.com
 0.0.0.0 nanopolix-ss.checkoutera.com
+0.0.0.0 nao.kagane.to
 0.0.0.0 naoforge.net.jumia.com.ng
 0.0.0.0 nappyattack.com
 0.0.0.0 nappyneck.com
@@ -268075,6 +268076,7 @@
 0.0.0.0 scout.bergfreunde.nl
 0.0.0.0 scout.bergfreunde.no
 0.0.0.0 scout.bergfreunde.se
+0.0.0.0 scout.data.funkedigital.de
 0.0.0.0 scp.deltadentalwa.com
 0.0.0.0 scpzx.traxxas.com
 0.0.0.0 scrapcranes.com
@@ -281261,6 +281263,7 @@
 0.0.0.0 sp.courierpress.com
 0.0.0.0 sp.dailyrecord.com
 0.0.0.0 sp.dailyworld.com
+0.0.0.0 sp.data.funkedigital.de
 0.0.0.0 sp.delawareonline.com
 0.0.0.0 sp.delmarvanow.com
 0.0.0.0 sp.democratandchronicle.com
@@ -300192,6 +300195,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebestpaints.com
+0.0.0.0 thebicyclehut.com
 0.0.0.0 thebigvan.com
 0.0.0.0 thebrainybulb.com
 0.0.0.0 thecodingpad.com

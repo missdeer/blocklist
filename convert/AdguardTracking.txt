@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 01 Oct 2026 10:53:02 UTC
+# Updated at Fri, 02 Oct 2026 10:26:40 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -9055,6 +9055,7 @@
 0.0.0.0 api-napoli.store.sscnapoli.it
 0.0.0.0 api-notify.markarch.com
 0.0.0.0 api-pixels.easyadsapp.com
+0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api-shrek.net.jumia.com.gh
 0.0.0.0 api-stape.bennimoda.com.br
 0.0.0.0 api-stape.biancastore.com.br
@@ -248317,6 +248318,7 @@
 0.0.0.0 mar.englishkaku.com
 0.0.0.0 marathondataco.com
 0.0.0.0 marblediscussion.com
+0.0.0.0 marbleseeds.com
 0.0.0.0 marcom.biodex.com
 0.0.0.0 marcom.biodexrehab.com
 0.0.0.0 marcomauto.globalfoundries.com
@@ -296488,6 +296490,7 @@
 0.0.0.0 strawberry.essenzshop.rs
 0.0.0.0 strawburn.com
 0.0.0.0 strawroute.com
+0.0.0.0 stream-log.profilepassport.jp
 0.0.0.0 stream.borza.com
 0.0.0.0 stream.corporatefinanceinstitute.com
 0.0.0.0 stream.datago.ru
@@ -315440,6 +315443,7 @@
 0.0.0.0 ymvikp.estadao.com.br
 0.0.0.0 ymviwl.just4camper.de
 0.0.0.0 ymvmx.mygrooveguide.com
+0.0.0.0 ymzu9eeo1y.ru
 0.0.0.0 ynagqs.vidaxl.pl
 0.0.0.0 ynemmp.goertz.de
 0.0.0.0 yngnwe.8division.com

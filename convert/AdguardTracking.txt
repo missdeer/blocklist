@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 02 Oct 2026 10:26:40 UTC
+# Updated at Sat, 03 Oct 2026 09:48:33 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -268011,6 +268011,7 @@
 0.0.0.0 schnee.skiamade.com
 0.0.0.0 scholar.google.com
 0.0.0.0 scholarloop.com
+0.0.0.0 scholarsark.com
 0.0.0.0 schoolpaws.com
 0.0.0.0 schouder.somt.nl
 0.0.0.0 schpa.newroadadvertising.com

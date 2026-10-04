@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 03 Oct 2026 09:48:33 UTC
+# Updated at Sun, 04 Oct 2026 10:31:52 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -231899,6 +231899,7 @@
 0.0.0.0 heartland.webspecmail.com
 0.0.0.0 heartsdesireintl.heartsdesireintl.com
 0.0.0.0 heatmap-events-collector.instapage.com
+0.0.0.0 heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 0.0.0.0 heatmap.emma.tools
 0.0.0.0 heatmap.it
 0.0.0.0 heatmap.support-inc.co.jp
@@ -299102,6 +299103,7 @@
 0.0.0.0 tapjoy.net
 0.0.0.0 taplytics-umami.grubhub.com
 0.0.0.0 taplytics.com
+0.0.0.0 tapoutmusic.com
 0.0.0.0 taps.io
 0.0.0.0 tapstat.ru
 0.0.0.0 tapstream.com

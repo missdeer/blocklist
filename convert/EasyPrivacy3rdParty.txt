@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Sat, 03 Oct 2026 09:48:32 UTC
+# Updated at Sun, 04 Oct 2026 10:31:50 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -309,6 +309,7 @@
 0.0.0.0 buffet.identityservices.io
 0.0.0.0 bundle.9gtb.com
 0.0.0.0 bundle.dyn-rev.app
+0.0.0.0 bws.airwallex.com
 0.0.0.0 bzr.openai.com
 0.0.0.0 bzrcdn.openai.com
 0.0.0.0 c.albss.com
@@ -642,6 +643,7 @@
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
 0.0.0.0 doubleclick.uk.net
+0.0.0.0 dppesulohfqre.cloudfront.net
 0.0.0.0 dqif5bl25s0bf.cloudfront.net
 0.0.0.0 dr6vcclmzwk74.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net

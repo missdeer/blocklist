@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 04 Oct 2026 14:04:16 UTC
+# Updated at Mon, 05 Oct 2026 11:22:40 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -301695,6 +301695,7 @@
 0.0.0.0 topmalaysia.com
 0.0.0.0 topofblogs.com
 0.0.0.0 topofthehill.brynje.no
+0.0.0.0 topratedwaterfilter.com
 0.0.0.0 topsecretapp.net
 0.0.0.0 topshows.theotherpalace.co.uk
 0.0.0.0 topspin.npo.nl

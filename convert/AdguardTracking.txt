@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 05 Oct 2026 11:22:40 UTC
+# Updated at Tue, 06 Oct 2026 11:12:02 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -10139,8 +10139,10 @@
 0.0.0.0 apm-native.xiaohongshu.com
 0.0.0.0 apm-track.xiaohongshu.com
 0.0.0.0 apm.relationshipone.com
+0.0.0.0 apm.volccdn.com
 0.0.0.0 apm.yahoo.co.jp
 0.0.0.0 apmplus.ap-southeast-1.volces.com
+0.0.0.0 apmplus.volces.com
 0.0.0.0 apohk.moventashop.com
 0.0.0.0 apollo.miniclip.com
 0.0.0.0 apollo.plein.nl
@@ -220869,6 +220871,7 @@
 0.0.0.0 evrica.omonim.com
 0.0.0.0 evs.data.ciceksepeti.com
 0.0.0.0 evs.segment.complex.com
+0.0.0.0 evs.segwww.incident.io
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evss.evinyolu.net
 0.0.0.0 evt.24.com
@@ -312205,6 +312208,7 @@
 0.0.0.0 visits.iloveuobgold.com
 0.0.0.0 visits.lt
 0.0.0.0 visitstreamer.com
+0.0.0.0 visualcommservices.com
 0.0.0.0 visualdna.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 visualscience.external.bbc.co.uk

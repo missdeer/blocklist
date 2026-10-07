@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Tue, 06 Oct 2026 11:12:01 UTC
+# Updated at Wed, 07 Oct 2026 10:59:57 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -127,6 +127,7 @@
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 api-log-upload.wenext.technology
+0.0.0.0 api-sdk-tracking.beaconbank.jp
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -728,6 +729,7 @@
 0.0.0.0 nr.bidderstack.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 nsclickvideo.xiaodutv.com
+0.0.0.0 nt-stream-log.profilepassport.jp
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ntus.bidease.com
 0.0.0.0 o2o.api.xiaomi.com
@@ -767,6 +769,8 @@
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 post-log.pushwoosh.com
+0.0.0.0 pp3-sdk-api.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 preview-collector.scopely.io

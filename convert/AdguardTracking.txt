@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 07 Oct 2026 10:59:58 UTC
+# Updated at Thu, 08 Oct 2026 11:17:12 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -9056,6 +9056,7 @@
 0.0.0.0 api-napoli.store.sscnapoli.it
 0.0.0.0 api-notify.markarch.com
 0.0.0.0 api-pixels.easyadsapp.com
+0.0.0.0 api-sdk-tracking.beaconbank.jp
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api-shrek.net.jumia.com.gh
 0.0.0.0 api-stape.bennimoda.com.br
@@ -10826,6 +10827,7 @@
 0.0.0.0 argus.november.de
 0.0.0.0 argus.umarbutler.com
 0.0.0.0 arhzq.victimadvocacycenter.com
+0.0.0.0 ariaclean.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 arieslobalid3.click.s11.sfmc-osl.com
 0.0.0.0 arif.arianperfumes.com
@@ -14452,6 +14454,7 @@
 0.0.0.0 carteiro.altashabilidadesesuperdotacao.com
 0.0.0.0 carteiro.institutomapeando.com.br
 0.0.0.0 cartelsalsa.com
+0.0.0.0 cartersci.com
 0.0.0.0 cartjoint.com
 0.0.0.0 cartlug.com
 0.0.0.0 carts.guru
@@ -15405,6 +15408,7 @@
 0.0.0.0 cisionone-email.zenergycom.com
 0.0.0.0 cisionone-email.zero.wortwerkstatt.de
 0.0.0.0 citiservi.es
+0.0.0.0 citizensactive.com
 0.0.0.0 citrusad.net
 0.0.0.0 citsnmdc01.net.mydays.de
 0.0.0.0 city.cityattirebd.com
@@ -22709,6 +22713,7 @@
 0.0.0.0 d.gordetmedrw.se
 0.0.0.0 d.greatmarketing.ai
 0.0.0.0 d.grey.co
+0.0.0.0 d.ground.news
 0.0.0.0 d.growify.ai
 0.0.0.0 d.guidedascentcoaching.com
 0.0.0.0 d.haaltheorie.nl
@@ -27347,6 +27352,7 @@
 0.0.0.0 data.perlamachaen.vip
 0.0.0.0 data.petbarn.test.ajo.adobe.com
 0.0.0.0 data.petbox.pl
+0.0.0.0 data.petri.com
 0.0.0.0 data.petsecur.nl
 0.0.0.0 data.pfh.de
 0.0.0.0 data.phenomestraps.com
@@ -219627,6 +219633,7 @@
 0.0.0.0 emptyboats.com
 0.0.0.0 emptyescort.com
 0.0.0.0 emrdnt.sumaity.com
+0.0.0.0 emrld.cc
 0.0.0.0 ems-a8net-tracking.easy-myshop.jp
 0.0.0.0 ems.youku.com
 0.0.0.0 emsfn.clutchcharger.com
@@ -227943,6 +227950,7 @@
 0.0.0.0 gtm.gridhaussystems.co.uk
 0.0.0.0 gtm.gridx.lu
 0.0.0.0 gtm.gringaschool.com
+0.0.0.0 gtm.ground.news
 0.0.0.0 gtm.groupsoftware.com.br
 0.0.0.0 gtm.growarq.com
 0.0.0.0 gtm.grpcorretora.com.br
@@ -264408,6 +264416,7 @@
 0.0.0.0 qzzle.formulandcanada.com
 0.0.0.0 qzzusj.bygghjemme.no
 0.0.0.0 r-log.dable.io
+0.0.0.0 r-tag.coeteco.jp
 0.0.0.0 r.aachener-zeitung.de
 0.0.0.0 r.akipam.com
 0.0.0.0 r.anamagnani.com.br
@@ -298471,6 +298480,7 @@
 0.0.0.0 tag.eu.flashforge.com
 0.0.0.0 tag.farmatecrs.com.br
 0.0.0.0 tag.fastpatchdrywallrepair.com
+0.0.0.0 tag.flvcdn.net
 0.0.0.0 tag.fmscycles.com
 0.0.0.0 tag.foreverfierce.com
 0.0.0.0 tag.franquiahomeangels.com.br

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 08 Oct 2026 11:17:12 UTC
+# Updated at Fri, 09 Oct 2026 11:15:56 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -7518,6 +7518,7 @@
 0.0.0.0 analytics-conomi.line.me
 0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-egain.com
+0.0.0.0 analytics-event.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 analytics-fe.digital-cloud-west.medallia.com
 0.0.0.0 analytics-fe.digital-cloud.medallia.eu
@@ -8880,6 +8881,7 @@
 0.0.0.0 anonym.data.funkedigital.de
 0.0.0.0 anonymised.io
 0.0.0.0 anonymized-metrics.rmbl.ws
+0.0.0.0 anonymous.qub.ca
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anrgow.oberrheinischer-jobanzeiger.de
@@ -12571,6 +12573,7 @@
 0.0.0.0 bild.met.vgwort.de
 0.0.0.0 bilingualgeek.com
 0.0.0.0 billing.uwebsolutions.net
+0.0.0.0 billionpet.com
 0.0.0.0 billowybead.com
 0.0.0.0 billowybelief.com
 0.0.0.0 billtable.com
@@ -13010,6 +13013,7 @@
 0.0.0.0 boqufs.2nn.jp
 0.0.0.0 borckt.abarth.it
 0.0.0.0 boredcrown.com
+0.0.0.0 borefee.com
 0.0.0.0 boringberry.com
 0.0.0.0 boringpirate.com
 0.0.0.0 bosrs.avenue.com
@@ -20254,6 +20258,7 @@
 0.0.0.0 cluster.gralhaimoveis.com.br
 0.0.0.0 cluster.imoveiscitalli.com.br
 0.0.0.0 clustrmaps.com
+0.0.0.0 clutchcourses.com
 0.0.0.0 clvelzhz.eandm.bg
 0.0.0.0 clvk.viki.io
 0.0.0.0 clvwgr.tvert.jp
@@ -235231,6 +235236,7 @@
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 intake-lr.com
 0.0.0.0 intarget.ru
+0.0.0.0 integrations-itbl.co
 0.0.0.0 integrations.syncmedia.io
 0.0.0.0 intel-trk.informa.com
 0.0.0.0 intel-trk.lloydslistintelligence.com
@@ -247340,6 +247346,7 @@
 0.0.0.0 lzwtlo.watches.ae
 0.0.0.0 lzwxzz.chintaistyle.jp
 0.0.0.0 m-brain.fi
+0.0.0.0 m-chromadrone.prod.suno.com
 0.0.0.0 m-metrics.capitalone.com
 0.0.0.0 m-pathy.com
 0.0.0.0 m-stratovibe.prod.suno.com
@@ -294670,6 +294677,7 @@
 0.0.0.0 stat.rare.ru
 0.0.0.0 stat.recklesslove.co.za
 0.0.0.0 stat.rizeniskoly.cz
+0.0.0.0 stat.s.ee
 0.0.0.0 stat.safeway.com
 0.0.0.0 stat.scroogefrog.com
 0.0.0.0 stat.smarteca.cz
@@ -303491,6 +303499,7 @@
 0.0.0.0 track.ertha.io
 0.0.0.0 track.escoladefotografos.com
 0.0.0.0 track.escoladoinconsciente.com.br
+0.0.0.0 track.esteban.fr
 0.0.0.0 track.estoneworks.com
 0.0.0.0 track.eurasc.org
 0.0.0.0 track.eurogirlsescort.com
@@ -304670,6 +304679,7 @@
 0.0.0.0 tracker.marcomp.com.br
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.metricool.com
+0.0.0.0 tracker.mida-app.io
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.multisearch.io
 0.0.0.0 tracker.myth.dev

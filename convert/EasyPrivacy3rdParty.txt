@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Fri, 09 Oct 2026 11:15:55 UTC
+# Updated at Sat, 10 Oct 2026 10:32:50 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -812,7 +812,6 @@
 0.0.0.0 geotags.refinery89.com
 0.0.0.0 geotrust.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
-0.0.0.0 gkx.gokwik.co
 0.0.0.0 gleam.io
 0.0.0.0 globale-analytics-sdk.global-e.com
 0.0.0.0 go.activengage.com
@@ -1264,6 +1263,7 @@
 0.0.0.0 securitymetrics.com
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segments.adap.tv
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sessions.embeddables.com
 0.0.0.0 sftrack.searchforce.net

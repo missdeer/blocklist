@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Sat, 10 Oct 2026 10:32:50 UTC
+# Updated at Sun, 11 Oct 2026 10:45:32 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -236,7 +236,8 @@
 0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
 0.0.0.0 content22.citibankonline.com
-0.0.0.0 content22.online.citi.com
+0.0.0.0 contents1.00110.citi.com
+0.0.0.0 contents2.00110.citi.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 count.all.biz
 0.0.0.0 count.darkreader.app
@@ -917,6 +918,7 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ub.galaxus
 0.0.0.0 ubt.tracking.shopee
+0.0.0.0 ubta.tracking.shopee
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 ud.galaxus.ch
 0.0.0.0 um.contentstudio.io

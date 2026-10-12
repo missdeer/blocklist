@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 11 Oct 2026 10:45:33 UTC
+# Updated at Mon, 12 Oct 2026 11:51:38 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -9006,7 +9006,6 @@
 0.0.0.0 anonym.data.funkedigital.de
 0.0.0.0 anonymised.io
 0.0.0.0 anonymized-metrics.rmbl.ws
-0.0.0.0 anonymous.qub.ca
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anrgow.oberrheinischer-jobanzeiger.de
@@ -20130,6 +20129,7 @@
 0.0.0.0 cobge.rosewe.com
 0.0.0.0 cochin.net.anwalt.de
 0.0.0.0 cocjl.statefortyeight.com
+0.0.0.0 cockatielcafe.com
 0.0.0.0 cockroach.head4work.com.au
 0.0.0.0 cocoacafes.com
 0.0.0.0 coconut.flyingsquirrelsports.ca
@@ -21566,6 +21566,7 @@
 0.0.0.0 crookedcreature.com
 0.0.0.0 crossees.com
 0.0.0.0 crosspixel.net
+0.0.0.0 crossseasent.com
 0.0.0.0 crosswalkmail.com
 0.0.0.0 crow.centresustains.com
 0.0.0.0 crow.claudiakeil.de
@@ -28191,6 +28192,7 @@
 0.0.0.0 dbhtk.orlybeauty.co.uk
 0.0.0.0 dbjnzp.estellabartlett.com
 0.0.0.0 dbl.cadriamarketing.com
+0.0.0.0 dblarson.com
 0.0.0.0 dblmj.shopavara.com
 0.0.0.0 dbmgc.marleylilly.com
 0.0.0.0 dbmyvl.apartmentfinder.com

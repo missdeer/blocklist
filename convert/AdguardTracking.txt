@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 13 Oct 2026 11:40:26 UTC
+# Updated at Wed, 14 Oct 2026 09:26:44 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -10323,7 +10323,6 @@
 0.0.0.0 api.srceprirode.rs
 0.0.0.0 api.stahlhart.com.br
 0.0.0.0 api.startbeglobal.com
-0.0.0.0 api.statsig.com
 0.0.0.0 api.statsigcdn.com
 0.0.0.0 api.staydepot.com.br
 0.0.0.0 api.stelariss.com.br
@@ -21055,6 +21054,7 @@
 0.0.0.0 commercial.davey.com
 0.0.0.0 commercial.equifax.com
 0.0.0.0 commet.intker.com
+0.0.0.0 commitlogs.com
 0.0.0.0 comms.adss.com
 0.0.0.0 comms.cigna.co.uk
 0.0.0.0 comms.cigna.com.hk
@@ -30119,6 +30119,7 @@
 0.0.0.0 dorli.thehealthclique.co
 0.0.0.0 dormir.dormax.pt
 0.0.0.0 dormouse.consentkit.com
+0.0.0.0 dorsalapp.com
 0.0.0.0 dossierportal.net.mydays.de
 0.0.0.0 doswwi.caringlasses.com
 0.0.0.0 dot-com-stats.sladewatkins.net
@@ -30593,6 +30594,7 @@
 0.0.0.0 dudu.umzugradar.de
 0.0.0.0 dudyrv.packlinq.nl
 0.0.0.0 duelf.xstanceinsoles.com
+0.0.0.0 duetcode.com
 0.0.0.0 dufbut.wtennis.com.br
 0.0.0.0 dujgiq.trendhim.pl
 0.0.0.0 duk.devolkitchens.co.uk
@@ -286968,6 +286970,7 @@
 0.0.0.0 rt.ayudafinancieras.com
 0.0.0.0 rt.balletbeautiful.com
 0.0.0.0 rt.biovitalcorelab.com
+0.0.0.0 rt.buzzni.com
 0.0.0.0 rt.connectprosnow.com
 0.0.0.0 rt.dailycarepro.com
 0.0.0.0 rt.dispo-seo.com
@@ -327071,6 +327074,7 @@
 0.0.0.0 tracking.brgeneral.org
 0.0.0.0 tracking.brice.fr
 0.0.0.0 tracking.bristol-sport.co.uk
+0.0.0.0 tracking.broadpeak.io
 0.0.0.0 tracking.bt-blue.com
 0.0.0.0 tracking.bugece.co
 0.0.0.0 tracking.burningbutter.com

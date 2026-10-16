@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 15 Oct 2026 09:04:51 UTC
+# Updated at Fri, 16 Oct 2026 08:57:08 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -141,6 +141,7 @@
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads-m.rustore.ru
+0.0.0.0 ads-proxy-aka.prod.bo.canal.canalplustech.pro
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-router-noneu.truecaller.com
 0.0.0.0 ads-sdk.mattel163.com

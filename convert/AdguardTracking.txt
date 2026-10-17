@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 16 Oct 2026 08:57:13 UTC
+# Updated at Sat, 17 Oct 2026 08:29:13 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -6556,6 +6556,7 @@
 0.0.0.0 adtarget.fcbarcelona.net
 0.0.0.0 adtarget.fcbrookies.cat
 0.0.0.0 adtarget.me
+0.0.0.0 adtasukaru.com
 0.0.0.0 adtcdn.unidadeditorial.es
 0.0.0.0 adtd.douglas.at
 0.0.0.0 adtd.douglas.be
@@ -241545,6 +241546,7 @@
 0.0.0.0 fitibeats-ss.checkoutera.com
 0.0.0.0 fitibeats-ss.offeroshop.com
 0.0.0.0 fitnessmapper.com
+0.0.0.0 fitnesssponsor.com
 0.0.0.0 fitwithalpine.com
 0.0.0.0 fitzt.guruhotel.com
 0.0.0.0 fiuoo.molarclean.com
@@ -242491,6 +242493,7 @@
 0.0.0.0 ftp.renegonzalez.me
 0.0.0.0 ftp.rottne.com
 0.0.0.0 ftp.webspecmail.com
+0.0.0.0 ftpmagic.com
 0.0.0.0 ftqmv.midtownumbrellas.com
 0.0.0.0 ftqsz.frankiesbikinis.com
 0.0.0.0 ftrack.dowasdeal.com
@@ -242914,6 +242917,7 @@
 0.0.0.0 g.probatterij.nl
 0.0.0.0 g.restoreyourcore.com
 0.0.0.0 g.rocket-school.com
+0.0.0.0 g.rtbrain.app
 0.0.0.0 g.rushtranslate.com
 0.0.0.0 g.saksooka.com
 0.0.0.0 g.scharfenstein.eu

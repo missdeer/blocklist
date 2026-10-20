@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 19 Oct 2026 09:48:25 UTC
+# Updated at Tue, 20 Oct 2026 09:21:20 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -684,6 +684,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-events.eservice.emarsys.net
 0.0.0.0 mobile-production.content-square.net
+0.0.0.0 mobile-telemetry.multiball.forzafootball.net
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 mobilelog.upqzfile.com
@@ -724,7 +725,6 @@
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-sports-events.apple.com
 0.0.0.0 ninja.onap.io
-0.0.0.0 node.aibeacon.jp
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 nr.bidderstack.com

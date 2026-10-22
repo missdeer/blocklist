@@ -1,7 +1,7 @@
 # AdguardCNAMEMicrosites
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_microsites.txt
-# Updated at Wed, 21 Oct 2026 09:17:49 UTC
+# Updated at Thu, 22 Oct 2026 09:20:35 UTC
 #
 
 0.0.0.0 00mql4.xham.live
@@ -142,7 +142,6 @@
 0.0.0.0 100011578.collect.igodigital.com
 0.0.0.0 100011881.collect.igodigital.com
 0.0.0.0 100012449.collect.igodigital.com
-0.0.0.0 100012768.collect.igodigital.com
 0.0.0.0 100014069.collect.igodigital.com
 0.0.0.0 100014588.collect.igodigital.com
 0.0.0.0 100014861.collect.igodigital.com
@@ -1115,9 +1114,7 @@
 0.0.0.0 a135.wsoctv.com
 0.0.0.0 a193.chiccams.com
 0.0.0.0 a235.aleteia.org
-0.0.0.0 a235.ctpost.com
 0.0.0.0 a235.htvnativeadsolutions.com
-0.0.0.0 a235.sfgate.com
 0.0.0.0 a235.timesunion.com
 0.0.0.0 a2rhoet1piz5nd9-p.adktrack44.xyz
 0.0.0.0 a34ce4695e.3af9d5efab.com
@@ -7069,7 +7066,6 @@
 0.0.0.0 connect.care.kansashealthsystem.com
 0.0.0.0 connect.care.lcmchealth.org
 0.0.0.0 connect.care.muschealth.org
-0.0.0.0 connect.care.orthovirginia.com
 0.0.0.0 connect.care.pennstatehealth.org
 0.0.0.0 connect.care.sheppardpratt.org
 0.0.0.0 connect.care.wakemed.org

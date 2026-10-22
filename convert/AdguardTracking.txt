@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 21 Oct 2026 09:17:50 UTC
+# Updated at Thu, 22 Oct 2026 09:20:36 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -12469,6 +12469,7 @@
 0.0.0.0 at.zerocompany.com
 0.0.0.0 at_w_atexxpressdata-c3a3188a23.exxpress.at
 0.0.0.0 atad.douchezaak.nl
+0.0.0.0 atag.adgile.media
 0.0.0.0 atarget.adelaide.edu.au
 0.0.0.0 atarget.csu.edu.au
 0.0.0.0 atarget.firstrepublic.com
@@ -12516,6 +12517,7 @@
 0.0.0.0 atjsq.ironhorsevineyards.com
 0.0.0.0 atl-b24-link.ip.twelve99.net.iberostar.com
 0.0.0.0 atlantic.avadacom.com
+0.0.0.0 atlas.atsptp.com
 0.0.0.0 atlas1.krone.at
 0.0.0.0 atlihk.dukeanddexter.com
 0.0.0.0 atlkse.aosom.it
@@ -300825,6 +300827,7 @@
 0.0.0.0 plausible.marker12.org
 0.0.0.0 plausible.mattpruitt.com
 0.0.0.0 plausible.mcj.co
+0.0.0.0 plausible.mubai3.top
 0.0.0.0 plausible.myvirtualsuper.com
 0.0.0.0 plausible.nmyvsn.net
 0.0.0.0 plausible.nuqu.org

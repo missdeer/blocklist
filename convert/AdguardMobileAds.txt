@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Thu, 22 Oct 2026 09:20:35 UTC
+# Updated at Fri, 23 Oct 2026 09:16:15 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -431,6 +431,7 @@
 0.0.0.0 d3hdbjtb1686tn.cloudfront.net
 0.0.0.0 d3vgkjyuhp91nc.cloudfront.net
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
+0.0.0.0 da.flvcdn.net
 0.0.0.0 dad-api.dcard.tw
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 data2.doodlemobile.com
@@ -589,6 +590,7 @@
 0.0.0.0 leanplum.com
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 lgvlbd.icu
+0.0.0.0 libaishuo.com
 0.0.0.0 liftoff-creatives.io
 0.0.0.0 liftoff.io
 0.0.0.0 live.hyprmx.com
@@ -786,6 +788,7 @@
 0.0.0.0 rqmob.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb.appbid.com
+0.0.0.0 rtb.nefta.app
 0.0.0.0 rtblab.net
 0.0.0.0 rugfrfji.win
 0.0.0.0 ruuaqkw.com

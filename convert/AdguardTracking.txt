@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 23 Oct 2026 09:16:16 UTC
+# Updated at Sat, 24 Oct 2026 08:49:01 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -4006,6 +4006,7 @@
 0.0.0.0 a.camvision.dk
 0.0.0.0 a.carryu.com
 0.0.0.0 a.cartop.dk
+0.0.0.0 a.cdn-lab.shop
 0.0.0.0 a.chdist.com
 0.0.0.0 a.cineflix.st
 0.0.0.0 a.closerpets.co.uk
@@ -285344,7 +285345,6 @@
 0.0.0.0 manaus.ondec.com.br
 0.0.0.0 manaus2026.ondec.com.br
 0.0.0.0 manauslidera2026.ondec.com.br
-0.0.0.0 manawell.net
 0.0.0.0 mandant.net.anwalt.de
 0.0.0.0 mandc.pwc.no
 0.0.0.0 mandibula.resettfitness.com.br
@@ -299410,6 +299410,7 @@
 0.0.0.0 paintlobalid3.click.s11.sfmc-osl.com
 0.0.0.0 paintmogul.com
 0.0.0.0 paintpear.com
+0.0.0.0 pajamabrand.com
 0.0.0.0 pajfpadj.kuorsis.fi
 0.0.0.0 pajsb.coopsleepgoods.com
 0.0.0.0 pakdru.altrarunning.com
@@ -335287,6 +335288,7 @@
 0.0.0.0 stats.crunchtime.fun
 0.0.0.0 stats.crypdit.com
 0.0.0.0 stats.cuddlers.co.za
+0.0.0.0 stats.curd.io
 0.0.0.0 stats.curtiscummings.me
 0.0.0.0 stats.cybersim.de
 0.0.0.0 stats.cyknij.com
@@ -349070,7 +349072,6 @@
 0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 unif.hedgy-haagplanten.nl
 0.0.0.0 unified-ter-na.hismarttv.com
-0.0.0.0 unifybots.com
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 uniqodo.com
 0.0.0.0 unisdk.proxima.nie.easebar.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 24 Oct 2026 08:49:01 UTC
+# Updated at Sun, 25 Oct 2026 09:05:14 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -300508,6 +300508,7 @@
 0.0.0.0 pingmeter.com
 0.0.0.0 pingomatic.com
 0.0.0.0 pingpong.us
+0.0.0.0 pingprove.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pingsurvey.com
 0.0.0.0 pingtas.qq.com

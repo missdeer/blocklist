@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 25 Oct 2026 09:05:14 UTC
+# Updated at Mon, 26 Oct 2026 10:00:51 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -13519,6 +13519,7 @@
 0.0.0.0 behavior-tracking-event-gateway.imweb.me
 0.0.0.0 behavior.tongdun.net
 0.0.0.0 behavioralengine.com
+0.0.0.0 beholdthyson.com
 0.0.0.0 bei.amstelwood.nl
 0.0.0.0 bekannt-im-web.de
 0.0.0.0 belanger.net.anwalt.de
@@ -300528,6 +300529,7 @@
 0.0.0.0 pipeline.rd.nl
 0.0.0.0 pipeline.sangemeel.shop
 0.0.0.0 pippio.com
+0.0.0.0 pipsgain.com
 0.0.0.0 pipujp.titaneyeplus.com
 0.0.0.0 piq4.inseec.education
 0.0.0.0 piqcg.sokolovelaw.com

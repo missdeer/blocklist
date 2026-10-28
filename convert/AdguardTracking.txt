@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 27 Oct 2026 09:44:47 UTC
+# Updated at Wed, 28 Oct 2026 10:30:26 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -8958,6 +8958,7 @@
 0.0.0.0 analytics.dsyqt.com
 0.0.0.0 analytics.dugou.best
 0.0.0.0 analytics.dugun.com
+0.0.0.0 analytics.dulo
 0.0.0.0 analytics.dumoulinbricks.be
 0.0.0.0 analytics.dunlio.com
 0.0.0.0 analytics.dupple.com
@@ -14117,6 +14118,7 @@
 0.0.0.0 bigconfigs.reliableequipmentparts.com
 0.0.0.0 bigdata-scfx-push.kucoin.plus
 0.0.0.0 bigdata.clarin.com
+0.0.0.0 bigdata.downza.com
 0.0.0.0 bigfishapparel.com
 0.0.0.0 bigfluffycatexchange.crabdance.com
 0.0.0.0 biggerbling.com
@@ -22362,6 +22364,7 @@
 0.0.0.0 cnsynt.thirdlove.com
 0.0.0.0 cnt.alawar.com
 0.0.0.0 cnt.hd21
+0.0.0.0 cnt.iceporn
 0.0.0.0 cnt.logoslovo.ru
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nov.ru
@@ -275881,6 +275884,7 @@
 0.0.0.0 gravity4.com
 0.0.0.0 gravitygive.com
 0.0.0.0 gravitykick.com
+0.0.0.0 gravitypics.com
 0.0.0.0 gray-csr12.net.abomix.de
 0.0.0.0 graychalk.com
 0.0.0.0 grayoranges.com
@@ -275925,6 +275929,7 @@
 0.0.0.0 grocerycrew.com
 0.0.0.0 grocerydog.com
 0.0.0.0 grofag.hollandandbarrett.ie
+0.0.0.0 groglog.com
 0.0.0.0 groove.eezyball.com
 0.0.0.0 groovespacing.com
 0.0.0.0 groovy-manul.pikapod.net
@@ -282353,6 +282358,7 @@
 0.0.0.0 hduuf.mesotheliomaclaimscenter.info
 0.0.0.0 hdxdhu.zumnorde.de
 0.0.0.0 hdzupx.bonprix-wa.be
+0.0.0.0 headbandeau.com
 0.0.0.0 headlight.caro-auto.de
 0.0.0.0 headshot.monster
 0.0.0.0 headydegree.com
@@ -308334,6 +308340,7 @@
 0.0.0.0 metrics.sebkort.com
 0.0.0.0 metrics.secure.eurocard.com
 0.0.0.0 metrics.securemaxxia.com.au
+0.0.0.0 metrics.selectel.ru
 0.0.0.0 metrics.selectquote.com
 0.0.0.0 metrics.seloger.com
 0.0.0.0 metrics.semana.com
@@ -320709,6 +320716,7 @@
 0.0.0.0 quhdnr.musiciansfriend.com
 0.0.0.0 quick-counter.net
 0.0.0.0 quicklyedit.com
+0.0.0.0 quickpints.com
 0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quiddity.goguardian.com
@@ -353485,7 +353493,6 @@
 0.0.0.0 stats.dt-esthetique.ch
 0.0.0.0 stats.duereason.com
 0.0.0.0 stats.duetcode.io
-0.0.0.0 stats.dulo
 0.0.0.0 stats.dupress.com
 0.0.0.0 stats.dwermke.com
 0.0.0.0 stats.earlygame.com
@@ -354206,6 +354213,7 @@
 0.0.0.0 stats.spark.co.nz
 0.0.0.0 stats.spark.nz
 0.0.0.0 stats.sparkloop.app
+0.0.0.0 stats.spidersense.xyz
 0.0.0.0 stats.spottedlublin.pl
 0.0.0.0 stats.spreadsimple.com
 0.0.0.0 stats.spreadtheworld.net
@@ -358732,6 +358740,7 @@
 0.0.0.0 telemetry.oliverwymanforum.com
 0.0.0.0 telemetry.otsuka-us.com
 0.0.0.0 telemetry.owenscorning.com
+0.0.0.0 telemetry.paypay.ne.jp
 0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.ruthschris.com
 0.0.0.0 telemetry.schwinnfitness.com
@@ -367312,6 +367321,9 @@
 0.0.0.0 umami.stayspiced.com
 0.0.0.0 umami.trackiq.com
 0.0.0.0 umami.trapilot.ai
+0.0.0.0 umami.vidcore.net
+0.0.0.0 umami.vidfast.vc
+0.0.0.0 umami.vidup.to
 0.0.0.0 umami2.devliang.xyz
 0.0.0.0 umami3.devliang.xyz
 0.0.0.0 umami4.devliang.xyz
@@ -367376,6 +367388,7 @@
 0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 unif.hedgy-haagplanten.nl
 0.0.0.0 unified-ter-na.hismarttv.com
+0.0.0.0 unifybots.com
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 uniqodo.com
 0.0.0.0 unisdk.proxima.nie.easebar.com
@@ -375342,6 +375355,7 @@
 0.0.0.0 zendesk-integration.net.mydays.de
 0.0.0.0 zenkq.happyhairbrush.co.uk
 0.0.0.0 zenru.1md.org
+0.0.0.0 zenstats.yzhy19.cn
 0.0.0.0 zenticbd.zentic.com.bd
 0.0.0.0 zeocr.realbotanicals.com
 0.0.0.0 zeoorc.nordicnest.dk

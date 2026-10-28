@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 27 Oct 2026 09:44:46 UTC
+# Updated at Wed, 28 Oct 2026 10:30:23 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -378,6 +378,7 @@
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 cdn-settings.af-sdk.com
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.jampp.com
@@ -549,6 +550,7 @@
 0.0.0.0 impbid.com
 0.0.0.0 imprdom.com
 0.0.0.0 imrworldwide.com
+0.0.0.0 inapps.af-sdk.com
 0.0.0.0 infolinks.com
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 inmense.site

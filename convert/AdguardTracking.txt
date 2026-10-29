@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 28 Oct 2026 10:30:26 UTC
+# Updated at Thu, 29 Oct 2026 10:50:22 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -282402,6 +282402,7 @@
 0.0.0.0 heatmap.it
 0.0.0.0 heatmap.support-inc.co.jp
 0.0.0.0 heatoor-ss.primeshopers.com
+0.0.0.0 heatrave.com
 0.0.0.0 heavmgby.www.doubleb.bio
 0.0.0.0 heavydetail.com
 0.0.0.0 heavyplayground.com
@@ -282513,6 +282514,7 @@
 0.0.0.0 hey.tanqueo.com
 0.0.0.0 heyaxr.fashiondays.bg
 0.0.0.0 heycomputers.com
+0.0.0.0 heyhotshots.com
 0.0.0.0 heymatic.com
 0.0.0.0 heystaks.com
 0.0.0.0 heytr.kaleandme.de
@@ -320890,6 +320892,7 @@
 0.0.0.0 rac.ruutu.fi
 0.0.0.0 raccoon.alexanderssonlaw.com
 0.0.0.0 raccoon.jaronheard.com
+0.0.0.0 racerpets.com
 0.0.0.0 racket.metzler.fr
 0.0.0.0 racket.metzler.it
 0.0.0.0 rackforstorage.com
@@ -321104,6 +321107,7 @@
 0.0.0.0 readgins.smithbook.com
 0.0.0.0 readingguilt.com
 0.0.0.0 readnotify.com
+0.0.0.0 readourminds.com
 0.0.0.0 ready.aljut.com
 0.0.0.0 ready.curriculumassociates.com
 0.0.0.0 readymoon.com
@@ -321315,6 +321319,7 @@
 0.0.0.0 regularplants.com
 0.0.0.0 regulatesleet.com
 0.0.0.0 rehabilitatereason.com
+0.0.0.0 reignfans.com
 0.0.0.0 reijhx.budgetheating.com
 0.0.0.0 reindaks.com
 0.0.0.0 reingod.com
@@ -367388,7 +367393,6 @@
 0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 unif.hedgy-haagplanten.nl
 0.0.0.0 unified-ter-na.hismarttv.com
-0.0.0.0 unifybots.com
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 uniqodo.com
 0.0.0.0 unisdk.proxima.nie.easebar.com

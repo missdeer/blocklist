@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Thu, 29 Oct 2026 10:50:21 UTC
+# Updated at Fri, 30 Oct 2026 10:48:40 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -131,6 +131,7 @@
 0.0.0.0 bfp.capitalone.com
 0.0.0.0 bi.banggood.com
 0.0.0.0 bicp-analytics.postscript.io
+0.0.0.0 bifrost-api.hotstar.com
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 blue.nbc4i.com
@@ -749,6 +750,7 @@
 0.0.0.0 stats.hexa.watch
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
+0.0.0.0 stats.jiosaavn.com
 0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.lrb.co.uk
 0.0.0.0 stats.mempool.space
@@ -892,6 +894,7 @@
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
+0.0.0.0 tracking.dpmlol.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com

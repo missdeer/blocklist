@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_thirdparty.txt
-# Updated at Thu, 29 Oct 2026 10:50:21 UTC
+# Updated at Fri, 30 Oct 2026 10:48:40 UTC
 #
 
 0.0.0.0 100widgets.com
@@ -690,6 +690,7 @@
 0.0.0.0 eth.llamarpc.com
 0.0.0.0 etl.springbot.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 eu-office.events.data.microsoft.com
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 event-api.rdstation.com.br
@@ -1508,6 +1509,7 @@
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com
 0.0.0.0 tms.fmm.io
+0.0.0.0 tms.wape.autodesk.com
 0.0.0.0 to.getnitropack.com
 0.0.0.0 tonanalytics.mugiwarattagentai.agency
 0.0.0.0 tpx.tesseradigital.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 30 Oct 2026 10:48:40 UTC
+# Updated at Sat, 31 Oct 2026 10:18:33 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -10322,6 +10322,7 @@
 0.0.0.0 aphrodite.avadacom.com
 0.0.0.0 aphtn.dsw.ca
 0.0.0.0 aphxav.green-acres.it
+0.0.0.0 api-abtest-cdn.learnings.ai
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-analytics.pelikan.sk
@@ -13762,6 +13763,7 @@
 0.0.0.0 bestclimbers.net
 0.0.0.0 bestcoffeemachine.net
 0.0.0.0 bestill.help.no
+0.0.0.0 bestpriceonly.com
 0.0.0.0 bestshoesboot.com
 0.0.0.0 bestsportsbra.com
 0.0.0.0 besucher.nona.de
@@ -16186,6 +16188,7 @@
 0.0.0.0 carepay.gaf.com
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 cargdk.bakerross.co.uk
+0.0.0.0 cargrasp.com
 0.0.0.0 caribou.mcgregorpublishing.com
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
@@ -16618,6 +16621,7 @@
 0.0.0.0 cdn.shopnowlulu.com
 0.0.0.0 cdn.smartgoods.de
 0.0.0.0 cdn.smlog.co.kr
+0.0.0.0 cdn.snitcher.com
 0.0.0.0 cdn.sophi.io
 0.0.0.0 cdn.sorenwatches.com
 0.0.0.0 cdn.sov.stream
@@ -17498,6 +17502,7 @@
 0.0.0.0 clavecin.taokids.be
 0.0.0.0 clavecin.taokids.com
 0.0.0.0 claycandle.com
+0.0.0.0 claydar.com
 0.0.0.0 clb.yahoo.co.jp
 0.0.0.0 clb.yahooapis.jp
 0.0.0.0 clc.stackoverflow.com
@@ -272110,6 +272115,7 @@
 0.0.0.0 fluencymedia.com
 0.0.0.0 fluff.stape.com.ua
 0.0.0.0 fluffy-analytics.vercel.app
+0.0.0.0 fluffybirds.com
 0.0.0.0 fluffyscompleatbouti.net.mydays.de
 0.0.0.0 fluidsurveys.com
 0.0.0.0 flurry.com
@@ -282630,6 +282636,7 @@
 0.0.0.0 high.adhd-founder.com
 0.0.0.0 high.useoxepay.com.br
 0.0.0.0 higherengine.com
+0.0.0.0 higherhub.com
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highmetrics.com
@@ -284720,6 +284727,7 @@
 0.0.0.0 indiyo.38-8931.com
 0.0.0.0 indoeasia.edm.globalsources.com
 0.0.0.0 indonesia.click.s11.sfmc-osl.com
+0.0.0.0 indscout.com
 0.0.0.0 industry.statefoodsafety.com
 0.0.0.0 industry.tafensw.edu.au
 0.0.0.0 ineedhits.com
@@ -320911,6 +320919,7 @@
 0.0.0.0 radar.josianamendes.adv.br
 0.0.0.0 radar.marinhoadvmg.com.br
 0.0.0.0 radar.rodrigopradomentor.com.br
+0.0.0.0 radar.snitcher.com
 0.0.0.0 radexports.com
 0.0.0.0 radi.l27.cz
 0.0.0.0 radi.zachrannasit.cz
@@ -353399,6 +353408,7 @@
 0.0.0.0 stats.circularfurniture.dk
 0.0.0.0 stats.citizenos.com
 0.0.0.0 stats.clavisaurea.xyz
+0.0.0.0 stats.cleanip.io
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.cleverdiabetic.com
 0.0.0.0 stats.cloudflex.team

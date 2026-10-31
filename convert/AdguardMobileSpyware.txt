@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 30 Oct 2026 10:48:40 UTC
+# Updated at Sat, 31 Oct 2026 10:18:32 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -122,6 +122,7 @@
 0.0.0.0 andmlb.kshwtj.com
 0.0.0.0 android-stat.acestream.net
 0.0.0.0 android.bugly.qq.com
+0.0.0.0 api-abtest-cdn.learnings.ai
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-analytics.prod.birdapp.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com

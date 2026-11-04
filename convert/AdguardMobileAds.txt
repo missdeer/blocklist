@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Tue, 03 Nov 2026 11:50:19 UTC
+# Updated at Wed, 04 Nov 2026 12:00:21 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -312,6 +312,7 @@
 0.0.0.0 as.uncn.jp
 0.0.0.0 assoc-amazon.com
 0.0.0.0 astrsk.net
+0.0.0.0 asttoxa.ru
 0.0.0.0 athena.api.kwalee.com
 0.0.0.0 atti.com
 0.0.0.0 audiomob.com

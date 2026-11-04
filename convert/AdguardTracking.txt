@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 03 Nov 2026 11:50:20 UTC
+# Updated at Wed, 04 Nov 2026 12:00:26 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -12622,6 +12622,7 @@
 0.0.0.0 api-meta.mercelsantos.com.br
 0.0.0.0 api-meta.petitcolore.com.br
 0.0.0.0 api-napoli.store.sscnapoli.it
+0.0.0.0 api-node.corvexa.cloud
 0.0.0.0 api-notify.markarch.com
 0.0.0.0 api-pixels.easyadsapp.com
 0.0.0.0 api-sdk-tracking.beaconbank.jp
@@ -15563,7 +15564,6 @@
 0.0.0.0 b.socialdemokraterna.se
 0.0.0.0 b.telus.com
 0.0.0.0 b.tienda.com
-0.0.0.0 b.trueanthem.com
 0.0.0.0 b.tryknowmad.com
 0.0.0.0 b.videoamp.com
 0.0.0.0 b.wheelabratorgroup.com
@@ -25442,6 +25442,7 @@
 0.0.0.0 collector.trendmd.com
 0.0.0.0 collector.umogames.com
 0.0.0.0 collector.vhx.tv
+0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhofficial.com
@@ -26426,6 +26427,7 @@
 0.0.0.0 countyou.de
 0.0.0.0 countz.com
 0.0.0.0 coupon.happycustomer.io
+0.0.0.0 couponbright.com
 0.0.0.0 couponrail.com
 0.0.0.0 courageousbaby.com
 0.0.0.0 course.course.bebshapath.com
@@ -33838,6 +33840,7 @@
 0.0.0.0 datacollection.adelaideuni.edu.au
 0.0.0.0 datacollection.sharmusic.com
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
+0.0.0.0 dataconsumed.com
 0.0.0.0 datadog-log.clovergames.io
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadrivens.protocolopumpgluteos.com.br
@@ -325008,6 +325011,7 @@
 0.0.0.0 med.viibryd.com
 0.0.0.0 med.viibrydhcp.com
 0.0.0.0 med.vraylar.com
+0.0.0.0 medanysew.com
 0.0.0.0 meddleplant.com
 0.0.0.0 media-atl3-1.cdn.whatsapp.net.iberostar.com
 0.0.0.0 media-cdg4-1.cdn.whatsapp.net.iberostar.com
@@ -331726,6 +331730,7 @@
 0.0.0.0 nice.theperryai.com
 0.0.0.0 nicefollows.com
 0.0.0.0 nicehuh.com
+0.0.0.0 nicemenswear.com
 0.0.0.0 nick.flexed-foods.com
 0.0.0.0 nicksetup.davidbedrick.com
 0.0.0.0 nickwerbung.zenmovement.ch
@@ -332740,6 +332745,7 @@
 0.0.0.0 objecthero.com
 0.0.0.0 objevuj.amazingplaces.cz
 0.0.0.0 objru.thankgodforcoffee.com
+0.0.0.0 objsoftware.com
 0.0.0.0 oblivionfleet.com
 0.0.0.0 obnqf.trollcoclothing.com
 0.0.0.0 obnqleyl.aadieghito.com
@@ -333174,6 +333180,7 @@
 0.0.0.0 omgthink.com
 0.0.0.0 omguk.com
 0.0.0.0 omieuz.razer.ru
+0.0.0.0 ominousmusic.com
 0.0.0.0 omjtca.emlakjet.com
 0.0.0.0 omlete.mg.liebesleinwand.de
 0.0.0.0 omn.americanexpress.com
@@ -333609,6 +333616,7 @@
 0.0.0.0 operationchicken.com
 0.0.0.0 operationnail.com
 0.0.0.0 operatorspic.net.mydays.de
+0.0.0.0 operawise.com
 0.0.0.0 opfjj.vivobarefoot.com
 0.0.0.0 oph7o.montecarlosbm-corporate.com
 0.0.0.0 ophan.theguardian.com
@@ -378936,6 +378944,7 @@
 0.0.0.0 telemetry.doitbeststore.com
 0.0.0.0 telemetry.doxo.com
 0.0.0.0 telemetry.dzen.ru
+0.0.0.0 telemetry.ecosoft.group
 0.0.0.0 telemetry.email.tffact.com
 0.0.0.0 telemetry.eyeo.com
 0.0.0.0 telemetry.gfe.nvidia.com
@@ -386648,6 +386657,7 @@
 0.0.0.0 tru.am
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truculentrate.com
+0.0.0.0 trueanthem.com
 0.0.0.0 truebackpack.com
 0.0.0.0 truehits.in.th
 0.0.0.0 truehits.net

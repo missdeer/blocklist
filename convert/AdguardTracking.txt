@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 04 Nov 2026 12:00:26 UTC
+# Updated at Thu, 05 Nov 2026 12:10:17 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -34654,6 +34654,7 @@
 0.0.0.0 diboji.class101.net
 0.0.0.0 dibtk.medtronic.com
 0.0.0.0 dicecandies.com
+0.0.0.0 dicezing.com
 0.0.0.0 dicsr.jadedldn.com
 0.0.0.0 did-it.com
 0.0.0.0 did.kr
@@ -331547,6 +331548,7 @@
 0.0.0.0 news.nydailyrecord.com
 0.0.0.0 news.parisphoto.com
 0.0.0.0 news.petage.com
+0.0.0.0 news.post.at
 0.0.0.0 news.primstore.online
 0.0.0.0 news.rbj.net
 0.0.0.0 news.reedexpo.com.cn
@@ -337566,6 +337568,7 @@
 0.0.0.0 pay.schoolsparrow.com
 0.0.0.0 pay.varietymode.com
 0.0.0.0 pay.velpa.pl
+0.0.0.0 payiris.com
 0.0.0.0 payload.adadapted.com
 0.0.0.0 payments.americanexpress.co.uk
 0.0.0.0 payqjd.subito.it
@@ -337583,6 +337586,7 @@
 0.0.0.0 pbcs.decider.com
 0.0.0.0 pbcs.nypost.com
 0.0.0.0 pbcs.pagesix.com
+0.0.0.0 pbd.yahoo.com
 0.0.0.0 pbecrm.aquanet.ru
 0.0.0.0 pbepj.gkelite.com
 0.0.0.0 pbfas.technopriest.tv
@@ -337602,6 +337606,7 @@
 0.0.0.0 pbreo.sokolovelaw.com
 0.0.0.0 pbrvf.daybreakskin.com
 0.0.0.0 pbs.inmobi.com
+0.0.0.0 pbs.yahoo.com
 0.0.0.0 pbsoe.softiespjs.com
 0.0.0.0 pbstats.jpmorgan.com
 0.0.0.0 pbstck.com
@@ -337696,6 +337701,7 @@
 0.0.0.0 pebble.nextra-strategy.de
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pecukirom.com
+0.0.0.0 pedaldudes.com
 0.0.0.0 pedropanther.com
 0.0.0.0 peepcloud.joinpeep.io
 0.0.0.0 peeringhost.net
@@ -338745,6 +338751,7 @@
 0.0.0.0 post.dovetails.happycustomer.io
 0.0.0.0 post.edr.co
 0.0.0.0 post.envoyermail.com
+0.0.0.0 post.eyepinnews.com
 0.0.0.0 post.mtrl.me
 0.0.0.0 post.rottne.com
 0.0.0.0 postaffiliatepro.com

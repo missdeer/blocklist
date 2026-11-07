@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 06 Nov 2026 11:59:36 UTC
+# Updated at Sat, 07 Nov 2026 10:59:18 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -35431,6 +35431,7 @@
 0.0.0.0 cassatp.roadcases.com
 0.0.0.0 cassette.planetecycle.com
 0.0.0.0 cast.net.anwalt.de
+0.0.0.0 castlereach.com
 0.0.0.0 casualphysics.com
 0.0.0.0 cat.beunitedinchrist.com
 0.0.0.0 cat.fiore.ai
@@ -320760,6 +320761,7 @@
 0.0.0.0 fluffy-analytics.vercel.app
 0.0.0.0 fluffybirds.com
 0.0.0.0 fluffyscompleatbouti.net.mydays.de
+0.0.0.0 fluid-player-analytics.sky.it
 0.0.0.0 fluidsurveys.com
 0.0.0.0 flurry.com
 0.0.0.0 flushingbeast.com
@@ -320767,6 +320769,7 @@
 0.0.0.0 flutteringfireman.com
 0.0.0.0 flux-globalid3.click.s11.sfmc-osl.com
 0.0.0.0 flux.gameboost.com
+0.0.0.0 fluxdecor.com
 0.0.0.0 fluxfade-ss.offeroshop.com
 0.0.0.0 fluxo.drluizsegundo.com
 0.0.0.0 fluxofanshop-ss.checkoutera.com
@@ -368242,6 +368245,7 @@
 0.0.0.0 phadia.thermofisher.com
 0.0.0.0 pharma.health360bd.com
 0.0.0.0 phaseshift.almagrow.com
+0.0.0.0 phatfiles.com
 0.0.0.0 phaymg.color4care.dk
 0.0.0.0 phbnix.rocelec.com
 0.0.0.0 phbtbqdq.kostumer.dk
@@ -368854,6 +368858,7 @@
 0.0.0.0 playerhappy.com
 0.0.0.0 playerscache.com
 0.0.0.0 playfulriver.com
+0.0.0.0 playwarren.com
 0.0.0.0 plbcsd.vidaxl.se
 0.0.0.0 plbusiness.samsung.com
 0.0.0.0 plccnq.curadellascarpa.it
@@ -370237,6 +370242,7 @@
 0.0.0.0 pumpedpurpose.com
 0.0.0.0 pumpkin.abine.com
 0.0.0.0 pumpkin.bellaandduke.com
+0.0.0.0 puncherr.com
 0.0.0.0 punk.strangereaction.com
 0.0.0.0 puntosadoc.comunicaciones.puntosadoc.com
 0.0.0.0 punyplant.com
@@ -423215,6 +423221,8 @@
 0.0.0.0 visits.iloveuobgold.com
 0.0.0.0 visits.lt
 0.0.0.0 visitstreamer.com
+0.0.0.0 visor.sberbank.ru
+0.0.0.0 visor.sbrf.ru
 0.0.0.0 visual.danielgomezglobal.com
 0.0.0.0 visualcommservices.com
 0.0.0.0 visualdna.com

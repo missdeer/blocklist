@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Fri, 06 Nov 2026 11:59:35 UTC
+# Updated at Sat, 07 Nov 2026 10:59:17 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -270,6 +270,7 @@
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.gamechanger.io
 0.0.0.0 collector.scopely.io
+0.0.0.0 collector.snowplow.supercell.com
 0.0.0.0 collector.vhx.tv
 0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
@@ -672,6 +673,7 @@
 0.0.0.0 mintegral.net
 0.0.0.0 misc.api.snaptube.app
 0.0.0.0 mixpanel-proxy-ivbdkvonca-uc.a.run.app
+0.0.0.0 mkt.supercell.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 moai-dev-samsung.com

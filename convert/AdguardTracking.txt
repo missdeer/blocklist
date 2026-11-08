@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sat, 07 Nov 2026 10:59:18 UTC
+# Updated at Sun, 08 Nov 2026 11:13:15 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -42693,6 +42693,7 @@
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.scopely.io
+0.0.0.0 collector.snowplow.supercell.com
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.superwall.me
@@ -323169,6 +323170,7 @@
 0.0.0.0 ghonnz.columbiasports.co.jp
 0.0.0.0 ghorserver.ghoreponno.com
 0.0.0.0 ghostgenie.com
+0.0.0.0 ghostscholars.com
 0.0.0.0 ghostwoodalbum.com
 0.0.0.0 ghosv.goodgames.com.au
 0.0.0.0 ghp.adp.ca
@@ -359518,6 +359520,7 @@
 0.0.0.0 mkt.paleolf.com
 0.0.0.0 mkt.sensio.com.br
 0.0.0.0 mkt.seuclienteoculto.com.br
+0.0.0.0 mkt.supercell.com
 0.0.0.0 mkt.torr.com.bd
 0.0.0.0 mkt.tyrenergia.com.br
 0.0.0.0 mkt.universo88.com.br
@@ -370268,6 +370271,7 @@
 0.0.0.0 purpose.maxizoo.pl
 0.0.0.0 purposepipe.com
 0.0.0.0 purr.javawhiskers.co.uk
+0.0.0.0 pursuitwomen.com
 0.0.0.0 push-api.topaz-analytics.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 push2check.com

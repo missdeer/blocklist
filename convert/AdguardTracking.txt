@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 09 Nov 2026 12:44:51 UTC
+# Updated at Tue, 10 Nov 2026 12:28:47 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -28664,6 +28664,7 @@
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.red.co.uk
 0.0.0.0 analytics.redbubble.com
+0.0.0.0 analytics.redflix.ac
 0.0.0.0 analytics.redistributemag.com
 0.0.0.0 analytics.regex101.com
 0.0.0.0 analytics.regnskabshelten.dk
@@ -333671,6 +333672,7 @@
 0.0.0.0 indiantripster.net.mydays.de
 0.0.0.0 indicative.com
 0.0.0.0 indicia.com
+0.0.0.0 indieskills.com
 0.0.0.0 indio.net.mydays.de
 0.0.0.0 indiv.indivmedia.com
 0.0.0.0 individuad.net
@@ -334826,6 +334828,7 @@
 0.0.0.0 insideinspire.com
 0.0.0.0 insideout.e.aremedia.com.au
 0.0.0.0 insidepsych.net
+0.0.0.0 insidercorp.net
 0.0.0.0 insiderdrafran.drafrancieleminotto.com
 0.0.0.0 insiderosn.orgasmosemneura.com
 0.0.0.0 insides.honic.eu
@@ -349146,6 +349149,7 @@
 0.0.0.0 lvula.4joypaddles.com
 0.0.0.0 lvvhp.focl.com
 0.0.0.0 lw-c-log.lastwarapp.com
+0.0.0.0 lw-c-log.lastwarapp.net
 0.0.0.0 lwadm.com
 0.0.0.0 lwashh.hessischer-jobanzeiger.de
 0.0.0.0 lwemail.course-masters.com
@@ -369199,6 +369203,7 @@
 0.0.0.0 pp.vanlanschotkempen.com
 0.0.0.0 pp3-sdk-api.profilepassport.jp
 0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2.profilepassport.jp
 0.0.0.0 ppao.usw.coherentbody.com
 0.0.0.0 ppb.pwpphotobooth.com
 0.0.0.0 ppcsw.capellisport.com
@@ -371235,6 +371240,7 @@
 0.0.0.0 rank-power.com
 0.0.0.0 rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com
 0.0.0.0 rank4all.eu
+0.0.0.0 rankaddict.com
 0.0.0.0 rankchamp.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-counter.de
@@ -371672,6 +371678,7 @@
 0.0.0.0 relead.com
 0.0.0.0 releasepath.com
 0.0.0.0 relevant-digital.com
+0.0.0.0 relexpert.com
 0.0.0.0 reliable.elgas.com.au
 0.0.0.0 reliablecounter.com
 0.0.0.0 relieve.trywerelieve.com
@@ -372513,6 +372520,7 @@
 0.0.0.0 rocket.bubble.dk
 0.0.0.0 rocket.fadenkreuz-bobbel.de
 0.0.0.0 rocketmonitor.com
+0.0.0.0 rockspreading.com
 0.0.0.0 rockstarwriter.com
 0.0.0.0 rodent.covisitor.app
 0.0.0.0 rodent.kevindendievel.com
@@ -405439,6 +405447,7 @@
 0.0.0.0 stats.velodirbtuve.lt
 0.0.0.0 stats.victor-giroud.fr
 0.0.0.0 stats.vidalytics.com
+0.0.0.0 stats.vidbolt.pro
 0.0.0.0 stats.video.globo.com
 0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.videoseyred.in
@@ -407606,6 +407615,7 @@
 0.0.0.0 t.fuzeon.com
 0.0.0.0 t.fyndable.online
 0.0.0.0 t.galtuer.com
+0.0.0.0 t.games.gg
 0.0.0.0 t.gardslunden.se
 0.0.0.0 t.gazyva.com
 0.0.0.0 t.gene.com
@@ -416594,6 +416604,7 @@
 0.0.0.0 tracklabs.zenkkoshop.store
 0.0.0.0 tracklabs.zenviaahome.com
 0.0.0.0 tracklabs.zenvorafit.com
+0.0.0.0 tracklet.prod.tech.as-nmt.de
 0.0.0.0 tracklog.58.com
 0.0.0.0 trackmailgun.lojel.com
 0.0.0.0 trackmarketing.staubli.cn

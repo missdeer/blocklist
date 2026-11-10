@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Mon, 09 Nov 2026 12:44:50 UTC
+# Updated at Tue, 10 Nov 2026 12:28:45 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -642,6 +642,7 @@
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 logz.tekiusa.com
 0.0.0.0 lw-c-log.lastwarapp.com
+0.0.0.0 lw-c-log.lastwarapp.net
 0.0.0.0 m.vpadn.com
 0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 matomo.podslink.net
@@ -775,6 +776,7 @@
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 pp3-sdk-api.profilepassport.jp
 0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2.profilepassport.jp
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 preview-collector.scopely.io

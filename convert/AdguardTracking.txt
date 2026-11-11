@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 10 Nov 2026 12:28:47 UTC
+# Updated at Wed, 11 Nov 2026 11:47:50 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -27915,6 +27915,7 @@
 0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.data.visenze.com
+0.0.0.0 analytics.datacite.org
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
 0.0.0.0 analytics.datascientest.com
@@ -323254,7 +323255,6 @@
 0.0.0.0 gjgjl.1898leather.com
 0.0.0.0 gjhjo.impactdogcrates.com
 0.0.0.0 gjhkyh.4fresh.ru
-0.0.0.0 gjirafa.net
 0.0.0.0 gjirc.findyourhealthyplace.com
 0.0.0.0 gjjtey.mystylebags.it
 0.0.0.0 gjkha.beautyandtheboutique.com
@@ -335109,6 +335109,7 @@
 0.0.0.0 intinfo.wolterskluwer.com
 0.0.0.0 intlsst.zagg.com
 0.0.0.0 intlsucus.ucweb.com
+0.0.0.0 intobuddy.com
 0.0.0.0 intouch.schlesingerassociates.com
 0.0.0.0 intr.naymish.com
 0.0.0.0 intralog.euvou.events
@@ -335191,6 +335192,7 @@
 0.0.0.0 ioxqdp.leatherology.com
 0.0.0.0 iozozb.shapertools.com
 0.0.0.0 ip-adress.com
+0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip.chipestimate.com
 0.0.0.0 ip.goguardian.com
@@ -335242,6 +335244,7 @@
 0.0.0.0 iplogger.info
 0.0.0.0 iplogger.org
 0.0.0.0 iplogger.ru
+0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ipm.adblockplus.dev
 0.0.0.0 ipmeta.io
 0.0.0.0 ipmi.cloud.s11.sfmc-osl.com
@@ -338241,6 +338244,7 @@
 0.0.0.0 lime.zaplamp.com
 0.0.0.0 limecodesign.com
 0.0.0.0 limepeal.com
+0.0.0.0 limitowl.com
 0.0.0.0 limpet.pioneerlandscapingllc.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 lineartechnik.item24.de
@@ -361133,6 +361137,7 @@
 0.0.0.0 nc0.co
 0.0.0.0 ncbabz.hometogo.co.uk
 0.0.0.0 ncbvr.workmanusa.com
+0.0.0.0 ncc.avast.com
 0.0.0.0 ncc.nip-col.jp
 0.0.0.0 nccaf.ncc-mens.com
 0.0.0.0 nccbp.apothekerblatt.com
@@ -368421,6 +368426,7 @@
 0.0.0.0 piranha.minnmyatsoe.com
 0.0.0.0 pirnn.hibobbie.com
 0.0.0.0 pirsch.io
+0.0.0.0 pisano.com.tr
 0.0.0.0 pisqpr.puuilo.fi
 0.0.0.0 pista.pecasmagicas.com.br
 0.0.0.0 pitaya.devinue.com.br
@@ -371545,6 +371551,7 @@
 0.0.0.0 reduxcms-sgtm.1800gotjunk.com
 0.0.0.0 redwingforbusiness.redwingsafety.com
 0.0.0.0 reedbusiness.net
+0.0.0.0 reelcombat.com
 0.0.0.0 reeokx.reima.com
 0.0.0.0 reerac.resume.io
 0.0.0.0 reeyzk.momq.co.kr
@@ -373042,6 +373049,8 @@
 0.0.0.0 rubicon.wellsfargo.com
 0.0.0.0 rubolite.ems-dental.com
 0.0.0.0 rubouthunger.com
+0.0.0.0 rubwonders.com
+0.0.0.0 rubymoonwinery.com
 0.0.0.0 rubyswinehouse.com
 0.0.0.0 rucounter.ru
 0.0.0.0 rudder-server-prd.arena.im
@@ -375099,6 +375108,7 @@
 0.0.0.0 scriptshead.com
 0.0.0.0 scripttags.jst.ai
 0.0.0.0 scrollservice.com
+0.0.0.0 scrubchi.com
 0.0.0.0 scrubswim.com
 0.0.0.0 scs.allsecur.nl
 0.0.0.0 scs.arcteryx.com
@@ -382817,6 +382827,7 @@
 0.0.0.0 sheep.vaxstandby.com
 0.0.0.0 sheeta.nrj-play.fr
 0.0.0.0 sheoil.newyorkandcompany.com
+0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 sherlock-events-sampler.ebay.com
 0.0.0.0 sherlock.gessikanogueira.com.br
 0.0.0.0 sherlock.markplusinstitute.com

@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 11 Nov 2026 11:47:49 UTC
+# Updated at Thu, 12 Nov 2026 12:32:23 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -290,6 +290,7 @@
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
 0.0.0.0 dynatrace.att.com
+0.0.0.0 e.muckrack.com
 0.0.0.0 e.quizlet.com
 0.0.0.0 ea.epochbase.com
 0.0.0.0 ec.thredup.com
@@ -348,7 +349,6 @@
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 exp.notion.so
 0.0.0.0 exr-mms.expertreviews.co.uk
-0.0.0.0 f.cdngeek.com
 0.0.0.0 f.pie.org
 0.0.0.0 f362.nola.com
 0.0.0.0 f775.thehour.com
@@ -370,6 +370,7 @@
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 fuse.forbes.com
+0.0.0.0 g.cdngeek.com
 0.0.0.0 g.ign.com
 0.0.0.0 g.mashable.com
 0.0.0.0 g.newtimes.com
@@ -772,6 +773,7 @@
 0.0.0.0 stats2.helpmonks.com
 0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 statsegg.cdngeek.com
+0.0.0.0 statseggs.cdngeek.com
 0.0.0.0 storage.lulu-row1.com
 0.0.0.0 stream.corporatefinanceinstitute.com
 0.0.0.0 streamstats.prd.dlive.tv

@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_11_Mobile/filter.txt
-# Updated at Wed, 11 Nov 2026 11:47:49 UTC
+# Updated at Thu, 12 Nov 2026 12:32:23 UTC
 #
 
 0.0.0.0 023hysj.com
@@ -224,6 +224,7 @@
 0.0.0.0 adversal.com
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
+0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.com
 0.0.0.0 advertur.ru
 0.0.0.0 advil.waze.com

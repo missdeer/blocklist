@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/AdguardFilters@master/SpywareFilter/sections/mobile.txt
-# Updated at Thu, 12 Nov 2026 12:32:23 UTC
+# Updated at Fri, 13 Nov 2026 12:03:43 UTC
 #
 
 0.0.0.0 4seeresults.com
@@ -425,6 +425,7 @@
 0.0.0.0 fraud.adjoe.zone
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 fvalid.appsflyer.com
+0.0.0.0 fxltsbl.com
 0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 gamestats.easybrain.com
 0.0.0.0 gcd-s2s.appsflyer.com

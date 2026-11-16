@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Sun, 15 Nov 2026 11:53:24 UTC
+# Updated at Mon, 16 Nov 2026 12:37:58 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -32988,6 +32988,7 @@
 0.0.0.0 beacon.toyota.co.jp
 0.0.0.0 beacon.tws.toyota.jp
 0.0.0.0 beacon.vertebrae-axis.com
+0.0.0.0 beacon.viafoura.io
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.watch.impress.co.jp
@@ -336827,7 +336828,7 @@
 0.0.0.0 jzgfhr.nordicnest.com
 0.0.0.0 jzhkc.federalpremium.com
 0.0.0.0 jzprtb.1stdibs.com
-0.0.0.0 jzq915.playmobil.xn--com-cgd
+0.0.0.0 jzq915.playmobil.com
 0.0.0.0 jzqfac.bestsecret.ch
 0.0.0.0 jzrcod.ygl.co.il
 0.0.0.0 jzvln.famousfootwear.com
@@ -384432,7 +384433,6 @@
 0.0.0.0 sli.familyhandyman.com
 0.0.0.0 sli.huffpost.com
 0.0.0.0 slickcontent.com
-0.0.0.0 slike.indiatimes.com
 0.0.0.0 slim.slimkiezen.eu
 0.0.0.0 slimesupplies.net
 0.0.0.0 slimsense.net
@@ -390021,6 +390021,7 @@
 0.0.0.0 soubej.larebajavirtual.com
 0.0.0.0 soul.sujusoul.com
 0.0.0.0 soulclicking.com
+0.0.0.0 soulfreedom.net
 0.0.0.0 sounder.skywaybehavioralhealth.com
 0.0.0.0 soundmachine.net
 0.0.0.0 soundmuseums.com
@@ -406252,6 +406253,7 @@
 0.0.0.0 stats.pronouns.page
 0.0.0.0 stats.propublica.org
 0.0.0.0 stats.protoelectro.com
+0.0.0.0 stats.proxypurity.com
 0.0.0.0 stats.psychotherapieravensburg.de
 0.0.0.0 stats.psykedeliskportal.dk
 0.0.0.0 stats.pttrn.io
@@ -413022,6 +413024,7 @@
 0.0.0.0 toup.net
 0.0.0.0 tour.lostmountains.sa
 0.0.0.0 tourism.visitorlando.com
+0.0.0.0 tourspicker.com
 0.0.0.0 tovery.net
 0.0.0.0 tovkak.execupgrades.com
 0.0.0.0 toweringanswer.com
@@ -418289,6 +418292,7 @@
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustime.com
 0.0.0.0 trench.s3sensitivity.com
+0.0.0.0 trendcone.com
 0.0.0.0 trendemon.com
 0.0.0.0 trentham.ohwow.directory
 0.0.0.0 tresit.siblu.fr
@@ -419470,6 +419474,7 @@
 0.0.0.0 tuty.tutyiandsisu.com.au
 0.0.0.0 tuulelipp.jyrgenson.xyz
 0.0.0.0 tuur.dxpr.com
+0.0.0.0 tuxedocard.com
 0.0.0.0 tuxmat.surebaby.com
 0.0.0.0 tuykfa.ivrose.com
 0.0.0.0 tv.sunpowerled.com
@@ -424440,6 +424445,7 @@
 0.0.0.0 vino.vinoarquitetura.com
 0.0.0.0 vinsight.de
 0.0.0.0 vinub.com
+0.0.0.0 vinylanswer.net
 0.0.0.0 violationalert.curtgroup.com
 0.0.0.0 violationalert.hpro.harman.com
 0.0.0.0 violationalert.map.harman.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Mon, 16 Nov 2026 12:37:58 UTC
+# Updated at Tue, 17 Nov 2026 13:07:37 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -35679,6 +35679,7 @@
 0.0.0.0 cassatp.pacificregister.com
 0.0.0.0 cassatp.roadcases.com
 0.0.0.0 cassette.planetecycle.com
+0.0.0.0 cast-imp.jtbc.co.kr
 0.0.0.0 cast.net.anwalt.de
 0.0.0.0 castlereach.com
 0.0.0.0 casualphysics.com
@@ -390470,6 +390471,7 @@
 0.0.0.0 sport.wingsfit1.com
 0.0.0.0 sportsclubstat.com
 0.0.0.0 sportsnearby.com
+0.0.0.0 sportswidows.com
 0.0.0.0 sportybrains.com
 0.0.0.0 sportyforum.com
 0.0.0.0 spositive.positivelife.pl
@@ -412986,6 +412988,7 @@
 0.0.0.0 tophits4u.de
 0.0.0.0 topicalcartel.com
 0.0.0.0 topicjungle.com
+0.0.0.0 topicspin.com
 0.0.0.0 topiz.ru
 0.0.0.0 toplaunch.net
 0.0.0.0 toplist.cz
@@ -424662,6 +424665,7 @@
 0.0.0.0 visitstreamer.com
 0.0.0.0 visor.sberbank.ru
 0.0.0.0 visor.sbrf.ru
+0.0.0.0 vistacool.net
 0.0.0.0 vistalid-statistiques.fr
 0.0.0.0 visual.danielgomezglobal.com
 0.0.0.0 visualcommservices.com
@@ -425361,6 +425365,7 @@
 0.0.0.0 wam.flirttrck.com
 0.0.0.0 wamahe.wokularach.pl
 0.0.0.0 wan.kbdmp.com
+0.0.0.0 wanmatures.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 wao.atu.de
 0.0.0.0 wap.wovn.io
@@ -425406,6 +425411,7 @@
 0.0.0.0 waterboa.midu.dev
 0.0.0.0 waterboa.nighttrain.co
 0.0.0.0 watering.drinkflowater.com
+0.0.0.0 waterloco.com
 0.0.0.0 waterywave.com
 0.0.0.0 watg.xxxlutz.com
 0.0.0.0 wats.gogoinflight.com
@@ -425419,6 +425425,7 @@
 0.0.0.0 wavesmachine.com
 0.0.0.0 wavrlh.cedok.cz
 0.0.0.0 wavzlt.michaelstars.com
+0.0.0.0 waxguide.com
 0.0.0.0 waxsirens.com
 0.0.0.0 way2traffic.com
 0.0.0.0 wayfinderanalytics.servicebus.windows.net

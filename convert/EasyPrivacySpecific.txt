@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Tue, 17 Nov 2026 13:07:36 UTC
+# Updated at Wed, 18 Nov 2026 12:56:49 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -112,6 +112,7 @@
 0.0.0.0 apm.qwant.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 aptoide-mmp.aptoide.com
+0.0.0.0 arc.msn.com
 0.0.0.0 asanalytics.booking.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
@@ -634,6 +635,7 @@
 0.0.0.0 private.wccftech.com
 0.0.0.0 prod-events.nykaa.com
 0.0.0.0 prod-foxkit.kts.fox
+0.0.0.0 prodregistryv2.org
 0.0.0.0 prop.astonvillanews.co.uk
 0.0.0.0 proxima.midjourney.com
 0.0.0.0 pt.blubrry.com

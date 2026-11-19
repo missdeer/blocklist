@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 18 Nov 2026 12:56:49 UTC
+# Updated at Thu, 19 Nov 2026 12:51:38 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -435,6 +435,7 @@
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 insights-mxp-cdn.coursecareers.com
+0.0.0.0 insights.builderprofile.aws.dev
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 intent.macworld.co.uk
@@ -580,6 +581,7 @@
 0.0.0.0 p.midbound.net
 0.0.0.0 p.minds.com
 0.0.0.0 p.spotidownloader.com
+0.0.0.0 p.teamily.ai
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pac.thetimes.com
@@ -695,6 +697,7 @@
 0.0.0.0 rvo-cohesion.healthline.com
 0.0.0.0 s.gofile.io
 0.0.0.0 s.infogram.com
+0.0.0.0 s.sintra.ai
 0.0.0.0 s.wayfair.com
 0.0.0.0 s4vrsde.www.arturia.com
 0.0.0.0 sa.uswitch.com

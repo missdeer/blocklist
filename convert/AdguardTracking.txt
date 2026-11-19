@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 18 Nov 2026 12:56:56 UTC
+# Updated at Thu, 19 Nov 2026 12:51:40 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -33087,6 +33087,7 @@
 0.0.0.0 bendavenportpic.net.mydays.de
 0.0.0.0 beneficios.davivienda.hn
 0.0.0.0 beneficios.davivienda.sv
+0.0.0.0 benefitboys.com
 0.0.0.0 benefits.aon.com
 0.0.0.0 benefitssense.com
 0.0.0.0 bentengine.com
@@ -43024,6 +43025,7 @@
 0.0.0.0 comms.politico.com
 0.0.0.0 comms.services.global.ntt
 0.0.0.0 comms.supplychain.nhs.uk
+0.0.0.0 commswap.com
 0.0.0.0 communicate.apcerls.com
 0.0.0.0 communicate.cision.ca
 0.0.0.0 communicate.cision.co.uk
@@ -426270,6 +426272,7 @@
 0.0.0.0 webvitals.luxnet.ua
 0.0.0.0 webwise.com
 0.0.0.0 webwise.org
+0.0.0.0 webworksworld.com
 0.0.0.0 weco.gasteo.de
 0.0.0.0 weco.ilon.de
 0.0.0.0 wecount4u.com

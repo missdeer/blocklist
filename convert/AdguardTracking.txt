@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 19 Nov 2026 12:51:40 UTC
+# Updated at Fri, 20 Nov 2026 12:44:27 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -23122,6 +23122,7 @@
 0.0.0.0 a.medtronic.com
 0.0.0.0 a.meinmpp.de
 0.0.0.0 a.meloja.com.br
+0.0.0.0 a.menards.com
 0.0.0.0 a.mercuriurval.com
 0.0.0.0 a.mi-clos.com
 0.0.0.0 a.mi-imc.com
@@ -34725,6 +34726,7 @@
 0.0.0.0 ca4r3auto.veseywear.com
 0.0.0.0 caamcs.julipet.it
 0.0.0.0 caberconsultants.mg.caberconsultants.com
+0.0.0.0 cabstrategy.com
 0.0.0.0 cac.runna.com
 0.0.0.0 cache-ldschurch1.net.mydays.de
 0.0.0.0 cache.kdpwizard.app
@@ -42585,6 +42587,7 @@
 0.0.0.0 coffeefire.net
 0.0.0.0 coffeesidehustle.com
 0.0.0.0 cofs.partscentre.co.uk
+0.0.0.0 cognitivlabs.com
 0.0.0.0 cogxmr.travelplanet.pl
 0.0.0.0 cohbjtqd.parfium.bg
 0.0.0.0 cohfp.chairish.com
@@ -42603,6 +42606,7 @@
 0.0.0.0 colad.au.willpowders.com
 0.0.0.0 coldbalance.com
 0.0.0.0 coldcallpro.com
+0.0.0.0 coldcrucible.com
 0.0.0.0 coleta-autoridade.cursosdoportal.com.br
 0.0.0.0 coleta.curcura.com.br
 0.0.0.0 coleta.suplementosgolfeto.com.br
@@ -321386,6 +321390,7 @@
 0.0.0.0 fortnitechat.site
 0.0.0.0 fortoemail.arteks.net
 0.0.0.0 fortunatemark.com
+0.0.0.0 fortyninemaps.com
 0.0.0.0 forum.click.s11.sfmc-osl.com
 0.0.0.0 forum.euvou.events
 0.0.0.0 forum.rottne.com
@@ -333033,6 +333038,7 @@
 0.0.0.0 idbnbt.strasburgo.co.jp
 0.0.0.0 idbus.trupeer.ai
 0.0.0.0 iddkr.portmeirion.com
+0.0.0.0 ideamornings.com
 0.0.0.0 ideas.nanawall.com
 0.0.0.0 idehe.tlfapparel.com
 0.0.0.0 identity.algomoneo.com
@@ -338536,6 +338542,7 @@
 0.0.0.0 licensinginsights.ascap.com
 0.0.0.0 lida.entyrecare.com
 0.0.0.0 lida.pflegewegweiser.ch
+0.0.0.0 lidsmarket.com
 0.0.0.0 liecso.e-himart.co.kr
 0.0.0.0 lieudetravail.ricoh.fr
 0.0.0.0 lif.madimelive.com
@@ -354307,6 +354314,7 @@
 0.0.0.0 mas.hronboard.me
 0.0.0.0 mas.protecmedia.com
 0.0.0.0 masau.audivorce.com.au
+0.0.0.0 mascguys.com
 0.0.0.0 maschine.bengs-modellbau.de
 0.0.0.0 maskedadmin.com
 0.0.0.0 masseurexpress.com
@@ -364892,6 +364900,7 @@
 0.0.0.0 outerwords.com
 0.0.0.0 outletpeople.com
 0.0.0.0 outpostemail.notify.readtangle.com
+0.0.0.0 outpro.net
 0.0.0.0 outreach.bilh.org
 0.0.0.0 outreach.connectednation.org
 0.0.0.0 outreach.crossref.org
@@ -372125,6 +372134,7 @@
 0.0.0.0 rain.franzy.com
 0.0.0.0 rain.journey.com
 0.0.0.0 rainbow-prod-jdlog.ldoverseas.com
+0.0.0.0 rainbow.sheepesports.com
 0.0.0.0 raintwig.com
 0.0.0.0 rainyhand.com
 0.0.0.0 rainyrule.com
@@ -408366,7 +408376,6 @@
 0.0.0.0 sxvkhq.downlights.co.uk
 0.0.0.0 sxwxswg8z1xe.www.arnowebtv.com
 0.0.0.0 sxyemx.micollarconnombre.com
-0.0.0.0 sy.ameba.jp
 0.0.0.0 sy.nicdecor.com
 0.0.0.0 sy1.nicdecor.com
 0.0.0.0 sydcxk.epipla1.gr
@@ -428278,6 +428287,7 @@
 0.0.0.0 yolo.philipbjorge.com
 0.0.0.0 yoochoose.net
 0.0.0.0 yottlyscript.com
+0.0.0.0 youanonymous.com
 0.0.0.0 youborafds01.com
 0.0.0.0 youcandrawanything.com
 0.0.0.0 youguess.stdseek.com

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Fri, 20 Nov 2026 12:44:27 UTC
+# Updated at Sat, 21 Nov 2026 12:29:32 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -42984,6 +42984,7 @@
 0.0.0.0 collserve.com
 0.0.0.0 coloradoserves.com
 0.0.0.0 colorandnoise.com
+0.0.0.0 colorfilter.net
 0.0.0.0 colorfulneon.com
 0.0.0.0 colorfulpet.com
 0.0.0.0 coloroptimizer.com
@@ -318862,6 +318863,7 @@
 0.0.0.0 event-dot-learning-piano.appspot.com
 0.0.0.0 event-dot-procolor-backend.appspot.com
 0.0.0.0 event-gateway.data.karrotmarket.com
+0.0.0.0 event-ingestion.yazio-analytics.com
 0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
 0.0.0.0 event-log-api-ipv6.gryphline.com
 0.0.0.0 event-portal.dailyinnovation.biz
@@ -332422,6 +332424,7 @@
 0.0.0.0 hotpotato.karmawellnesskitchen.com
 0.0.0.0 hotrank.com.tw
 0.0.0.0 houseandgarden.e.aremedia.com.au
+0.0.0.0 housewheels.com
 0.0.0.0 houston-content.cresa.com
 0.0.0.0 houston.advgo.net
 0.0.0.0 hoverfly.cdengine.co.uk
@@ -354317,6 +354320,7 @@
 0.0.0.0 mascguys.com
 0.0.0.0 maschine.bengs-modellbau.de
 0.0.0.0 maskedadmin.com
+0.0.0.0 masondown.com
 0.0.0.0 masseurexpress.com
 0.0.0.0 massivemark.com
 0.0.0.0 massmail.ficci.com
@@ -362682,6 +362686,7 @@
 0.0.0.0 nisii.resiliencelabo.com
 0.0.0.0 nitcnn.deai-sp.com
 0.0.0.0 nitoleecrai.anunciojuridico.com.br
+0.0.0.0 nitrojiveband.com
 0.0.0.0 njbhp.promixnutrition.com
 0.0.0.0 njbrwf.pilatesshop.it
 0.0.0.0 njcchu.flowercampings.com
@@ -364713,6 +364718,7 @@
 0.0.0.0 orderport.mirafloreswinery.com
 0.0.0.0 orderport.peltzers.com
 0.0.0.0 orders.mtrl.me
+0.0.0.0 ordinalzero.com
 0.0.0.0 ordpmx.victorianplumbing.co.uk
 0.0.0.0 oreab.mycubesafe.com
 0.0.0.0 oremark.com
@@ -372182,6 +372188,7 @@
 0.0.0.0 rannat.varusteleka.com
 0.0.0.0 rapid-cdn.yottaa.com
 0.0.0.0 rapidcounter.com
+0.0.0.0 rapidscraper.com
 0.0.0.0 rapidstats.net
 0.0.0.0 rapidtrk.net
 0.0.0.0 rarelyfans.com
@@ -428014,7 +428021,6 @@
 0.0.0.0 yawsyi.freedomliftsystems.com
 0.0.0.0 yawxae.footpatrol.com
 0.0.0.0 yaxlek.dandy-house.co.jp
-0.0.0.0 yazio-analytics.com
 0.0.0.0 yazzuf.joyn.de
 0.0.0.0 ybczal.bitterliebe.com
 0.0.0.0 ybenbo.larachristie.jp

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Tue, 24 Nov 2026 14:45:07 UTC
+# Updated at Wed, 25 Nov 2026 14:10:38 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -358378,6 +358378,7 @@
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingest.metzler-electronics.com
 0.0.0.0 ingest.skarb.work
+0.0.0.0 ingest.t3.codes
 0.0.0.0 ingest.webcol.sdp.peacocktv.com
 0.0.0.0 ingestion.webanalytics.italia.it
 0.0.0.0 ingress.linktr.ee
@@ -359170,6 +359171,7 @@
 0.0.0.0 ivkrxsnn.thebugmanfraservalley.com
 0.0.0.0 ivmevd.vespa.com
 0.0.0.0 ivmwbl.hear.com
+0.0.0.0 ivoryandcrow.com
 0.0.0.0 ivpvb.sunriverhoney.com
 0.0.0.0 ivqoc.eatzeats.com
 0.0.0.0 ivrnfvlcgubm.www.cefirates.com
@@ -361957,6 +361959,7 @@
 0.0.0.0 lighthouselabs.eu
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 lighttalon.com
+0.0.0.0 lightwars.com
 0.0.0.0 ligxyv.hackers.co.kr
 0.0.0.0 lijhi.unclereco.com
 0.0.0.0 lijit.com
@@ -442197,6 +442200,7 @@
 0.0.0.0 tracker.antartidaarcondicionado.com.br
 0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.azet.sk
+0.0.0.0 tracker.beam.remp.startitup.sk
 0.0.0.0 tracker.bigl.ua
 0.0.0.0 tracker.bkk24.de
 0.0.0.0 tracker.bt.uol.com.br

@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Wed, 25 Nov 2026 14:10:38 UTC
+# Updated at Thu, 26 Nov 2026 13:48:07 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -28230,6 +28230,7 @@
 0.0.0.0 analytics.devshivan.com
 0.0.0.0 analytics.dga.org
 0.0.0.0 analytics.diatelos.com
+0.0.0.0 analytics.did.kr
 0.0.0.0 analytics.digiplace.site
 0.0.0.0 analytics.digitaleyes.ai
 0.0.0.0 analytics.digitalpfizer.com
@@ -37424,6 +37425,7 @@
 0.0.0.0 clearviewcrm.softrek.com
 0.0.0.0 clebez.paprika-shopping.be
 0.0.0.0 cleedm.pittmandavis.com
+0.0.0.0 clerk-telemetry.com
 0.0.0.0 clesor.uoecollection.com
 0.0.0.0 cleveritics.com
 0.0.0.0 clevi.com
@@ -53006,7 +53008,6 @@
 0.0.0.0 dicezing.com
 0.0.0.0 dicsr.jadedldn.com
 0.0.0.0 did-it.com
-0.0.0.0 did.kr
 0.0.0.0 didit.com
 0.0.0.0 didna.io
 0.0.0.0 didzrr.nutraholic.com
@@ -53667,6 +53668,7 @@
 0.0.0.0 download-4-8.net.mydays.de
 0.0.0.0 download.createyournextcustomer.com
 0.0.0.0 download.dnv.com
+0.0.0.0 download.gameanalytics.com
 0.0.0.0 download.mail.net.zooroyal.at
 0.0.0.0 downloads.advancedtech.com
 0.0.0.0 downloads.coface.com
@@ -53920,6 +53922,7 @@
 0.0.0.0 dsgigk.pocketsalad.co.kr
 0.0.0.0 dsgsvc.eneto.com
 0.0.0.0 dsgsvc.wattano.de
+0.0.0.0 dsh-otel-collector.deepseeksvc.com
 0.0.0.0 dshcej.aosom.co.uk
 0.0.0.0 dsifi.toms.com
 0.0.0.0 dslji.haleolabs.com
@@ -343752,6 +343755,7 @@
 0.0.0.0 film.karada-tukuru.com
 0.0.0.0 film.netabare.wiki
 0.0.0.0 film.usuge-stop.com
+0.0.0.0 filmcomm.net
 0.0.0.0 filmmkt.inmueblesanzuz.com
 0.0.0.0 filtercutter.com
 0.0.0.0 fimil.meatnbone.com
@@ -346758,6 +346762,7 @@
 0.0.0.0 ghp.adp.ca
 0.0.0.0 ghrnbw.avocadostore.de
 0.0.0.0 ghrzlu.skechers.com.tr
+0.0.0.0 ghtinc.com
 0.0.0.0 ghupv.lascana.com
 0.0.0.0 ghvha.thunderlaserusa.com
 0.0.0.0 ghwkuv.lagirl.co.kr
@@ -395130,6 +395135,7 @@
 0.0.0.0 pxjkbj.bostonproper.com
 0.0.0.0 pxkjgn.yamovil.es
 0.0.0.0 pxkvpx.euro-fh.de
+0.0.0.0 pxl-us
 0.0.0.0 pxl.knam.pro
 0.0.0.0 pxl.retaku.net
 0.0.0.0 pxlctl.elpais.com
@@ -432560,6 +432566,7 @@
 0.0.0.0 stms.53.com
 0.0.0.0 stms.newline53.com
 0.0.0.0 stms.transforminglives.co.uk
+0.0.0.0 stmtag.ru
 0.0.0.0 stmuyqht.smiletrain.org
 0.0.0.0 stmzj.pelicanhydration.com
 0.0.0.0 stnt.express-scripts.com
@@ -435135,6 +435142,7 @@
 0.0.0.0 tag.aromatico.de
 0.0.0.0 tag.atasunoptik.com.tr
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.b-sync.ch
 0.0.0.0 tag.beyondcarat.com
@@ -437252,6 +437260,7 @@
 0.0.0.0 time.net.anwalt.de
 0.0.0.0 timecrossed.com
 0.0.0.0 timelessyes.com
+0.0.0.0 timeprince.com
 0.0.0.0 timexmetric.talhatonmoy.com
 0.0.0.0 timing.whenandhowagency.com
 0.0.0.0 timit.mno.link
@@ -440665,6 +440674,7 @@
 0.0.0.0 track.dictum-gartenwerkzeug.de
 0.0.0.0 track.dictum-handwerksgalerie.de
 0.0.0.0 track.dictum-shop.de
+0.0.0.0 track.did.kr
 0.0.0.0 track.die-gams.info
 0.0.0.0 track.diethackz.com
 0.0.0.0 track.difaty.com.br

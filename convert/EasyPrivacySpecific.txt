@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from https://cdn.jsdelivr.net/gh/easylist/easylist@master/easyprivacy/easyprivacy_specific.txt
-# Updated at Wed, 25 Nov 2026 14:10:37 UTC
+# Updated at Thu, 26 Nov 2026 13:48:06 UTC
 #
 
 0.0.0.0 1rer.hummel.net
@@ -437,6 +437,7 @@
 0.0.0.0 info.onwd.com
 0.0.0.0 ingest.coincodex.com
 0.0.0.0 ingest.make.rvohealth.com
+0.0.0.0 ingest.t3.codes
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 insights-mxp-cdn.coursecareers.com
 0.0.0.0 insights.builderprofile.aws.dev
@@ -927,6 +928,7 @@
 0.0.0.0 tracking.wallapop.com
 0.0.0.0 trackr.vivenu.com
 0.0.0.0 trafficid.brandwell.ai
+0.0.0.0 trc-events.taboola.com
 0.0.0.0 trck.coomeet.com
 0.0.0.0 trckng.dainese.com
 0.0.0.0 trcksplt.miro.com

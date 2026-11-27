@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry@master/filters/filter_3_Spyware/filter.txt
-# Updated at Thu, 26 Nov 2026 13:48:07 UTC
+# Updated at Fri, 27 Nov 2026 13:44:01 UTC
 #
 
 0.0.0.0 0.avmarket.rs
@@ -25270,6 +25270,7 @@
 0.0.0.0 ac-email-tracking.soobwegvervoer.nl
 0.0.0.0 ac-email-tracking.staedion.nl
 0.0.0.0 ac-email-tracking.stappensioen.nl
+0.0.0.0 ac.avito.ru
 0.0.0.0 ac.conel.jp
 0.0.0.0 ac.ecai-report.com
 0.0.0.0 ac.geechs-job.com
@@ -25724,6 +25725,7 @@
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 adc.nine.com.au
 0.0.0.0 adc.xxxlshop.de
+0.0.0.0 adcanvas.com
 0.0.0.0 adcct.advancecctvbd.com
 0.0.0.0 adcfj.chocomize.com
 0.0.0.0 adchemix.com
@@ -29761,6 +29763,7 @@
 0.0.0.0 aowaat.elfadistrelec.fi
 0.0.0.0 aozmpm.jwell.com
 0.0.0.0 aozwsa.scotthotel.com
+0.0.0.0 ap-prd-edge-clientlog.nexon.com
 0.0.0.0 ap.absoluteprotein.in
 0.0.0.0 ap.alphaplatform.net
 0.0.0.0 ap.app.mixvariado.com
@@ -31679,6 +31682,7 @@
 0.0.0.0 appmail.corazonpuro.org
 0.0.0.0 appmail.rmscloud.com
 0.0.0.0 appmetr.com
+0.0.0.0 appmetrica.sovcombank.ru
 0.0.0.0 approach.wise1-golf.com
 0.0.0.0 approvedemail.actelion.com
 0.0.0.0 apps.avalst.com
@@ -32639,6 +32643,7 @@
 0.0.0.0 axddzs.camping-and-co.com
 0.0.0.0 axdtpea.drmarino.ch
 0.0.0.0 axdxpa.finn.auto
+0.0.0.0 axedint.com
 0.0.0.0 axentis.arclogics.com
 0.0.0.0 axf8.net
 0.0.0.0 axhlxshmej.knowledgecottonapparel.com
@@ -33292,6 +33297,7 @@
 0.0.0.0 beagle.prod.tda.link
 0.0.0.0 beagle.webspecmail.com
 0.0.0.0 beam.bereach.ai
+0.0.0.0 beam.denikn.cz
 0.0.0.0 beam.ecomms.beamconnect.com.au
 0.0.0.0 beam.koddi.com
 0.0.0.0 beam.remp.impresa.pt
@@ -33396,6 +33402,7 @@
 0.0.0.0 berliner-zeitung.met.vgwort.de
 0.0.0.0 berninischulz.anunciojuridico.com.br
 0.0.0.0 berry.strathberry.com
+0.0.0.0 berrytots.com
 0.0.0.0 berserkhydrant.com
 0.0.0.0 bersq.theadventurechallenge.com
 0.0.0.0 best-casino-malaysia-reviews.net.mydays.de
@@ -36296,6 +36303,7 @@
 0.0.0.0 cdn.defractal.com
 0.0.0.0 cdn.deviceinf.com
 0.0.0.0 cdn.dfsdk.com
+0.0.0.0 cdn.diginetica.net
 0.0.0.0 cdn.dminorschool.com
 0.0.0.0 cdn.dsspn.com
 0.0.0.0 cdn.dulceauroraa.com
@@ -36785,6 +36793,7 @@
 0.0.0.0 chomp-staging-pay.net.jumia.com.gh
 0.0.0.0 choose.405dentalaesthetics.com
 0.0.0.0 choose.adelaide.edu.au
+0.0.0.0 choosehobby.com
 0.0.0.0 choymp.pooldawg.com
 0.0.0.0 chpspb.bubbleroom.fi
 0.0.0.0 chqte.suncloudoptics.com
@@ -53597,6 +53606,7 @@
 0.0.0.0 dolmxo.workport.co.jp
 0.0.0.0 dolphin.brandname.tech
 0.0.0.0 dolphin.sfelc.com
+0.0.0.0 dolphinplate.com
 0.0.0.0 dolphinsrule.com
 0.0.0.0 dom.123zap.com.br
 0.0.0.0 dom.domorebetter.ie
@@ -354904,6 +354914,7 @@
 0.0.0.0 hearthow.com
 0.0.0.0 heartland.webspecmail.com
 0.0.0.0 heartsdesireintl.heartsdesireintl.com
+0.0.0.0 heathstyle.com
 0.0.0.0 heatmap-events-collector.instapage.com
 0.0.0.0 heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 0.0.0.0 heatmap.emma.tools
@@ -355718,6 +355729,7 @@
 0.0.0.0 hovnec.biovancia.com
 0.0.0.0 hovxns.dehen1920.com
 0.0.0.0 howdoesthislook.com
+0.0.0.0 howglam.com
 0.0.0.0 hoxha.nieuwspaal.network
 0.0.0.0 hoxsin-ad.hoxsin.co.jp
 0.0.0.0 hp.taboola.com
@@ -364721,6 +364733,7 @@
 0.0.0.0 livetrafficfeed.com
 0.0.0.0 livewebstats.dk
 0.0.0.0 living.chartwell.com
+0.0.0.0 livingoff.com
 0.0.0.0 livingsleet.com
 0.0.0.0 livkjl.recea.pl
 0.0.0.0 livlnpnd.goteam.dk
@@ -377723,6 +377736,7 @@
 0.0.0.0 mascguys.com
 0.0.0.0 maschine.bengs-modellbau.de
 0.0.0.0 maserati-info.p06.elqsandbox.com
+0.0.0.0 maskdomains.com
 0.0.0.0 maskedadmin.com
 0.0.0.0 masondown.com
 0.0.0.0 masseurexpress.com
@@ -391880,6 +391894,7 @@
 0.0.0.0 pamelarandom.com
 0.0.0.0 pamvc.sexymodest.com
 0.0.0.0 pamzqm.yitechnology.com
+0.0.0.0 pan.pazarama.com
 0.0.0.0 panda.kasika.io
 0.0.0.0 panda.khadi.de
 0.0.0.0 panda.khadi.es
@@ -396092,7 +396107,6 @@
 0.0.0.0 ranklink.de
 0.0.0.0 ranlq.homedics.com
 0.0.0.0 rannat.varusteleka.com
-0.0.0.0 rapid-cdn.yottaa.com
 0.0.0.0 rapidcounter.com
 0.0.0.0 rapidscraper.com
 0.0.0.0 rapidstats.net
@@ -438786,6 +438800,7 @@
 0.0.0.0 toweringanswer.com
 0.0.0.0 toxic-writer.xyz
 0.0.0.0 toy.libaasfashionmart.com
+0.0.0.0 toy.log.nexon.io
 0.0.0.0 toyotacf.net.mydays.de
 0.0.0.0 toys.kongessloejd.be
 0.0.0.0 toys.kongessloejd.ch
